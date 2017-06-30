@@ -3,7 +3,7 @@
 This repository contains some test data so that you can familiarize yourself with
 what to expect when you get news from dpa.
 
-The authorative copy of this repository lives at https://github.com/dpa-newslab/newsmlg2-testdata
+The authoritative copy of this repository lives at https://github.com/dpa-newslab/newsmlg2-testdata
 
 
 ## How to start
