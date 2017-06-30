@@ -35,11 +35,10 @@ The definitions are sometimes hard to find. But it is possible. Example:
             </subject>
 ```
 
+- `dpatype:dpasubject` - is defined in the controlled vocabulary file in this repository: `controlled-vocabularies/g2.dpa.com/cv/type.xml`
 - `medtop:200000538` - Leisure - is defined in the IPTC Media Topics controlled vocabulary http://cv.iptc.org/newscodes/mediatopic/20000538
 - `medtop:10000000` - Lifestyle and Leisure - is defined in the IPTC Media Topics controlled vocabulary: http://cv.iptc.org/newscodes/mediatopic/10000000
-
 - `subj:10010000` - leisure (general) - is defined in the IPTC Subject Codes controlled vocabulary: http://cv.iptc.org/newscodes/subjectcode/10010000
-
 - `dpasubject:553`  - Freizeit - is defined in the controlled vocabulary file in this repository: `controlled-vocabularies/g2.dpa.com/cv/subject.xml`.
 
 
@@ -53,7 +52,7 @@ Jump into the documentation: [IPTC.org's Quick Start PDF](https://www.iptc.org/s
 
 Versions of the IPTC's controlled vocabulary [XML Catalog](https://www.iptc.org/std/catalog/).
 
-## Files
+## Files in this repo
 
 | path | description|
 | ----- | ----------|
