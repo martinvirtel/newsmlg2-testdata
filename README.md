@@ -3,12 +3,14 @@
 This repository contains some test data so that you can familiarize yourself with
 what to expect when you get news from dpa.
 
+The authorative copy of this repository lives at https://github.com/dpa-newslab/newsmlg2-testdata
+
 
 ## How to start
 
 1. Read [IPTC.org's Quick Start PDF](https://www.iptc.org/std/NewsML-G2/latest/QuickStart-NewsML-G2-ItemBasics). 
 
-2. Search for clues to fill in the blanks. For any instance of hard-to-understand XML metadata attribute, there is 
+2. Search for clues to fill in the blanks. For any instance of a hard-to-understand XML metadata attribute, there is 
 
  - either a NewsML G2 definition available in the [NewsML G2 catalog](https://www.iptc.org/std/catalog/). 
 
@@ -55,7 +57,7 @@ Versions of the IPTC's controlled vocabulary [XML Catalog](https://www.iptc.org/
 
 | path | description|
 | ----- | ----------|
-| data/20170629-dpa-sample.tar.xz | 100 files from Basisdienst dated June 29th, 2017, 2.8 MB unzpacked |
+| data/20170629-dpa-sample.tar.xz | 100 files from Basisdienst dated June 29th, 2017, 2.8 MB unpacked |
 | controlled-vocabularies/g2.dpa.com/ | Controlled vocabularies defined by dpa, as of November 10th 2016 |
 
 
