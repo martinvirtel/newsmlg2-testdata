@@ -10,7 +10,7 @@ For any piece of hard-to-understand XML, there is
 
  - either a NewsML G2 definition available in the [NewsML G2 catalog](https://www.iptc.org/std/catalog/). 
 
- - or a definition in the dpa's controlled vocabularies in this repository.
+ - or a definition in dpa's controlled vocabularies, included in this repository.
 
 
 They are sometimes hard to find. But it is possible. Example:
@@ -47,7 +47,7 @@ They are sometimes hard to find. But it is possible. Example:
 
 Jump into the documentation: [IPTC.org's Quick Start PDF](https://www.iptc.org/std/NewsML-G2/latest/QuickStart-NewsML-G2-ItemBasics)
 
-The versions of the controlled vocabulary [XML Catalog](https://www.iptc.org/std/catalog/).
+Versions of the IPTC's controlled vocabulary [XML Catalog](https://www.iptc.org/std/catalog/).
 
 ## Files
 
