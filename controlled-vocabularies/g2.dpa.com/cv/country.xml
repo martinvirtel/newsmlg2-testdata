@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:country" standard="NewsML-G2" standardversion="2.12" version="52" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2016-08-15T09:00:28+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title xml:lang="en">dpa countries</title>
+		<title xml:lang="de">dpa Staatenliste</title>
+	</itemMeta>
+	<conceptSet>
+		<concept id="dpacountry4">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:4"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Afghanistan</name>
+			<name role="nrol:display" xml:lang="de">Afghanistan</name>
+			<name role="nrol:display" xml:lang="es">Afganistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أفغانستان</name>
+			<sameAs qcode="iso3166-1a3:AFG"/>
+			<sameAs qcode="iso3166-1a2:AF"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00" id="dpacountry6">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:6"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Albanien</name>
+			<name role="nrol:display" xml:lang="en">Albania</name>
+			<name role="nrol:display" xml:lang="es">Albania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ألبانيا</name>
+			<sameAs qcode="iso3166-1a3:ALB"/>
+			<sameAs qcode="iso3166-1a2:AL"/>
+		</concept>
+		<concept id="dpacountry12">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:12"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Argentinien</name>
+			<name role="nrol:display" xml:lang="en">Argentina</name>
+			<name role="nrol:display" xml:lang="es">Argentina</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الأرجنتين</name>
+			<sameAs qcode="iso3166-1a3:ARG"/>
+			<sameAs qcode="iso3166-1a2:AR"/>
+		</concept>
+		<concept id="dpacountry16">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:16"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Australia</name>
+			<name role="nrol:display" xml:lang="de">Australien</name>
+			<name role="nrol:display" xml:lang="es">Australia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أستراليا</name>
+			<sameAs qcode="iso3166-1a3:AUS"/>
+			<sameAs qcode="iso3166-1a2:AU"/>
+		</concept>
+		<concept id="dpacountry3">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:3"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Austria</name>
+			<name role="nrol:display" xml:lang="de">Österreich</name>
+			<name role="nrol:display" xml:lang="es">Austria</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">النمسا</name>
+			<sameAs qcode="iso3166-1a3:AUT"/>
+			<sameAs qcode="iso3166-1a2:AT"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry19">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:19"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Bangladesh</name>
+			<name role="nrol:display" xml:lang="de">Bangladesch</name>
+			<name role="nrol:display" xml:lang="es">Bangladesh</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بنغلاديش</name>
+			<sameAs qcode="iso3166-1a3:BGD"/>
+			<sameAs qcode="iso3166-1a2:BD"/>
+		</concept>
+		<concept id="dpacountry21">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:21"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Belgien</name>
+			<name role="nrol:display" xml:lang="en">Belgium</name>
+			<name role="nrol:display" xml:lang="es">Bélgica</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بلجيكا</name>
+			<sameAs qcode="iso3166-1a3:BEL"/>
+			<sameAs qcode="iso3166-1a2:BE"/>
+			<broader qcode="wldreg:r150"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry26">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:26"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Bolivien</name>
+			<name role="nrol:display" xml:lang="en">Bolivia</name>
+			<name role="nrol:display" xml:lang="es">Bolivia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بوليفيا</name>
+			<sameAs qcode="iso3166-1a3:BOL"/>
+			<sameAs qcode="iso3166-1a2:BO"/>
+		</concept>
+		<concept id="dpacountry27">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:27"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Bosnia-Herzegovina</name>
+			<name role="nrol:display" xml:lang="de">Bosnien-Herzegowina</name>
+			<name role="nrol:display" xml:lang="es">Bosnia-Herzegovina</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">البوسنة والهرسك</name>
+			<sameAs qcode="iso3166-1a3:BIH"/>
+			<sameAs qcode="iso3166-1a2:BA"/>
+		</concept>
+		<concept id="dpacountry29">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:29"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Brasilien</name>
+			<name role="nrol:display" xml:lang="en">Brazil</name>
+			<name role="nrol:display" xml:lang="es">Brasil</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">البرازيل</name>
+			<sameAs qcode="iso3166-1a2:BR"/>
+			<sameAs qcode="iso3166-1a3:BRA"/>
+			<related qcode="dpacountry:136" rel="dparel:pred"/>
+		</concept>
+		<concept id="dpacountry25">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:25"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Myanmar</name>
+			<name role="nrol:display" xml:lang="de">Myanmar</name>
+			<name role="nrol:display" xml:lang="es">Myanmar</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ميانمار</name>
+			<sameAs qcode="iso3166-1a2:MM"/>
+			<sameAs qcode="iso3166-1a3:MMR"/>
+		</concept>
+		<concept id="dpacountry30">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:30"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Brunei</name>
+			<name role="nrol:display" xml:lang="en">Brunei</name>
+			<name role="nrol:display" xml:lang="es">Brunei</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بروناي</name>
+			<sameAs qcode="iso3166-1a3:BRN"/>
+			<sameAs qcode="iso3166-1a2:BN"/>
+		</concept>
+		<concept id="dpacountry31">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:31"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Bulgaria</name>
+			<name role="nrol:display" xml:lang="de">Bulgarien</name>
+			<name role="nrol:display" xml:lang="es">Bulgaria</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بلغاريا</name>
+			<sameAs qcode="iso3166-1a2:BG"/>
+			<sameAs qcode="iso3166-1a3:BGR"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry76">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:76"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Canada</name>
+			<name role="nrol:display" xml:lang="de">Kanada</name>
+			<name role="nrol:display" xml:lang="es">Canadá</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كندا</name>
+			<sameAs qcode="iso3166-1a2:CA"/>
+			<sameAs qcode="iso3166-1a3:CAN"/>
+		</concept>
+		<concept id="dpacountry74">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:74"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kambodscha</name>
+			<name role="nrol:display" xml:lang="en">Cambodia</name>
+			<name role="nrol:display" xml:lang="es">Camboya</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كمبوديا</name>
+			<sameAs qcode="iso3166-1a3:KHM"/>
+			<sameAs qcode="iso3166-1a2:KH"/>
+		</concept>
+		<concept id="dpacountry35">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:35"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">China</name>
+			<name role="nrol:display" xml:lang="de">China</name>
+			<name role="nrol:display" xml:lang="es">China</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الصين</name>
+			<sameAs qcode="iso3166-1a2:CN"/>
+			<sameAs qcode="iso3166-1a3:CHN"/>
+		</concept>
+		<concept id="dpacountry34">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:34"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Chile</name>
+			<name role="nrol:display" xml:lang="en">Chile</name>
+			<name role="nrol:display" xml:lang="es">Chile</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تشيلي</name>
+			<sameAs qcode="iso3166-1a3:CHL"/>
+			<sameAs qcode="iso3166-1a2:CL"/>
+		</concept>
+		<concept id="dpacountry83">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:83"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kolumbien</name>
+			<name role="nrol:display" xml:lang="en">Colombia</name>
+			<name role="nrol:display" xml:lang="es">Colombia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كولومبيا</name>
+			<sameAs qcode="iso3166-1a3:COL"/>
+			<sameAs qcode="iso3166-1a2:CO"/>
+		</concept>
+		<concept id="dpacountry87">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:87"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kroatien</name>
+			<name role="nrol:display" xml:lang="en">Croatia</name>
+			<name role="nrol:display" xml:lang="es">Croacia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كرواتيا</name>
+			<sameAs qcode="iso3166-1a3:HRV"/>
+			<sameAs qcode="iso3166-1a2:HR"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry195">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:195"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Zypern</name>
+			<name role="nrol:display" xml:lang="en">Cyprus</name>
+			<name role="nrol:display" xml:lang="es">Chipre</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">قبرص</name>
+			<sameAs qcode="iso3166-1a2:CY"/>
+			<sameAs qcode="iso3166-1a3:CYP"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry175">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:175"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Czech Republic</name>
+			<name role="nrol:display" xml:lang="de">Tschechien</name>
+			<name role="nrol:display" xml:lang="es">República Checa</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">التشيك</name>
+			<sameAs qcode="iso3166-1a3:CZE"/>
+			<sameAs qcode="iso3166-1a2:CZ"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry2">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:2"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Dänemark</name>
+			<name role="nrol:display" xml:lang="en">Denmark</name>
+			<name role="nrol:display" xml:lang="es">Dinamarca</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الدنمارك</name>
+			<sameAs qcode="iso3166-1a3:DNK"/>
+			<sameAs qcode="iso3166-1a2:DK"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry40">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:40"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Ecuador</name>
+			<name role="nrol:display" xml:lang="en">Ecuador</name>
+			<name role="nrol:display" xml:lang="es">Ecuador</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الاكوادور</name>
+			<sameAs qcode="iso3166-1a3:ECU"/>
+			<sameAs qcode="iso3166-1a2:EC"/>
+		</concept>
+		<concept id="dpacountry46">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:46"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Finland</name>
+			<name role="nrol:display" xml:lang="de">Finnland</name>
+			<name role="nrol:display" xml:lang="es">Finlandia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فنلندا</name>
+			<sameAs qcode="iso3166-1a2:FI"/>
+			<sameAs qcode="iso3166-1a3:FIN"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry47">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:47"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Frankreich</name>
+			<name role="nrol:display" xml:lang="en">France</name>
+			<name role="nrol:display" xml:lang="es">Francia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فرنسا</name>
+			<sameAs qcode="iso3166-1a3:FRA"/>
+			<sameAs qcode="iso3166-1a2:FR"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry54">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:54"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Britain</name>
+			<name role="nrol:display" xml:lang="de">Großbritannien</name>
+			<name role="nrol:display" xml:lang="es">Reino Unido</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بريطانيا العظمي</name>
+			<sameAs qcode="iso3166-1a3:GBR"/>
+			<sameAs qcode="iso3166-1a2:GB"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:58+01:00" qcode="dpacountry:1"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="es">Alemania</name>
+			<name role="nrol:display" xml:lang="en">Germany</name>
+			<name role="nrol:short" xml:lang="de">DEU</name>
+			<name role="nrol:short" xml:lang="en">GER</name>
+			<name role="nrol:display" xml:lang="fr">Allemagne</name>
+			<name role="nrol:display" xml:lang="de">Deutschland</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ألمانيا</name>
+			<sameAs qcode="iso3166-1a3:DEU"/>
+			<sameAs qcode="iso3166-1a2:DE"/>
+			<broader qcode="wldreg:r150"/>
+			<broader qcode="dpageosbj:202"/>
+			<related qcode="dpacountry:197" rel="dparel:pred"/>
+			<related qcode="dpacountry:198" rel="dparel:pred"/>
+		</concept>
+		<concept id="dpacountry53">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:53"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Greece</name>
+			<name role="nrol:display" xml:lang="de">Griechenland</name>
+			<name role="nrol:display" xml:lang="es">Grecia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">يونان</name>
+			<sameAs qcode="iso3166-1a2:GR"/>
+			<sameAs qcode="iso3166-1a3:GRC"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry182">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:182"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Hungary</name>
+			<name role="nrol:display" xml:lang="de">Ungarn</name>
+			<name role="nrol:display" xml:lang="es">Hungría</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">هنغاريا</name>
+			<sameAs qcode="iso3166-1a3:HUN"/>
+			<sameAs qcode="iso3166-1a2:HU"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry61">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:61"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">India</name>
+			<name role="nrol:display" xml:lang="de">Indien</name>
+			<name role="nrol:display" xml:lang="es">India</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الهند</name>
+			<sameAs qcode="iso3166-1a3:IND"/>
+			<sameAs qcode="iso3166-1a2:IN"/>
+		</concept>
+		<concept id="dpacountry62">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:62"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Indonesia</name>
+			<name role="nrol:display" xml:lang="de">Indonesien</name>
+			<name role="nrol:display" xml:lang="es">Indonesia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أندونيسيا</name>
+			<sameAs qcode="iso3166-1a2:ID"/>
+			<sameAs qcode="iso3166-1a3:IDN"/>
+		</concept>
+		<concept id="dpacountry65">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:65"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Irland</name>
+			<name role="nrol:display" xml:lang="en">Ireland</name>
+			<name role="nrol:display" xml:lang="es">Irlanda</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أيرلندا</name>
+			<sameAs qcode="iso3166-1a2:IE"/>
+			<sameAs qcode="iso3166-1a3:IRL"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry66">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:66"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Iceland</name>
+			<name role="nrol:display" xml:lang="de">Island</name>
+			<name role="nrol:display" xml:lang="es">Islandia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أيسلندا</name>
+			<sameAs qcode="iso3166-1a3:ISL"/>
+			<sameAs qcode="iso3166-1a2:IS"/>
+		</concept>
+		<concept id="dpacountry68">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:68"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Italien</name>
+			<name role="nrol:display" xml:lang="es">Italia</name>
+			<name role="nrol:display" xml:lang="en">Italy</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إيطاليا</name>
+			<sameAs qcode="iso3166-1a2:IT"/>
+			<sameAs qcode="iso3166-1a3:ITA"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry70">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:70"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Japan</name>
+			<name role="nrol:display" xml:lang="de">Japan</name>
+			<name role="nrol:display" xml:lang="es">Japón</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">اليابان</name>
+			<sameAs qcode="iso3166-1a3:JPN"/>
+			<sameAs qcode="iso3166-1a2:JP"/>
+		</concept>
+		<concept id="dpacountry162">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:162"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">South Korea</name>
+			<name role="nrol:display" xml:lang="de">Südkorea</name>
+			<name role="nrol:display" xml:lang="es">Corea del Sur</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كوريا الجنوبية</name>
+			<sameAs qcode="iso3166-1a3:KOR"/>
+			<sameAs qcode="iso3166-1a2:KR"/>
+		</concept>
+		<concept id="dpacountry90">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:90"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Laos</name>
+			<name role="nrol:display" xml:lang="en">Laos</name>
+			<name role="nrol:display" xml:lang="es">Laos</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">لاوس</name>
+			<sameAs qcode="iso3166-1a3:LAO"/>
+			<sameAs qcode="iso3166-1a2:LA"/>
+		</concept>
+		<concept id="dpacountry96">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:96"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Liechtenstein</name>
+			<name role="nrol:display" xml:lang="en">Liechtenstein</name>
+			<name role="nrol:display" xml:lang="es">Liechtenstein</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ليختنشتاين</name>
+			<sameAs qcode="iso3166-1a3:LIE"/>
+			<sameAs qcode="iso3166-1a2:LI"/>
+		</concept>
+		<concept id="dpacountry98">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:98"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Luxembourg</name>
+			<name role="nrol:display" xml:lang="de">Luxemburg</name>
+			<name role="nrol:display" xml:lang="es">Luxemburgo</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">لوكسمبورغ</name>
+			<sameAs qcode="iso3166-1a3:LUX"/>
+			<sameAs qcode="iso3166-1a2:LU"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry101">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:101"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Malaysia</name>
+			<name role="nrol:display" xml:lang="de">Malaysia</name>
+			<name role="nrol:display" xml:lang="es">Malasia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ماليزيا</name>
+			<sameAs qcode="iso3166-1a2:MY"/>
+			<sameAs qcode="iso3166-1a3:MYS"/>
+		</concept>
+		<concept id="dpacountry110">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:110"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Mexiko</name>
+			<name role="nrol:display" xml:lang="en">Mexico</name>
+			<name role="nrol:display" xml:lang="es">México</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">المكسيك</name>
+			<sameAs qcode="iso3166-1a2:MX"/>
+			<sameAs qcode="iso3166-1a3:MEX"/>
+		</concept>
+		<concept id="dpacountry104">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:104"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Malta</name>
+			<name role="nrol:display" xml:lang="de">Malta</name>
+			<name role="nrol:display" xml:lang="es">Malta</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مالطا</name>
+			<sameAs qcode="iso3166-1a3:MLT"/>
+			<sameAs qcode="iso3166-1a2:MT"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry114">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:114"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Mongolei</name>
+			<name role="nrol:display" xml:lang="en">Mongolia</name>
+			<name role="nrol:display" xml:lang="es">Mongolia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">منغوليا</name>
+			<sameAs qcode="iso3166-1a2:MN"/>
+			<sameAs qcode="iso3166-1a3:MNG"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:121"/>
+			<name role="nrol:display" xml:lang="en">Netherlands</name>
+			<name role="nrol:display" xml:lang="de">Niederlande</name>
+			<name role="nrol:display" xml:lang="es">Países Bajos</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">هولندا</name>
+			<sameAs qcode="iso3166-1a2:NL"/>
+			<sameAs qcode="iso3166-1a3:NLD"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry125">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:125"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">North Korea</name>
+			<name role="nrol:display" xml:lang="de">Nordkorea</name>
+			<name role="nrol:display" xml:lang="es">Corea del Norte</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كوريا الشمالية</name>
+			<sameAs qcode="iso3166-1a3:PRK"/>
+			<sameAs qcode="iso3166-1a2:KP"/>
+		</concept>
+		<concept id="dpacountry118">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:118"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Nepal</name>
+			<name role="nrol:display" xml:lang="de">Nepal</name>
+			<name role="nrol:display" xml:lang="es">Nepal</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">نيبال</name>
+			<sameAs qcode="iso3166-1a3:NPL"/>
+			<sameAs qcode="iso3166-1a2:NP"/>
+		</concept>
+		<concept id="dpacountry119">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:119"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Neuseeland</name>
+			<name role="nrol:display" xml:lang="en">New Zealand</name>
+			<name role="nrol:display" xml:lang="es">Nueva Zelanda</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">نيوزيلندا</name>
+			<sameAs qcode="iso3166-1a3:NZL"/>
+			<sameAs qcode="iso3166-1a2:NZ"/>
+		</concept>
+		<concept id="dpacountry128">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:128"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Pakistan</name>
+			<name role="nrol:display" xml:lang="en">Pakistan</name>
+			<name role="nrol:display" xml:lang="es">Pakistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">باكستان</name>
+			<sameAs qcode="iso3166-1a2:PK"/>
+			<sameAs qcode="iso3166-1a3:PAK"/>
+		</concept>
+		<concept id="dpacountry132">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:132"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Paraguay</name>
+			<name role="nrol:display" xml:lang="de">Paraguay</name>
+			<name role="nrol:display" xml:lang="es">Paraguay</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">باراغواي</name>
+			<sameAs qcode="iso3166-1a2:PY"/>
+			<sameAs qcode="iso3166-1a3:PRY"/>
+		</concept>
+		<concept id="dpacountry134">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:134"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Philippinen</name>
+			<name role="nrol:display" xml:lang="en">Philippines</name>
+			<name role="nrol:display" xml:lang="es">Filipinas</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الفلبين</name>
+			<sameAs qcode="iso3166-1a3:PHL"/>
+			<sameAs qcode="iso3166-1a2:PH"/>
+		</concept>
+		<concept id="dpacountry135">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:135"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Poland</name>
+			<name role="nrol:display" xml:lang="de">Polen</name>
+			<name role="nrol:display" xml:lang="es">Polonia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بولندا</name>
+			<sameAs qcode="iso3166-1a3:POL"/>
+			<sameAs qcode="iso3166-1a2:PL"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry136">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:136"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Portugal</name>
+			<name role="nrol:display" xml:lang="de">Portugal</name>
+			<name role="nrol:display" xml:lang="es">Portugal</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">البرتغال</name>
+			<sameAs qcode="iso3166-1a2:PT"/>
+			<sameAs qcode="iso3166-1a3:PRT"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry138">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:138"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Romania</name>
+			<name role="nrol:display" xml:lang="de">Rumänien</name>
+			<name role="nrol:display" xml:lang="es">Rumania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">رومانيا</name>
+			<sameAs qcode="iso3166-1a2:RO"/>
+			<sameAs qcode="iso3166-1a3:ROU"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry139">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:139"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Russia</name>
+			<name role="nrol:display" xml:lang="de">Russland</name>
+			<name role="nrol:display" xml:lang="es">Rusia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">روسيا</name>
+			<sameAs qcode="iso3166-1a3:RUS"/>
+			<sameAs qcode="iso3166-1a2:RU"/>
+		</concept>
+		<concept id="dpacountry160">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:160"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Südafrika</name>
+			<name role="nrol:display" xml:lang="en">South Africa</name>
+			<name role="nrol:display" xml:lang="es">Sudáfrica</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جنوب أفريقيا</name>
+			<sameAs qcode="iso3166-1a2:ZA"/>
+			<sameAs qcode="iso3166-1a3:ZAF"/>
+		</concept>
+		<concept id="dpacountry151">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:151"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Singapur</name>
+			<name role="nrol:display" xml:lang="en">Singapore</name>
+			<name role="nrol:display" xml:lang="es">Singapur</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سنغافورة</name>
+			<sameAs qcode="iso3166-1a3:SGP"/>
+			<sameAs qcode="iso3166-1a2:SG"/>
+		</concept>
+		<concept id="dpacountry156">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:156"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Sri Lanka</name>
+			<name role="nrol:display" xml:lang="de">Sri Lanka</name>
+			<name role="nrol:display" xml:lang="es">Sri Lanka</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سريلانكا</name>
+			<sameAs qcode="iso3166-1a3:LKA"/>
+			<sameAs qcode="iso3166-1a2:LK"/>
+		</concept>
+		<concept id="dpacountry152">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:152"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Slovakia</name>
+			<name role="nrol:display" xml:lang="de">Slowakei</name>
+			<name role="nrol:display" xml:lang="es">Eslovaquia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سلوفاكيا</name>
+			<sameAs qcode="iso3166-1a2:SK"/>
+			<sameAs qcode="iso3166-1a3:SVK"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry41">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:41"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">El Salvador</name>
+			<name role="nrol:display" xml:lang="de">El Salvador</name>
+			<name role="nrol:display" xml:lang="es">El Salvador</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">السلفادور</name>
+			<sameAs qcode="iso3166-1a3:SLV"/>
+			<sameAs qcode="iso3166-1a2:SV"/>
+		</concept>
+		<concept id="dpacountry155">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:155"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Spanien</name>
+			<name role="nrol:display" xml:lang="en">Spain</name>
+			<name role="nrol:display" xml:lang="es">España</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إسبانيا</name>
+			<sameAs qcode="iso3166-1a2:ES"/>
+			<sameAs qcode="iso3166-1a3:ESP"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry216">
+			<conceptId created="2006-06-19T13:00:00+02:00" qcode="dpacountry:216"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Serbien</name>
+			<name role="nrol:display" xml:lang="en">Serbia</name>
+			<name role="nrol:display" xml:lang="es">Serbia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">صربيا</name>
+			<sameAs qcode="iso3166-1a3:SRB"/>
+			<sameAs qcode="iso3166-1a2:RS"/>
+		</concept>
+		<concept id="dpacountry145">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:145"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Sweden</name>
+			<name role="nrol:display" xml:lang="de">Schweden</name>
+			<name role="nrol:display" xml:lang="es">Suecia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">السويد</name>
+			<sameAs qcode="iso3166-1a3:SWE"/>
+			<sameAs qcode="iso3166-1a2:SE"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry146">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:146"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Switzerland</name>
+			<name role="nrol:display" xml:lang="de">Schweiz</name>
+			<name role="nrol:display" xml:lang="es">Suiza</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سويسرا</name>
+			<sameAs qcode="iso3166-1a2:CH"/>
+			<sameAs qcode="iso3166-1a3:CHE"/>
+		</concept>
+		<concept id="dpacountry169">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:169"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Thailand</name>
+			<name role="nrol:display" xml:lang="en">Thailand</name>
+			<name role="nrol:display" xml:lang="es">Tailandia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تايلاند</name>
+			<sameAs qcode="iso3166-1a3:THA"/>
+			<sameAs qcode="iso3166-1a2:TH"/>
+		</concept>
+		<concept id="dpacountry177">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:177"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Türkei</name>
+			<name role="nrol:display" xml:lang="en">Turkey</name>
+			<name role="nrol:display" xml:lang="es">Turquía</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تركيا</name>
+			<sameAs qcode="iso3166-1a3:TUR"/>
+			<sameAs qcode="iso3166-1a2:TR"/>
+		</concept>
+		<concept id="dpacountry167">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:167"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Taiwan</name>
+			<name role="nrol:display" xml:lang="de">Taiwan</name>
+			<name role="nrol:display" xml:lang="es">Taiwan</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تايوان</name>
+			<sameAs qcode="iso3166-1a3:TWN"/>
+			<sameAs qcode="iso3166-1a2:TW"/>
+		</concept>
+		<concept id="dpacountry181">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:181"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Ukraine</name>
+			<name role="nrol:display" xml:lang="en">Ukraine</name>
+			<name role="nrol:display" xml:lang="es">Ucrania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أوكرانيا</name>
+			<sameAs qcode="iso3166-1a2:UA"/>
+			<sameAs qcode="iso3166-1a3:UKR"/>
+		</concept>
+		<concept id="dpacountry184">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:184"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">USA</name>
+			<name role="nrol:full" xml:lang="en">United States of America</name>
+			<name role="nrol:full" xml:lang="de">Vereinigte Staaten von Amerika</name>
+			<name role="nrol:display" xml:lang="en">US</name>
+			<name role="nrol:display" xml:lang="es">EEUU</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الولايات المتحدة الأمريكية</name>
+			<sameAs qcode="iso3166-1a3:USA"/>
+			<sameAs qcode="iso3166-1a2:US"/>
+		</concept>
+		<concept id="dpacountry183">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:183"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Uruguay</name>
+			<name role="nrol:display" xml:lang="de">Uruguay</name>
+			<name role="nrol:display" xml:lang="es">Uruguay</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أوروغواي</name>
+			<sameAs qcode="iso3166-1a3:URY"/>
+			<sameAs qcode="iso3166-1a2:UY"/>
+		</concept>
+		<concept id="dpacountry188">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:188"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Venezuela</name>
+			<name role="nrol:display" xml:lang="de">Venezuela</name>
+			<name role="nrol:display" xml:lang="es">Venezuela</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فنزويلا</name>
+			<sameAs qcode="iso3166-1a3:VEN"/>
+			<sameAs qcode="iso3166-1a2:VE"/>
+		</concept>
+		<concept id="dpacountry190">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:190"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Vietnam</name>
+			<name role="nrol:display" xml:lang="en">Vietnam</name>
+			<name role="nrol:display" xml:lang="es">Vietnam</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فيتنام</name>
+			<sameAs qcode="iso3166-1a2:VN"/>
+			<sameAs qcode="iso3166-1a3:VNM"/>
+		</concept>
+		<concept id="dpacountry58">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:58"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Guyana</name>
+			<name role="nrol:display" xml:lang="en">Guyana</name>
+			<name role="nrol:display" xml:lang="es">Guyana</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غيانا</name>
+			<sameAs qcode="iso3166-1a2:GY"/>
+			<sameAs qcode="iso3166-1a3:GUY"/>
+		</concept>
+		<concept id="dpacountry63">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:63"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Irak</name>
+			<name role="nrol:display" xml:lang="en">Iraq</name>
+			<name role="nrol:display" xml:lang="es">Irak</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">العراق</name>
+			<sameAs qcode="iso3166-1a3:IRQ"/>
+			<sameAs qcode="iso3166-1a2:IQ"/>
+		</concept>
+		<concept id="dpacountry64">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:64"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Iran</name>
+			<name role="nrol:display" xml:lang="de">Iran</name>
+			<name role="nrol:display" xml:lang="es">Irán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إيران</name>
+			<sameAs qcode="iso3166-1a3:IRN"/>
+			<sameAs qcode="iso3166-1a2:IR"/>
+		</concept>
+		<concept id="dpacountry133">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:133"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Peru</name>
+			<name role="nrol:display" xml:lang="en">Peru</name>
+			<name role="nrol:display" xml:lang="es">Perú</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بيرو</name>
+			<sameAs qcode="iso3166-1a2:PE"/>
+			<sameAs qcode="iso3166-1a3:PER"/>
+		</concept>
+		<concept id="dpacountry73">
+			<conceptId qcode="dpacountry:73" retired="2006-06-19T13:00:00+02:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Serbien-Montenegro</name>
+			<name role="nrol:display" xml:lang="en">Serbia-Montenegro</name>
+			<name role="nrol:display" xml:lang="es">Serbia-Montenegro</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">صربيا والجبل الأسود</name>
+			<sameAs qcode="iso3166-1a3:SCG"/>
+			<sameAs qcode="iso3166-1a2:CS"/>
+		</concept>
+		<concept id="dpacountry161">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:161"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Sudan</name>
+			<name role="nrol:display" xml:lang="de">Sudan</name>
+			<name role="nrol:display" xml:lang="es">Sudán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سودان</name>
+			<sameAs qcode="iso3166-1a3:SDN"/>
+			<sameAs qcode="iso3166-1a2:SD"/>
+		</concept>
+		<concept id="dpacountry163">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:163"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Suriname</name>
+			<name role="nrol:display" xml:lang="en">Suriname</name>
+			<name role="nrol:display" xml:lang="es">Suriname</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سورينام</name>
+			<sameAs qcode="iso3166-1a3:SUR"/>
+			<sameAs qcode="iso3166-1a2:SR"/>
+		</concept>
+		<concept id="dpacountry189">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:189"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:short" xml:lang="en">UAE</name>
+			<name role="nrol:display" xml:lang="de">Vereinigte Arabische Emirate</name>
+			<name role="nrol:short" xml:lang="de">VAE</name>
+			<name role="nrol:display" xml:lang="en">United Arab Emirates</name>
+			<name role="nrol:display" xml:lang="es">Emiratos Árabes Unidos</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الامارات العربية المتحدة</name>
+			<sameAs qcode="iso3166-1a3:ARE"/>
+			<sameAs qcode="iso3166-1a2:AE"/>
+		</concept>
+		<concept id="dpacountry197">
+			<conceptId qcode="dpacountry:197" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Bundesrepublik Deutschland</name>
+			<name role="nrol:display" xml:lang="en">Federal Republic of Germany</name>
+			<name role="nrol:display" xml:lang="es">República Federal de Alemania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جمهورية ألمانيا الاتحادية</name>
+			<sameAs qcode="iso3166-1a3:FRG"/>
+			<related qcode="dpacountry:1" rel="dparel:succ"/>
+		</concept>
+		<concept id="dpacountry198">
+			<conceptId qcode="dpacountry:198" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">GDR</name>
+			<name role="nrol:display" xml:lang="de">DDR</name>
+			<name role="nrol:display" xml:lang="es">RDA</name>
+			<sameAs qcode="iso3166-1a3:GDR"/>
+			<related qcode="dpacountry:1" rel="dparel:succ"/>
+		</concept>
+		<concept id="dpacountry5">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:5"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Ägypten</name>
+			<name role="nrol:display" xml:lang="en">Egypt</name>
+			<name role="nrol:display" xml:lang="es">Egipto</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مصر</name>
+			<sameAs qcode="iso3166-1a3:EGY"/>
+			<sameAs qcode="iso3166-1a2:EG"/>
+		</concept>
+		<concept id="dpacountry7">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:7"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Algerien</name>
+			<name role="nrol:display" xml:lang="en">Algeria</name>
+			<name role="nrol:display" xml:lang="es">Argelia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الجزائر</name>
+			<sameAs qcode="iso3166-1a3:DZA"/>
+			<sameAs qcode="iso3166-1a2:DZ"/>
+		</concept>
+		<concept id="dpacountry8">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:8"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Andorra</name>
+			<name role="nrol:display" xml:lang="de">Andorra</name>
+			<name role="nrol:display" xml:lang="es">Andorra</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أندورا</name>
+			<sameAs qcode="iso3166-1a2:AD"/>
+			<sameAs qcode="iso3166-1a3:AND"/>
+		</concept>
+		<concept id="dpacountry9">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:9"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Angola</name>
+			<name role="nrol:display" xml:lang="en">Angola</name>
+			<name role="nrol:display" xml:lang="es">Angola</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أنغولا</name>
+			<sameAs qcode="iso3166-1a2:AO"/>
+			<sameAs qcode="iso3166-1a3:AGO"/>
+		</concept>
+		<concept id="dpacountry10">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:10"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Antigua and Barbuda</name>
+			<name role="nrol:display" xml:lang="de">Antigua und Barbuda</name>
+			<name role="nrol:display" xml:lang="es">Antigua y Barbuda</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أنتيغوا وبربودا</name>
+			<sameAs qcode="iso3166-1a2:AG"/>
+			<sameAs qcode="iso3166-1a3:ATG"/>
+		</concept>
+		<concept id="dpacountry11">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:11"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Äquatorialguinea</name>
+			<name role="nrol:display" xml:lang="en">Equatorial Guinea</name>
+			<name role="nrol:display" xml:lang="es">Guinea Ecuatorial</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غينيا الاستوائية</name>
+			<sameAs qcode="iso3166-1a3:GNQ"/>
+			<sameAs qcode="iso3166-1a2:GQ"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00" id="dpacountry13">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:13"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Armenia</name>
+			<name role="nrol:display" xml:lang="de">Armenien</name>
+			<name role="nrol:display" xml:lang="es">Armenia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أرمينيا</name>
+			<sameAs qcode="iso3166-1a2:AM"/>
+			<sameAs qcode="iso3166-1a3:ARM"/>
+		</concept>
+		<concept id="dpacountry14">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:14"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Aserbaidschan</name>
+			<name role="nrol:display" xml:lang="en">Azerbaijan</name>
+			<name role="nrol:display" xml:lang="es">Azerbaiyán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أذربيجان</name>
+			<sameAs qcode="iso3166-1a2:AZ"/>
+			<sameAs qcode="iso3166-1a3:AZE"/>
+		</concept>
+		<concept id="dpacountry15">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:15"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Ethiopia</name>
+			<name role="nrol:display" xml:lang="de">Äthiopien</name>
+			<name role="nrol:display" xml:lang="es">Etiopía </name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أثيوبيا</name>
+			<sameAs qcode="iso3166-1a3:ETH"/>
+			<sameAs qcode="iso3166-1a2:ET"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:17"/>
+			<name role="nrol:display" xml:lang="de">Bahamas</name>
+			<name role="nrol:display" xml:lang="en">Bahamas</name>
+			<name role="nrol:display" xml:lang="es">Bahamas</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الباهاما</name>
+			<sameAs qcode="iso3166-1a3:BHS"/>
+			<sameAs qcode="iso3166-1a2:BS"/>
+		</concept>
+		<concept id="dpacountry18">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:18"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Bahrain</name>
+			<name role="nrol:display" xml:lang="de">Bahrain</name>
+			<name role="nrol:display" xml:lang="es">Bahrein</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">البحرين</name>
+			<sameAs qcode="iso3166-1a2:BH"/>
+			<sameAs qcode="iso3166-1a3:BHR"/>
+		</concept>
+		<concept id="dpacountry20">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:20"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Barbados</name>
+			<name role="nrol:display" xml:lang="en">Barbados</name>
+			<name role="nrol:display" xml:lang="es">Barbados</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بربادوس</name>
+			<sameAs qcode="iso3166-1a3:BRB"/>
+			<sameAs qcode="iso3166-1a2:BB"/>
+		</concept>
+		<concept id="dpacountry22">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:22"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Belize</name>
+			<name role="nrol:display" xml:lang="de">Belize</name>
+			<name role="nrol:display" xml:lang="es">Belice</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بليز</name>
+			<sameAs qcode="iso3166-1a2:BZ"/>
+			<sameAs qcode="iso3166-1a3:BLZ"/>
+		</concept>
+		<concept id="dpacountry23">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:23"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Benin</name>
+			<name role="nrol:display" xml:lang="de">Benin</name>
+			<name role="nrol:display" xml:lang="es">Benin</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بنين</name>
+			<sameAs qcode="iso3166-1a2:BJ"/>
+			<sameAs qcode="iso3166-1a3:BEN"/>
+		</concept>
+		<concept id="dpacountry24">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:24"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Bhutan</name>
+			<name role="nrol:display" xml:lang="de">Bhutan</name>
+			<name role="nrol:display" xml:lang="es">Bután</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بوتان</name>
+			<sameAs qcode="iso3166-1a2:BT"/>
+			<sameAs qcode="iso3166-1a3:BTN"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:28"/>
+			<name role="nrol:display" xml:lang="de">Botsuana</name>
+			<name role="nrol:display" xml:lang="es">Botsuana</name>
+			<name role="nrol:display" xml:lang="en">Botswana</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بوتسوانا</name>
+			<sameAs qcode="iso3166-1a2:BW"/>
+			<sameAs qcode="iso3166-1a3:BWA"/>
+		</concept>
+		<concept id="dpacountry32">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:32"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Burkina Faso</name>
+			<name role="nrol:display" xml:lang="de">Burkina Faso</name>
+			<name role="nrol:display" xml:lang="es">Burkina Faso</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بوركينا فاسو</name>
+			<sameAs qcode="iso3166-1a3:BFA"/>
+			<sameAs qcode="iso3166-1a2:BF"/>
+		</concept>
+		<concept id="dpacountry33">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:33"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Burundi</name>
+			<name role="nrol:display" xml:lang="de">Burundi</name>
+			<name role="nrol:display" xml:lang="es">Burundi</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بوروندي</name>
+			<sameAs qcode="iso3166-1a2:BI"/>
+			<sameAs qcode="iso3166-1a3:BDI"/>
+		</concept>
+		<concept id="dpacountry36">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:36"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Costa Rica</name>
+			<name role="nrol:display" xml:lang="en">Costa Rica</name>
+			<name role="nrol:display" xml:lang="es">Costa Rica</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كوستاريكا</name>
+			<sameAs qcode="iso3166-1a3:CRI"/>
+			<sameAs qcode="iso3166-1a2:CR"/>
+		</concept>
+		<concept id="dpacountry37">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:37"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Dominica</name>
+			<name role="nrol:display" xml:lang="de">Dominica</name>
+			<name role="nrol:display" xml:lang="es">Dominica</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">دومينيكا</name>
+			<sameAs qcode="iso3166-1a2:DM"/>
+			<sameAs qcode="iso3166-1a3:DMA"/>
+		</concept>
+		<concept id="dpacountry38">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:38"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Dominikanische Republik</name>
+			<name role="nrol:display" xml:lang="en">Dominican Republic</name>
+			<name role="nrol:display" xml:lang="es">República Dominicana</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جمهورية الدومينيكان</name>
+			<sameAs qcode="iso3166-1a3:DOM"/>
+			<sameAs qcode="iso3166-1a2:DO"/>
+		</concept>
+		<concept id="dpacountry39">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:39"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Djibouti</name>
+			<name role="nrol:display" xml:lang="de">Dschibuti</name>
+			<name role="nrol:display" xml:lang="es">Yibuti</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جيبوتي</name>
+			<sameAs qcode="iso3166-1a3:DJI"/>
+			<sameAs qcode="iso3166-1a2:DJ"/>
+		</concept>
+		<concept id="dpacountry42">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:42"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Ivory Coast</name>
+			<name role="nrol:display" xml:lang="de">Elfenbeinküste</name>
+			<name role="nrol:display" xml:lang="es">Costa de Marfil</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ساحل العاج</name>
+			<sameAs qcode="iso3166-1a3:CIV"/>
+			<sameAs qcode="iso3166-1a2:CI"/>
+		</concept>
+		<concept id="dpacountry43">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:43"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Eritrea</name>
+			<name role="nrol:display" xml:lang="de">Eritrea</name>
+			<name role="nrol:display" xml:lang="es">Eritrea</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إريتريا</name>
+			<sameAs qcode="iso3166-1a2:ER"/>
+			<sameAs qcode="iso3166-1a3:ERI"/>
+		</concept>
+		<concept id="dpacountry44">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:44"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Estonia</name>
+			<name role="nrol:display" xml:lang="de">Estland</name>
+			<name role="nrol:display" xml:lang="es">Estonia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">استونيا</name>
+			<sameAs qcode="iso3166-1a2:EE"/>
+			<sameAs qcode="iso3166-1a3:EST"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry45">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:45"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Fiji</name>
+			<name role="nrol:display" xml:lang="de">Fidschi</name>
+			<name role="nrol:display" xml:lang="es">Fiyi</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فيجي</name>
+			<sameAs qcode="iso3166-1a2:FJ"/>
+			<sameAs qcode="iso3166-1a3:FJI"/>
+		</concept>
+		<concept id="dpacountry48">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:48"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Gabun</name>
+			<name role="nrol:display" xml:lang="en">Gabon</name>
+			<name role="nrol:display" xml:lang="es">Gabón</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الغابون</name>
+			<sameAs qcode="iso3166-1a3:GAB"/>
+			<sameAs qcode="iso3166-1a2:GA"/>
+		</concept>
+		<concept id="dpacountry49">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:49"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Gambia</name>
+			<name role="nrol:display" xml:lang="de">Gambia</name>
+			<name role="nrol:display" xml:lang="es">Gambia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غامبيا</name>
+			<sameAs qcode="iso3166-1a2:GM"/>
+			<sameAs qcode="iso3166-1a3:GMB"/>
+		</concept>
+		<concept id="dpacountry50">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:50"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Georgien</name>
+			<name role="nrol:display" xml:lang="en">Georgia</name>
+			<name role="nrol:display" xml:lang="es">Georgia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جورجيا</name>
+			<sameAs qcode="iso3166-1a3:GEO"/>
+			<sameAs qcode="iso3166-1a2:GE"/>
+		</concept>
+		<concept id="dpacountry51">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:51"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Ghana</name>
+			<name role="nrol:display" xml:lang="de">Ghana</name>
+			<name role="nrol:display" xml:lang="es">Ghana</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غانا</name>
+			<sameAs qcode="iso3166-1a3:GHA"/>
+			<sameAs qcode="iso3166-1a2:GH"/>
+		</concept>
+		<concept id="dpacountry52">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:52"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Grenada</name>
+			<name role="nrol:display" xml:lang="en">Grenada</name>
+			<name role="nrol:display" xml:lang="es">Granada</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غرينادا</name>
+			<sameAs qcode="iso3166-1a2:GD"/>
+			<sameAs qcode="iso3166-1a3:GRD"/>
+		</concept>
+		<concept id="dpacountry55">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:55"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Guatemala</name>
+			<name role="nrol:display" xml:lang="de">Guatemala</name>
+			<name role="nrol:display" xml:lang="es">Guatemala</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غواتيمالا</name>
+			<sameAs qcode="iso3166-1a2:GT"/>
+			<sameAs qcode="iso3166-1a3:GTM"/>
+		</concept>
+		<concept id="dpacountry56">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:56"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Guinea</name>
+			<name role="nrol:display" xml:lang="en">Guinea</name>
+			<name role="nrol:display" xml:lang="es">Guinea</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غينيا</name>
+			<sameAs qcode="iso3166-1a2:GN"/>
+			<sameAs qcode="iso3166-1a3:GIN"/>
+		</concept>
+		<concept id="dpacountry57">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:57"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Guinea-Bissau</name>
+			<name role="nrol:display" xml:lang="de">Guinea-Bissau</name>
+			<name role="nrol:display" xml:lang="es">Guinea-Bissau</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غينيا بيساو</name>
+			<sameAs qcode="iso3166-1a2:GW"/>
+			<sameAs qcode="iso3166-1a3:GNB"/>
+		</concept>
+		<concept id="dpacountry59">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:59"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Haiti</name>
+			<name role="nrol:display" xml:lang="en">Haiti</name>
+			<name role="nrol:display" xml:lang="es">Haití</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">هايتي</name>
+			<sameAs qcode="iso3166-1a2:HT"/>
+			<sameAs qcode="iso3166-1a3:HTI"/>
+		</concept>
+		<concept id="dpacountry60">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:60"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Honduras</name>
+			<name role="nrol:display" xml:lang="en">Honduras</name>
+			<name role="nrol:display" xml:lang="es">Honduras</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">هندوراس</name>
+			<sameAs qcode="iso3166-1a3:HND"/>
+			<sameAs qcode="iso3166-1a2:HN"/>
+		</concept>
+		<concept modified="2005-02-08T08:00:00+01:00">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:196"/>
+			<name role="nrol:display" xml:lang="de">International</name>
+			<name role="nrol:display" xml:lang="en">International</name>
+			<name role="nrol:display" xml:lang="es">Internacional</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">دوليا</name>
+		</concept>
+		<concept id="dpacountry67">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:67"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Israel</name>
+			<name role="nrol:display" xml:lang="de">Israel</name>
+			<name role="nrol:display" xml:lang="es">Israel</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إسرائيل</name>
+			<sameAs qcode="iso3166-1a2:IL"/>
+			<sameAs qcode="iso3166-1a3:ISR"/>
+		</concept>
+		<concept id="dpacountry69">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:69"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Jamaika</name>
+			<name role="nrol:display" xml:lang="en">Jamaica</name>
+			<name role="nrol:display" xml:lang="es">Jamaica</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جامايكا</name>
+			<sameAs qcode="iso3166-1a2:JM"/>
+			<sameAs qcode="iso3166-1a3:JAM"/>
+		</concept>
+		<concept id="dpacountry71">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:71"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Yemen</name>
+			<name role="nrol:display" xml:lang="de">Jemen</name>
+			<name role="nrol:display" xml:lang="es">Yemen</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">يمني</name>
+			<sameAs qcode="iso3166-1a2:YE"/>
+			<sameAs qcode="iso3166-1a3:YEM"/>
+		</concept>
+		<concept id="dpacountry72">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:72"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Jordan</name>
+			<name role="nrol:display" xml:lang="de">Jordanien</name>
+			<name role="nrol:display" xml:lang="es">Jordania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الأردن</name>
+			<sameAs qcode="iso3166-1a2:JO"/>
+			<sameAs qcode="iso3166-1a3:JOR"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00" id="dpacountry75">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:75"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Cameroon</name>
+			<name role="nrol:display" xml:lang="de">Kamerun</name>
+			<name role="nrol:display" xml:lang="es">Camerún</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الكاميرون</name>
+			<sameAs qcode="iso3166-1a3:CMR"/>
+			<sameAs qcode="iso3166-1a2:CM"/>
+		</concept>
+		<concept id="dpacountry77">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:77"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kap Verde</name>
+			<name role="nrol:display" xml:lang="en">Cape Verde</name>
+			<name role="nrol:display" xml:lang="es">Cabo Verde</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الرأس الأخضر</name>
+			<sameAs qcode="iso3166-1a2:CV"/>
+			<sameAs qcode="iso3166-1a3:CPV"/>
+		</concept>
+		<concept id="dpacountry78">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:78"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kasachstan</name>
+			<name role="nrol:display" xml:lang="en">Kazakhstan</name>
+			<name role="nrol:display" xml:lang="es">Kazajstán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كازاخستان</name>
+			<sameAs qcode="iso3166-1a2:KZ"/>
+			<sameAs qcode="iso3166-1a3:KAZ"/>
+		</concept>
+		<concept id="dpacountry79">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:79"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Katar</name>
+			<name role="nrol:display" xml:lang="en">Qatar</name>
+			<name role="nrol:display" xml:lang="es">Qatar</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">قطر</name>
+			<sameAs qcode="iso3166-1a3:QAT"/>
+			<sameAs qcode="iso3166-1a2:QA"/>
+		</concept>
+		<concept id="dpacountry80">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:80"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Kenya</name>
+			<name role="nrol:display" xml:lang="de">Kenia</name>
+			<name role="nrol:display" xml:lang="es">Kenia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كينيا</name>
+			<sameAs qcode="iso3166-1a2:KE"/>
+			<sameAs qcode="iso3166-1a3:KEN"/>
+		</concept>
+		<concept id="dpacountry81">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:81"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kirgistan</name>
+			<name role="nrol:display" xml:lang="en">Kyrgyzstan</name>
+			<name role="nrol:display" xml:lang="es">Kirguistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">قرغيزستان</name>
+			<sameAs qcode="iso3166-1a3:KGZ"/>
+			<sameAs qcode="iso3166-1a2:KG"/>
+		</concept>
+		<concept id="dpacountry82">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:82"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Kiribati</name>
+			<name role="nrol:display" xml:lang="de">Kiribati</name>
+			<name role="nrol:display" xml:lang="es">Kiribati</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كيريباس</name>
+			<sameAs qcode="iso3166-1a3:KIR"/>
+			<sameAs qcode="iso3166-1a2:KI"/>
+		</concept>
+		<concept id="dpacountry84">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:84"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Comoros</name>
+			<name role="nrol:display" xml:lang="de">Komoren</name>
+			<name role="nrol:display" xml:lang="es">Comoras</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جزر القمر</name>
+			<sameAs qcode="iso3166-1a2:KM"/>
+			<sameAs qcode="iso3166-1a3:COM"/>
+		</concept>
+		<concept id="dpacountry85">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:85"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kongo</name>
+			<name role="nrol:display" xml:lang="en">Congo</name>
+			<name role="nrol:display" xml:lang="es">Congo</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الكونغو</name>
+			<sameAs qcode="iso3166-1a2:CD"/>
+			<sameAs qcode="iso3166-1a3:COD"/>
+		</concept>
+		<concept id="dpacountry86">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:86"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Congo-Brazzaville</name>
+			<name role="nrol:display" xml:lang="de">Kongo-Brazzaville</name>
+			<name role="nrol:display" xml:lang="es">Congo-Brazzaville</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الكونغو برازافيل</name>
+			<sameAs qcode="iso3166-1a3:COG"/>
+			<sameAs qcode="iso3166-1a2:CG"/>
+		</concept>
+		<concept id="dpacountry220">
+			<conceptId created="2008-02-15T17:00:00+01:00" qcode="dpacountry:220"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Kosovo</name>
+			<name role="nrol:display" xml:lang="de">Kosovo</name>
+			<name role="nrol:display" xml:lang="es">Kosovo</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كوسوفو</name>
+			<sameAs qcode="iso3166-1a3:RKS"/>
+			<sameAs qcode="dpax-fifacountry:KOS"/>
+		</concept>
+		<concept id="dpacountry88">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:88"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Cuba</name>
+			<name role="nrol:display" xml:lang="de">Kuba</name>
+			<name role="nrol:display" xml:lang="es">Cuba</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">كوبا</name>
+			<sameAs qcode="iso3166-1a3:CUB"/>
+			<sameAs qcode="iso3166-1a2:CU"/>
+		</concept>
+		<concept id="dpacountry89">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:89"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Kuwait</name>
+			<name role="nrol:display" xml:lang="en">Kuwait</name>
+			<name role="nrol:display" xml:lang="es">Kuwait</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الكويت</name>
+			<sameAs qcode="iso3166-1a3:KWT"/>
+			<sameAs qcode="iso3166-1a2:KW"/>
+		</concept>
+		<concept id="dpacountry91">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:91"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Lesotho</name>
+			<name role="nrol:display" xml:lang="de">Lesotho</name>
+			<name role="nrol:display" xml:lang="es">Lesoto</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ليسوتو</name>
+			<sameAs qcode="iso3166-1a3:LSO"/>
+			<sameAs qcode="iso3166-1a2:LS"/>
+		</concept>
+		<concept id="dpacountry92">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:92"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Latvia</name>
+			<name role="nrol:display" xml:lang="de">Lettland</name>
+			<name role="nrol:display" xml:lang="es">Letonia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">لاتفيا</name>
+			<sameAs qcode="iso3166-1a3:LVA"/>
+			<sameAs qcode="iso3166-1a2:LV"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry93">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:93"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Lebanon</name>
+			<name role="nrol:display" xml:lang="de">Libanon</name>
+			<name role="nrol:display" xml:lang="es">Líbano</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">لبنان</name>
+			<sameAs qcode="iso3166-1a2:LB"/>
+			<sameAs qcode="iso3166-1a3:LBN"/>
+		</concept>
+		<concept id="dpacountry94">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:94"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Liberia</name>
+			<name role="nrol:display" xml:lang="de">Liberia</name>
+			<name role="nrol:display" xml:lang="es">Liberia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ليبيريا</name>
+			<sameAs qcode="iso3166-1a3:LBR"/>
+			<sameAs qcode="iso3166-1a2:LR"/>
+		</concept>
+		<concept id="dpacountry95">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:95"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Libyen</name>
+			<name role="nrol:display" xml:lang="en">Libya</name>
+			<name role="nrol:display" xml:lang="es">Libia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ليبيا</name>
+			<sameAs qcode="iso3166-1a2:LY"/>
+			<sameAs qcode="iso3166-1a3:LBY"/>
+		</concept>
+		<concept id="dpacountry97">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:97"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Litauen</name>
+			<name role="nrol:display" xml:lang="en">Lithuania</name>
+			<name role="nrol:display" xml:lang="es">Lituania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ليتوانيا</name>
+			<sameAs qcode="iso3166-1a3:LTU"/>
+			<sameAs qcode="iso3166-1a2:LT"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry99">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:99"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Madagaskar</name>
+			<name role="nrol:display" xml:lang="en">Madagascar</name>
+			<name role="nrol:display" xml:lang="es">Madagascar</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مدغشقر</name>
+			<sameAs qcode="iso3166-1a2:MG"/>
+			<sameAs qcode="iso3166-1a3:MDG"/>
+		</concept>
+		<concept id="dpacountry102">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:102"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Malediven</name>
+			<name role="nrol:display" xml:lang="en">Maldives</name>
+			<name role="nrol:display" xml:lang="es">Maldivas</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جزر المالديف</name>
+			<sameAs qcode="iso3166-1a2:MV"/>
+			<sameAs qcode="iso3166-1a3:MDV"/>
+		</concept>
+		<concept id="dpacountry105">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:105"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Morocco</name>
+			<name role="nrol:display" xml:lang="de">Marokko</name>
+			<name role="nrol:display" xml:lang="es">Marruecos</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">المغرب</name>
+			<sameAs qcode="iso3166-1a2:MA"/>
+			<sameAs qcode="iso3166-1a3:MAR"/>
+		</concept>
+		<concept id="dpacountry107">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:107"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Mauritania</name>
+			<name role="nrol:display" xml:lang="de">Mauretanien</name>
+			<name role="nrol:display" xml:lang="es">Mauritania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">موريتانيا</name>
+			<sameAs qcode="iso3166-1a3:MRT"/>
+			<sameAs qcode="iso3166-1a2:MR"/>
+		</concept>
+		<concept id="dpacountry108">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:108"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Mauritius</name>
+			<name role="nrol:display" xml:lang="de">Mauritius</name>
+			<name role="nrol:display" xml:lang="es">Mauricio</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">موريشيوس</name>
+			<sameAs qcode="iso3166-1a2:MU"/>
+			<sameAs qcode="iso3166-1a3:MUS"/>
+		</concept>
+		<concept id="dpacountry111">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:111"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Mikronesien</name>
+			<name role="nrol:display" xml:lang="en">Micronesia</name>
+			<name role="nrol:display" xml:lang="es">Micronesia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ميكرونيزيا</name>
+			<sameAs qcode="iso3166-1a3:FSM"/>
+			<sameAs qcode="iso3166-1a2:FM"/>
+		</concept>
+		<concept id="dpacountry113">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:113"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Monaco</name>
+			<name role="nrol:display" xml:lang="de">Monaco</name>
+			<name role="nrol:display" xml:lang="es">Mónaco</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">موناكو</name>
+			<sameAs qcode="iso3166-1a2:MC"/>
+			<sameAs qcode="iso3166-1a3:MCO"/>
+		</concept>
+		<concept id="dpacountry218">
+			<conceptId created="2006-06-19T13:00:00+02:00" qcode="dpacountry:218"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Montenegro</name>
+			<name role="nrol:display" xml:lang="en">Montenegro</name>
+			<name role="nrol:display" xml:lang="es">Montenegro</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الجبل الأسود</name>
+			<sameAs qcode="iso3166-1a3:MNE"/>
+			<sameAs qcode="iso3166-1a2:ME"/>
+		</concept>
+		<concept id="dpacountry115">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:115"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Mozambique</name>
+			<name role="nrol:display" xml:lang="de">Mosambik</name>
+			<name role="nrol:display" xml:lang="es">Mozambique</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">موزمبيق</name>
+			<sameAs qcode="iso3166-1a2:MZ"/>
+			<sameAs qcode="iso3166-1a3:MOZ"/>
+		</concept>
+		<concept id="dpacountry117">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:117"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Nauru</name>
+			<name role="nrol:display" xml:lang="en">Nauru</name>
+			<name role="nrol:display" xml:lang="es">Nauru</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ناورو</name>
+			<sameAs qcode="iso3166-1a2:NR"/>
+			<sameAs qcode="iso3166-1a3:NRU"/>
+		</concept>
+		<concept id="dpacountry120">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:120"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Nicaragua</name>
+			<name role="nrol:display" xml:lang="de">Nicaragua</name>
+			<name role="nrol:display" xml:lang="es">Nicaragua</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">نيكاراغوا</name>
+			<sameAs qcode="iso3166-1a2:NI"/>
+			<sameAs qcode="iso3166-1a3:NIC"/>
+		</concept>
+		<concept id="dpacountry123">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:123"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Nigeria</name>
+			<name role="nrol:display" xml:lang="en">Nigeria</name>
+			<name role="nrol:display" xml:lang="es">Nigeria</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">نيجيريا</name>
+			<sameAs qcode="iso3166-1a3:NGA"/>
+			<sameAs qcode="iso3166-1a2:NG"/>
+		</concept>
+		<concept id="dpacountry221">
+			<conceptId qcode="dpacountry:221" retired="2009-04-09T14:04:00+02:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Northern Ireland</name>
+			<name role="nrol:display" xml:lang="de">Nordirland</name>
+			<name role="nrol:display" xml:lang="es">Irlanda del Norte</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أيرلندا الشمالية</name>
+			<sameAs qcode="dpax-fifacountry:NIR"/>
+			<broader qcode="dpacountry:54"/>
+		</concept>
+		<concept id="dpacountry124">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:124"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Nort Cyprus</name>
+			<name role="nrol:display" xml:lang="de">Nordzypern</name>
+			<name role="nrol:display" xml:lang="es">Norte de Chipre</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">شمال قبرص</name>
+		</concept>
+		<concept id="dpacountry127">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:127"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Oman</name>
+			<name role="nrol:display" xml:lang="en">Oman</name>
+			<name role="nrol:display" xml:lang="es">Omán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">عمان</name>
+			<sameAs qcode="iso3166-1a2:OM"/>
+			<sameAs qcode="iso3166-1a3:OMN"/>
+		</concept>
+		<concept id="dpacountry205">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:205"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="dpanrol:gui" xml:lang="de">Palästinen. Autonomiegebiete</name>
+			<name role="nrol:display" xml:lang="de">Palästinensische Autonomiegebiete</name>
+			<name role="nrol:display" xml:lang="en">Palestinian Territories</name>
+			<name role="nrol:display" xml:lang="es">Territorios Palestinos</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الأراضي الفلسطينية</name>
+			<sameAs qcode="iso3166-1a3:PSE"/>
+			<sameAs qcode="iso3166-1a2:PS"/>
+		</concept>
+		<concept id="dpacountry130">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:130"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Panama</name>
+			<name role="nrol:display" xml:lang="en">Panama</name>
+			<name role="nrol:display" xml:lang="es">Panamá</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بناما</name>
+			<sameAs qcode="iso3166-1a3:PAN"/>
+			<sameAs qcode="iso3166-1a2:PA"/>
+		</concept>
+		<concept id="dpacountry141">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:141"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Sambia</name>
+			<name role="nrol:display" xml:lang="en">Zambia</name>
+			<name role="nrol:display" xml:lang="es">Zambia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">زامبيا</name>
+			<sameAs qcode="iso3166-1a3:ZMB"/>
+			<sameAs qcode="iso3166-1a2:ZM"/>
+		</concept>
+		<concept id="dpacountry193">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:193"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Samoa</name>
+			<name role="nrol:display" xml:lang="de">Samoa</name>
+			<name role="nrol:display" xml:lang="es">Samoa</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ساموا</name>
+			<sameAs qcode="iso3166-1a3:WSM"/>
+			<sameAs qcode="iso3166-1a2:WS"/>
+		</concept>
+		<concept id="dpacountry143">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:143"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">São Tomé und Príncipe</name>
+			<name role="nrol:display" xml:lang="en">São Tomé and Príncipe</name>
+			<name role="nrol:display" xml:lang="es">Santo Tomé y Príncipe</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ساو تومي وبرينسيبي</name>
+			<sameAs qcode="iso3166-1a3:STP"/>
+			<sameAs qcode="iso3166-1a2:ST"/>
+		</concept>
+		<concept modified="2015-10-16T10:27:00+02:00">
+			<conceptId qcode="dpacountry:144"/>
+			<name role="nrol:display" xml:lang="es">Arabia Saudí</name>
+			<name role="nrol:display" xml:lang="en">Saudi Arabia</name>
+			<name role="nrol:display" xml:lang="de">Saudi-Arabien</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">السعودية</name>
+			<sameAs qcode="iso3166-1a2:SA"/>
+			<sameAs qcode="iso3166-1a3:SAU"/>
+		</concept>
+		<concept id="dpacountry149">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:149"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Sierra Leone</name>
+			<name role="nrol:display" xml:lang="de">Sierra Leone</name>
+			<name role="nrol:display" xml:lang="es">Sierra Leona</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سيراليون</name>
+			<sameAs qcode="iso3166-1a3:SLE"/>
+			<sameAs qcode="iso3166-1a2:SL"/>
+		</concept>
+		<concept id="dpacountry154">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:154"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Somalia</name>
+			<name role="nrol:display" xml:lang="de">Somalia</name>
+			<name role="nrol:display" xml:lang="es">Somalia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الصومال</name>
+			<sameAs qcode="iso3166-1a2:SO"/>
+			<sameAs qcode="iso3166-1a3:SOM"/>
+		</concept>
+		<concept id="dpacountry200">
+			<conceptId qcode="dpacountry:200" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">USSR</name>
+			<name role="nrol:display" xml:lang="de">Sowjetunion</name>
+			<name role="nrol:display" xml:lang="es">Unión Soviética</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الاتحاد السوفيتي</name>
+			<sameAs qcode="iso3166-1a3:SUN"/>
+		</concept>
+		<concept id="dpacountry157">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:157"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">St. Kitts and Nevis</name>
+			<name role="nrol:display" xml:lang="de">St. Kitts und Nevis</name>
+			<name role="nrol:display" xml:lang="es">Saint Kitts y Nevis</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سانت كيتس ونيفيس</name>
+			<sameAs qcode="iso3166-1a3:KNA"/>
+			<sameAs qcode="iso3166-1a2:KN"/>
+		</concept>
+		<concept id="dpacountry159">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:159"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">St. Vincent and the Grenadines</name>
+			<name role="nrol:display" xml:lang="de">St. Vincent und die Grenadinen</name>
+			<name role="nrol:display" xml:lang="es">San Vicente y las Granadinas</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سانت فنسنت وجزر غرينادين</name>
+			<sameAs qcode="iso3166-1a3:VCT"/>
+			<sameAs qcode="iso3166-1a2:VC"/>
+		</concept>
+		<concept id="dpacountry201">
+			<conceptId qcode="dpacountry:201" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Südjemen</name>
+			<name role="nrol:display" xml:lang="en">South Yemen</name>
+			<name role="nrol:display" xml:lang="es">Yemen del Sur</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جنوب اليمن</name>
+			<sameAs qcode="iso3166-1a3:YMD"/>
+		</concept>
+		<concept id="dpacountry164">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:164"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Swaziland</name>
+			<name role="nrol:display" xml:lang="de">Swasiland</name>
+			<name role="nrol:display" xml:lang="es">Suazilandia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سوازيلاند</name>
+			<sameAs qcode="iso3166-1a3:SWZ"/>
+			<sameAs qcode="iso3166-1a2:SZ"/>
+		</concept>
+		<concept id="dpacountry165">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:165"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Syria</name>
+			<name role="nrol:display" xml:lang="de">Syrien</name>
+			<name role="nrol:display" xml:lang="es">Siria</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سوريا</name>
+			<sameAs qcode="iso3166-1a3:SYR"/>
+			<sameAs qcode="iso3166-1a2:SY"/>
+		</concept>
+		<concept id="dpacountry171">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:171"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Togo</name>
+			<name role="nrol:display" xml:lang="de">Togo</name>
+			<name role="nrol:display" xml:lang="es">Togo</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">توغو</name>
+			<sameAs qcode="iso3166-1a2:TG"/>
+			<sameAs qcode="iso3166-1a3:TGO"/>
+		</concept>
+		<concept id="dpacountry172">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:172"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Tonga</name>
+			<name role="nrol:display" xml:lang="de">Tonga</name>
+			<name role="nrol:display" xml:lang="es">Tonga</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تونغا</name>
+			<sameAs qcode="iso3166-1a2:TO"/>
+			<sameAs qcode="iso3166-1a3:TON"/>
+		</concept>
+		<concept id="dpacountry174">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:174"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Tschad</name>
+			<name role="nrol:display" xml:lang="en">Chad</name>
+			<name role="nrol:display" xml:lang="es">Chad</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تشاد</name>
+			<sameAs qcode="iso3166-1a2:TD"/>
+			<sameAs qcode="iso3166-1a3:TCD"/>
+		</concept>
+		<concept id="dpacountry176">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:176"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Tunesien</name>
+			<name role="nrol:display" xml:lang="en">Tunisia</name>
+			<name role="nrol:display" xml:lang="es">Túnez</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تونس</name>
+			<sameAs qcode="iso3166-1a2:TN"/>
+			<sameAs qcode="iso3166-1a3:TUN"/>
+		</concept>
+		<concept id="dpacountry179">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:179"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Tuvalu</name>
+			<name role="nrol:display" xml:lang="en">Tuvalu</name>
+			<name role="nrol:display" xml:lang="es">Tuvalu</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">توفالو</name>
+			<sameAs qcode="iso3166-1a2:TV"/>
+			<sameAs qcode="iso3166-1a3:TUV"/>
+		</concept>
+		<concept id="dpacountry180">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:180"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Uganda</name>
+			<name role="nrol:display" xml:lang="de">Uganda</name>
+			<name role="nrol:display" xml:lang="es">Uganda</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أوغندا</name>
+			<sameAs qcode="iso3166-1a2:UG"/>
+			<sameAs qcode="iso3166-1a3:UGA"/>
+		</concept>
+		<concept id="dpacountry185">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:185"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Usbekistan</name>
+			<name role="nrol:display" xml:lang="en">Uzbekistan</name>
+			<name role="nrol:display" xml:lang="es">Uzbekistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أوزبكستان</name>
+			<sameAs qcode="iso3166-1a3:UZB"/>
+			<sameAs qcode="iso3166-1a2:UZ"/>
+		</concept>
+		<concept id="dpacountry186">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:186"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Vanuatu</name>
+			<name role="nrol:display" xml:lang="en">Vanuatu</name>
+			<name role="nrol:display" xml:lang="es">Vanuatu</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فانواتو</name>
+			<sameAs qcode="iso3166-1a3:VUT"/>
+			<sameAs qcode="iso3166-1a2:VU"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:192"/>
+			<name role="nrol:display" xml:lang="es">Sahara Occidental</name>
+			<name role="nrol:display" xml:lang="en">Western Sahara</name>
+			<name role="nrol:display" xml:lang="de">Westsahara</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الصحراء الغربية</name>
+			<sameAs qcode="iso3166-1a2:EH"/>
+			<sameAs qcode="iso3166-1a3:ESH"/>
+		</concept>
+		<concept id="dpacountry203">
+			<conceptId qcode="dpacountry:203" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Zaire</name>
+			<name role="nrol:display" xml:lang="en">Zaire</name>
+			<name role="nrol:display" xml:lang="es">Zaire</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">زائير</name>
+			<sameAs qcode="iso3166-1a3:ZAR"/>
+			<sameAs qcode="iso3166-1a2:ZR"/>
+		</concept>
+		<concept id="dpacountry100">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:100"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Malawi</name>
+			<name role="nrol:display" xml:lang="en">Malawi</name>
+			<name role="nrol:display" xml:lang="es">Malawi</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ملاوي</name>
+			<sameAs qcode="iso3166-1a2:MW"/>
+			<sameAs qcode="iso3166-1a3:MWI"/>
+		</concept>
+		<concept id="dpacountry103">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:103"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Mali</name>
+			<name role="nrol:display" xml:lang="de">Mali</name>
+			<name role="nrol:display" xml:lang="es">Mali</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مالي</name>
+			<sameAs qcode="iso3166-1a2:ML"/>
+			<sameAs qcode="iso3166-1a3:MLI"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:106"/>
+			<name role="nrol:display" xml:lang="es">Islas Marshall</name>
+			<name role="nrol:display" xml:lang="en">Marshall Islands</name>
+			<name role="nrol:display" xml:lang="de">Marshallinseln</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جزر مارشال</name>
+			<sameAs qcode="iso3166-1a2:MH"/>
+			<sameAs qcode="iso3166-1a3:MHL"/>
+		</concept>
+		<concept id="dpacountry109">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:109"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Macedonia</name>
+			<name role="nrol:display" xml:lang="de">Mazedonien</name>
+			<name role="nrol:display" xml:lang="es">Macedonia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مقدونيا</name>
+			<sameAs qcode="iso3166-1a3:MKD"/>
+			<sameAs qcode="iso3166-1a2:MK"/>
+		</concept>
+		<concept>
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:112"/>
+			<name role="nrol:display" xml:lang="de">Moldau</name>
+			<name role="nrol:display" xml:lang="es">Moldavia</name>
+			<name role="nrol:display" xml:lang="en">Moldova</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">مولدافيا</name>
+			<sameAs qcode="iso3166-1a2:MD"/>
+			<sameAs qcode="iso3166-1a3:MDA"/>
+		</concept>
+		<concept id="dpacountry116">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:116"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Namibia</name>
+			<name role="nrol:display" xml:lang="en">Namibia</name>
+			<name role="nrol:display" xml:lang="es">Namibia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ناميبيا</name>
+			<sameAs qcode="iso3166-1a2:NA"/>
+			<sameAs qcode="iso3166-1a3:NAM"/>
+		</concept>
+		<concept id="dpacountry122">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:122"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Niger</name>
+			<name role="nrol:display" xml:lang="de">Niger</name>
+			<name role="nrol:display" xml:lang="es">Níger</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">النيجر</name>
+			<sameAs qcode="iso3166-1a3:NER"/>
+			<sameAs qcode="iso3166-1a2:NE"/>
+		</concept>
+		<concept id="dpacountry199">
+			<conceptId qcode="dpacountry:199" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Nordjemen</name>
+			<name role="nrol:display" xml:lang="en">Northern Yemen</name>
+			<name role="nrol:display" xml:lang="es">Yemen del Norte</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">شمال اليمن</name>
+			<sameAs qcode="iso3166-1a3:YAR"/>
+		</concept>
+		<concept id="dpacountry126">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:126"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Norway</name>
+			<name role="nrol:display" xml:lang="de">Norwegen</name>
+			<name role="nrol:display" xml:lang="es">Noruega</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">النرويج</name>
+			<sameAs qcode="iso3166-1a2:NO"/>
+			<sameAs qcode="iso3166-1a3:NOR"/>
+		</concept>
+		<concept id="dpacountry204">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:204"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">East Timor</name>
+			<name role="nrol:display" xml:lang="de">Osttimor</name>
+			<name role="nrol:display" xml:lang="es">Timor Oriental</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تيمور الشرقية</name>
+			<sameAs qcode="iso3166-1a3:TLS"/>
+			<sameAs qcode="iso3166-1a2:TL"/>
+		</concept>
+		<concept id="dpacountry129">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:129"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Palau</name>
+			<name role="nrol:display" xml:lang="de">Palau</name>
+			<name role="nrol:display" xml:lang="es">Palau</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بالاو</name>
+			<sameAs qcode="iso3166-1a3:PLW"/>
+			<sameAs qcode="iso3166-1a2:PW"/>
+		</concept>
+		<concept id="dpacountry131">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:131"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Papua New Guinea</name>
+			<name role="nrol:display" xml:lang="de">Papua-Neuguinea</name>
+			<name role="nrol:display" xml:lang="es">Papua Nueva Guinea</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">بابوا غينيا الجديدة</name>
+			<sameAs qcode="iso3166-1a3:PNG"/>
+			<sameAs qcode="iso3166-1a2:PG"/>
+		</concept>
+		<concept id="dpacountry137">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:137"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Ruanda</name>
+			<name role="nrol:display" xml:lang="en">Rwanda</name>
+			<name role="nrol:display" xml:lang="es">Ruanda</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">رواندا</name>
+			<sameAs qcode="iso3166-1a3:RWA"/>
+			<sameAs qcode="iso3166-1a2:RW"/>
+		</concept>
+		<concept id="dpacountry140">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:140"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Salomonen</name>
+			<name role="nrol:display" xml:lang="en">Solomon Islands</name>
+			<name role="nrol:display" xml:lang="es">Islas Salomón</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جزر سليمان</name>
+			<sameAs qcode="iso3166-1a2:SB"/>
+			<sameAs qcode="iso3166-1a3:SLB"/>
+		</concept>
+		<concept id="dpacountry142">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:142"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">San Marino</name>
+			<name role="nrol:display" xml:lang="en">San Marino</name>
+			<name role="nrol:display" xml:lang="es">San Marino</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سان مارينو</name>
+			<sameAs qcode="iso3166-1a2:SM"/>
+			<sameAs qcode="iso3166-1a3:SMR"/>
+		</concept>
+		<concept id="dpacountry147">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:147"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Senegal</name>
+			<name role="nrol:display" xml:lang="de">Senegal</name>
+			<name role="nrol:display" xml:lang="es">Senegal</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">السنغال</name>
+			<sameAs qcode="iso3166-1a3:SEN"/>
+			<sameAs qcode="iso3166-1a2:SN"/>
+		</concept>
+		<concept id="dpacountry148">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:148"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Seychellen</name>
+			<name role="nrol:display" xml:lang="en">Seychelles</name>
+			<name role="nrol:display" xml:lang="es">Seychelles</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سيشيل</name>
+			<sameAs qcode="iso3166-1a3:SYC"/>
+			<sameAs qcode="iso3166-1a2:SC"/>
+		</concept>
+		<concept id="dpacountry150">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:150"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Zimbabwe</name>
+			<name role="nrol:display" xml:lang="de">Simbabwe</name>
+			<name role="nrol:display" xml:lang="es">Zimbabue</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">زيمبابوي</name>
+			<sameAs qcode="iso3166-1a2:ZW"/>
+			<sameAs qcode="iso3166-1a3:ZWE"/>
+		</concept>
+		<concept id="dpacountry153">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:153"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Slovenia</name>
+			<name role="nrol:display" xml:lang="de">Slowenien</name>
+			<name role="nrol:display" xml:lang="es">Eslovenia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سلوفينيا</name>
+			<sameAs qcode="iso3166-1a2:SI"/>
+			<sameAs qcode="iso3166-1a3:SVN"/>
+			<broader qcode="dpageosbj:202"/>
+		</concept>
+		<concept id="dpacountry158">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:158"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">St. Lucia</name>
+			<name role="nrol:display" xml:lang="en">St. Lucia</name>
+			<name role="nrol:display" xml:lang="es">Santa Lucía</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">سانت لوسيا</name>
+			<sameAs qcode="iso3166-1a3:LCA"/>
+			<sameAs qcode="iso3166-1a2:LC"/>
+		</concept>
+		<concept id="dpacountry166">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:166"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Tajikistan</name>
+			<name role="nrol:display" xml:lang="de">Tadschikistan</name>
+			<name role="nrol:display" xml:lang="es">Tayikistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">طاجيكستان</name>
+			<sameAs qcode="iso3166-1a2:TJ"/>
+			<sameAs qcode="iso3166-1a3:TJK"/>
+		</concept>
+		<concept id="dpacountry168">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:168"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Tanzania</name>
+			<name role="nrol:display" xml:lang="de">Tansania</name>
+			<name role="nrol:display" xml:lang="es">Tanzania</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تنزانيا</name>
+			<sameAs qcode="iso3166-1a3:TZA"/>
+			<sameAs qcode="iso3166-1a2:TZ"/>
+		</concept>
+		<concept id="dpacountry170">
+			<conceptId qcode="dpacountry:170" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Tibet</name>
+			<name role="nrol:display" xml:lang="en">Tibet</name>
+			<name role="nrol:display" xml:lang="es">Tíbet</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">التبت</name>
+			<broader qcode="iso3166-1a3:CHN"/>
+		</concept>
+		<concept id="dpacountry173">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:173"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Trinidad und Tobago</name>
+			<name role="nrol:display" xml:lang="en">Trinidad and Tobago</name>
+			<name role="nrol:display" xml:lang="es">Trinidad y Tobago</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ترينيداد وتوباغو</name>
+			<sameAs qcode="iso3166-1a2:TT"/>
+			<sameAs qcode="iso3166-1a3:TTO"/>
+		</concept>
+		<concept id="dpacountry202">
+			<conceptId qcode="dpacountry:202" retired="2005-02-08T08:00:00+01:00"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Tschechoslowakei</name>
+			<name role="nrol:display" xml:lang="en">Czechoslovakia</name>
+			<name role="nrol:display" xml:lang="es">Checoslovaquia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تشيكوسلوفاكيا</name>
+			<sameAs qcode="iso3166-1a3:CSK"/>
+		</concept>
+		<concept id="dpacountry178">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:178"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Turkmenistan</name>
+			<name role="nrol:display" xml:lang="de">Turkmenistan</name>
+			<name role="nrol:display" xml:lang="es">Turkmenistán</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">تركمانستان</name>
+			<sameAs qcode="iso3166-1a3:TKM"/>
+			<sameAs qcode="iso3166-1a2:TM"/>
+		</concept>
+		<concept id="dpacountry187">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:187"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Vatican</name>
+			<name role="nrol:display" xml:lang="de">Vatikan</name>
+			<name role="nrol:display" xml:lang="es">Vaticano</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">الفاتيكان</name>
+			<sameAs qcode="iso3166-1a3:VAT"/>
+			<sameAs qcode="iso3166-1a2:VA"/>
+		</concept>
+		<concept id="dpacountry191">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:191"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Belarus</name>
+			<name role="nrol:display" xml:lang="de">Weißrussland</name>
+			<name role="nrol:display" xml:lang="es">Belarús</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">روسيا البيضاء</name>
+			<sameAs qcode="iso3166-1a2:BY"/>
+			<sameAs qcode="iso3166-1a3:BLR"/>
+		</concept>
+		<concept modified="2005-02-08T08:00:00+01:00">
+			<conceptId created="2005-02-08T08:00:00+01:00" qcode="dpacountry:194"/>
+			<name xml:lang="en">CAR</name>
+			<name role="nrol:display" xml:lang="es">República Centroafricana</name>
+			<name role="nrol:display" xml:lang="de">Zentralafrikanische Republik</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جمهورية أفريقيا الوسطى</name>
+			<sameAs qcode="iso3166-1a3:CAF"/>
+			<sameAs qcode="iso3166-1a2:CF"/>
+		</concept>
+		<concept>
+			<conceptId  modified="2016-08-15T09:00:00+02:00" qcode="dpacountry:206"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">England</name>
+			<name role="nrol:display" xml:lang="de">England</name>
+			<name role="nrol:display" xml:lang="es">Inglaterra</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">إنجلترا</name>
+			<sameAs qcode="dpax-fifacountry:ENG"/>
+			<broader qcode="dpacountry:54"/>
+		</concept>
+		<concept id="dpacountry207">
+			<conceptId qcode="dpacountry:207"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">Wales</name>
+			<name role="nrol:display" xml:lang="de">Wales</name>
+			<name role="nrol:display" xml:lang="es">Gales</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">ويلز</name>
+			<sameAs qcode="dpax-fifacountry:WAL"/>
+			<broader qcode="dpacountry:54"/>
+		</concept>
+		<concept id="dpacountry208">
+			<conceptId qcode="dpacountry:208"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="en">South Sudan</name>
+			<name role="nrol:display" xml:lang="de">Südsudan</name>
+			<name role="nrol:display" xml:lang="es">Sudán del Sur</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جنوب السودان</name>
+			<sameAs qcode="iso3166-1a3:SSD"/>
+			<sameAs qcode="iso3166-1a2:SS"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00" id="dpacountry210">
+			<conceptId created="2013-04-22T12:02:00+02:00" qcode="dpacountry:210"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Schottland</name>
+			<name role="nrol:display" xml:lang="en">Scotland</name>
+			<name role="nrol:display" xml:lang="es">Escocia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أسكتلندا</name>
+			<sameAs qcode="dpax-fifacountry:SCO"/>
+			<broader qcode="dpacountry:54"/>
+		</concept>
+		<concept id="dpacountry209">
+			<conceptId qcode="dpacountry:209"/>
+			<type qcode="cpnat:geoArea"/>
+			<name role="nrol:display" xml:lang="de">Grönland</name>
+			<name role="nrol:display" xml:lang="en">Greenland</name>
+			<name role="nrol:display" xml:lang="es">Groenlandia</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">غرينلاند</name>
+			<sameAs qcode="iso3166-1a3:GRL"/>
+			<sameAs qcode="iso3166-1a2:GL"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00" id="dpacountry211">
+			<conceptId created="2014-04-15T11:45:00+02:00" qcode="dpacountry:211"/>
+			<name role="nrol:display" xml:lang="en">Aruba</name>
+			<name role="nrol:display" xml:lang="es">Aruba</name>
+			<name role="nrol:display" xml:lang="de">Aruba</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">أروبا</name>
+			<broader qcode="dpacountry:121"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00">
+			<conceptId created="2015-01-12T14:06:00+01:00" qcode="dpacountry:223"/>
+			<name role="nrol:display" xml:lang="de">Hongkong</name>
+			<name role="nrol:display" xml:lang="en">Hong Kong</name>
+			<name role="nrol:display" xml:lang="es">Hong Kong</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">هونغ كونغ</name>
+			<sameAs qcode="iso3166-1a3:HKG"/>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00">
+			<conceptId created="2015-01-12T14:06:00+01:00" qcode="dpacountry:224"/>
+			<name role="nrol:display" xml:lang="de">Färöer</name>
+			<name role="nrol:display" xml:lang="en">Faroe Islands</name>
+			<name role="nrol:display" xml:lang="es">Islas Feroe</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">فارو</name>
+			<sameAs qcode="iso3166-1a3:FRO"/>
+			<broader qcode="dpacountry:2"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00">
+			<conceptId created="2016-03-30T14:06:00+01:00" qcode="dpacountry:225"/>
+			<name role="nrol:display" xml:lang="de">Gibraltar</name>
+			<name role="nrol:display" xml:lang="en">Gibraltar</name>
+			<name role="nrol:display" xml:lang="es">Gibraltar</name>
+			<name role="nrol:display" xml:lang="ar" dir="rtl">جبل طارق</name>
+			<sameAs qcode="iso3166-1a3:GIB"/>
+			<broader qcode="dpacountry:54"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00">
+			<conceptId created="2016-03-30T14:06:00+01:00" qcode="dpacountry:226"/>
+			<name role="nrol:display" xml:lang="de">Puerto Rico</name>
+			<name role="nrol:display" xml:lang="en">Puerto Rico</name>
+			<name role="nrol:display" xml:lang="es">Puerto Rico</name>
+			<sameAs qcode="iso3166-1a3:PRI"/>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept modified="2016-08-15T09:00:00+02:00">
+			<conceptId created="2016-03-30T14:06:00+01:00" qcode="dpacountry:227"/>
+			<name role="nrol:display" xml:lang="de">Macao</name>
+			<name role="nrol:display" xml:lang="en">Macao</name>
+			<name role="nrol:display" xml:lang="es">Macao</name>
+			<sameAs qcode="iso3166-1a3:MAC"/>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept modified="2016-10-24T12:00:00+02:00">
+			<conceptId created="2016-10-24T12:00:00+02:00" qcode="dpacountry:228"/>
+			<name role="nrol:display" xml:lang="de">Neukaledonien</name>
+			<name role="nrol:display" xml:lang="en">New Caldonia</name>
+			<name role="nrol:display" xml:lang="es">Nueva Caledonia</name>
+			<sameAs qcode="iso3166-1a3:NCL"/>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept modified="2016-10-27T12:00:00+02:00">
+			<conceptId created="2016-10-27T12:00:00+02:00" qcode="dpacountry:229"/>
+			<name role="nrol:display" xml:lang="de">Französich-Polynesien</name>
+			<name role="nrol:display" xml:lang="en">French Polynesia</name>
+			<name role="nrol:display" xml:lang="es">Polinesia Francesca</name>
+			<sameAs qcode="iso3166-1a3:PYF"/>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpacountry" uri="http://g2.dpa.com/cv/country/">
+		<definition>TODO</definition>
+		<name>dpacountry</name>
+	</schemeMeta>
+</knowledgeItem>

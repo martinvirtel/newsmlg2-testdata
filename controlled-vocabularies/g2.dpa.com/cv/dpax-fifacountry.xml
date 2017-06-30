@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:fifacountry" standard="NewsML-G2" standardversion="2.16" version="1" xml:lang="de">
+	<catalogRef  href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef  href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo >
+		<copyrightHolder literal="FIFA"/>
+		<copyrightNotice>© 2014 Fédération Internationale de Football Association</copyrightNotice>
+	</rightsInfo>
+	<itemMeta >
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-11-23T10:34:45+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<edNote>Die Liste wurde aus den Wikipedia-Einträgen erstellt.</edNote>
+	</itemMeta>
+	<contentMeta >
+		<infoSource>
+			<name>Wikipedia Deutsch</name>
+			<remoteInfo href="http://de.wikipedia.org/wiki/Liste_der_FIFA-Mitglieder" title="Wikipedia Deutsch"/>
+		</infoSource>
+		<infoSource>
+			<name>IWikipedia Englisch</name>
+			<remoteInfo href="http://en.wikipedia.org/wiki/List_of_FIFA_country_codes" title="Wikipedia Englisch"/>
+		</infoSource>
+		<description>Liste der FIFA Country Codes</description>
+	</contentMeta>
+	<conceptSet >
+		<!-- Bitte Liste gemäß Muster aus der deutschen und englischen Wikipedia-Siete ergänzen. -->
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AFG"/>
+			<name role="nrol:mnemonic">AFG</name>
+			<name role="nrol:display" xml:lang="en">Afghanistan</name>
+			<name role="nrol:display" xml:lang="de">Afghanistan</name>
+			<sameAs qcode="iso3166-1a3:AFG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GER"/>
+			<name role="nrol:mnemonic">GER</name>
+			<name role="nrol:display" xml:lang="en">Germany</name>
+			<name role="nrol:display" xml:lang="de">Deutschland</name>
+			<sameAs qcode="iso3166-1a3:DEU"/>			
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SCO"/>
+			<name role="nrol:mnemonic">SCO</name>
+			<name role="nrol:display" xml:lang="en">Scotland</name>
+			<name role="nrol:display" xml:lang="es">Escocia</name>
+			<name role="nrol:display" xml:lang="de">Schottland</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:EGY"/>
+			<name role="nrol:mnemonic">EGY</name>
+			<name role="nrol:display" xml:lang="en">Egypt</name>
+			<name role="nrol:display" xml:lang="de">Ägypten</name>
+			<sameAs qcode="iso3166-1a3:EGY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ALB"/>
+			<name role="nrol:mnemonic">ALB</name>
+			<name role="nrol:display" xml:lang="en">Albania</name>
+			<name role="nrol:display" xml:lang="de">Albanien</name>
+			<sameAs qcode="iso3166-1a3:ALB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ALG"/>
+			<name role="nrol:mnemonic">ALG</name>
+			<name role="nrol:display" xml:lang="en">Algeria</name>
+			<name role="nrol:display" xml:lang="de">Algerien</name>
+			<sameAs qcode="iso3166-1a3:DZA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ASA"/>
+			<name role="nrol:mnemonic">ASA</name>
+			<name role="nrol:display" xml:lang="en">American Samoa</name>
+			<name role="nrol:display" xml:lang="de">Amerikanisch-Samoa</name>
+			<sameAs qcode="iso3166-1a3:ASM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VIR"/>
+			<name role="nrol:mnemonic">VIR</name>
+			<name role="nrol:display" xml:lang="en">U.S. Virgin Islands</name>
+			<name role="nrol:display" xml:lang="de">Amerikanische Jungferninseln</name>
+			<sameAs qcode="iso3166-1a3:VIR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AND"/>
+			<name role="nrol:mnemonic">AND</name>
+			<name role="nrol:display" xml:lang="en">Andorra</name>
+			<name role="nrol:display" xml:lang="de">Andorra</name>
+			<sameAs qcode="iso3166-1a3:AND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ANG"/>
+			<name role="nrol:mnemonic">ANG</name>
+			<name role="nrol:display" xml:lang="en">Angola</name>
+			<name role="nrol:display" xml:lang="de">Angola</name>
+			<sameAs qcode="iso3166-1a3:AGO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AIA"/>
+			<name role="nrol:mnemonic">AIA</name>
+			<name role="nrol:display" xml:lang="en">Anguilla</name>
+			<name role="nrol:display" xml:lang="de">Anguilla</name>
+			<sameAs qcode="iso3166-1a3:AIA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ATG"/>
+			<name role="nrol:mnemonic">ATG</name>
+			<name role="nrol:display" xml:lang="en">Antigua and Barbuda</name>
+			<name role="nrol:display" xml:lang="de">Antigua und Barbuda</name>
+			<sameAs qcode="iso3166-1a3:ATG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:EQG"/>
+			<name role="nrol:mnemonic"/>
+			<name role="nrol:display" xml:lang="en">Equatorial Guinea</name>
+			<name role="nrol:display" xml:lang="de">Äquatorialguinea</name>
+			<sameAs qcode="iso3166-1a3:GNQ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ARG"/>
+			<name role="nrol:mnemonic">ARG</name>
+			<name role="nrol:display" xml:lang="en">Argentina</name>
+			<name role="nrol:display" xml:lang="de">Argentinien</name>
+			<sameAs qcode="iso3166-1a3:ARG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ARM"/>
+			<name role="nrol:mnemonic">ARM</name>
+			<name role="nrol:display" xml:lang="en">Armenia</name>
+			<name role="nrol:display" xml:lang="de">Armenien</name>
+			<sameAs qcode="iso3166-1a3:ARM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ARU"/>
+			<name role="nrol:mnemonic">ARU</name>
+			<name role="nrol:display" xml:lang="en">Aruba</name>
+			<name role="nrol:display" xml:lang="de">Aruba</name>
+			<sameAs qcode="iso3166-1a3:ABW"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AZE"/>
+			<name role="nrol:mnemonic">AZE</name>
+			<name role="nrol:display" xml:lang="en">Azerbaijan</name>
+			<name role="nrol:display" xml:lang="de">Aserbaidschan</name>
+			<sameAs qcode="iso3166-1a3:AZE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ETH"/>
+			<name role="nrol:mnemonic">ETH</name>
+			<name role="nrol:display" xml:lang="en">Ethiopia</name>
+			<name role="nrol:display" xml:lang="de">Äthiopien</name>
+			<sameAs qcode="iso3166-1a3:ETH"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AUS"/>
+			<name role="nrol:mnemonic">AUS</name>
+			<name role="nrol:display" xml:lang="en">Australia</name>
+			<name role="nrol:display" xml:lang="de">Australien</name>
+			<sameAs qcode="iso3166-1a3:AUS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BAH"/>
+			<name role="nrol:mnemonic">BAH</name>
+			<name role="nrol:display" xml:lang="en">Bahamas</name>
+			<name role="nrol:display" xml:lang="de">Bahamas</name>
+			<sameAs qcode="iso3166-1a3:BHS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BHR"/>
+			<name role="nrol:mnemonic">BHR</name>
+			<name role="nrol:display" xml:lang="en">Bahrain</name>
+			<name role="nrol:display" xml:lang="de">Bahrain</name>
+			<sameAs qcode="iso3166-1a3:BHR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BRB"/>
+			<name role="nrol:mnemonic">BRB</name>
+			<name role="nrol:display" xml:lang="en">Barbados</name>
+			<name role="nrol:display" xml:lang="de">barbados</name>
+			<sameAs qcode="iso3166-1a3:BRB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BAN"/>
+			<name role="nrol:mnemonic">BAN</name>
+			<name role="nrol:display" xml:lang="en">Bangladesh</name>
+			<name role="nrol:display" xml:lang="de">Bangladesch</name>
+			<sameAs qcode="iso3166-1a3:BGD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BEL"/>
+			<name role="nrol:mnemonic">BEL</name>
+			<name role="nrol:display" xml:lang="en">Belgium</name>
+			<name role="nrol:display" xml:lang="de">Belgien</name>
+			<sameAs qcode="iso3166-1a3:BEL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BLZ"/>
+			<name role="nrol:mnemonic">BLZ</name>
+			<name role="nrol:display" xml:lang="en">Belize</name>
+			<name role="nrol:display" xml:lang="de">Belize</name>
+			<sameAs qcode="iso3166-1a3:BLZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BEN"/>
+			<name role="nrol:mnemonic">BEN</name>
+			<name role="nrol:display" xml:lang="en">Benin</name>
+			<name role="nrol:display" xml:lang="de">Benin</name>
+			<sameAs qcode="iso3166-1a3:BEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BER"/>
+			<name role="nrol:mnemonic">BER</name>
+			<name role="nrol:display" xml:lang="en">Bermuda</name>
+			<name role="nrol:display" xml:lang="de">Bermuda</name>
+			<sameAs qcode="iso3166-1a3:BMU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BHU"/>
+			<name role="nrol:mnemonic">BHU</name>
+			<name role="nrol:display" xml:lang="en">Bhutan</name>
+			<name role="nrol:display" xml:lang="de">Bhutan</name>
+			<sameAs qcode="iso3166-1a3:BTN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BOL"/>
+			<name role="nrol:mnemonic">BOL</name>
+			<name role="nrol:display" xml:lang="en">Bolivia</name>
+			<name role="nrol:display" xml:lang="de">Bolivien</name>
+			<sameAs qcode="iso3166-1a3:BOL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BIH"/>
+			<name role="nrol:mnemonic">BIH</name>
+			<name role="nrol:display" xml:lang="en">Bosnia-Herzegovina</name>
+			<name role="nrol:display" xml:lang="de">Bosnien und Herzegowina</name>
+			<sameAs qcode="iso3166-1a3:BIH"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BOT"/>
+			<name role="nrol:mnemonic">BOT</name>
+			<name role="nrol:display" xml:lang="en">Botswana</name>
+			<name role="nrol:display" xml:lang="de">Botswana</name>
+			<sameAs qcode="iso3166-1a3:BWA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BRA"/>
+			<name role="nrol:mnemonic">BRA</name>
+			<name role="nrol:display" xml:lang="en">Brazil</name>
+			<name role="nrol:display" xml:lang="de">Brasilien</name>
+			<sameAs qcode="iso3166-1a3:BRA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VGB"/>
+			<name role="nrol:mnemonic">VGB</name>
+			<name role="nrol:display" xml:lang="en">British Virgin Islands</name>
+			<name role="nrol:display" xml:lang="de">Britische Jungferninseln</name>
+			<sameAs qcode="iso3166-1a3:VGB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BRU"/>
+			<name role="nrol:mnemonic">BRU</name>
+			<name role="nrol:display" xml:lang="en">Brunei</name>
+			<name role="nrol:display" xml:lang="de">Brunei</name>
+			<sameAs qcode="iso3166-1a3:BRN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BUL"/>
+			<name role="nrol:mnemonic">BUL</name>
+			<name role="nrol:display" xml:lang="en">Bulgaria</name>
+			<name role="nrol:display" xml:lang="de">Bulgarien</name>
+			<sameAs qcode="iso3166-1a3:BGR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BLR"/>
+			<name role="nrol:mnemonic">BLR</name>
+			<name role="nrol:display" xml:lang="en">Belarus</name>
+			<name role="nrol:display" xml:lang="de">Weißrussland</name>
+			<sameAs qcode="iso3166-1a3:BLR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BFA"/>
+			<name role="nrol:mnemonic">BFA</name>
+			<name role="nrol:display" xml:lang="en">Burkina Faso</name>
+			<name role="nrol:display" xml:lang="de">Burkina Faso</name>
+			<sameAs qcode="iso3166-1a3:BFA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BDI"/>
+			<name role="nrol:mnemonic">BDI</name>
+			<name role="nrol:display" xml:lang="en">Burundi</name>
+			<name role="nrol:display" xml:lang="de">Burundi</name>
+			<sameAs qcode="iso3166-1a3:BDI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CAM"/>
+			<name role="nrol:mnemonic">CAM</name>
+			<name role="nrol:display" xml:lang="en">Cambodia</name>
+			<name role="nrol:display" xml:lang="de">Kambotscha</name>
+			<sameAs qcode="iso3166-1a3:KHM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CMR"/>
+			<name role="nrol:mnemonic">CMR</name>
+			<name role="nrol:display" xml:lang="en">Cameroon</name>
+			<name role="nrol:display" xml:lang="de">Kamerun</name>
+			<sameAs qcode="iso3166-1a3:CMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CAN"/>
+			<name role="nrol:mnemonic">CAN</name>
+			<name role="nrol:display" xml:lang="en">Canada</name>
+			<name role="nrol:display" xml:lang="de">Kanada</name>
+			<sameAs qcode="iso3166-1a3:CAN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CPV"/>
+			<name role="nrol:mnemonic">CPV</name>
+			<name role="nrol:display" xml:lang="en">Cap Verde</name>
+			<name role="nrol:display" xml:lang="de">Kap Verde</name>
+			<sameAs qcode="iso3166-1a3:CPV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CAY"/>
+			<name role="nrol:mnemonic">CAY</name>
+			<name role="nrol:display" xml:lang="en">Cayman Islands</name>
+			<name role="nrol:display" xml:lang="de">Cayman Islands</name>
+			<sameAs qcode="iso3166-1a3:CYM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CTA"/>
+			<name role="nrol:mnemonic">CTA</name>
+			<name role="nrol:display" xml:lang="en">Central African Republic</name>
+			<name role="nrol:display" xml:lang="de">Zentralafrikanische Republik</name>
+			<sameAs qcode="iso3166-1a3:CAF"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CHA"/>
+			<name role="nrol:mnemonic">CHA</name>
+			<name role="nrol:display" xml:lang="en">Chad</name>
+			<name role="nrol:display" xml:lang="de">Tschad</name>
+			<sameAs qcode="iso3166-1a3:TCD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CHI"/>
+			<name role="nrol:mnemonic">CHI</name>
+			<name role="nrol:display" xml:lang="en">Chile</name>
+			<name role="nrol:display" xml:lang="de">Chile</name>
+			<sameAs qcode="iso3166-1a3:CHL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CHN"/>
+			<name role="nrol:mnemonic">CHN</name>
+			<name role="nrol:display" xml:lang="en">China</name>
+			<name role="nrol:display" xml:lang="de">China</name>
+			<sameAs qcode="iso3166-1a3:CHN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TPE"/>
+			<name role="nrol:mnemonic">TPE</name>
+			<name role="nrol:display" xml:lang="en">Chinese Taipei</name>
+			<name role="nrol:display" xml:lang="de">Taiwan</name>
+			<sameAs qcode="iso3166-1a3:TWN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:COL"/>
+			<name role="nrol:mnemonic">COL</name>
+			<name role="nrol:display" xml:lang="en">Colombia</name>
+			<name role="nrol:display" xml:lang="de">Kolumbien</name>
+			<sameAs qcode="iso3166-1a3:COL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:COM"/>
+			<name role="nrol:mnemonic">COM</name>
+			<name role="nrol:display" xml:lang="en">Comoros</name>
+			<name role="nrol:display" xml:lang="de">Komoren</name>
+			<sameAs qcode="iso3166-1a3:COM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CGO"/>
+			<name role="nrol:mnemonic">CGO</name>
+			<name role="nrol:display" xml:lang="en">Congo</name>
+			<name role="nrol:display" xml:lang="de">Kongo</name>
+			<sameAs qcode="iso3166-1a3:COG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:COD"/>
+			<name role="nrol:mnemonic">COD</name>
+			<name role="nrol:display" xml:lang="en">DR Congo</name>
+			<name role="nrol:display" xml:lang="de">Demokratische Republik Kongo</name>
+			<sameAs qcode="iso3166-1a3:COD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:COK"/>
+			<name role="nrol:mnemonic">COK</name>
+			<name role="nrol:display" xml:lang="en">Cook Islands</name>
+			<name role="nrol:display" xml:lang="de">Cook-Inseln</name>
+			<sameAs qcode="iso3166-1a3:COK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CRC"/>
+			<name role="nrol:mnemonic">CRC</name>
+			<name role="nrol:display" xml:lang="en">Costa Rica</name>
+			<name role="nrol:display" xml:lang="de">Costa Rica</name>
+			<sameAs qcode="iso3166-1a3:CRI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CRO"/>
+			<name role="nrol:mnemonic">CRO</name>
+			<name role="nrol:display" xml:lang="en">Croatia</name>
+			<name role="nrol:display" xml:lang="de">Kroatien</name>
+			<sameAs qcode="iso3166-1a3:HRV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CUB"/>
+			<name role="nrol:mnemonic">CUB</name>
+			<name role="nrol:display" xml:lang="en">Cuba</name>
+			<name role="nrol:display" xml:lang="de">Kuba</name>
+			<sameAs qcode="iso3166-1a3:CUB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CUW"/>
+			<name role="nrol:mnemonic">CUW</name>
+			<name role="nrol:display" xml:lang="en">Curaçao</name>
+			<name role="nrol:display" xml:lang="de">Curaçao</name>
+			<sameAs qcode="iso3166-1a3:CUW"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CYP"/>
+			<name role="nrol:mnemonic">CYP</name>
+			<name role="nrol:display" xml:lang="en">Cyprus</name>
+			<name role="nrol:display" xml:lang="de">Zypern</name>
+			<sameAs qcode="iso3166-1a3:CYP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CZE"/>
+			<name role="nrol:mnemonic">CZE</name>
+			<name role="nrol:display" xml:lang="en">Czech Republic</name>
+			<name role="nrol:display" xml:lang="de">Tschechien</name>
+			<sameAs qcode="iso3166-1a3:CZE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:DEN"/>
+			<name role="nrol:mnemonic">DEN</name>
+			<name role="nrol:display" xml:lang="en">Denmark</name>
+			<name role="nrol:display" xml:lang="de">Dänemark</name>
+			<sameAs qcode="iso3166-1a3:DNK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:DJI"/>
+			<name role="nrol:mnemonic">DJI</name>
+			<name role="nrol:display" xml:lang="en">Djibouti</name>
+			<name role="nrol:display" xml:lang="de">Dschibuti</name>
+			<sameAs qcode="iso3166-1a3:DJI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:DMA"/>
+			<name role="nrol:mnemonic">DMA</name>
+			<name role="nrol:display" xml:lang="en">Dominica</name>
+			<name role="nrol:display" xml:lang="de">Dominica</name>
+			<sameAs qcode="iso3166-1a3:DMA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:DOM"/>
+			<name role="nrol:mnemonic">DOM</name>
+			<name role="nrol:display" xml:lang="en">Dominican Republic</name>
+			<name role="nrol:display" xml:lang="de">Dominikanische Republik</name>
+			<sameAs qcode="iso3166-1a3:DOM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ECU"/>
+			<name role="nrol:mnemonic">ECU</name>
+			<name role="nrol:display" xml:lang="en">Ecuador</name>
+			<name role="nrol:display" xml:lang="de">Ecuador</name>
+			<sameAs qcode="iso3166-1a3:ECU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SLV"/>
+			<name role="nrol:mnemonic">SLV</name>
+			<name role="nrol:display" xml:lang="en">El Salvador</name>
+			<name role="nrol:display" xml:lang="de">El Salvador</name>
+			<sameAs qcode="iso3166-1a3:SLV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ENG"/>
+			<name role="nrol:mnemonic">ENG</name>
+			<name role="nrol:display" xml:lang="en">England</name>
+			<name role="nrol:display" xml:lang="es">Inglaterra</name>
+			<name role="nrol:display" xml:lang="de">England</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ERI"/>
+			<name role="nrol:mnemonic">ERI</name>
+			<name role="nrol:display" xml:lang="en">Eritrea</name>
+			<name role="nrol:display" xml:lang="de">Eritrea</name>
+			<sameAs qcode="iso3166-1a3:ERI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:EST"/>
+			<name role="nrol:mnemonic">EST</name>
+			<name role="nrol:display" xml:lang="en">Estonia</name>
+			<name role="nrol:display" xml:lang="de">Estland</name>
+			<sameAs qcode="iso3166-1a3:EST"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:FRO"/>
+			<name role="nrol:mnemonic">FRO</name>
+			<name role="nrol:display" xml:lang="en">Faroe Islands</name>
+			<name role="nrol:display" xml:lang="de">Färöer</name>
+			<sameAs qcode="iso3166-1a3:FRO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:FIJ"/>
+			<name role="nrol:mnemonic">FIJ</name>
+			<name role="nrol:display" xml:lang="en">Fiji</name>
+			<name role="nrol:display" xml:lang="de">Fidschi</name>
+			<sameAs qcode="iso3166-1a3:FJI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:FIN"/>
+			<name role="nrol:mnemonic">FIN</name>
+			<name role="nrol:display" xml:lang="en">Finland</name>
+			<name role="nrol:display" xml:lang="de">Finnland</name>
+			<sameAs qcode="iso3166-1a3:FIN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:FRA"/>
+			<name role="nrol:mnemonic">FRA</name>
+			<name role="nrol:display" xml:lang="en">France</name>
+			<name role="nrol:display" xml:lang="de">Frankreich</name>
+			<sameAs qcode="iso3166-1a3:FRA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GAB"/>
+			<name role="nrol:mnemonic">GAB</name>
+			<name role="nrol:display" xml:lang="en">Gabon</name>
+			<name role="nrol:display" xml:lang="de">Gabun</name>
+			<sameAs qcode="iso3166-1a3:GAB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GAM"/>
+			<name role="nrol:mnemonic">GAM</name>
+			<name role="nrol:display" xml:lang="en">Gambia</name>
+			<name role="nrol:display" xml:lang="de">Gambia</name>
+			<sameAs qcode="iso3166-1a3:GMB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GEO"/>
+			<name role="nrol:mnemonic">GEO</name>
+			<name role="nrol:display" xml:lang="en">Georgia</name>
+			<name role="nrol:display" xml:lang="de">Georgien</name>
+			<sameAs qcode="iso3166-1a3:GEO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GHA"/>
+			<name role="nrol:mnemonic">GHA</name>
+			<name role="nrol:display" xml:lang="en">Ghana</name>
+			<name role="nrol:display" xml:lang="de">Ghana</name>
+			<sameAs qcode="iso3166-1a3:GHA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GRE"/>
+			<name role="nrol:mnemonic">GRE</name>
+			<name role="nrol:display" xml:lang="en">Greece</name>
+			<name role="nrol:display" xml:lang="de">Griechenland</name>
+			<sameAs qcode="iso3166-1a3:GRC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GRN"/>
+			<name role="nrol:mnemonic">GRN</name>
+			<name role="nrol:display" xml:lang="en">Grenada</name>
+			<name role="nrol:display" xml:lang="de">Grenada</name>
+			<sameAs qcode="iso3166-1a3:GRD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GUM"/>
+			<name role="nrol:mnemonic">GUM</name>
+			<name role="nrol:display" xml:lang="en">Guam</name>
+			<name role="nrol:display" xml:lang="de">Guam</name>
+			<sameAs qcode="iso3166-1a3:GUM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GUA"/>
+			<name role="nrol:mnemonic">GUA</name>
+			<name role="nrol:display" xml:lang="en">Guatemala</name>
+			<name role="nrol:display" xml:lang="de">Guatemala</name>
+			<sameAs qcode="iso3166-1a3:GTM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GUI"/>
+			<name role="nrol:mnemonic">GUI</name>
+			<name role="nrol:display" xml:lang="en">Guinea</name>
+			<name role="nrol:display" xml:lang="de">Guinea</name>
+			<sameAs qcode="iso3166-1a3:GIN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GNB"/>
+			<name role="nrol:mnemonic">GNB</name>
+			<name role="nrol:display" xml:lang="en">Guinea-Bissau</name>
+			<name role="nrol:display" xml:lang="de">Guinea-Bissau</name>
+			<sameAs qcode="iso3166-1a3:GNB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GUY"/>
+			<name role="nrol:mnemonic">GUY</name>
+			<name role="nrol:display" xml:lang="en">Guyana</name>
+			<name role="nrol:display" xml:lang="de">Guyana</name>
+			<sameAs qcode="iso3166-1a3:GUY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:HAI"/>
+			<name role="nrol:mnemonic">HAI</name>
+			<name role="nrol:display" xml:lang="en">Haiti</name>
+			<name role="nrol:display" xml:lang="de">Haiti</name>
+			<sameAs qcode="iso3166-1a3:HTI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:HON"/>
+			<name role="nrol:mnemonic">HON</name>
+			<name role="nrol:display" xml:lang="en">Honduras</name>
+			<name role="nrol:display" xml:lang="de">Honduras</name>
+			<sameAs qcode="iso3166-1a3:HND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:HKG"/>
+			<name role="nrol:mnemonic">HKG</name>
+			<name role="nrol:display" xml:lang="en">Hong Kong</name>
+			<name role="nrol:display" xml:lang="de">Hongkong</name>
+			<sameAs qcode="iso3166-1a3:HKG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:HUN"/>
+			<name role="nrol:mnemonic">HUN</name>
+			<name role="nrol:display" xml:lang="en">Hungary</name>
+			<name role="nrol:display" xml:lang="de">Ungarn</name>
+			<sameAs qcode="iso3166-1a3:HUN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ISL"/>
+			<name role="nrol:mnemonic">ISL</name>
+			<name role="nrol:display" xml:lang="en">Iceland</name>
+			<name role="nrol:display" xml:lang="de">Island</name>
+			<sameAs qcode="iso3166-1a3:ISL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:IND"/>
+			<name role="nrol:mnemonic">IND</name>
+			<name role="nrol:display" xml:lang="en">India</name>
+			<name role="nrol:display" xml:lang="de">Indien</name>
+			<sameAs qcode="iso3166-1a3:IND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:IDN"/>
+			<name role="nrol:mnemonic">IDN</name>
+			<name role="nrol:display" xml:lang="en">Indonesia</name>
+			<name role="nrol:display" xml:lang="de">Indonesien</name>
+			<sameAs qcode="iso3166-1a3:IDN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:IRN"/>
+			<name role="nrol:mnemonic">IRN</name>
+			<name role="nrol:display" xml:lang="en">Iran</name>
+			<name role="nrol:display" xml:lang="de">Iran</name>
+			<sameAs qcode="iso3166-1a3:IRN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:IRQ"/>
+			<name role="nrol:mnemonic">IRQ</name>
+			<name role="nrol:display" xml:lang="en">Iraq</name>
+			<name role="nrol:display" xml:lang="de">Irak</name>
+			<sameAs qcode="iso3166-1a3:IRQ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ISR"/>
+			<name role="nrol:mnemonic">ISR</name>
+			<name role="nrol:display" xml:lang="en">Israel</name>
+			<name role="nrol:display" xml:lang="de">Israel</name>
+			<sameAs qcode="iso3166-1a3:ISR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ITA"/>
+			<name role="nrol:mnemonic">ITA</name>
+			<name role="nrol:display" xml:lang="en">Italy</name>
+			<name role="nrol:display" xml:lang="de">Italien</name>
+			<sameAs qcode="iso3166-1a3:ITA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:CIV"/>
+			<name role="nrol:mnemonic">CIV</name>
+			<name role="nrol:display" xml:lang="en">Ivory Coast</name>
+			<name role="nrol:display" xml:lang="de">Elfenbeinküste</name>
+			<sameAs qcode="iso3166-1a3:CIV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:JAM"/>
+			<name role="nrol:mnemonic">JAM</name>
+			<name role="nrol:display" xml:lang="en">Jamaica</name>
+			<name role="nrol:display" xml:lang="de">Jamaika</name>
+			<sameAs qcode="iso3166-1a3:JAM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:JPN"/>
+			<name role="nrol:mnemonic">JPN</name>
+			<name role="nrol:display" xml:lang="en">Japan</name>
+			<name role="nrol:display" xml:lang="de">Japan</name>
+			<sameAs qcode="iso3166-1a3:JPN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:JOR"/>
+			<name role="nrol:mnemonic">JOR</name>
+			<name role="nrol:display" xml:lang="en">Jordan</name>
+			<name role="nrol:display" xml:lang="de">Jordanien</name>
+			<sameAs qcode="iso3166-1a3:JOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KAZ"/>
+			<name role="nrol:mnemonic">KAZ</name>
+			<name role="nrol:display" xml:lang="en">Kazakhstan</name>
+			<name role="nrol:display" xml:lang="de">Kasachstan</name>
+			<sameAs qcode="iso3166-1a3:KAZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KEN"/>
+			<name role="nrol:mnemonic">KEN</name>
+			<name role="nrol:display" xml:lang="en">Kenya</name>
+			<name role="nrol:display" xml:lang="de">Kenia</name>
+			<sameAs qcode="iso3166-1a3:KEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KOS" />
+			<name role="nrol:mnemonic">KOS</name>
+			<name role="nrol:display" xml:lang="en">Kosovo</name>
+			<name role="nrol:display" xml:lang="de">Kosovo</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KUW"/>
+			<name role="nrol:mnemonic">KUW</name>
+			<name role="nrol:display" xml:lang="en">Kuwait</name>
+			<name role="nrol:display" xml:lang="de">Kuwait</name>
+			<sameAs qcode="iso3166-1a3:KWT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KGZ"/>
+			<name role="nrol:mnemonic">KGZ</name>
+			<name role="nrol:display" xml:lang="en">Kyrgyzstan</name>
+			<name role="nrol:display" xml:lang="de">Kirgisistan</name>
+			<sameAs qcode="iso3166-1a3:KGZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LAO"/>
+			<name role="nrol:mnemonic">LAO</name>
+			<name role="nrol:display" xml:lang="en">Laos</name>
+			<name role="nrol:display" xml:lang="de">Laos</name>
+			<sameAs qcode="iso3166-1a3:LAO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LVA"/>
+			<name role="nrol:mnemonic">LVA</name>
+			<name role="nrol:display" xml:lang="en">Latvia</name>
+			<name role="nrol:display" xml:lang="de">Lettland</name>
+			<sameAs qcode="iso3166-1a3:LVA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LIB"/>
+			<name role="nrol:mnemonic">LIB</name>
+			<name role="nrol:display" xml:lang="en">Lebanon</name>
+			<name role="nrol:display" xml:lang="de">Libanon</name>
+			<sameAs qcode="iso3166-1a3:LBN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LES"/>
+			<name role="nrol:mnemonic">LES</name>
+			<name role="nrol:display" xml:lang="en">Lesotho</name>
+			<name role="nrol:display" xml:lang="de">Lesotho</name>
+			<sameAs qcode="iso3166-1a3:LSO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LBR"/>
+			<name role="nrol:mnemonic">LBR</name>
+			<name role="nrol:display" xml:lang="en">Liberia</name>
+			<name role="nrol:display" xml:lang="de">Liberia</name>
+			<sameAs qcode="iso3166-1a3:LBR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LBY"/>
+			<name role="nrol:mnemonic">LBY</name>
+			<name role="nrol:display" xml:lang="en">Lybia</name>
+			<name role="nrol:display" xml:lang="de">Lybien</name>
+			<sameAs qcode="iso3166-1a3:LBY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LIE"/>
+			<name role="nrol:mnemonic">LIE</name>
+			<name role="nrol:display" xml:lang="en">Liechtenstein</name>
+			<name role="nrol:display" xml:lang="de">Liechtenstein</name>
+			<sameAs qcode="iso3166-1a3:LIE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LTU"/>
+			<name role="nrol:mnemonic">LTU</name>
+			<name role="nrol:display" xml:lang="en">Lithuania</name>
+			<name role="nrol:display" xml:lang="de">Litauen</name>
+			<sameAs qcode="iso3166-1a3:LTU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LUX"/>
+			<name role="nrol:mnemonic">LUX</name>
+			<name role="nrol:display" xml:lang="en">Luxembourg</name>
+			<name role="nrol:display" xml:lang="de">Luxemburg</name>
+			<sameAs qcode="iso3166-1a3:LUX"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MAC"/>
+			<name role="nrol:mnemonic">MAC</name>
+			<name role="nrol:display" xml:lang="en">Macau</name>
+			<name role="nrol:display" xml:lang="de">Macao</name>
+			<sameAs qcode="iso3166-1a3:MAC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MKD"/>
+			<name role="nrol:mnemonic">MKD</name>
+			<name role="nrol:display" xml:lang="en">Macedonia</name>
+			<name role="nrol:display" xml:lang="de">Mazedonien</name>
+			<sameAs qcode="iso3166-1a3:MKD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MAD"/>
+			<name role="nrol:mnemonic">MAD</name>
+			<name role="nrol:display" xml:lang="en">Madagascar</name>
+			<name role="nrol:display" xml:lang="de">Madagaskar</name>
+			<sameAs qcode="iso3166-1a3:MDG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MWI"/>
+			<name role="nrol:mnemonic">MWI</name>
+			<name role="nrol:display" xml:lang="en">Malawi</name>
+			<name role="nrol:display" xml:lang="de">Malawi</name>
+			<sameAs qcode="iso3166-1a3:MWI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MAS"/>
+			<name role="nrol:mnemonic">MAS</name>
+			<name role="nrol:display" xml:lang="en">Malaysia</name>
+			<name role="nrol:display" xml:lang="de">Malaysia</name>
+			<sameAs qcode="iso3166-1a3:MYS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MDV"/>
+			<name role="nrol:mnemonic">MDV</name>
+			<name role="nrol:display" xml:lang="en">Maldives</name>
+			<name role="nrol:display" xml:lang="de">Malediven</name>
+			<sameAs qcode="iso3166-1a3:MDV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MLI"/>
+			<name role="nrol:mnemonic">MLI</name>
+			<name role="nrol:display" xml:lang="en">Mali</name>
+			<name role="nrol:display" xml:lang="de">Mali</name>
+			<sameAs qcode="iso3166-1a3:MLI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MLT"/>
+			<name role="nrol:mnemonic">MLT</name>
+			<name role="nrol:display" xml:lang="en">Malta</name>
+			<name role="nrol:display" xml:lang="de">Malta</name>
+			<sameAs qcode="iso3166-1a3:MLT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MTN"/>
+			<name role="nrol:mnemonic">MTN</name>
+			<name role="nrol:display" xml:lang="en">Mauritania</name>
+			<name role="nrol:display" xml:lang="de">Mauretanien</name>
+			<sameAs qcode="iso3166-1a3:MRT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MRI"/>
+			<name role="nrol:mnemonic">MRI</name>
+			<name role="nrol:display" xml:lang="en">Mauritius</name>
+			<name role="nrol:display" xml:lang="de">Mauritius</name>
+			<sameAs qcode="iso3166-1a3:MUS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MEX"/>
+			<name role="nrol:mnemonic">MEX</name>
+			<name role="nrol:display" xml:lang="en">Mexico</name>
+			<name role="nrol:display" xml:lang="de">Mexiko</name>
+			<sameAs qcode="iso3166-1a3:MEX"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MDA"/>
+			<name role="nrol:mnemonic">MDA</name>
+			<name role="nrol:display" xml:lang="en">Moldova</name>
+			<name role="nrol:display" xml:lang="de">Moldau</name>
+			<sameAs qcode="iso3166-1a3:MDA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MNG"/>
+			<name role="nrol:mnemonic">MNG</name>
+			<name role="nrol:display" xml:lang="en">Mongolia</name>
+			<name role="nrol:display" xml:lang="de">Mongolei</name>
+			<sameAs qcode="iso3166-1a3:MNG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MNE"/>
+			<name role="nrol:mnemonic">MNE</name>
+			<name role="nrol:display" xml:lang="en">Montenegro</name>
+			<name role="nrol:display" xml:lang="de">Montenegro</name>
+			<sameAs qcode="iso3166-1a3:MNE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MSR"/>
+			<name role="nrol:mnemonic">MSR</name>
+			<name role="nrol:display" xml:lang="en">Montserrat</name>
+			<name role="nrol:display" xml:lang="de">Montserrat</name>
+			<sameAs qcode="iso3166-1a3:MSR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MAR"/>
+			<name role="nrol:mnemonic">MAR</name>
+			<name role="nrol:display" xml:lang="en">Morocco</name>
+			<name role="nrol:display" xml:lang="de">Marokko</name>
+			<sameAs qcode="iso3166-1a3:MAR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MOZ"/>
+			<name role="nrol:mnemonic">MOZ</name>
+			<name role="nrol:display" xml:lang="en">Mozambique</name>
+			<name role="nrol:display" xml:lang="de">Mosambik</name>
+			<sameAs qcode="iso3166-1a3:MOZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MYA"/>
+			<name role="nrol:mnemonic">MYA</name>
+			<name role="nrol:display" xml:lang="en">Myanmar</name>
+			<name role="nrol:display" xml:lang="de">Myanmar</name>
+			<sameAs qcode="iso3166-1a3:MMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NAM"/>
+			<name role="nrol:mnemonic">NAM</name>
+			<name role="nrol:display" xml:lang="en">Namibia</name>
+			<name role="nrol:display" xml:lang="de">Namibia</name>
+			<sameAs qcode="iso3166-1a3:NAM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NEP"/>
+			<name role="nrol:mnemonic">NEP</name>
+			<name role="nrol:display" xml:lang="en">Nepal</name>
+			<name role="nrol:display" xml:lang="de">Nepal</name>
+			<sameAs qcode="iso3166-1a3:NPL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NED"/>
+			<name role="nrol:mnemonic">NED</name>
+			<name role="nrol:display" xml:lang="en">Netherlands</name>
+			<name role="nrol:display" xml:lang="de">Niederlande</name>
+			<sameAs qcode="iso3166-1a3:NLD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NCL"/>
+			<name role="nrol:mnemonic">NCL</name>
+			<name role="nrol:display" xml:lang="en">New Caledonia</name>
+			<name role="nrol:display" xml:lang="de">Neukaledonien</name>
+			<sameAs qcode="iso3166-1a3:NCL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NZL"/>
+			<name role="nrol:mnemonic">NZL</name>
+			<name role="nrol:display" xml:lang="en">New Zealand</name>
+			<name role="nrol:display" xml:lang="de">Neuseeland</name>
+			<sameAs qcode="iso3166-1a3:NZL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NCA"/>
+			<name role="nrol:mnemonic">NCA</name>
+			<name role="nrol:display" xml:lang="en">Nicaragua</name>
+			<name role="nrol:display" xml:lang="de">Nicaragua</name>
+			<sameAs qcode="iso3166-1a3:NIC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NIG"/>
+			<name role="nrol:mnemonic">NIG</name>
+			<name role="nrol:display" xml:lang="en">Niger</name>
+			<name role="nrol:display" xml:lang="de">Niger</name>
+			<sameAs qcode="iso3166-1a3:NER"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NGA"/>
+			<name role="nrol:mnemonic">NGA</name>
+			<name role="nrol:display" xml:lang="en">Nigeria</name>
+			<name role="nrol:display" xml:lang="de">Nigeria</name>
+			<sameAs qcode="iso3166-1a3:NGA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PRK"/>
+			<name role="nrol:mnemonic">PRK</name>
+			<name role="nrol:display" xml:lang="en">North Korea</name>
+			<name role="nrol:display" xml:lang="de">Nordkorea</name>
+			<sameAs qcode="iso3166-1a3:PRK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NIR"/>
+			<name role="nrol:mnemonic">NIR</name>
+			<name role="nrol:display" xml:lang="en">Northern Ireland</name>
+			<name role="nrol:display" xml:lang="de">Nordirland</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:NOR"/>
+			<name role="nrol:mnemonic">NOR</name>
+			<name role="nrol:display" xml:lang="en">Norway</name>
+			<name role="nrol:display" xml:lang="de">Norwegen</name>
+			<sameAs qcode="iso3166-1a3:NOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:OMA"/>
+			<name role="nrol:mnemonic">OMA</name>
+			<name role="nrol:display" xml:lang="en">Oman</name>
+			<name role="nrol:display" xml:lang="de">Oman</name>
+			<sameAs qcode="iso3166-1a3:OMN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PAK"/>
+			<name role="nrol:mnemonic">PAK</name>
+			<name role="nrol:display" xml:lang="en">Pakistan</name>
+			<name role="nrol:display" xml:lang="de">Pakistan</name>
+			<sameAs qcode="iso3166-1a3:PAK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PLE"/>
+			<name role="nrol:mnemonic">PLE</name>
+			<name role="nrol:display" xml:lang="en">Palestine</name>
+			<name role="nrol:display" xml:lang="de">Palästina</name>
+			<sameAs qcode="iso3166-1a3:PSE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PAN"/>
+			<name role="nrol:mnemonic">PAN</name>
+			<name role="nrol:display" xml:lang="en">Panama</name>
+			<name role="nrol:display" xml:lang="de">Panama</name>
+			<sameAs qcode="iso3166-1a3:PAN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PNG"/>
+			<name role="nrol:mnemonic">PNG</name>
+			<name role="nrol:display" xml:lang="en">Papua New Guinea</name>
+			<name role="nrol:display" xml:lang="de">Papua-Neuguinea</name>
+			<sameAs qcode="iso3166-1a3:PNG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PAR"/>
+			<name role="nrol:mnemonic">PAR</name>
+			<name role="nrol:display" xml:lang="en">Paraguay</name>
+			<name role="nrol:display" xml:lang="de">Paraguay</name>
+			<sameAs qcode="iso3166-1a3:PRY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PER"/>
+			<name role="nrol:mnemonic">PER</name>
+			<name role="nrol:display" xml:lang="en">Peru</name>
+			<name role="nrol:display" xml:lang="de">Peru</name>
+			<sameAs qcode="iso3166-1a3:PER"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PHI"/>
+			<name role="nrol:mnemonic">PHI</name>
+			<name role="nrol:display" xml:lang="en">Philippines</name>
+			<name role="nrol:display" xml:lang="de">Philippinen</name>
+			<sameAs qcode="iso3166-1a3:PHL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:POL"/>
+			<name role="nrol:mnemonic">POL</name>
+			<name role="nrol:display" xml:lang="en">Poland</name>
+			<name role="nrol:display" xml:lang="de">Polen</name>
+			<sameAs qcode="iso3166-1a3:POL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:POR"/>
+			<name role="nrol:mnemonic">POR</name>
+			<name role="nrol:display" xml:lang="en">Portugal</name>
+			<name role="nrol:display" xml:lang="de">Portugal</name>
+			<sameAs qcode="iso3166-1a3:PRT"/>			
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:PUR"/>
+			<name role="nrol:mnemonic">PUR</name>
+			<name role="nrol:display" xml:lang="en">Puerto Rico</name>
+			<name role="nrol:display" xml:lang="de">Puerto Rico</name>
+			<sameAs qcode="iso3166-1a3:PRI"/>			
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:QAT"/>
+			<name role="nrol:mnemonic">QAT</name>
+			<name role="nrol:display" xml:lang="en">Qatar</name>
+			<name role="nrol:display" xml:lang="de">Katar</name>
+			<sameAs qcode="iso3166-1a3:QAT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:IRL"/>
+			<name role="nrol:mnemonic">IRL</name>
+			<name role="nrol:display" xml:lang="en">Republic of Ireland</name>
+			<name role="nrol:display" xml:lang="de">Irland</name>
+			<sameAs qcode="iso3166-1a3:IRL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ROU"/>
+			<name role="nrol:mnemonic">ROU</name>
+			<name role="nrol:display" xml:lang="en">Romania</name>
+			<name role="nrol:display" xml:lang="de">Rumänien</name>
+			<sameAs qcode="iso3166-1a3:ROU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:RUS"/>
+			<name role="nrol:mnemonic">RUS</name>
+			<name role="nrol:display" xml:lang="en">Russia</name>
+			<name role="nrol:display" xml:lang="de">Russland</name>
+			<sameAs qcode="iso3166-1a3:RUS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:RWA"/>
+			<name role="nrol:mnemonic">RWA</name>
+			<name role="nrol:display" xml:lang="en">Rwanda</name>
+			<name role="nrol:display" xml:lang="de">Ruanda</name>
+			<sameAs qcode="iso3166-1a3:RWA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SKN"/>
+			<name role="nrol:mnemonic">SKN</name>
+			<name role="nrol:display" xml:lang="en">Saint Kitts and Nevis</name>
+			<name role="nrol:display" xml:lang="de">St. Kitts und Nevis</name>
+			<sameAs qcode="iso3166-1a3:KNA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:AUT"/>
+			<name role="nrol:mnemonic">AUT</name>
+			<name role="nrol:display" xml:lang="en">Austria</name>
+			<name role="nrol:display" xml:lang="de">Österreich</name>
+			<sameAs qcode="iso3166-1a3:AUT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:LCA"/>
+			<name role="nrol:mnemonic">LCA</name>
+			<name role="nrol:display" xml:lang="en">Saint Lucia</name>
+			<name role="nrol:display" xml:lang="de">St. Lucia</name>
+			<sameAs qcode="iso3166-1a3:LCA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VIN"/>
+			<name role="nrol:mnemonic">VIN</name>
+			<name role="nrol:display" xml:lang="en">Saint Vincent and the Grenadines</name>
+			<name role="nrol:display" xml:lang="de">St. Vincent und die Grenadinen</name>
+			<sameAs qcode="iso3166-1a3:VCT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SAM"/>
+			<name role="nrol:mnemonic">SAM</name>
+			<name role="nrol:display" xml:lang="en">Samoa</name>
+			<name role="nrol:display" xml:lang="de">Samoa</name>
+			<sameAs qcode="iso3166-1a3:WSM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SMR"/>
+			<name role="nrol:mnemonic">SMR</name>
+			<name role="nrol:display" xml:lang="en">San Marino</name>
+			<name role="nrol:display" xml:lang="de">San Marino</name>
+			<sameAs qcode="iso3166-1a3:SMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:STP"/>
+			<name role="nrol:mnemonic">STP</name>
+			<name role="nrol:display" xml:lang="en">São Tomé and Príncipe</name>
+			<name role="nrol:display" xml:lang="de">São Tomé und Príncipe</name>
+			<sameAs qcode="iso3166-1a3:STP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KSA"/>
+			<name role="nrol:mnemonic">KSA</name>
+			<name role="nrol:display" xml:lang="en">Saudi Arabia</name>
+			<name role="nrol:display" xml:lang="de">Saudi-Arabien</name>
+			<sameAs qcode="iso3166-1a3:SAU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SEN"/>
+			<name role="nrol:mnemonic">SEN</name>
+			<name role="nrol:display" xml:lang="en">Senegal</name>
+			<name role="nrol:display" xml:lang="de">Senegal</name>
+			<sameAs qcode="iso3166-1a3:SEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SRB"/>
+			<name role="nrol:mnemonic">SRB</name>
+			<name role="nrol:display" xml:lang="en">Serbia</name>
+			<name role="nrol:display" xml:lang="de">Serbien</name>
+			<sameAs qcode="iso3166-1a3:SRB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SEY"/>
+			<name role="nrol:mnemonic">SEY</name>
+			<name role="nrol:display" xml:lang="en">Seychelles</name>
+			<name role="nrol:display" xml:lang="de">Seychellen</name>
+			<sameAs qcode="iso3166-1a3:SYC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SLE"/>
+			<name role="nrol:mnemonic">SLE</name>
+			<name role="nrol:display" xml:lang="en">Sierra Leone</name>
+			<name role="nrol:display" xml:lang="de">Sierra Leone</name>
+			<sameAs qcode="iso3166-1a3:SLE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SIN"/>
+			<name role="nrol:mnemonic">SIN</name>
+			<name role="nrol:display" xml:lang="en">Singapore</name>
+			<name role="nrol:display" xml:lang="de">Singapur</name>
+			<sameAs qcode="iso3166-1a3:SGP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SVK"/>
+			<name role="nrol:mnemonic">SVK</name>
+			<name role="nrol:display" xml:lang="en">Slovakia</name>
+			<name role="nrol:display" xml:lang="de">Slowakei</name>
+			<sameAs qcode="iso3166-1a3:SVK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SVN"/>
+			<name role="nrol:mnemonic">SVN</name>
+			<name role="nrol:display" xml:lang="en">Slovenia</name>
+			<name role="nrol:display" xml:lang="de">Slowenien</name>
+			<sameAs qcode="iso3166-1a3:SVN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SOL"/>
+			<name role="nrol:mnemonic">SOL</name>
+			<name role="nrol:display" xml:lang="en">Solomon Islands</name>
+			<name role="nrol:display" xml:lang="de">Salomon-Inseln</name>
+			<sameAs qcode="iso3166-1a3:SLB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SOM"/>
+			<name role="nrol:mnemonic">SOM</name>
+			<name role="nrol:display" xml:lang="en">Somalia</name>
+			<name role="nrol:display" xml:lang="de">Somalia</name>
+			<sameAs qcode="iso3166-1a3:SOM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:RSA"/>
+			<name role="nrol:mnemonic">RSA</name>
+			<name role="nrol:display" xml:lang="en">South Africa</name>
+			<name role="nrol:display" xml:lang="de">Südafrika</name>
+			<sameAs qcode="iso3166-1a3:ZAF"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:KOR"/>
+			<name role="nrol:mnemonic">KOR</name>
+			<name role="nrol:display" xml:lang="en">South Korea</name>
+			<name role="nrol:display" xml:lang="de">Südkorea</name>
+			<sameAs qcode="iso3166-1a3:KOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SSD"/>
+			<name role="nrol:mnemonic">SSD</name>
+			<name role="nrol:display" xml:lang="en">South Sudan</name>
+			<name role="nrol:display" xml:lang="de">Südsudan</name>
+			<sameAs qcode="iso3166-1a3:SSD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ESP"/>
+			<name role="nrol:mnemonic">ESP</name>
+			<name role="nrol:display" xml:lang="en">Spain</name>
+			<name role="nrol:display" xml:lang="de">Spanien</name>
+			<sameAs qcode="iso3166-1a3:ESP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SRI"/>
+			<name role="nrol:mnemonic">SRI</name>
+			<name role="nrol:display" xml:lang="en">Sri Lanka</name>
+			<name role="nrol:display" xml:lang="de">Sri Lanka</name>
+			<sameAs qcode="iso3166-1a3:LKA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SDN"/>
+			<name role="nrol:mnemonic">SDN</name>
+			<name role="nrol:display" xml:lang="en">Sudan</name>
+			<name role="nrol:display" xml:lang="de">Sudan</name>
+			<sameAs qcode="iso3166-1a3:SDN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SUR"/>
+			<name role="nrol:mnemonic">SUR</name>
+			<name role="nrol:display" xml:lang="en">Suriname</name>
+			<name role="nrol:display" xml:lang="de">Surinam</name>
+			<sameAs qcode="iso3166-1a3:SUR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SWZ"/>
+			<name role="nrol:mnemonic">SWZ</name>
+			<name role="nrol:display" xml:lang="en">Swaziland</name>
+			<name role="nrol:display" xml:lang="de">Swasiland</name>
+			<sameAs qcode="iso3166-1a3:SWZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SWE"/>
+			<name role="nrol:mnemonic">SWE</name>
+			<name role="nrol:display" xml:lang="en">Sweden</name>
+			<name role="nrol:display" xml:lang="de">Schweden</name>
+			<sameAs qcode="iso3166-1a3:SWE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SUI"/>
+			<name role="nrol:mnemonic">SUI</name>
+			<name role="nrol:display" xml:lang="en">Switzerland</name>
+			<name role="nrol:display" xml:lang="de">Schweiz</name>
+			<sameAs qcode="iso3166-1a3:CHE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SYR"/>
+			<name role="nrol:mnemonic">SYR</name>
+			<name role="nrol:display" xml:lang="en">Syria</name>
+			<name role="nrol:display" xml:lang="de">Syrien</name>
+			<sameAs qcode="iso3166-1a3:SYR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TAH"/>
+			<name role="nrol:mnemonic">TAH</name>
+			<name role="nrol:display" xml:lang="en">Tahiti</name>
+			<name role="nrol:display" xml:lang="de">Tahiti</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TJK"/>
+			<name role="nrol:mnemonic">TJK</name>
+			<name role="nrol:display" xml:lang="en">Tajikistan</name>
+			<name role="nrol:display" xml:lang="de">Tadschikistan</name>
+			<sameAs qcode="iso3166-1a3:TJK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TAN"/>
+			<name role="nrol:mnemonic">TAN</name>
+			<name role="nrol:display" xml:lang="en">Tanzania</name>
+			<name role="nrol:display" xml:lang="de">Tansania</name>
+			<sameAs qcode="iso3166-1a3:TZA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:THA"/>
+			<name role="nrol:mnemonic">THA</name>
+			<name role="nrol:display" xml:lang="en">Thailand</name>
+			<name role="nrol:display" xml:lang="de">Thailand</name>
+			<sameAs qcode="iso3166-1a3:THA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TLS"/>
+			<name role="nrol:mnemonic">TLS</name>
+			<name role="nrol:display" xml:lang="en">Timor-Leste</name>
+			<name role="nrol:display" xml:lang="de">Osttimor</name>
+			<sameAs qcode="iso3166-1a3:TLS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TOG"/>
+			<name role="nrol:mnemonic">TOG</name>
+			<name role="nrol:display" xml:lang="en">Togo</name>
+			<name role="nrol:display" xml:lang="de">Togo</name>
+			<sameAs qcode="iso3166-1a3:TGO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TGA"/>
+			<name role="nrol:mnemonic">TGA</name>
+			<name role="nrol:display" xml:lang="en">Tonga</name>
+			<name role="nrol:display" xml:lang="de">Tonga</name>
+			<sameAs qcode="iso3166-1a3:TON"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TRI"/>
+			<name role="nrol:mnemonic">TRI</name>
+			<name role="nrol:display" xml:lang="en">Trinidad and Tobago</name>
+			<name role="nrol:display" xml:lang="de">Trinidad und Tobago</name>
+			<sameAs qcode="iso3166-1a3:TTO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TUN"/>
+			<name role="nrol:mnemonic">TUN</name>
+			<name role="nrol:display" xml:lang="en">Tunesia</name>
+			<name role="nrol:display" xml:lang="de">Tunesien</name>
+			<sameAs qcode="iso3166-1a3:TUN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TUR"/>
+			<name role="nrol:mnemonic">TUR</name>
+			<name role="nrol:display" xml:lang="en">Turkey</name>
+			<name role="nrol:display" xml:lang="de">Türkei</name>
+			<sameAs qcode="iso3166-1a3:TUR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TKM"/>
+			<name role="nrol:mnemonic">TKM</name>
+			<name role="nrol:display" xml:lang="en">Turkmenistan</name>
+			<name role="nrol:display" xml:lang="de">Turkmenistan</name>
+			<sameAs qcode="iso3166-1a3:TKM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TCA"/>
+			<name role="nrol:mnemonic">TCA</name>
+			<name role="nrol:display" xml:lang="en">Turks and Caicos Islands</name>
+			<name role="nrol:display" xml:lang="de">Turks- und Caicosinseln</name>
+			<sameAs qcode="iso3166-1a3:TCA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:UGA"/>
+			<name role="nrol:mnemonic">UGA</name>
+			<name role="nrol:display" xml:lang="en">Uganda</name>
+			<name role="nrol:display" xml:lang="de">Uganda</name>
+			<sameAs qcode="iso3166-1a3:UGA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:UKR"/>
+			<name role="nrol:mnemonic">UKR</name>
+			<name role="nrol:display" xml:lang="en">Ukraine</name>
+			<name role="nrol:display" xml:lang="de">Ukraine</name>
+			<sameAs qcode="iso3166-1a3:UKR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:UAE"/>
+			<name role="nrol:mnemonic">UAE</name>
+			<name role="nrol:display" xml:lang="en">United Arab Emirates</name>
+			<name role="nrol:display" xml:lang="de">Vereinigte Arabische Emirate</name>
+			<sameAs qcode="iso3166-1a3:ARE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:USA"/>
+			<name role="nrol:mnemonic">USA</name>
+			<name role="nrol:display" xml:lang="en">United States</name>
+			<name role="nrol:display" xml:lang="de">USA</name>
+			<sameAs qcode="iso3166-1a3:USA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:URU"/>
+			<name role="nrol:mnemonic">URU</name>
+			<name role="nrol:display" xml:lang="en">Uruguay</name>
+			<name role="nrol:display" xml:lang="de">Uruguay</name>
+			<sameAs qcode="iso3166-1a3:URY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:UZB"/>
+			<name role="nrol:mnemonic">UZB</name>
+			<name role="nrol:display" xml:lang="en">Uzbekistan</name>
+			<name role="nrol:display" xml:lang="de">Usbekistan</name>
+			<sameAs qcode="iso3166-1a3:UZB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VAN"/>
+			<name role="nrol:mnemonic">VAN</name>
+			<name role="nrol:display" xml:lang="en">Vanuatu</name>
+			<name role="nrol:display" xml:lang="de">Vanuatu</name>
+			<sameAs qcode="iso3166-1a3:VUT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VEN"/>
+			<name role="nrol:mnemonic">VEN</name>
+			<name role="nrol:display" xml:lang="en">Venezuela</name>
+			<name role="nrol:display" xml:lang="de">Venezuela</name>
+			<sameAs qcode="iso3166-1a3:VEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:VIE"/>
+			<name role="nrol:mnemonic">VIE</name>
+			<name role="nrol:display" xml:lang="en">Vietnam</name>
+			<name role="nrol:display" xml:lang="de">Vietnam</name>
+			<sameAs qcode="iso3166-1a3:VNM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:WAL"/>
+			<name role="nrol:mnemonic">WAL</name>
+			<name role="nrol:display" xml:lang="en">Wales</name>
+			<name role="nrol:display" xml:lang="de">Wales</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:YEM"/>
+			<name role="nrol:mnemonic">YEM</name>
+			<name role="nrol:display" xml:lang="en">Yemen</name>
+			<name role="nrol:display" xml:lang="de">Jemen</name>
+			<sameAs qcode="iso3166-1a3:YEM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ZAM"/>
+			<name role="nrol:mnemonic">ZAM</name>
+			<name role="nrol:display" xml:lang="en">Zambia</name>
+			<name role="nrol:display" xml:lang="de">Sambia</name>
+			<sameAs qcode="iso3166-1a3:ZMB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ZIM"/>
+			<name role="nrol:mnemonic">ZIM</name>
+			<name role="nrol:display" xml:lang="en">Zimbabwe</name>
+			<name role="nrol:display" xml:lang="de">Zimbabwe</name>
+			<sameAs qcode="iso3166-1a3:ZWE"/>
+		</concept>
+		<!-- Non-FIFA member codes -->
+		<concept>
+			<conceptId qcode="dpax-fifacountry:BOE"/>
+			<name role="nrol:mnemonic">BOE</name>
+			<name role="nrol:display" xml:lang="en">Bonaire</name>
+			<name role="nrol:display" xml:lang="de">Bonaire</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GYF"/>
+			<name role="nrol:mnemonic">GYF</name>
+			<name role="nrol:display" xml:lang="en">French Guiana</name>
+			<name role="nrol:display" xml:lang="de">Französisch-Guayana</name>
+			<sameAs qcode="iso3166-1a3:GUF"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GIB"/>
+			<name role="nrol:mnemonic">GIB</name>
+			<name role="nrol:display" xml:lang="en">Gibraltar</name>
+			<name role="nrol:display" xml:lang="de">Gibraltar</name>
+			<sameAs qcode="iso3166-1a3:GIB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GBR"/>
+			<name role="nrol:mnemonic">GBR</name>
+			<name role="nrol:display" xml:lang="en">Great Britain</name>
+			<name role="nrol:display" xml:lang="de">Großbritannien</name>
+			<sameAs qcode="iso3166-1a3:GBR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:GPE"/>
+			<name role="nrol:mnemonic">GPE</name>
+			<name role="nrol:display" xml:lang="en">Guadeloupe</name>
+			<name role="nrol:display" xml:lang="de">Guadeloupe</name>
+			<sameAs qcode="iso3166-1a3:GLP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:MTQ"/>
+			<name role="nrol:mnemonic">MTQ</name>
+			<name role="nrol:display" xml:lang="en">Martinique</name>
+			<name role="nrol:display" xml:lang="de">Martinique</name>
+			<sameAs qcode="iso3166-1a3:MTQ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:REU"/>
+			<name role="nrol:mnemonic">REU</name>
+			<name role="nrol:display" xml:lang="en">Réunion</name>
+			<name role="nrol:display" xml:lang="de">Réunion</name>
+			<sameAs qcode="iso3166-1a3:REU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:SXM"/>
+			<name role="nrol:mnemonic">SXM</name>
+			<name role="nrol:display" xml:lang="en">Sint Maarten</name>
+			<name role="nrol:display" xml:lang="de">Sint Maarten</name>
+			<sameAs qcode="iso3166-1a3:SXM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:TUV"/>
+			<name role="nrol:mnemonic">TUV</name>
+			<name role="nrol:display" xml:lang="en">Tuvalu</name>
+			<name role="nrol:display" xml:lang="de">Tuvalu</name>
+			<sameAs qcode="iso3166-1a3:TUV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-fifacountry:ZAN"/>
+			<name role="nrol:mnemonic">ZAN</name>
+			<name role="nrol:display" xml:lang="en">Zanzibar</name>
+			<name role="nrol:display" xml:lang="de">Sansibar</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta  authority="http://www.dpa.com" preferredalias="dpax-fifacountry" uri="http://g2.dpa.com/cv/dpax-fifacountry/">
+		<definition>TODO</definition>
+		<name>dpax-fifacountry</name>
+	</schemeMeta>
+</knowledgeItem>

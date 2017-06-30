@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2012-01-31 16:23:56 +0100 (Di, 31 Jan 2012) $                          
+ +++ $LastChangedRevision: 4045 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:sicat" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ file:///C:/work/00-eclipse/mule-module-dpa/src/main/resources/nar/xsd/NAR_1.8-spec-All-Power_2.xsd">
+    
+    
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2011-11-04T12:00:00+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+        <title>G2 Abbildung der SI Categories</title>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="dpax-sicat:sb"/>
+            <name role="nrol:mnemonic">sb</name>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+    </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-sicat" uri="http://g2.dpa.com/cv/dpax-sicat/"><definition>TODO</definition><name>dpax-sicat</name></schemeMeta></knowledgeItem>

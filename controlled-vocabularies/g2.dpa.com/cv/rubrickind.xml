@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2012-01-31 16:23:56 +0100 (Di, 31 Jan 2012) $                          
+ +++ $LastChangedRevision: 4045 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:rubrickind" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-04-30T13:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Rubrik-Arten für Plattform dpa-news und infocom Weblines Rubriken</title>
+		<edNote>Rubriken können redaktionell oder regelbasiert aus anderen Rubriken mit Meldungen bestückt werden</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>dpa Rubrik-Arten für Plattform dpa-news und infocom Weblines Rubriken</headline>
+	</contentMeta>
+  <conceptSet>
+    <concept>
+      <conceptId created="2012-04-30T13:00:00+02:00" qcode="dparubrickind:editorial"/>
+      <name role="nrol:mnemonic">editorial</name>
+      <name role="nrol:display" xml:lang="de">redaktionell</name>
+      <name role="nrol:display" xml:lang="en">editorial</name>
+    </concept>
+    <concept>
+      <conceptId created="2014-09-01T13:00:00+02:00" qcode="dparubrickind:planning"/>
+      <name role="nrol:mnemonic">planning</name>
+      <name role="nrol:display" xml:lang="de">Vorschau</name>
+      <name role="nrol:display" xml:lang="en">schedule</name>
+    </concept>	
+    <concept>
+      <conceptId created="2012-04-30T13:00:00+02:00" qcode="dparubrickind:rulebased"/>
+      <name role="nrol:mnemonic" xml:lang="en">rulebased</name>
+      <name role="nrol:display" xml:lang="de">regelbasiert</name>
+      <name role="nrol:display" xml:lang="en">rules based</name>
+    </concept>
+  </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dparubrickind" uri="http://g2.dpa.com/cv/rubrickind/"><definition>TODO</definition><name>dparubrickind</name></schemeMeta></knowledgeItem>

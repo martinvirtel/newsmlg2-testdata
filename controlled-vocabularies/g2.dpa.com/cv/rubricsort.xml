@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2012-01-31 16:23:56 +0100 (Di, 31 Jan 2012) $                          
+ +++ $LastChangedRevision: 4045 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:rubricsort" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-04-30T13:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Rubrik-Sortierungen für Plattform dpa-news und infocom Weblines Rubriken</title>
+		<edNote>Rubriken können manuell oder regelbasiert sortiert werden</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>dpa Rubrik-Sortierungen für Plattform dpa-news und infocom Weblines Rubriken</headline>
+	</contentMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2012-04-30T13:00:00+02:00" qcode="dparubricsort:datepriotime"/>
+			<name role="nrol:mnemonic">datepriotime</name>
+			<name role="nrol:full" xml:lang="de">Datum absteigend – Priorität aufsteigend – Zeit absteigend</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-30T13:00:00+02:00" qcode="dparubricsort:datetime"/>
+			<name role="nrol:mnemonic">datetime</name>
+			<name role="nrol:full" xml:lang="de">Datum absteigend – Zeit absteigend</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-06-30T13:00:00+02:00" qcode="dparubricsort:manual"/>
+			<name role="nrol:mnemonic">manual</name>
+			<name role="nrol:full" xml:lang="de">händisch</name>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dparubricsort" uri="http://g2.dpa.com/cv/rubricsort/"><definition>TODO</definition><name>dparubricsort</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2016-06-01 13:15:25 +0200 (Mi, 01 Jun 2016) $                          
+ +++ $LastChangedRevision: 18531 $                          
+ +++ $LastChangedBy: rathje.kalle $                          
+ +++++++++++++++++++++++++++++++++
+ -->
+ <knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power"
+               guid="urn:newsml:g2.dpa.com:20090101:videogenre" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+    <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+    <rightsInfo>
+        <copyrightHolder qcode="nprov:dpa"/>
+        <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2016-06-01T14:00:00+02:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="dpavideogenre:interview"/>
+            <name role="nrol:display" xml:lang="de">Video-Interview</name>
+            <name role="nrol:display" xml:lang="en">video interview</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dpavideogenre:story"/>
+            <name role="nrol:display" xml:lang="de">Video-Beitrag</name>
+            <name role="nrol:display" xml:lang="en">video story</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dpavideogenre:fresh"/>
+            <name role="nrol:display" xml:lang="de">Video-Aktuell</name>
+            <name role="nrol:display" xml:lang="en">fresh video</name>
+        </concept>
+    </conceptSet>
+    <schemeMeta authority="http://www.dpa.com" preferredalias="dpavideogenre" uri="http://g2.dpa.com/cv/videogenre/">
+        <definition>TODO</definition>
+        <name>dpavideogenre</name>
+    </schemeMeta>
+</knowledgeItem>

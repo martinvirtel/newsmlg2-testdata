@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:adncat" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ file:///C:/work/00-eclipse/mule-module-dpa/src/main/resources/nar/xsd/NAR_1.8-spec-All-Power_2.xsd">
+    
+    
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2011-11-04T12:00:00+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+        <title>G2 Abbildung der Adnkronos Categories</title>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="dpax-adncat:ALR"/>
+            <name role="nrol:mnemonic">ALR</name>
+            <name xml:lang="it">Altro</name>
+            <name xml:lang="en">Other</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CRO"/>
+            <name role="nrol:mnemonic">CRO</name>
+            <name xml:lang="it">Cronaca</name>
+            <name xml:lang="en">News</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CBI"/>
+            <name role="nrol:mnemonic">CBI</name>
+            <name xml:lang="it">Cronaca Bianca</name>
+            <name xml:lang="en">Generic news</name>
+            <broader qcode="dpax-adncat:CRO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CCO"/>
+            <name role="nrol:mnemonic">CCO</name>
+            <name xml:lang="it">Cronaca Costume</name>
+            <name xml:lang="en">Gossip</name>
+            <broader qcode="dpax-adncat:CRO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CGI"/>
+            <name role="nrol:mnemonic">CGI</name>
+            <name xml:lang="it">Cronaca Giudiziaria</name>
+            <name xml:lang="en">Judicial record</name>
+            <broader qcode="dpax-adncat:CRO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CNE"/>
+            <name role="nrol:mnemonic">CNE</name>
+            <name xml:lang="it">Cronaca Nera</name>
+            <name xml:lang="en">Crime</name>
+            <broader qcode="dpax-adncat:CRO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CUL"/>
+            <name role="nrol:mnemonic">CUL</name>
+            <name xml:lang="it">Cultura</name>
+            <name xml:lang="en">Culture</name>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CAR"/>
+            <name role="nrol:mnemonic">CAR</name>
+            <name xml:lang="it">Arte</name>
+            <name xml:lang="en">Arts</name>
+            <broader qcode="dpax-adncat:CUL"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CLI"/>
+            <name role="nrol:mnemonic">CLI</name>
+            <name xml:lang="it">Libri</name>
+            <name xml:lang="en">Books</name>
+            <broader qcode="dpax-adncat:CUL"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:CYB"/>
+            <name role="nrol:mnemonic">CYB</name>
+            <name xml:lang="it">Cybernews</name>
+            <name xml:lang="en">Hi-tec</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:ECO"/>
+            <name role="nrol:mnemonic">ECO</name>
+            <name xml:lang="it">Economia</name>
+            <name xml:lang="en">Economics</name>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:EAM"/>
+            <name role="nrol:mnemonic">EAM</name>
+            <name xml:lang="it">Ambiente</name>
+            <name xml:lang="en">Environment</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:EDI"/>
+            <name role="nrol:mnemonic">EDI</name>
+            <name xml:lang="it">Editoria</name>
+            <name xml:lang="en">Publishing</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:EEN"/>
+            <name role="nrol:mnemonic">EEN</name>
+            <name xml:lang="it">Energia</name>
+            <name xml:lang="en">Energy</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:EFI"/>
+            <name role="nrol:mnemonic">EFI</name>
+            <name xml:lang="it">Finanza</name>
+            <name xml:lang="en">Finance</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:LAV"/>
+            <name role="nrol:mnemonic">LAV</name>
+            <name xml:lang="it">Lavoro</name>
+            <name xml:lang="en">Employment</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:ESI"/>
+            <name role="nrol:mnemonic">ESI</name>
+            <name xml:lang="it">Sindacato</name>
+            <name xml:lang="en">Labor union</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:ETC"/>
+            <name role="nrol:mnemonic">ETC</name>
+            <name xml:lang="it">Telecomunicazioni</name>
+            <name xml:lang="en">Telecommunications</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:wi"/>
+            <broader qcode="dparessort:wi"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:ETU"/>
+            <name role="nrol:mnemonic">ETU</name>
+            <name xml:lang="it">Turismo</name>
+            <name xml:lang="en">Turism</name>
+            <broader qcode="dpax-adncat:ECO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDG"/>
+            <name role="nrol:mnemonic">FDG</name>
+            <name xml:lang="it">Fatti del Giorno</name>
+            <name xml:lang="en">Facts of the day</name>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDT"/>
+            <name role="nrol:mnemonic">FDT</name>
+            <name xml:lang="it">Titoli</name>
+            <name xml:lang="en">Titles</name>
+            <broader qcode="dpax-adncat:FDG"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDE"/>
+            <name role="nrol:mnemonic">FDT</name>
+            <name xml:lang="it">Esteri</name>
+            <name xml:lang="en">Foreign affairs</name>
+            <broader qcode="dpax-adncat:FDG"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDI"/>
+            <name role="nrol:mnemonic">FDI</name>
+            <name xml:lang="it">Interni</name>
+            <name xml:lang="en">Internal affairs</name>
+            <broader qcode="dpax-adncat:FDG"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDC"/>
+            <name role="nrol:mnemonic">FDC</name>
+            <name xml:lang="it">Cronaca</name>
+            <name xml:lang="en">News</name>
+            <broader qcode="dpax-adncat:FDG"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:FDS"/>
+            <name role="nrol:mnemonic">FDS</name>
+            <name xml:lang="it">Sport</name>
+            <name xml:lang="en">Sport</name>
+            <broader qcode="dpax-adncat:FDG"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:EST"/>
+            <name role="nrol:mnemonic">EST</name>
+            <name xml:lang="it">Esteri</name>
+            <name xml:lang="en">Foreign affairs</name>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:NOS"/>
+            <name role="nrol:mnemonic">NOS</name>
+            <name xml:lang="it">Note di servizio</name>
+            <name xml:lang="en">Service Warnings</name>
+            <broader qcode="dpacat:rs"/>
+            <broader qcode="dparessort:rs"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:ORO"/>
+            <name role="nrol:mnemonic">ORO</name>
+            <name xml:lang="it">Oroscopo</name>
+            <name xml:lang="en">Horoscope</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:GDF"/>
+            <name role="nrol:mnemonic">GDF</name>
+            <name xml:lang="it">Giorno Dei Fatti</name>
+            <name xml:lang="en">Today's events</name>
+            <broader qcode="dpax-adncat:ORO"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SDG"/>
+            <name role="nrol:mnemonic">SDG</name>
+            <name xml:lang="it">Santo Del Giorno</name>
+            <name xml:lang="en">Saint of the day</name>
+            <broader qcode="dpax-adncat:ORO"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:POL"/>
+            <name role="nrol:mnemonic">POL</name>
+            <name xml:lang="it">Politica</name>
+            <name xml:lang="en">Politics</name>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:PMI"/>
+            <name role="nrol:mnemonic">PMI</name>
+            <name xml:lang="it">Attività dei Ministri</name>
+            <name xml:lang="en">Activities of ministers</name>
+            <broader qcode="dpax-adncat:POL"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:PPA"/>
+            <name role="nrol:mnemonic">PPA</name>
+            <name xml:lang="it">Attività dei Partiti</name>
+            <name xml:lang="en">Activities of parties</name>
+            <broader qcode="dpax-adncat:POL"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:PGO"/>
+            <name role="nrol:mnemonic">PGO</name>
+            <name xml:lang="it">Attività del Governo</name>
+            <name xml:lang="en">Activities of the government</name>
+            <broader qcode="dpax-adncat:POL"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:PPR"/>
+            <name role="nrol:mnemonic">PPR</name>
+            <name xml:lang="it">Attività del Parlamento</name>
+            <name xml:lang="en">Activities of the Parliament</name>
+            <broader qcode="dpax-adncat:POL"/>
+            <broader qcode="dpacat:pl"/>
+            <broader qcode="dparessort:pl"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:QUA"/>
+            <name role="nrol:mnemonic">QUA</name>
+            <name xml:lang="it">Qualità della Vita</name>
+            <name xml:lang="en">Quality of life</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SCI"/>
+            <name role="nrol:mnemonic">SCI</name>
+            <name xml:lang="it">Scienza</name>
+            <name xml:lang="en">Science</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SPE"/>
+            <name role="nrol:mnemonic">SPE</name>
+            <name xml:lang="it">Spettacolo</name>
+            <name xml:lang="en">Entertainment</name>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SVA"/>
+            <name role="nrol:mnemonic">SVA</name>
+            <name xml:lang="it">Altro</name>
+            <name xml:lang="en">Other</name>
+            <broader qcode="dpax-adncat:SPE"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SCN"/>
+            <name role="nrol:mnemonic">SCN</name>
+            <name xml:lang="it">Cinema</name>
+            <name xml:lang="en">Cinema</name>
+            <broader qcode="dpax-adncat:SPE"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SMU"/>
+            <name role="nrol:mnemonic">SMU</name>
+            <name xml:lang="it">Musica</name>
+            <name xml:lang="en">Music</name>
+            <broader qcode="dpax-adncat:SPE"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:STE"/>
+            <name role="nrol:mnemonic">STE</name>
+            <name xml:lang="it">Teatro</name>
+            <name xml:lang="en">Theatre</name>
+            <broader qcode="dpax-adncat:SPE"/>
+            <broader qcode="dpacat:ku"/>
+            <broader qcode="dparessort:ku"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:STV"/>
+            <name role="nrol:mnemonic">STV</name>
+            <name xml:lang="it">Televisione</name>
+            <name xml:lang="en">Television</name>
+            <broader qcode="dpax-adncat:SPE"/>
+            <broader qcode="dpacat:vm"/>
+            <broader qcode="dparessort:vm"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SPR"/>
+            <name role="nrol:mnemonic">SPR</name>
+            <name xml:lang="it">Sport</name>
+            <name xml:lang="en">Sport</name>
+            <broader qcode="dpacat:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SAC"/>
+            <name role="nrol:mnemonic">SAC</name>
+            <name xml:lang="it">Acquatici</name>
+            <name xml:lang="en">Water sports</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SAS"/>
+            <name role="nrol:mnemonic">SAS</name>
+            <name xml:lang="it">Altri Sport</name>
+            <name xml:lang="en">Other sports</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SAT"/>
+            <name role="nrol:mnemonic">SAT</name>
+            <name xml:lang="it">Atletica</name>
+            <name xml:lang="en">Athletics</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SAU"/>
+            <name role="nrol:mnemonic">SAU</name>
+            <name xml:lang="it">Automobilismo</name>
+            <name xml:lang="en">Motoring</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SBA"/>
+            <name role="nrol:mnemonic">SBA</name>
+            <name xml:lang="it">Basket</name>
+            <name xml:lang="en">Basket</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SCA"/>
+            <name role="nrol:mnemonic">SCA</name>
+            <name xml:lang="it">Calcio</name>
+            <name xml:lang="en">Soccer</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SCL"/>
+            <name role="nrol:mnemonic">SCL</name>
+            <name xml:lang="it">Ciclismo</name>
+            <name xml:lang="en">Cycling</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SGL"/>
+            <name role="nrol:mnemonic">SGL</name>
+            <name xml:lang="it">Golf</name>
+            <name xml:lang="en">Golf</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SPO"/>
+            <name role="nrol:mnemonic">SPO</name>
+            <name xml:lang="it">Politica Sportiva</name>
+            <name xml:lang="en">Sport politics</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:SIN"/>
+            <name role="nrol:mnemonic">SIN</name>
+            <name xml:lang="it">Sport Invernali</name>
+            <name xml:lang="en">Winter sports</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpax-adncat:STN"/>
+            <name role="nrol:mnemonic">STN</name>
+            <name xml:lang="it">Tennis</name>
+            <name xml:lang="en">Tennis</name>
+            <broader qcode="dpax-adncat:SPR"/>
+            <broader qcode="dpacat:sp"/>
+            <broader qcode="dparessort:sp"/>
+        </concept>
+    </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-adncat" uri="http://g2.dpa.com/cv/dpax-adncat/"><definition>TODO</definition><name>dpax-adncat</name></schemeMeta></knowledgeItem>

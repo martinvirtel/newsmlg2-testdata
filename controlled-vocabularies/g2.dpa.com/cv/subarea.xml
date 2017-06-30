@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:subarea" standard="NewsML-G2" standardversion="2.12" version="6" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><catalog>
+		<scheme alias="dpax-kgs8" uri="http://g2.dpa.com/cv/dpax-kgs8/"/>
+		<scheme alias="nprov" uri="http://cv.iptc.org/newscodes/newsprovider/"/>
+		<scheme alias="dpasubarea" uri="http://g2.dpa.com/cv/subarea/"/>
+	</catalog>
+	
+	
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-11-08T11:31:38+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpasubarea:145"/>
+			<name xml:lang="de">Ahrweiler</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07131000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:310"/>
+			<name xml:lang="de">Aichach-Friedberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09771000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:219"/>
+			<name xml:lang="de">Alb-Donau-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08425000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:412"/>
+			<name xml:lang="de">Altenburger Land</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16077000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:146"/>
+			<name xml:lang="de">Altenkirchen (Westerwald)</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07132000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:379"/>
+			<name xml:lang="de">Altmarkkreis Salzwedel</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15081000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:227"/>
+			<name xml:lang="de">Altötting</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09171000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:170"/>
+			<name xml:lang="de">Alzey-Worms</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07331000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:259"/>
+			<name xml:lang="de">Amberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09361000"/>
+			<sameAs qcode="dpalocality:7175"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:262"/>
+			<name xml:lang="de">Amberg-Sulzbach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09371000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:51"/>
+			<name xml:lang="de">Ammerland</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03451000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:380"/>
+			<name xml:lang="de">Anhalt-Bitterfeld</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15082000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:282"/>
+			<name xml:lang="de">Ansbach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09561000"/>
+			<sameAs qcode="dpalocality:7627"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:294"/>
+			<name xml:lang="de">Aschaffenburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09661000"/>
+			<sameAs qcode="dpalocality:7842"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:306"/>
+			<name xml:lang="de">Augsburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09761000"/>
+			<sameAs qcode="dpalocality:8157"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:52"/>
+			<name xml:lang="de">Aurich</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03452000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:351"/>
+			<name xml:lang="de">Bad Doberan</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13051000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:171"/>
+			<name xml:lang="de">Bad Dürkheim</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07332000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:298"/>
+			<name xml:lang="de">Bad Kissingen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09672000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:147"/>
+			<name xml:lang="de">Bad Kreuznach</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07133000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:229"/>
+			<name xml:lang="de">Bad Tölz-Wolfratshausen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09173000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:193"/>
+			<name xml:lang="de">Baden-Baden</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08211000"/>
+			<sameAs qcode="dpalocality:5644"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:269"/>
+			<name xml:lang="de">Bamberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09461000"/>
+			<sameAs qcode="dpalocality:7406"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:331"/>
+			<name xml:lang="de">Barnim</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12060000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:369"/>
+			<name xml:lang="de">Bautzen</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14625000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:270"/>
+			<name xml:lang="de">Bayreuth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09462000"/>
+			<sameAs qcode="dpalocality:7407"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:228"/>
+			<name xml:lang="de">Berchtesgadener Land</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09172000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:122"/>
+			<name xml:lang="de">Bergstraße</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06431000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:326"/>
+			<name xml:lang="de">Berlin</name>
+			<broader qcode="dpaarea:3"/>
+			<related qcode="dpax-kgs8:11000000"/>
+			<sameAs qcode="dpalocality:8555"/>
+			<sameAs qcode="dpaarea:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:156"/>
+			<name xml:lang="de">Bernkastel-Wittlich</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07231000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:220"/>
+			<name xml:lang="de">Biberach</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08426000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:99"/>
+			<name xml:lang="de">Bielefeld</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05711000"/>
+			<sameAs qcode="dpalocality:2412"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:148"/>
+			<name xml:lang="de">Birkenfeld</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07134000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:106"/>
+			<name xml:lang="de">Bochum</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05911000"/>
+			<sameAs qcode="dpalocality:2482"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:221"/>
+			<name xml:lang="de">Bodenseekreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08435000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:80"/>
+			<name xml:lang="de">Bonn</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05314000"/>
+			<sameAs qcode="dpalocality:2235"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:94"/>
+			<name xml:lang="de">Borken</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05554000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:91"/>
+			<name xml:lang="de">Bottrop</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05512000"/>
+			<sameAs qcode="dpalocality:2334"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:327"/>
+			<name xml:lang="de">Brandenburg an der Havel</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12051000"/>
+			<sameAs qcode="dpalocality:8556"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:17"/>
+			<name xml:lang="de">Braunschweig</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03101000"/>
+			<sameAs qcode="dpalocality:1120"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:206"/>
+			<name xml:lang="de">Breisgau-Hochschwarzwald</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08315000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:63"/>
+			<name xml:lang="de">Bremen</name>
+			<broader qcode="dpaarea:5"/>
+			<related qcode="dpax-kgs8:04011000"/>
+			<sameAs qcode="dpalocality:2167"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:64"/>
+			<name xml:lang="de">Bremerhaven</name>
+			<broader qcode="dpaarea:5"/>
+			<related qcode="dpax-kgs8:04012000"/>
+			<sameAs qcode="dpalocality:2168"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:382"/>
+			<name xml:lang="de">Burgenlandkreis</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15084000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:181"/>
+			<name xml:lang="de">Böblingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08115000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:381"/>
+			<name xml:lang="de">Börde</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15083000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:202"/>
+			<name xml:lang="de">Calw</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08235000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:35"/>
+			<name xml:lang="de">Celle</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03351000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:263"/>
+			<name xml:lang="de">Cham</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09372000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:363"/>
+			<name xml:lang="de">Chemnitz</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14511000"/>
+			<sameAs qcode="dpalocality:9792"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:53"/>
+			<name xml:lang="de">Cloppenburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03453000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:271"/>
+			<name xml:lang="de">Coburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09463000"/>
+			<sameAs qcode="dpalocality:7408"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:149"/>
+			<name xml:lang="de">Cochem-Zell</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07135000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:95"/>
+			<name xml:lang="de">Coesfeld</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05558000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:328"/>
+			<name xml:lang="de">Cottbus</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12052000"/>
+			<sameAs qcode="dpalocality:8557"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:36"/>
+			<name xml:lang="de">Cuxhaven</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03352000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:230"/>
+			<name xml:lang="de">Dachau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09174000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:332"/>
+			<name xml:lang="de">Dahme-Spreewald</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12061000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:118"/>
+			<name xml:lang="de">Darmstadt</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06411000"/>
+			<sameAs qcode="dpalocality:2565"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:123"/>
+			<name xml:lang="de">Darmstadt-Dieburg</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06432000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:250"/>
+			<name xml:lang="de">Deggendorf</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09271000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:46"/>
+			<name xml:lang="de">Delmenhorst</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03401000"/>
+			<sameAs qcode="dpalocality:1917"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:352"/>
+			<name xml:lang="de">Demmin</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13052000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:376"/>
+			<name xml:lang="de">Dessau-Roßlau</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15001000"/>
+			<sameAs qcode="dpalocality:10280"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:29"/>
+			<name xml:lang="de">Diepholz</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03251000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:312"/>
+			<name xml:lang="de">Dillingen a.d.Donau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09773000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:258"/>
+			<name xml:lang="de">Dingolfing-Landau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09279000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:5"/>
+			<name xml:lang="de">Dithmarschen</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01051000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:318"/>
+			<name xml:lang="de">Donau-Ries</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09779000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:172"/>
+			<name xml:lang="de">Donnersbergkreis</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07333000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:107"/>
+			<name xml:lang="de">Dortmund</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05913000"/>
+			<sameAs qcode="dpalocality:2483"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:368"/>
+			<name xml:lang="de">Dresden</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14612000"/>
+			<sameAs qcode="dpalocality:10002"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:66"/>
+			<name xml:lang="de">Duisburg</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05112000"/>
+			<sameAs qcode="dpalocality:2170"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:84"/>
+			<name xml:lang="de">Düren</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05358000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:65"/>
+			<name xml:lang="de">Düsseldorf</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05111000"/>
+			<sameAs qcode="dpalocality:2169"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:231"/>
+			<name xml:lang="de">Ebersberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09175000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:396"/>
+			<name xml:lang="de">Eichsfeld</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16061000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:232"/>
+			<name xml:lang="de">Eichstätt</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09176000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:157"/>
+			<name xml:lang="de">Eifelkreis Bitburg-Prüm</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07232000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:395"/>
+			<name xml:lang="de">Eisenach</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16056000"/>
+			<sameAs qcode="dpalocality:11118"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:333"/>
+			<name xml:lang="de">Elbe-Elster</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12062000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:47"/>
+			<name xml:lang="de">Emden</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03402000"/>
+			<sameAs qcode="dpalocality:1918"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:207"/>
+			<name xml:lang="de">Emmendingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08316000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:54"/>
+			<name xml:lang="de">Emsland</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03454000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:111"/>
+			<name xml:lang="de">Ennepe-Ruhr-Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05954000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:203"/>
+			<name xml:lang="de">Enzkreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08236000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:233"/>
+			<name xml:lang="de">Erding</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09177000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:390"/>
+			<name xml:lang="de">Erfurt</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16051000"/>
+			<sameAs qcode="dpalocality:11113"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:283"/>
+			<name xml:lang="de">Erlangen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09562000"/>
+			<sameAs qcode="dpalocality:7628"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:288"/>
+			<name xml:lang="de">Erlangen-Höchstadt</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09572000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:364"/>
+			<name xml:lang="de">Erzgebirgskreis</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14521000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:67"/>
+			<name xml:lang="de">Essen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05113000"/>
+			<sameAs qcode="dpalocality:2171"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:182"/>
+			<name xml:lang="de">Esslingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08116000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:86"/>
+			<name xml:lang="de">Euskirchen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05366000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:1"/>
+			<name xml:lang="de">Flensburg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01001000"/>
+			<sameAs qcode="dpalocality:1"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:276"/>
+			<name xml:lang="de">Forchheim</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09474000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:160"/>
+			<name xml:lang="de">Frankenthal (Pfalz)</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07311000"/>
+			<sameAs qcode="dpalocality:4664"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:329"/>
+			<name xml:lang="de">Frankfurt (Oder)</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12053000"/>
+			<sameAs qcode="dpalocality:8558"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:119"/>
+			<name xml:lang="de">Frankfurt am Main</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06412000"/>
+			<sameAs qcode="dpalocality:2566"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:205"/>
+			<name xml:lang="de">Freiburg im Breisgau</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08311000"/>
+			<sameAs qcode="dpalocality:5854"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:234"/>
+			<name xml:lang="de">Freising</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09178000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:204"/>
+			<name xml:lang="de">Freudenstadt</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08237000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:251"/>
+			<name xml:lang="de">Freyung-Grafenau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09272000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:55"/>
+			<name xml:lang="de">Friesland</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03455000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:138"/>
+			<name xml:lang="de">Fulda</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06631000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:235"/>
+			<name xml:lang="de">Fürstenfeldbruck</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09179000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:284"/>
+			<name xml:lang="de">Fürth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09563000"/>
+			<sameAs qcode="dpalocality:7629"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:236"/>
+			<name xml:lang="de">Garmisch-Partenkirchen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09180000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:92"/>
+			<name xml:lang="de">Gelsenkirchen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05513000"/>
+			<sameAs qcode="dpalocality:2335"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:391"/>
+			<name xml:lang="de">Gera</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16052000"/>
+			<sameAs qcode="dpalocality:11114"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:173"/>
+			<name xml:lang="de">Germersheim</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07334000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:132"/>
+			<name xml:lang="de">Gießen</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06531000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:20"/>
+			<name xml:lang="de">Gifhorn</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03151000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:22"/>
+			<name xml:lang="de">Goslar</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03153000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:402"/>
+			<name xml:lang="de">Gotha</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16067000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:56"/>
+			<name xml:lang="de">Grafschaft Bentheim</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03456000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:345"/>
+			<name xml:lang="de">Greifswald</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13001000"/>
+			<sameAs qcode="dpalocality:8975"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:411"/>
+			<name xml:lang="de">Greiz</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16076000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:124"/>
+			<name xml:lang="de">Groß-Gerau</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06433000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:183"/>
+			<name xml:lang="de">Göppingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08117000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:370"/>
+			<name xml:lang="de">Görlitz</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14626000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:21"/>
+			<name xml:lang="de">Göttingen</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03152000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:313"/>
+			<name xml:lang="de">Günzburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09774000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:353"/>
+			<name xml:lang="de">Güstrow</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13053000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:100"/>
+			<name xml:lang="de">Gütersloh</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05754000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:108"/>
+			<name xml:lang="de">Hagen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05914000"/>
+			<sameAs qcode="dpalocality:2484"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:377"/>
+			<name xml:lang="de">Halle (Saale)</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15002000"/>
+			<sameAs qcode="dpalocality:10281"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:16"/>
+			<name xml:lang="de">Hamburg</name>
+			<broader qcode="dpaarea:6"/>
+			<related qcode="dpax-kgs8:02000000"/>
+			<sameAs qcode="dpalocality:1119"/>
+			<sameAs qcode="dpaarea:6"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:30"/>
+			<name xml:lang="de">Hameln-Pyrmont</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03252000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:109"/>
+			<name xml:lang="de">Hamm</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05915000"/>
+			<sameAs qcode="dpalocality:2485"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:37"/>
+			<name xml:lang="de">Harburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03353000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:383"/>
+			<name xml:lang="de">Harz</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15085000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:334"/>
+			<name xml:lang="de">Havelland</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12063000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:300"/>
+			<name xml:lang="de">Haßberge</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09674000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:197"/>
+			<name xml:lang="de">Heidelberg</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08221000"/>
+			<sameAs qcode="dpalocality:5701"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:191"/>
+			<name xml:lang="de">Heidenheim</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08135000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:186"/>
+			<name xml:lang="de">Heilbronn</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08121000"/>
+			<sameAs qcode="dpalocality:5480"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:87"/>
+			<name xml:lang="de">Heinsberg</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05370000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:23"/>
+			<name xml:lang="de">Helmstedt</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03154000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:101"/>
+			<name xml:lang="de">Herford</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05758000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:110"/>
+			<name xml:lang="de">Herne</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05916000"/>
+			<sameAs qcode="dpalocality:2486"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:139"/>
+			<name xml:lang="de">Hersfeld-Rotenburg</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06632000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:6"/>
+			<name xml:lang="de">Herzogtum Lauenburg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01053000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:404"/>
+			<name xml:lang="de">Hildburghausen</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16069000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:31"/>
+			<name xml:lang="de">Hildesheim</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03254000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:112"/>
+			<name xml:lang="de">Hochsauerlandkreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05958000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:125"/>
+			<name xml:lang="de">Hochtaunuskreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06434000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:272"/>
+			<name xml:lang="de">Hof</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09464000"/>
+			<sameAs qcode="dpalocality:7409"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:188"/>
+			<name xml:lang="de">Hohenlohekreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08126000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:32"/>
+			<name xml:lang="de">Holzminden</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03255000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:102"/>
+			<name xml:lang="de">Höxter</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05762000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:405"/>
+			<name xml:lang="de">Ilm-Kreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16070000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:224"/>
+			<name xml:lang="de">Ingolstadt</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09161000"/>
+			<sameAs qcode="dpalocality:6404"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:392"/>
+			<name xml:lang="de">Jena</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16053000"/>
+			<sameAs qcode="dpalocality:11115"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:384"/>
+			<name xml:lang="de">Jerichower Land</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15086000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:161"/>
+			<name xml:lang="de">Kaiserslautern</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07312000"/>
+			<sameAs qcode="dpalocality:4665"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:194"/>
+			<name xml:lang="de">Karlsruhe</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08212000"/>
+			<sameAs qcode="dpalocality:5645"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:137"/>
+			<name xml:lang="de">Kassel</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06611000"/>
+			<sameAs qcode="dpalocality:2855"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:307"/>
+			<name xml:lang="de">Kaufbeuren</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09762000"/>
+			<sameAs qcode="dpalocality:8158"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:252"/>
+			<name xml:lang="de">Kelheim</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09273000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:308"/>
+			<name xml:lang="de">Kempten (Allgäu)</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09763000"/>
+			<sameAs qcode="dpalocality:8159"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:2"/>
+			<name xml:lang="de">Kiel</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01002000"/>
+			<sameAs qcode="dpalocality:2"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:301"/>
+			<name xml:lang="de">Kitzingen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09675000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:75"/>
+			<name xml:lang="de">Kleve</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05154000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:144"/>
+			<name xml:lang="de">Koblenz</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07111000"/>
+			<sameAs qcode="dpalocality:2995"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:212"/>
+			<name xml:lang="de">Konstanz</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08335000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:68"/>
+			<name xml:lang="de">Krefeld</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05114000"/>
+			<sameAs qcode="dpalocality:2172"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:278"/>
+			<name xml:lang="de">Kronach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09476000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:279"/>
+			<name xml:lang="de">Kulmbach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09477000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:175"/>
+			<name xml:lang="de">Kusel</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07336000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:400"/>
+			<name xml:lang="de">Kyffhäuserkreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16065000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:81"/>
+			<name xml:lang="de">Köln</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05315000"/>
+			<sameAs qcode="dpalocality:2236"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:133"/>
+			<name xml:lang="de">Lahn-Dill-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06532000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:162"/>
+			<name xml:lang="de">Landau in der Pfalz</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07313000"/>
+			<sameAs qcode="dpalocality:4666"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:287"/>
+			<name xml:lang="de">Landkreis Ansbach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09571000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:297"/>
+			<name xml:lang="de">Landkreis Aschaffenburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09671000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:311"/>
+			<name xml:lang="de">Landkreis Augsburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09772000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:273"/>
+			<name xml:lang="de">Landkreis Bamberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09471000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:274"/>
+			<name xml:lang="de">Landkreis Bayreuth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09472000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:275"/>
+			<name xml:lang="de">Landkreis Coburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09473000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:289"/>
+			<name xml:lang="de">Landkreis Fürth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09573000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:187"/>
+			<name xml:lang="de">Landkreis Heilbronn</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08125000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:277"/>
+			<name xml:lang="de">Landkreis Hof</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09475000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:174"/>
+			<name xml:lang="de">Landkreis Kaiserslautern</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07335000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:195"/>
+			<name xml:lang="de">Landkreis Karlsruhe</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08215000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:140"/>
+			<name xml:lang="de">Landkreis Kassel</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06633000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:253"/>
+			<name xml:lang="de">Landkreis Landshut</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09274000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:374"/>
+			<name xml:lang="de">Landkreis Leipzig</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14729000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:240"/>
+			<name xml:lang="de">Landkreis München</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09184000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:58"/>
+			<name xml:lang="de">Landkreis Oldenburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03458000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:59"/>
+			<name xml:lang="de">Landkreis Osnabrück</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03459000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:254"/>
+			<name xml:lang="de">Landkreis Passau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09275000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:266"/>
+			<name xml:lang="de">Landkreis Regensburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09375000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:304"/>
+			<name xml:lang="de">Landkreis Schweinfurt</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09678000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:305"/>
+			<name xml:lang="de">Landkreis Würzburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09679000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:237"/>
+			<name xml:lang="de">Landsberg am Lech</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09181000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:247"/>
+			<name xml:lang="de">Landshut</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09261000"/>
+			<sameAs qcode="dpalocality:6915"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:57"/>
+			<name xml:lang="de">Leer</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03457000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:373"/>
+			<name xml:lang="de">Leipzig</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14713000"/>
+			<sameAs qcode="dpalocality:10202"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:82"/>
+			<name xml:lang="de">Leverkusen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05316000"/>
+			<sameAs qcode="dpalocality:2237"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:280"/>
+			<name xml:lang="de">Lichtenfels</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09478000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:134"/>
+			<name xml:lang="de">Limburg-Weilburg</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06533000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:315"/>
+			<name xml:lang="de">Lindau (Bodensee)</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09776000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:103"/>
+			<name xml:lang="de">Lippe</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05766000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:184"/>
+			<name xml:lang="de">Ludwigsburg</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08118000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:163"/>
+			<name xml:lang="de">Ludwigshafen am Rhein</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07314000"/>
+			<sameAs qcode="dpalocality:4667"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:354"/>
+			<name xml:lang="de">Ludwigslust</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13054000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:213"/>
+			<name xml:lang="de">Lörrach</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08336000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:3"/>
+			<name xml:lang="de">Lübeck</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01003000"/>
+			<sameAs qcode="dpalocality:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:38"/>
+			<name xml:lang="de">Lüchow-Dannenberg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03354000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:39"/>
+			<name xml:lang="de">Lüneburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03355000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:378"/>
+			<name xml:lang="de">Magdeburg</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15003000"/>
+			<sameAs qcode="dpalocality:10282"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:126"/>
+			<name xml:lang="de">Main-Kinzig-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06435000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:303"/>
+			<name xml:lang="de">Main-Spessart</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09677000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:190"/>
+			<name xml:lang="de">Main-Tauber-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08128000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:127"/>
+			<name xml:lang="de">Main-Taunus-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06436000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:164"/>
+			<name xml:lang="de">Mainz</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07315000"/>
+			<sameAs qcode="dpalocality:4668"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:178"/>
+			<name xml:lang="de">Mainz-Bingen</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07339000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:198"/>
+			<name xml:lang="de">Mannheim</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08222000"/>
+			<sameAs qcode="dpalocality:5702"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:385"/>
+			<name xml:lang="de">Mansfeld-Südharz</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15087000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:135"/>
+			<name xml:lang="de">Marburg-Biedenkopf</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06534000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:150"/>
+			<name xml:lang="de">Mayen-Koblenz</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07137000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:355"/>
+			<name xml:lang="de">Mecklenburg-Strelitz</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13055000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:371"/>
+			<name xml:lang="de">Meißen</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14627000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:309"/>
+			<name xml:lang="de">Memmingen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09764000"/>
+			<sameAs qcode="dpalocality:8160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:321"/>
+			<name xml:lang="de">Merzig-Wadern</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10042000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:76"/>
+			<name xml:lang="de">Mettmann</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05158000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:238"/>
+			<name xml:lang="de">Miesbach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09182000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:302"/>
+			<name xml:lang="de">Miltenberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09676000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:104"/>
+			<name xml:lang="de">Minden-Lübbecke</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05770000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:365"/>
+			<name xml:lang="de">Mittelsachsen</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14522000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:335"/>
+			<name xml:lang="de">Märkisch-Oderland</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12064000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:113"/>
+			<name xml:lang="de">Märkischer Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05962000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:69"/>
+			<name xml:lang="de">Mönchengladbach</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05116000"/>
+			<sameAs qcode="dpalocality:2173"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:239"/>
+			<name xml:lang="de">Mühldorf a.Inn</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09183000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:70"/>
+			<name xml:lang="de">Mülheim an der Ruhr</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05117000"/>
+			<sameAs qcode="dpalocality:2174"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:225"/>
+			<name xml:lang="de">München</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09162000"/>
+			<sameAs qcode="dpalocality:6405"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:93"/>
+			<name xml:lang="de">Münster</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05515000"/>
+			<sameAs qcode="dpalocality:2336"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:356"/>
+			<name xml:lang="de">Müritz</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13056000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:199"/>
+			<name xml:lang="de">Neckar-Odenwald-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08225000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:314"/>
+			<name xml:lang="de">Neu-Ulm</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09775000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:346"/>
+			<name xml:lang="de">Neubrandenburg</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13002000"/>
+			<sameAs qcode="dpalocality:8976"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:241"/>
+			<name xml:lang="de">Neuburg-Schrobenhausen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09185000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:264"/>
+			<name xml:lang="de">Neumarkt i.d.OPf.</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09373000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:4"/>
+			<name xml:lang="de">Neumünster</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01004000"/>
+			<sameAs qcode="dpalocality:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:322"/>
+			<name xml:lang="de">Neunkirchen</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10043000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:291"/>
+			<name xml:lang="de">Neustadt a.d.Aisch-Bad Windsheim</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09575000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:265"/>
+			<name xml:lang="de">Neustadt a.d.Waldnaab</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09374000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:165"/>
+			<name xml:lang="de">Neustadt an der Weinstraße</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07316000"/>
+			<sameAs qcode="dpalocality:4669"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:151"/>
+			<name xml:lang="de">Neuwied</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07138000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:33"/>
+			<name xml:lang="de">Nienburg (Weser)</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03256000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:7"/>
+			<name xml:lang="de">Nordfriesland</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01054000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:397"/>
+			<name xml:lang="de">Nordhausen</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16062000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:375"/>
+			<name xml:lang="de">Nordsachsen</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14730000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:357"/>
+			<name xml:lang="de">Nordvorpommern</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13057000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:358"/>
+			<name xml:lang="de">Nordwestmecklenburg</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13058000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:24"/>
+			<name xml:lang="de">Northeim</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03155000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:285"/>
+			<name xml:lang="de">Nürnberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09564000"/>
+			<sameAs qcode="dpalocality:7630"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:290"/>
+			<name xml:lang="de">Nürnberger Land</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09574000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:319"/>
+			<name xml:lang="de">Oberallgäu</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09780000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:88"/>
+			<name xml:lang="de">Oberbergischer Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05374000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:71"/>
+			<name xml:lang="de">Oberhausen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05119000"/>
+			<sameAs qcode="dpalocality:2175"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:336"/>
+			<name xml:lang="de">Oberhavel</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12065000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:337"/>
+			<name xml:lang="de">Oberspreewald-Lausitz</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12066000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:128"/>
+			<name xml:lang="de">Odenwaldkreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06437000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:338"/>
+			<name xml:lang="de">Oder-Spree</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12067000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:129"/>
+			<name xml:lang="de">Offenbach</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06438000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:120"/>
+			<name xml:lang="de">Offenbach am Main</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06413000"/>
+			<sameAs qcode="dpalocality:2567"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:48"/>
+			<name xml:lang="de">Oldenburg (Oldenburg)</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03403000"/>
+			<sameAs qcode="dpalocality:1919"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:114"/>
+			<name xml:lang="de">Olpe</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05966000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:208"/>
+			<name xml:lang="de">Ortenaukreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08317000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:49"/>
+			<name xml:lang="de">Osnabrück</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03404000"/>
+			<sameAs qcode="dpalocality:1920"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:192"/>
+			<name xml:lang="de">Ostalbkreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08136000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:316"/>
+			<name xml:lang="de">Ostallgäu</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09777000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:40"/>
+			<name xml:lang="de">Osterholz</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03356000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:25"/>
+			<name xml:lang="de">Osterode am Harz</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03156000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:8"/>
+			<name xml:lang="de">Ostholstein</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01055000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:339"/>
+			<name xml:lang="de">Ostprignitz-Ruppin</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12068000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:359"/>
+			<name xml:lang="de">Ostvorpommern</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13059000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:105"/>
+			<name xml:lang="de">Paderborn</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05774000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:360"/>
+			<name xml:lang="de">Parchim</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13060000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:248"/>
+			<name xml:lang="de">Passau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09262000"/>
+			<sameAs qcode="dpalocality:6916"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:26"/>
+			<name xml:lang="de">Peine</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03157000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:242"/>
+			<name xml:lang="de">Pfaffenhofen a.d.Ilm</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09186000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:201"/>
+			<name xml:lang="de">Pforzheim</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08231000"/>
+			<sameAs qcode="dpalocality:5784"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:9"/>
+			<name xml:lang="de">Pinneberg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01056000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:166"/>
+			<name xml:lang="de">Pirmasens</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07317000"/>
+			<sameAs qcode="dpalocality:4670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:10"/>
+			<name xml:lang="de">Plön</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01057000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:330"/>
+			<name xml:lang="de">Potsdam</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12054000"/>
+			<sameAs qcode="dpalocality:8559"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:340"/>
+			<name xml:lang="de">Potsdam-Mittelmark</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12069000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:341"/>
+			<name xml:lang="de">Prignitz</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12070000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:196"/>
+			<name xml:lang="de">Rastatt</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08216000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:222"/>
+			<name xml:lang="de">Ravensburg</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08436000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:96"/>
+			<name xml:lang="de">Recklinghausen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05562000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:255"/>
+			<name xml:lang="de">Regen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09276000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:260"/>
+			<name xml:lang="de">Regensburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09362000"/>
+			<sameAs qcode="dpalocality:7176"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:28"/>
+			<name xml:lang="de">Region Hannover</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03241000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:320"/>
+			<name xml:lang="de">Regionalverband Saarbrücken</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10041000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:185"/>
+			<name xml:lang="de">Rems-Murr-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08119000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:72"/>
+			<name xml:lang="de">Remscheid</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05120000"/>
+			<sameAs qcode="dpalocality:2176"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:11"/>
+			<name xml:lang="de">Rendsburg-Eckernförde</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01058000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:215"/>
+			<name xml:lang="de">Reutlingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08415000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:85"/>
+			<name xml:lang="de">Rhein-Erft-Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05362000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:152"/>
+			<name xml:lang="de">Rhein-Hunsrück-Kreis</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07140000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:77"/>
+			<name xml:lang="de">Rhein-Kreis Neuss</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05162000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:153"/>
+			<name xml:lang="de">Rhein-Lahn-Kreis</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07141000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:200"/>
+			<name xml:lang="de">Rhein-Neckar-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08226000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:177"/>
+			<name xml:lang="de">Rhein-Pfalz-Kreis</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07338000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:90"/>
+			<name xml:lang="de">Rhein-Sieg-Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05382000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:130"/>
+			<name xml:lang="de">Rheingau-Taunus-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06439000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:89"/>
+			<name xml:lang="de">Rheinisch-Bergischer Kreis</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05378000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:299"/>
+			<name xml:lang="de">Rhön-Grabfeld</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09673000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:243"/>
+			<name xml:lang="de">Rosenheim</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09187000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:226"/>
+			<name xml:lang="de">Rosenheim</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09163000"/>
+			<sameAs qcode="dpalocality:6406"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:347"/>
+			<name xml:lang="de">Rostock</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13003000"/>
+			<sameAs qcode="dpalocality:8977"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:41"/>
+			<name xml:lang="de">Rotenburg (Wümme)</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03357000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:292"/>
+			<name xml:lang="de">Roth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09576000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:256"/>
+			<name xml:lang="de">Rottal-Inn</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09277000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:209"/>
+			<name xml:lang="de">Rottweil</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08325000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:361"/>
+			<name xml:lang="de">Rügen</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13061000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:409"/>
+			<name xml:lang="de">Saale-Holzland-Kreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16074000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:410"/>
+			<name xml:lang="de">Saale-Orla-Kreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16075000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:386"/>
+			<name xml:lang="de">Saalekreis</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15088000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:408"/>
+			<name xml:lang="de">Saalfeld-Rudolstadt</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16073000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:323"/>
+			<name xml:lang="de">Saarlouis</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10044000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:324"/>
+			<name xml:lang="de">Saarpfalz-Kreis</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10045000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:18"/>
+			<name xml:lang="de">Salzgitter</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03102000"/>
+			<sameAs qcode="dpalocality:1121"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:387"/>
+			<name xml:lang="de">Salzlandkreis</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15089000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:34"/>
+			<name xml:lang="de">Schaumburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03257000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:12"/>
+			<name xml:lang="de">Schleswig-Flensburg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01059000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:401"/>
+			<name xml:lang="de">Schmalkalden-Meiningen</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16066000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:286"/>
+			<name xml:lang="de">Schwabach</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09565000"/>
+			<sameAs qcode="dpalocality:7631"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:141"/>
+			<name xml:lang="de">Schwalm-Eder-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06634000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:267"/>
+			<name xml:lang="de">Schwandorf</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09376000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:210"/>
+			<name xml:lang="de">Schwarzwald-Baar-Kreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08326000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:295"/>
+			<name xml:lang="de">Schweinfurt</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09662000"/>
+			<sameAs qcode="dpalocality:7843"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:348"/>
+			<name xml:lang="de">Schwerin</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13004000"/>
+			<sameAs qcode="dpalocality:8978"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:189"/>
+			<name xml:lang="de">Schwäbisch Hall</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08127000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:13"/>
+			<name xml:lang="de">Segeberg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01060000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:115"/>
+			<name xml:lang="de">Siegen-Wittgenstein</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05970000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:223"/>
+			<name xml:lang="de">Sigmaringen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08437000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:116"/>
+			<name xml:lang="de">Soest</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05974000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:73"/>
+			<name xml:lang="de">Solingen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05122000"/>
+			<sameAs qcode="dpalocality:2177"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:42"/>
+			<name xml:lang="de">Soltau-Fallingbostel</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03358000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:407"/>
+			<name xml:lang="de">Sonneberg</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16072000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:167"/>
+			<name xml:lang="de">Speyer</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07318000"/>
+			<sameAs qcode="dpalocality:4671"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:342"/>
+			<name xml:lang="de">Spree-Neiße</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12071000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:325"/>
+			<name xml:lang="de">St. Wendel</name>
+			<broader qcode="dpaarea:12"/>
+			<related qcode="dpax-kgs8:10046000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:43"/>
+			<name xml:lang="de">Stade</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03359000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:244"/>
+			<name xml:lang="de">Starnberg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09188000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:14"/>
+			<name xml:lang="de">Steinburg</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01061000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:97"/>
+			<name xml:lang="de">Steinfurt</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05566000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:388"/>
+			<name xml:lang="de">Stendal</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15090000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:15"/>
+			<name xml:lang="de">Stormarn</name>
+			<broader qcode="dpaarea:15"/>
+			<related qcode="dpax-kgs8:01062000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:349"/>
+			<name xml:lang="de">Stralsund</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13005000"/>
+			<sameAs qcode="dpalocality:8979"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:249"/>
+			<name xml:lang="de">Straubing</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09263000"/>
+			<sameAs qcode="dpalocality:6917"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:257"/>
+			<name xml:lang="de">Straubing-Bogen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09278000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:180"/>
+			<name xml:lang="de">Stuttgart</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08111000"/>
+			<sameAs qcode="dpalocality:5301"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:83"/>
+			<name xml:lang="de">Städteregion Aachen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05334000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:393"/>
+			<name xml:lang="de">Suhl</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16054000"/>
+			<sameAs qcode="dpalocality:11116"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:372"/>
+			<name xml:lang="de">Sächsische Schweiz-Osterzgebirge</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14628000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:403"/>
+			<name xml:lang="de">Sömmerda</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16068000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:176"/>
+			<name xml:lang="de">Südliche Weinstraße</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07337000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:179"/>
+			<name xml:lang="de">Südwestpfalz</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07340000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:343"/>
+			<name xml:lang="de">Teltow-Fläming</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12072000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:268"/>
+			<name xml:lang="de">Tirschenreuth</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09377000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:245"/>
+			<name xml:lang="de">Traunstein</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09189000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:155"/>
+			<name xml:lang="de">Trier</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07211000"/>
+			<sameAs qcode="dpalocality:4108"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:159"/>
+			<name xml:lang="de">Trier-Saarburg</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07235000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:211"/>
+			<name xml:lang="de">Tuttlingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08327000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:216"/>
+			<name xml:lang="de">Tübingen</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08416000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:344"/>
+			<name xml:lang="de">Uckermark</name>
+			<broader qcode="dpaarea:4"/>
+			<related qcode="dpax-kgs8:12073000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:362"/>
+			<name xml:lang="de">Uecker-Randow</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13062000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:44"/>
+			<name xml:lang="de">Uelzen</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03360000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:218"/>
+			<name xml:lang="de">Ulm</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08421000"/>
+			<sameAs qcode="dpalocality:6216"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:117"/>
+			<name xml:lang="de">Unna</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05978000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:399"/>
+			<name xml:lang="de">Unstrut-Hainich-Kreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16064000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:317"/>
+			<name xml:lang="de">Unterallgäu</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09778000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:60"/>
+			<name xml:lang="de">Vechta</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03460000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:45"/>
+			<name xml:lang="de">Verden</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03361000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:78"/>
+			<name xml:lang="de">Viersen</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05166000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:136"/>
+			<name xml:lang="de">Vogelsbergkreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06535000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:366"/>
+			<name xml:lang="de">Vogtlandkreis</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14523000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:158"/>
+			<name xml:lang="de">Vulkaneifel</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07233000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:142"/>
+			<name xml:lang="de">Waldeck-Frankenberg</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06635000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:214"/>
+			<name xml:lang="de">Waldshut</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08337000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:98"/>
+			<name xml:lang="de">Warendorf</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05570000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:398"/>
+			<name xml:lang="de">Wartburgkreis</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16063000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:261"/>
+			<name xml:lang="de">Weiden i.d.OPf.</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09363000"/>
+			<sameAs qcode="dpalocality:7177"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:246"/>
+			<name xml:lang="de">Weilheim-Schongau</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09190000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:394"/>
+			<name xml:lang="de">Weimar</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16055000"/>
+			<sameAs qcode="dpalocality:11117"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:406"/>
+			<name xml:lang="de">Weimarer Land</name>
+			<broader qcode="dpaarea:16"/>
+			<related qcode="dpax-kgs8:16071000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:293"/>
+			<name xml:lang="de">Weißenburg-Gunzenhausen</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09577000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:143"/>
+			<name xml:lang="de">Werra-Meißner-Kreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06636000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:79"/>
+			<name xml:lang="de">Wesel</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05170000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:61"/>
+			<name xml:lang="de">Wesermarsch</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03461000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:154"/>
+			<name xml:lang="de">Westerwaldkreis</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07143000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:131"/>
+			<name xml:lang="de">Wetteraukreis</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06440000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:121"/>
+			<name xml:lang="de">Wiesbaden</name>
+			<broader qcode="dpaarea:7"/>
+			<related qcode="dpax-kgs8:06414000"/>
+			<sameAs qcode="dpalocality:2568"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:50"/>
+			<name xml:lang="de">Wilhelmshaven</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03405000"/>
+			<sameAs qcode="dpalocality:1921"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:350"/>
+			<name xml:lang="de">Wismar</name>
+			<broader qcode="dpaarea:8"/>
+			<related qcode="dpax-kgs8:13006000"/>
+			<sameAs qcode="dpalocality:8980"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:389"/>
+			<name xml:lang="de">Wittenberg</name>
+			<broader qcode="dpaarea:14"/>
+			<related qcode="dpax-kgs8:15091000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:62"/>
+			<name xml:lang="de">Wittmund</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03462000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:27"/>
+			<name xml:lang="de">Wolfenbüttel</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03158000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:19"/>
+			<name xml:lang="de">Wolfsburg</name>
+			<broader qcode="dpaarea:9"/>
+			<related qcode="dpax-kgs8:03103000"/>
+			<sameAs qcode="dpalocality:1122"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:168"/>
+			<name xml:lang="de">Worms</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07319000"/>
+			<sameAs qcode="dpalocality:4672"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:281"/>
+			<name xml:lang="de">Wunsiedel i.Fichtelgebirge</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09479000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:74"/>
+			<name xml:lang="de">Wuppertal</name>
+			<broader qcode="dpaarea:10"/>
+			<related qcode="dpax-kgs8:05124000"/>
+			<sameAs qcode="dpalocality:2178"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:296"/>
+			<name xml:lang="de">Würzburg</name>
+			<broader qcode="dpaarea:2"/>
+			<related qcode="dpax-kgs8:09663000"/>
+			<sameAs qcode="dpalocality:7844"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:217"/>
+			<name xml:lang="de">Zollernalbkreis</name>
+			<broader qcode="dpaarea:1"/>
+			<related qcode="dpax-kgs8:08417000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:169"/>
+			<name xml:lang="de">Zweibrücken</name>
+			<broader qcode="dpaarea:11"/>
+			<related qcode="dpax-kgs8:07320000"/>
+			<sameAs qcode="dpalocality:4673"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasubarea:367"/>
+			<name xml:lang="de">Zwickau</name>
+			<broader qcode="dpaarea:13"/>
+			<related qcode="dpax-kgs8:14524000"/>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpasubarea" uri="http://g2.dpa.com/cv/subarea/"><definition>TODO</definition><name>dpasubarea</name></schemeMeta></knowledgeItem>

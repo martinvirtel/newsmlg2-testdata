@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:descrole" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+    
+	
+  <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+    <copyrightHolder qcode="nprov:dpa"/>
+    <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+  </rightsInfo>
+  <itemMeta>
+    <itemClass qcode="cinat:scheme"/>
+    <provider qcode="nprov:dpa"/>
+    <versionCreated>2011-11-17T10:00:00+01:00</versionCreated>
+    <pubStatus qcode="stat:usable"/>
+    <title role="nrol:display" xml:lang="en-GB">dpa description roles</title>
+    <title role="nrol:display" xml:lang="de">dpa Rollen für Description Elemente</title>
+    <edNote>Über dieses CV werden Teaser und andere Inhalteteile unterschieden. </edNote>
+  </itemMeta>
+  <conceptSet>
+    <concept>
+      <conceptId created="2011-11-17T10:00:00+01:00" qcode="dpadescrole:teaser"/>
+      <name role="nrol:display" xml:lang="de">Aufmacher</name>
+      <name role="nrol:display" xml:lang="en">teaser</name>
+      <name role="nrol:display" xml:lang="fr">accroche</name>
+    </concept>
+  </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpadescrole" uri="http://g2.dpa.com/cv/decscrole/"><definition>TODO</definition><name>dpadescrole</name></schemeMeta></knowledgeItem>

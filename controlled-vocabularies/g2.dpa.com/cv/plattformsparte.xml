@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:plattformsparte" standard="NewsML-G2" standardversion="2.12" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-07-02T16:58:24+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="plattformsparte:news"/>
+			<name role="nrol:display">Nachrichten</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:people"/>
+			<name role="nrol:display">Leute</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:energy"/>
+			<name role="nrol:display">Energie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:dossier"/>
+			<name role="nrol:display">Dossier</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:dig-agenda"/>
+			<name role="nrol:display">Digitale Agenda</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:market"/>
+			<name role="nrol:display">Binnenmarkt</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:multimedia"/>
+			<name role="nrol:display">Multimedia</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:morgenlage"/>
+			<name role="nrol:display">Morgenlage</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:childnews"/>
+			<name role="nrol:display">Kindernachrichten</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:curios"/>
+			<name role="nrol:display">Rechts Unten</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:prelims"/>
+			<name role="nrol:display">Vorberichte</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:authors"/>
+			<name role="nrol:display">Korr-Berichte</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:foreign"/>
+			<name role="nrol:display">Auswärtiges</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:analyse"/>
+			<name role="nrol:display">Analyse</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:themes"/>
+			<name role="nrol:display">Themen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:special"/>
+			<name role="nrol:display">Spezial</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:reportage"/>
+			<name role="nrol:display">Reportage</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:liveticker"/>
+			<name role="nrol:display">Liveticker</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:justice"/>
+			<name role="nrol:display">Justiz</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:interview"/>
+			<name role="nrol:display">Interview</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:trade"/>
+			<name role="nrol:display">Handel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:research"/>
+			<name role="nrol:display">Forschung</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:finance"/>
+			<name role="nrol:display">Finanzen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:consumer"/>
+			<name role="nrol:display">Verbraucher</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:environment"/>
+			<name role="nrol:display">Umwelt</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:stichwort"/>
+			<name role="nrol:display">Stichwort</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:social"/>
+			<name role="nrol:display">Soziales</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:profil"/>
+			<name role="nrol:display">Profil</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:mobility"/>
+			<name role="nrol:display">Mobilität</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:editors-choice"/>
+			<name role="nrol:display">Empfehlung der Redaktion</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:coaches"/>
+			<name role="nrol:display">Coaches</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:brazil"/>
+			<name role="nrol:display">Brazil</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:chronicle"/>
+			<name role="nrol:display">Chronik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:sience"/>
+			<name role="nrol:display">Wissenschaft</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:society"/>
+			<name role="nrol:display">Vermischtes</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:outlook"/>
+			<name role="nrol:display">Vorausmeldung</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:photo"/>
+			<name role="nrol:display">Fotogalerie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:stars"/>
+			<name role="nrol:display">Stars</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:landoffootball"/>
+			<name role="nrol:display">LandofFootball</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:hostcitiesvenues"/>
+			<name role="nrol:display">HostCitiesVenues</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:history"/>
+			<name role="nrol:display">History</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:featuresinterviews"/>
+			<name role="nrol:display">FeaturesInterviews</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:columnists"/>
+			<name role="nrol:display">Columnists</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:graphic"/>
+			<name role="nrol:display">Grafik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:picture"/>
+			<name role="nrol:display">Foto</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:record"/>
+			<name role="nrol:display">Festzuhalten</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:infographics"/>
+			<name role="nrol:display">Infographics</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:videos"/>
+			<name role="nrol:display">Videos</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:teams"/>
+			<name role="nrol:display">Teams</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:documents"/>
+			<name role="nrol:display">Dokumente</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:panoramaview"/>
+			<name role="nrol:display">Panorama</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:illustrated-features"/>
+			<name role="nrol:display">Illustrated-Features</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:consumer-news"/>
+			<name role="nrol:display">Consumer-News</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:politics"/>
+			<name role="nrol:display">Politik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:economy"/>
+			<name role="nrol:display">Wirtschaft</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:sports"/>
+			<name role="nrol:display">Sport</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:culture"/>
+			<name role="nrol:display">Kultur</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:background"/>
+			<name role="nrol:display">Hintergrund</name>
+		</concept>
+		<concept modified="2015-02-06T13:24:00+01:00">
+			<conceptId created="2015-02-06T13:24:00+01:00" qcode="plattformsparte:security"/>
+			<name role="nrol:display">Sicherheit</name>
+		</concept>
+		<concept modified="2015-02-06T13:31:00+01:00">
+			<conceptId created="2015-02-06T13:31:00+01:00" qcode="plattformsparte:alsointhenews"/>
+			<name role="nrol:display">Buntes</name>
+		</concept>
+		<concept>
+			<conceptId created="2015-02-06T13:33:00+01:00" qcode="plattformsparte:schedule"/>
+			<name role="nrol:display">Termine</name>
+		</concept>
+		<concept modified="2015-02-06T13:35:00+01:00">
+			<conceptId created="2015-02-06T13:35:00+01:00" qcode="plattformsparte:internal"/>
+			<name role="nrol:display">Pressekontakte</name>
+		</concept>
+		<concept modified="2015-05-08T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:liveticker-archiv"/>
+			<name role="nrol:display">Liveticker-Archiv</name>
+		</concept>
+		<concept modified="2015-08-18T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:audio_video"/>
+			<name role="nrol:display">Audio_Video</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:reportajes"/>
+			<name role="nrol:display">Reportajes</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:noticias"/>
+			<name role="nrol:display">Noticias</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:tecnologia"/>
+			<name role="nrol:display">Tecnología</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:tendencias"/>
+			<name role="nrol:display">Tendencias</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:turismo"/>
+			<name role="nrol:display">Turismo</name>
+		</concept>
+		<concept modified="2016-02-02T08:40:00+02:00">
+			<conceptId qcode="plattformsparte:autos"/>
+			<name role="nrol:display">Autos</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:science_en"/>
+			<name role="nrol:display">Science</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:science_en_archive"/>
+			<name role="nrol:display">Science_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:cars"/>
+			<name role="nrol:display">Cars</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:cars_archive"/>
+			<name role="nrol:display">Cars_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:digital"/>
+			<name role="nrol:display">Digital</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:digital_archive"/>
+			<name role="nrol:display">Digital_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:lifestyle"/>
+			<name role="nrol:display">Lifestyle</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:lifestyle_archive"/>
+			<name role="nrol:display">Lifestyle_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:travel"/>
+			<name role="nrol:display">Travel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:travel_archive"/>
+			<name role="nrol:display">Travel_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:illustrated-features_archiv"/>
+			<name role="nrol:display">Illustrated-Features_Archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:wire"/>
+			<name role="nrol:display">Wire</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:centenario"/>
+			<name role="nrol:display">Centenario</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:planeta_soccer"/>
+			<name role="nrol:display">Planeta Soccer</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:equipos"/>
+			<name role="nrol:display">Equipos</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:estrellas"/>
+			<name role="nrol:display">Estrellas</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:entrenadores"/>
+			<name role="nrol:display">Entrenadores</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:reportajes_entrevistas"/>
+			<name role="nrol:display">Reportajes y Entrevistas</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:rio_2016"/>
+			<name role="nrol:display">Rio 2016</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:cidade_maravilhosa"/>
+			<name role="nrol:display">Cidade Maravilhosa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:protagonistas"/>
+			<name role="nrol:display">Protagonistas</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:grandes_momentos"/>
+			<name role="nrol:display">Grandes Momentos</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:la_france"/>
+			<name role="nrol:display">La France</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:marvellous_city"/>
+			<name role="nrol:display">Marvellous City</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:features_interviews"/>
+			<name role="nrol:display">Features and Interviews</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:protagonists"/>
+			<name role="nrol:display">Protagonists</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:great_moments"/>
+			<name role="nrol:display">Great Moments</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:managers"/>
+			<name role="nrol:display">Managers</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:portada"/>
+			<name role="nrol:display">portada</name>
+		</concept>
+		<concept>
+			<conceptId qcode="plattformsparte:archivo"/>
+			<name role="nrol:display">archivo</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="plattformsparte" uri="http://g2.dpa.com/cv/plattformsparte/">
+		<definition>TODO</definition>
+		<name>plattformsparte</name>
+	</schemeMeta>
+</knowledgeItem>

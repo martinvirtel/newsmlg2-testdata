@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:dpa.com:20090101:keywords" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-05-06T15:28:33+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpakeyword:61"/>
+			<name role="nrol:display" xml:lang="de">Hochzeit</name>
+			<name xml:lang="en">wedding</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:60"/>
+			<name role="nrol:display" xml:lang="de">Herbst</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:63"/>
+			<name role="nrol:display" xml:lang="de">Monarchie</name>
+			<name xml:lang="en">imperial and royal matters</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:62"/>
+			<name role="nrol:display" xml:lang="de">Lifestyle</name>
+			<name xml:lang="en">lifestyle</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:65"/>
+			<name role="nrol:display" xml:lang="de">Sommer</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:64"/>
+			<name role="nrol:display" xml:lang="de">Prominews</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:67"/>
+			<name role="nrol:display" xml:lang="de">Altersteilzeit</name>
+			<broader qcode="dpasrs:09000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:66"/>
+			<name role="nrol:display" xml:lang="de">Winter</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:69"/>
+			<name role="nrol:display" xml:lang="de">Beruf</name>
+			<name xml:lang="en">occupations</name>
+			<name xml:lang="es">Ocupaciones</name>
+			<broader qcode="dpasrs:09000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:68"/>
+			<name role="nrol:display" xml:lang="de">Altersvorsorge</name>
+			<broader qcode="dpasrs:09000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:70"/>
+			<name role="nrol:display" xml:lang="de">Pensionen</name>
+			<broader qcode="dpasrs:09000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:74"/>
+			<name role="nrol:display" xml:lang="de">Wandern</name>
+			<broader qcode="dpasrs:10000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:73"/>
+			<name role="nrol:display" xml:lang="de">Garten</name>
+			<broader qcode="dpasrs:10000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:72"/>
+			<name role="nrol:display" xml:lang="de">Ferien</name>
+			<broader qcode="dpasrs:10000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:71"/>
+			<name role="nrol:display" xml:lang="de">Pensionskassen</name>
+			<broader qcode="dpasrs:09000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:78"/>
+			<name xml:lang="en">civil and public service</name>
+			<name xml:lang="es">Servicios Civiles y Públicos</name>
+			<name role="nrol:display" xml:lang="de">Öffentlicher Dienst</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:77"/>
+			<name role="nrol:display" xml:lang="de">Entwicklungshilfe</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:76"/>
+			<name xml:lang="en">armed Forces</name>
+			<name role="nrol:display" xml:lang="de">Bundeswehr</name>
+			<name xml:lang="es">Fuerzas Armadas</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:75"/>
+			<name role="nrol:display" xml:lang="de">Wintersport</name>
+			<broader qcode="dpasrs:10000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:79"/>
+			<name role="nrol:display" xml:lang="de">Staatsbesuch</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:80"/>
+			<name role="nrol:display" xml:lang="de">Streitkräfte</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:81"/>
+			<name role="nrol:display" xml:lang="de">Holocaust</name>
+			<name xml:lang="es">Holocausto</name>
+			<broader qcode="dpasrs:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:87"/>
+			<name role="nrol:display" xml:lang="de">Astronomie</name>
+			<name xml:lang="en">astronomy</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:86"/>
+			<name xml:lang="en">judaism</name>
+			<name xml:lang="es">Judaísmo</name>
+			<name role="nrol:display" xml:lang="de">Judentum</name>
+			<broader qcode="dpasrs:12000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:89"/>
+			<name role="nrol:display" xml:lang="de">Gentechnik</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:88"/>
+			<name role="nrol:display" xml:lang="de">Biotechnik</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:83"/>
+			<name role="nrol:display" xml:lang="de">Christentum</name>
+			<name xml:lang="en">christianity</name>
+			<name xml:lang="es">Cristianismo</name>
+			<broader qcode="dpasrs:12000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:82"/>
+			<name xml:lang="en">buddhism</name>
+			<name role="nrol:display" xml:lang="de">Buddhismus</name>
+			<name xml:lang="es">Budismo</name>
+			<broader qcode="dpasrs:12000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:85"/>
+			<name role="nrol:display" xml:lang="de">Islam</name>
+			<name xml:lang="en">islam</name>
+			<broader qcode="dpasrs:12000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:84"/>
+			<name xml:lang="en">hinduism</name>
+			<name xml:lang="es">Hinduismo</name>
+			<name role="nrol:display" xml:lang="de">Hinduismus</name>
+			<broader qcode="dpasrs:12000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:90"/>
+			<name xml:lang="en">physics</name>
+			<name role="nrol:display" xml:lang="de">Physik</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:91"/>
+			<name xml:lang="es">Psicología</name>
+			<name role="nrol:display" xml:lang="de">Psychologie</name>
+			<name xml:lang="en">psychology</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:92"/>
+			<name xml:lang="en">sociology</name>
+			<name xml:lang="es">Sociología</name>
+			<name role="nrol:display" xml:lang="de">Soziologie</name>
+			<broader qcode="dpasrs:13000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:99"/>
+			<name role="nrol:display" xml:lang="de">Konfirmation</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:105"/>
+			<name role="nrol:display" xml:lang="de">Trauer</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:98"/>
+			<name role="nrol:display" xml:lang="de">Kommunion</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:106"/>
+			<name role="nrol:display" xml:lang="de">Bürgerkrieg</name>
+			<name xml:lang="en">civil war</name>
+			<name xml:lang="es">Guerra Civil</name>
+			<broader qcode="dpasrs:16000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:97"/>
+			<name role="nrol:display" xml:lang="de">Kinder</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:96"/>
+			<name role="nrol:display" xml:lang="de">Jugend</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:95"/>
+			<name role="nrol:display" xml:lang="de">Frauen</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:94"/>
+			<name role="nrol:display" xml:lang="de">Drogen</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:93"/>
+			<name role="nrol:display" xml:lang="de">Alkohol</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:10"/>
+			<name role="nrol:display" xml:lang="de">Karneval</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:12"/>
+			<name role="nrol:display" xml:lang="de">Musical</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:11"/>
+			<name xml:lang="en">classical music</name>
+			<name role="nrol:display" xml:lang="de">Klassik</name>
+			<name xml:lang="es">Música Clásica</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:100"/>
+			<name role="nrol:display" xml:lang="de">Männer</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:18"/>
+			<name role="nrol:display" xml:lang="de">Video</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:17"/>
+			<name role="nrol:display" xml:lang="de">Variete</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:19"/>
+			<name role="nrol:display" xml:lang="de">Volksmusik</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:104"/>
+			<name role="nrol:display" xml:lang="de">Senioren</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:14"/>
+			<name xml:lang="es">Música Popular</name>
+			<name role="nrol:display" xml:lang="de">Pop</name>
+			<name xml:lang="en">popular music</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:103"/>
+			<name role="nrol:display" xml:lang="de">Partnerschaft</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:13"/>
+			<name role="nrol:display" xml:lang="de">Oper</name>
+			<name xml:lang="en">opera</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		
+		<concept>
+			<conceptId qcode="dpakeyword:16"/>
+			<name role="nrol:display" xml:lang="de">Rezensionen</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:101"/>
+			<name role="nrol:display" xml:lang="de">Rauchen</name>
+			<broader qcode="dpasrs:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:15"/>
+			<name role="nrol:display" xml:lang="de">Rock</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:26"/>
+			<name role="nrol:display" xml:lang="de">Benzin</name>
+			<name xml:lang="es">Gasolina</name>
+			<name xml:lang="en">petrol</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:27"/>
+			<name xml:lang="en">bicycle enthusiasm</name>
+			<name role="nrol:display" xml:lang="de">Fahrrad</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:24"/>
+			<name role="nrol:display" xml:lang="de">Audio</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:25"/>
+			<name role="nrol:display" xml:lang="de">Bauen</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:28"/>
+			<name role="nrol:display" xml:lang="de">Geld</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:29"/>
+			<name role="nrol:display" xml:lang="de">Gold</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:22"/>
+			<name role="nrol:display" xml:lang="de">Unglücke</name>
+			<broader qcode="dpasrs:03000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:23"/>
+			<name xml:lang="es">Acciones</name>
+			<name role="nrol:display" xml:lang="de">Aktien</name>
+			<name xml:lang="en">stocks</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:20"/>
+			<name role="nrol:display" xml:lang="de">Zirkus</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:21"/>
+			<name role="nrol:display" xml:lang="de">Mieten</name>
+			<broader qcode="dpasrs:02000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:1"/>
+			<name role="nrol:display" xml:lang="de">Archiv</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:5"/>
+			<name role="nrol:display" xml:lang="de">Design</name>
+			<name xml:lang="en">design</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:4"/>
+			<name role="nrol:display" xml:lang="de">Buchmesse</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:3"/>
+			<name role="nrol:display" xml:lang="de">Bestenliste</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:2"/>
+			<name role="nrol:display" xml:lang="de">Ballett</name>
+			<name xml:lang="en">ballet</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:35"/>
+			<name role="nrol:display" xml:lang="de">Leder</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:8"/>
+			<name role="nrol:display" xml:lang="de">Jazz</name>
+			<name xml:lang="en">jazz music</name>
+			<name xml:lang="es">Música Jazz</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:36"/>
+			<name xml:lang="en">motorbike enthusiasm</name>
+			<name role="nrol:display" xml:lang="de">Motorrad</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:9"/>
+			<name role="nrol:display" xml:lang="de">Kabarett</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:37"/>
+			<name role="nrol:display" xml:lang="de">Multimedia</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:6"/>
+			<name role="nrol:display" xml:lang="de">Fasching</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:38"/>
+			<name role="nrol:display" xml:lang="de">Messen</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:7"/>
+			<name role="nrol:display" xml:lang="de">Fastnacht</name>
+			<broader qcode="dpasrs:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:39"/>
+			<name xml:lang="en">advice</name>
+			<name xml:lang="es">Consejos</name>
+			<name role="nrol:display" xml:lang="de">Ratgeber</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:30"/>
+			<name role="nrol:display" xml:lang="de">Hersteller</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:31"/>
+			<name role="nrol:display" xml:lang="de">Hotels</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:32"/>
+			<name role="nrol:display" xml:lang="de">Kaffee</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:33"/>
+			<name xml:lang="es">Carbón</name>
+			<name xml:lang="en">coal</name>
+			<name role="nrol:display" xml:lang="de">Kohle</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:34"/>
+			<name role="nrol:display" xml:lang="de">Kurse</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:48"/>
+			<name role="nrol:display" xml:lang="de">Nachrichtenagenturen</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:49"/>
+			<name role="nrol:display" xml:lang="de">Zubehör</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:46"/>
+			<name role="nrol:display" xml:lang="de">Wein</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:47"/>
+			<name xml:lang="es">Construcción de Viviendas</name>
+			<name xml:lang="en">house building</name>
+			<name role="nrol:display" xml:lang="de">Wohnungsbau</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:44"/>
+			<name role="nrol:display" xml:lang="de">Versorger</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		
+		<concept>
+			<conceptId qcode="dpakeyword:42"/>
+			<name role="nrol:display" xml:lang="de">Terminbörse</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:43"/>
+			<name role="nrol:display" xml:lang="de">Tuning</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:40"/>
+			<name xml:lang="en">jewelry</name>
+			<name xml:lang="es">Joyas</name>
+			<name role="nrol:display" xml:lang="de">Schmuck</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:41"/>
+			<name role="nrol:display" xml:lang="de">Schuhe</name>
+			<broader qcode="dpasrs:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:57"/>
+			<name role="nrol:display" xml:lang="de">Pflege</name>
+			<broader qcode="dpasrs:07000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:58"/>
+			<name role="nrol:display" xml:lang="de">Wellness</name>
+			<broader qcode="dpasrs:07000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:59"/>
+			<name role="nrol:display" xml:lang="de">Frühling</name>
+			<broader qcode="dpasrs:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:53"/>
+			<name role="nrol:display" xml:lang="de">Kita</name>
+			<broader qcode="dpasrs:05000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:54"/>
+			<name role="nrol:display" xml:lang="de">Studenten</name>
+			<broader qcode="dpasrs:05000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:55"/>
+			<name role="nrol:display" xml:lang="de">Ölpest</name>
+			<broader qcode="dpasrs:06000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:56"/>
+			<name role="nrol:display" xml:lang="de">Smog</name>
+			<broader qcode="dpasrs:06000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:50"/>
+			<name role="nrol:display" xml:lang="de">Bafög</name>
+			<broader qcode="dpasrs:05000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:51"/>
+			<name role="nrol:display" xml:lang="de">Berufsschulen</name>
+			<broader qcode="dpasrs:05000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:52"/>
+			<name role="nrol:display" xml:lang="de">Fachschulen</name>
+			<broader qcode="dpasrs:05000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:107"/>
+			<name role="nrol:display" xml:lang="de">Expo</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:108"/>
+			<name role="nrol:display" xml:lang="de">Ost</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:109"/>
+			<name role="nrol:display" xml:lang="de">Reportage</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:112"/>
+			<name role="nrol:display" xml:lang="de">Abendvorschau</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:113"/>
+			<name role="nrol:display" xml:lang="de">Vierwochenvorschau</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:110"/>
+			<name role="nrol:display" xml:lang="de">Tagesvorschau</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpakeyword:111"/>
+			<name role="nrol:display" xml:lang="de">Wochenvorschau</name>
+		</concept>
+		<concept>
+			<conceptId created="2014-01-22T13:54:00+01:00" qcode="dpakeyword:114"/>
+			<name xml:lang="de">Kurioses</name>
+			<name xml:lang="en">curiosity</name>
+			<broader qcode="medtop:08000000"/>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpakeyword" uri="http://g2.dpa.com/cv/keyword/">
+<definition>TODO</definition>
+<name>dpakeyword</name>
+</schemeMeta>
+</knowledgeItem>

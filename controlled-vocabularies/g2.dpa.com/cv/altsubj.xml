@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- +++++++++++++++++++++++++++++++++ 
++++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $ 
++++ $LastChangedRevision: 11382 $ 
++++ $LastChangedBy: schmidt-nia.robert $ 
++++++++++++++++++++++++++++++++++ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:dpaaltsubj" standard="NewsML-G2" standardversion="2.4" version="11" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-01-25T14:15:55+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title role="nrol:display" xml:lang="de">Alternative Schreibweisen der IPTC Subject Codes</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaaltsubj:01009000"/>
+			<name xml:lang="en">libraries and museums</name>
+			<sameAs qcode="subj:01009000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:01019000"/>
+			<name xml:lang="en">customs and traditions</name>
+			<sameAs qcode="subj:01019000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:04006000"/>
+			<name xml:lang="en">financial and business services</name>
+			<sameAs qcode="subj:04006000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:03013000"/>
+			<name xml:lang="en">accidents (general)</name>
+			<sameAs qcode="subj:03013000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:03014000"/>
+			<name xml:lang="en">emergency incidents</name>
+			<sameAs qcode="subj:03014000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11003000"/>
+			<name xml:lang="en">elections</name>
+			<sameAs qcode="subj:11003000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11012000"/>
+			<name xml:lang="en">regional authorities</name>
+			<sameAs qcode="subj:11012000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:16001000"/>
+			<name xml:lang="en">acts of terror</name>
+			<sameAs qcode="subj:16001000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10001000"/>
+			<name xml:lang="en">games</name>
+			<sameAs qcode="subj:10001000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10002000"/>
+			<name xml:lang="en">gaming and lotteries</name>
+			<sameAs qcode="subj:10002000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10005000"/>
+			<name xml:lang="en">holidays or vacations</name>
+			<sameAs qcode="subj:10005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10007000"/>
+			<name xml:lang="en">travel</name>
+			<sameAs qcode="subj:10007000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10008000"/>
+			<name xml:lang="en">clubs and associations</name>
+			<sameAs qcode="subj:10008000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10009000"/>
+			<name xml:lang="en">lifestyle</name>
+			<sameAs qcode="subj:10009000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:10010000"/>
+			<name xml:lang="en">leisure</name>
+			<sameAs qcode="subj:10010000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11006002"/>
+			<name xml:lang="en">national security</name>
+			<sameAs qcode="subj:11006002"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11006005"/>
+			<name xml:lang="en">executive</name>
+			<sameAs qcode="subj:11006005"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11010000"/>
+			<name xml:lang="en">parties</name>
+			<sameAs qcode="subj:11010000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11016000"/>
+			<name xml:lang="en">interior policies</name>
+			<sameAs qcode="subj:11016000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11020000"/>
+			<name xml:lang="en">nuclear policies</name>
+			<sameAs qcode="subj:11020000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:12002000"/>
+			<name xml:lang="en">belief</name>
+			<sameAs qcode="subj:12002000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:12003000"/>
+			<name xml:lang="en">free masonry</name>
+			<sameAs qcode="subj:12003000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:13004000"/>
+			<name xml:lang="en">natural sciences</name>
+			<sameAs qcode="subj:13004000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:13010000"/>
+			<name xml:lang="en">technology</name>
+			<sameAs qcode="subj:13010000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:14000000"/>
+			<name xml:lang="en">welfare</name>
+			<sameAs qcode="subj:14000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:14003002"/>
+			<name xml:lang="en">migration</name>
+			<sameAs qcode="subj:14003002"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:14003004"/>
+			<name xml:lang="en">refugee</name>
+			<sameAs qcode="subj:14003004"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:14005000"/>
+			<name xml:lang="en">euthanasia</name>
+			<sameAs qcode="subj:14005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15001000"/>
+			<name xml:lang="en">aero and aviation sports</name>
+			<sameAs qcode="subj:15001000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15005000"/>
+			<name xml:lang="en">athletics</name>
+			<sameAs qcode="subj:15005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15010000"/>
+			<name xml:lang="en">billiards</name>
+			<sameAs qcode="subj:15010000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15029000"/>
+			<name xml:lang="en">handball</name>
+			<sameAs qcode="subj:15029000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15030000"/>
+			<name xml:lang="en">horse racing</name>
+			<sameAs qcode="subj:15030000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15036001"/>
+			<name xml:lang="en">skeleton</name>
+			<sameAs qcode="subj:15036001"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:16000000"/>
+			<name xml:lang="en">acts of terror</name>
+			<sameAs qcode="subj:16000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:16005000"/>
+			<name xml:lang="en">guerrilla activities</name>
+			<sameAs qcode="subj:16005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:16008000"/>
+			<name xml:lang="en">conflicts</name>
+			<name role="nrol:full" xml:lang="en">conflicts (general)</name>
+			<sameAs qcode="subj:16008000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:16010000"/>
+			<name xml:lang="en">war</name>
+			<sameAs qcode="subj:16010000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:17001000"/>
+			<name xml:lang="en">forecasts</name>
+			<sameAs qcode="subj:17001000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:17003000"/>
+			<name xml:lang="en">reports</name>
+			<sameAs qcode="subj:17003000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:17003001"/>
+			<name xml:lang="en">statistics</name>
+			<sameAs qcode="subj:17003001"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:17005000"/>
+			<name xml:lang="en">warnings</name>
+			<sameAs qcode="subj:17005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:08002000"/>
+			<name xml:lang="en">curiosities</name>
+			<sameAs qcode="subj:08002000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:08001000"/>
+			<name xml:lang="en">animals</name>
+			<sameAs qcode="subj:08001000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:04009000"/>
+			<name role="nrol:short" xml:lang="en">markets</name>
+			<name role="nrol:full" xml:lang="en">markets and exchanges</name>
+			<sameAs qcode="subj:04009000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:09011000"/>
+			<name xml:lang="en">wages &amp; pensions</name>
+			<sameAs qcode="subj:09011000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:13008000"/>
+			<name xml:lang="en">space programes</name>
+			<sameAs qcode="subj:13008000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:11014000"/>
+			<name xml:lang="en">treaties and organisations</name>
+			<name role="nrol:short" xml:lang="en">treaties &amp; international organis</name>
+			<name role="nrol:full" xml:lang="en">treaties &amp; international organisations</name>
+			<sameAs qcode="subj:11014000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:04005000"/>
+			<name xml:lang="en">energy and resources</name>
+			<sameAs qcode="subj:04005000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:01018000"/>
+			<name xml:lang="en">monuments and heritage sites</name>
+			<sameAs qcode="subj:01018000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaltsubj:15073000"/>
+			<name xml:lang="en">sports events</name>
+			<sameAs qcode="subj:15073000"/>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpaaltsubj" uri="http://g2.dpa.com/cv/altsubj/"><definition>TODO</definition><name>dpaaltsubj</name></schemeMeta></knowledgeItem>

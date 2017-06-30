@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:area" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-07-04T12:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaarea:17"/>
+			<name xml:lang="de">Alabama</name>
+			<name xml:lang="en">Alabama</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:18"/>
+			<name xml:lang="de">Alaska</name>
+			<name xml:lang="en">Alaska</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:69"/>
+			<name xml:lang="de">Andhra Pradesh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10142"/>
+			<name xml:lang="de">Anhui</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:19"/>
+			<name xml:lang="de">Arizona</name>
+			<name xml:lang="en">Arizona</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:20"/>
+			<name xml:lang="de">Arkansas</name>
+			<name xml:lang="en">Arkansas</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:70"/>
+			<name xml:lang="de">Arunachal Pradesh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:71"/>
+			<name xml:lang="de">Assam</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:1"/>
+			<name xml:lang="de">Baden-Württemberg</name>
+			<name xml:lang="en">Baden-Wuerttemberg</name>
+			<sameAs qcode="iso3166-1a2:DE-BW"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:08000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:2"/>
+			<name xml:lang="de">Bayern</name>
+			<name xml:lang="en">Bavaria</name>
+			<sameAs qcode="iso3166-1a2:DE-BY"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:09000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:3"/>
+			<name xml:lang="de">Berlin</name>
+			<name xml:lang="en">Berlin</name>
+			<sameAs qcode="iso3166-1a2:DE-BE"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:11000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:72"/>
+			<name xml:lang="de">Bihar</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:4"/>
+			<name xml:lang="de">Brandenburg</name>
+			<name xml:lang="en">Brandenburg</name>
+			<sameAs qcode="iso3166-1a2:DE-BB"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:12000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:5"/>
+			<name xml:lang="de">Bremen</name>
+			<name xml:lang="en">Bremen</name>
+			<sameAs qcode="iso3166-1a2:DE-HB"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:04000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:73"/>
+			<name xml:lang="de">Chhattisgarh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:21"/>
+			<name xml:lang="de">Colorado</name>
+			<name xml:lang="en">Colorado</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:22"/>
+			<name xml:lang="de">Connecticut</name>
+			<name xml:lang="en">Connecticut</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:23"/>
+			<name xml:lang="de">Delaware</name>
+			<name xml:lang="en">Delaware</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:24"/>
+			<name xml:lang="de">District of Columbia</name>
+			<name xml:lang="en">District of Columbia</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:25"/>
+			<name xml:lang="de">Florida</name>
+			<name xml:lang="en">Florida</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10143"/>
+			<name xml:lang="de">Fujian</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10145"/>
+			<name xml:lang="de">Gansu</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:26"/>
+			<name xml:lang="de">Georgia</name>
+			<name xml:lang="en">Georgia</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:74"/>
+			<name xml:lang="de">Goa</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10138"/>
+			<name xml:lang="de">Guangdong</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10147"/>
+			<name xml:lang="de">Guizhou</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:75"/>
+			<name xml:lang="de">Gujarat</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10149"/>
+			<name xml:lang="de">Hainan</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:6"/>
+			<name xml:lang="de">Hamburg</name>
+			<name xml:lang="en">Hamburg</name>
+			<sameAs qcode="iso3166-1a2:DE-HH"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:02000000"/>
+			<geoAreaDetails>
+				<position latitude="53.5670435634" longitude="10.0373585867"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:76"/>
+			<name xml:lang="de">Haryana</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:27"/>
+			<name xml:lang="de">Hawaii</name>
+			<name xml:lang="en">Hawaii</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10150"/>
+			<name xml:lang="de">Hebei</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10151"/>
+			<name xml:lang="de">Heilongjiang</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10146"/>
+			<name xml:lang="de">Henan</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:7"/>
+			<name xml:lang="de">Hessen</name>
+			<name xml:lang="en">Hessen</name>
+			<sameAs qcode="iso3166-1a2:DE-HE"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:06000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:77"/>
+			<name xml:lang="de">Himachal Pradesh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10144"/>
+			<name xml:lang="de">Hubei</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10136"/>
+			<name xml:lang="de">Hunan</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:28"/>
+			<name xml:lang="de">Idaho</name>
+			<name xml:lang="en">Idaho</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:29"/>
+			<name xml:lang="de">Illinois</name>
+			<name xml:lang="en">Illinois</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:30"/>
+			<name xml:lang="de">Indiana</name>
+			<name xml:lang="en">Indiana</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:31"/>
+			<name xml:lang="de">Iowa</name>
+			<name xml:lang="en">Iowa</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:78"/>
+			<name xml:lang="de">Jammu und Kaschmir</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:79"/>
+			<name xml:lang="de">Jharkhand</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10135"/>
+			<name xml:lang="de">Jiangsu</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10134"/>
+			<name xml:lang="de">Jiangxi</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10133"/>
+			<name xml:lang="de">Jilin</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:32"/>
+			<name xml:lang="de">Kalifornien</name>
+			<name xml:lang="en">California</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:34"/>
+			<name xml:lang="de">Kansas</name>
+			<name xml:lang="en">Kansas</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:80"/>
+			<name xml:lang="de">Karnataka</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:35"/>
+			<name xml:lang="de">Kentucky</name>
+			<name xml:lang="en">Kentucky</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:81"/>
+			<name xml:lang="de">Kerala</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10130"/>
+			<name xml:lang="de">Liaoning</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:36"/>
+			<name xml:lang="de">Louisiana</name>
+			<name xml:lang="en">Louisiana</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:82"/>
+			<name xml:lang="de">Madhya Pradesh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:83"/>
+			<name xml:lang="de">Maharashtra</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:37"/>
+			<name xml:lang="de">Maine</name>
+			<name xml:lang="en">Maine</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:84"/>
+			<name xml:lang="de">Manipur</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:38"/>
+			<name xml:lang="de">Maryland</name>
+			<name xml:lang="en">Maryland</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:39"/>
+			<name xml:lang="de">Massachusetts</name>
+			<name xml:lang="en">Massachusetts</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:8"/>
+			<name xml:lang="de">Mecklenburg-Vorpommern</name>
+			<name xml:lang="en">Mecklenburg-West Pomerania</name>
+			<sameAs qcode="iso3166-1a2:DE-MV"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:13000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:85"/>
+			<name xml:lang="de">Meghalaya</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:40"/>
+			<name xml:lang="de">Michigan</name>
+			<name xml:lang="en">Michigan</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:41"/>
+			<name xml:lang="de">Minnesota</name>
+			<name xml:lang="en">Minnesota</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:42"/>
+			<name xml:lang="de">Mississippi</name>
+			<name xml:lang="en">Mississippi</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:43"/>
+			<name xml:lang="de">Missouri</name>
+			<name xml:lang="en">Missouri</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:86"/>
+			<name xml:lang="de">Mizoram</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:44"/>
+			<name xml:lang="de">Montana</name>
+			<name xml:lang="en">Montana</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:87"/>
+			<name xml:lang="de">Nagaland</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:45"/>
+			<name xml:lang="de">Nebraska</name>
+			<name xml:lang="en">Nebraska</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:46"/>
+			<name xml:lang="de">Nevada</name>
+			<name xml:lang="en">Nevada</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:47"/>
+			<name xml:lang="de">New Hampshire</name>
+			<name xml:lang="en">New Hampshire</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:48"/>
+			<name xml:lang="de">New Jersey</name>
+			<name xml:lang="en">New Jersey</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:49"/>
+			<name xml:lang="de">New Mexico</name>
+			<name xml:lang="en">New Mexico</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:50"/>
+			<name xml:lang="de">New York</name>
+			<name xml:lang="en">New York</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:9"/>
+			<name xml:lang="de">Niedersachsen</name>
+			<name xml:lang="en">Lower Saxony</name>
+			<sameAs qcode="iso3166-1a2:DE-NI"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:03000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10"/>
+			<name xml:lang="de">Nordrhein-Westfalen</name>
+			<name xml:lang="en">North Rhine-Westphalia</name>
+			<sameAs qcode="iso3166-1a2:DE-NW"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:05000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:51"/>
+			<name xml:lang="de">North Carolina</name>
+			<name xml:lang="en">North Carolina</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:52"/>
+			<name xml:lang="de">North Dakota</name>
+			<name xml:lang="en">North Dakota</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:53"/>
+			<name xml:lang="de">Ohio</name>
+			<name xml:lang="en">Ohio</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:54"/>
+			<name xml:lang="de">Oklahoma</name>
+			<name xml:lang="en">Oklahoma</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:55"/>
+			<name xml:lang="de">Oregon</name>
+			<name xml:lang="en">Oregon</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:88"/>
+			<name xml:lang="de">Orissa</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:56"/>
+			<name xml:lang="de">Pennsylvania</name>
+			<name xml:lang="en">Pennsylvania</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:89"/>
+			<name xml:lang="de">Punjab</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10129"/>
+			<name xml:lang="de">Qinghai</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:90"/>
+			<name xml:lang="de">Rajasthan</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:11"/>
+			<name xml:lang="de">Rheinland-Pfalz</name>
+			<name xml:lang="en">Rhineland-Palatinate</name>
+			<sameAs qcode="iso3166-1a2:DE-RP"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:07000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:57"/>
+			<name xml:lang="de">Rhode Island</name>
+			<name xml:lang="en">Rhode Island</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:12"/>
+			<name xml:lang="de">Saarland</name>
+			<name xml:lang="en">Saarland</name>
+			<sameAs qcode="iso3166-1a2:DE-SL"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:10000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:13"/>
+			<name xml:lang="de">Sachsen</name>
+			<name xml:lang="en">Saxony</name>
+			<sameAs qcode="iso3166-1a2:DE-SN"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:14000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:14"/>
+			<name xml:lang="de">Sachsen-Anhalt</name>
+			<name xml:lang="en">Saxony-Anhalt</name>
+			<sameAs qcode="iso3166-1a2:DE-ST"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:15000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:15"/>
+			<name xml:lang="de">Schleswig-Holstein</name>
+			<name xml:lang="en">Schleswig-Holstein</name>
+			<sameAs qcode="iso3166-1a2:DE-SH"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:01000000"/>
+			<geoAreaDetails>
+				<position latitude="54.323625146" longitude="10.139263732"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10128"/>
+			<name xml:lang="de">Shaanxi</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10127"/>
+			<name xml:lang="de">Shandong</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10125"/>
+			<name xml:lang="de">Shanxi</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10124"/>
+			<name xml:lang="de">Sichuan</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:91"/>
+			<name xml:lang="de">Sikkim</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:58"/>
+			<name xml:lang="de">South Carolina</name>
+			<name xml:lang="en">South Carolina</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:59"/>
+			<name xml:lang="de">South Dakota</name>
+			<name xml:lang="en">South Dakota</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:92"/>
+			<name xml:lang="de">Tamil Nadu</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:60"/>
+			<name xml:lang="de">Tennessee</name>
+			<name xml:lang="en">Tennessee</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:61"/>
+			<name xml:lang="de">Texas</name>
+			<name xml:lang="en">Texas</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:16"/>
+			<name xml:lang="de">Thüringen</name>
+			<name xml:lang="en">Thuringia</name>
+			<sameAs qcode="iso3166-1a2:DE-TH"/>
+			<broader qcode="dpacountry:1"/>
+			<related qcode="dpax-kgs8:16000000"/>
+			<geoAreaDetails>
+				<position latitude="50.0971447255" longitude="8.24021523539"/>
+			</geoAreaDetails>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:93"/>
+			<name xml:lang="de">Tripura</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:62"/>
+			<name xml:lang="de">Utah</name>
+			<name xml:lang="en">Utah</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:94"/>
+			<name xml:lang="de">Uttar Pradesh</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:95"/>
+			<name xml:lang="de">Uttarakhand</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:63"/>
+			<name xml:lang="de">Vermont</name>
+			<name xml:lang="en">Vermont</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:64"/>
+			<name xml:lang="de">Virginia</name>
+			<name xml:lang="en">Virginia</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:65"/>
+			<name xml:lang="de">Washington</name>
+			<name xml:lang="en">Washington</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:96"/>
+			<name xml:lang="de">Westbengalen</name>
+			<broader qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:66"/>
+			<name xml:lang="de">West-Virginia</name>
+			<name xml:lang="en">West Virginia</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:67"/>
+			<name xml:lang="de">Wisconsin</name>
+			<name xml:lang="en">Wisconsin</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:68"/>
+			<name xml:lang="de">Wyoming</name>
+			<name xml:lang="en">Wyoming</name>
+			<broader qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10154"/>
+			<name xml:lang="de">Yunnan</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:10296"/>
+			<name xml:lang="de">Zhejiang</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:100"/>
+			<name>Badachschan</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:101"/>
+			<name>Badghis</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:102"/>
+			<name>Bamian</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:103"/>
+			<name>Farjab</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:104"/>
+			<name>Kundus</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:105"/>
+			<name>Logar</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:106"/>
+			<name>Paktia</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:107"/>
+			<name>Sar-i-Pul</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:108"/>
+			<name>Tachar</name>
+			<broader qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:109"/>
+			<name>Buenos Aires</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:110"/>
+			<name>Catamarca</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:111"/>
+			<name>Chaco</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:112"/>
+			<name>Chubut</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:113"/>
+			<name>Córdoba</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:114"/>
+			<name>Corrientes</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:115"/>
+			<name>Distrito Federal</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:116"/>
+			<name>Entre Ríos</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:117"/>
+			<name>Feuerland</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:118"/>
+			<name>Formosa</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:119"/>
+			<name>General Alvear</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:120"/>
+			<name>Jujuy</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:121"/>
+			<name>La Pampa</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:122"/>
+			<name>La Rioja</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:123"/>
+			<name>Mendoza</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:124"/>
+			<name>Misiones</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:125"/>
+			<name>Neuquén</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:126"/>
+			<name>Río Negro</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:127"/>
+			<name>Salta</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:128"/>
+			<name>San Juan</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:129"/>
+			<name>San Luis</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:130"/>
+			<name>Santa Cruz</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:131"/>
+			<name>Santa Fe</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:132"/>
+			<name>Santiago del Estero</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:133"/>
+			<name>Tucumán</name>
+			<broader qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:134"/>
+			<name>New South Wales</name>
+			<broader qcode="dpacountry:16"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:135"/>
+			<name>Queensland</name>
+			<broader qcode="dpacountry:16"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:136"/>
+			<name>Beni</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:137"/>
+			<name>Chuquisaca</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:138"/>
+			<name>Cochabamba</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:139"/>
+			<name>La Paz</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:140"/>
+			<name>Oruro</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:141"/>
+			<name>Pando</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:142"/>
+			<name>Potosí</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:144"/>
+			<name>Tarija</name>
+			<broader qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:145"/>
+			<name>Acre</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:146"/>
+			<name>Alagoas</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:147"/>
+			<name>Amapá</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:148"/>
+			<name>Amazonas</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:149"/>
+			<name>Bahia</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:150"/>
+			<name>Ceará</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:152"/>
+			<name>Espírito Santo</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:154"/>
+			<name>Goiás</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:156"/>
+			<name>Maranhão</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:157"/>
+			<name>Mato Grosso</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:158"/>
+			<name>Mato Grosso do Sul</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:159"/>
+			<name>Minas Gerais</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:160"/>
+			<name>Pará</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:162"/>
+			<name>Paraíba</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:164"/>
+			<name>Paraná</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:165"/>
+			<name>Pernambuco</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:166"/>
+			<name>Piauí</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:167"/>
+			<name>Rio de Janeiro</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:168"/>
+			<name>Rio Grande do Norte</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:169"/>
+			<name>Rio Grande do Sul</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:170"/>
+			<name>Rondônia</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:171"/>
+			<name>Roraima</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:172"/>
+			<name>Santa Catarina</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:173"/>
+			<name>São Paulo</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:174"/>
+			<name>Sergipe</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:175"/>
+			<name>Tocantins</name>
+			<broader qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:176"/>
+			<name>Aisén</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:177"/>
+			<name>Antofagasta</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:178"/>
+			<name>Araucanía</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:179"/>
+			<name>Atacama</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:180"/>
+			<name>Bernardo O' Higgins</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:181"/>
+			<name>Biobío</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:182"/>
+			<name>Coquimbo</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:183"/>
+			<name>Los Lagos</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:184"/>
+			<name>Magallanes y Antártica</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:185"/>
+			<name>Maule</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:186"/>
+			<name>Metropolitana de Santiago</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:187"/>
+			<name>Tarapacá</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:188"/>
+			<name>Valparaíso</name>
+			<broader qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:189"/>
+			<name>Beijing</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:190"/>
+			<name>Chongqing</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:191"/>
+			<name>Schanghai</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:192"/>
+			<name>Tianjin</name>
+			<broader qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:193"/>
+			<name>Azuay</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:194"/>
+			<name>Bolívar</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:195"/>
+			<name>Cañar</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:196"/>
+			<name>Carchi</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:197"/>
+			<name>Chimborazo</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:198"/>
+			<name>Cotopaxi</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:199"/>
+			<name>El Oro</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:200"/>
+			<name>Esmeraldas</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:201"/>
+			<name>Galápagosinseln</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:202"/>
+			<name>Guayas</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:203"/>
+			<name>Imbabura</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:204"/>
+			<name>Loja</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:205"/>
+			<name>Los Ríos</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:206"/>
+			<name>Manabí</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:207"/>
+			<name>Morona Santiago</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:208"/>
+			<name>Napo</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:209"/>
+			<name>Pastaza</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:210"/>
+			<name>Pichincha</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:211"/>
+			<name>Sucumbíos</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:212"/>
+			<name>Tungurahua</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:213"/>
+			<name>Zamora Chinchipe</name>
+			<broader qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:430"/>
+			<name>Aquitanien</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:431"/>
+			<name>Auvergne</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:432"/>
+			<name>Basse-Normandie</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:433"/>
+			<name>Bretagne</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:434"/>
+			<name>Burgund</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:435"/>
+			<name>Centre</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:436"/>
+			<name>Champagne-Ardenne</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:437"/>
+			<name>Elsass</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:438"/>
+			<name>Franche-Comté</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:439"/>
+			<name>Französisch-Guayana</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:440"/>
+			<name>Guadeloupe</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:441"/>
+			<name>Haute-Normandie</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:442"/>
+			<name>Île-de-France</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:443"/>
+			<name>Korsika</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:444"/>
+			<name>Languedoc-Roussillon</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:445"/>
+			<name>Limousin</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:446"/>
+			<name>Lothringen</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:447"/>
+			<name>Martinique</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:448"/>
+			<name>Mayotte</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:449"/>
+			<name>Midi-Pyrénées</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:450"/>
+			<name>Nord-Pas-de-Calais</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:451"/>
+			<name>Pays de la Loire</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:452"/>
+			<name>Picardie</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:453"/>
+			<name>Poitou-Charentes</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:454"/>
+			<name>Provence-Alpes-Côte d'Azur</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:455"/>
+			<name>Réunion</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:456"/>
+			<name>Rhône-Alpes</name>
+			<broader qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:214"/>
+			<name>Barima-Waini</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:215"/>
+			<name>Cuyuni-Mazaruni</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:216"/>
+			<name>Demerara-Mahaica</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:217"/>
+			<name>East Berbice-Corentyne</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:218"/>
+			<name>Essequibo Islands-West Demerara</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:219"/>
+			<name>Mahaica-Berbice</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:220"/>
+			<name>Pomeroon-Supenaam</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:221"/>
+			<name>Potaro-Siparuni</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:222"/>
+			<name>Upper Demerara-Berbice</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:223"/>
+			<name>Upper Takutu-Upper Essequibo</name>
+			<broader qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:224"/>
+			<name>Anbar</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:225"/>
+			<name>Babylon</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:226"/>
+			<name>Bagdad</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:227"/>
+			<name>Basra</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:228"/>
+			<name>Dijala</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:229"/>
+			<name>Dohuk</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:230"/>
+			<name>El Muthanna</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:231"/>
+			<name>Erbil</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:232"/>
+			<name>Kadisija</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:233"/>
+			<name>Kerbela</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:234"/>
+			<name>Maisan</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:235"/>
+			<name>Nadschaf</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:236"/>
+			<name>Ninive</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:237"/>
+			<name>Salaheddin</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:238"/>
+			<name>Sulaimanija</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:239"/>
+			<name>Tamim</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:240"/>
+			<name>Thi Kar</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:241"/>
+			<name>Wasit</name>
+			<broader qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:242"/>
+			<name>Ardebil</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:243"/>
+			<name>Bojer Ahmadi und Kohkilujeh</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:244"/>
+			<name>Buschir</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:245"/>
+			<name>Chahar Mahal und Bachtiari</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:246"/>
+			<name>Chorassan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:247"/>
+			<name>Chusistan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:248"/>
+			<name>Fars</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:249"/>
+			<name>Ghom</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:250"/>
+			<name>Gilan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:251"/>
+			<name>Golestan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:252"/>
+			<name>Hamedan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:253"/>
+			<name>Hormusgan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:254"/>
+			<name>Ilam</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:255"/>
+			<name>Isfahan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:256"/>
+			<name>Jasd</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:257"/>
+			<name>Kaswin</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:258"/>
+			<name>Kerman</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:259"/>
+			<name>Kermanschah</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:260"/>
+			<name>Kurdistan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:261"/>
+			<name>Lorestan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:262"/>
+			<name>Markasi</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:263"/>
+			<name>Masandaran</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:264"/>
+			<name>Ost-Aserbaidschan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:265"/>
+			<name>Sandschan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:266"/>
+			<name>Semnan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:267"/>
+			<name>Sistan-Belutschistan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:268"/>
+			<name>Teheran</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:269"/>
+			<name>West-Aserbaidschan</name>
+			<broader qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:272"/>
+			<name>Alberta</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:273"/>
+			<name>British Columbia</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:274"/>
+			<name>Manitoba</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:275"/>
+			<name>New Brunswick</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:276"/>
+			<name>Newfoundland and Labrador</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:277"/>
+			<name>Northwest Territories</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:278"/>
+			<name>Nova Scotia</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:279"/>
+			<name>Nunavut</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:280"/>
+			<name>Ontario</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:281"/>
+			<name>Prince Edward Island</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:282"/>
+			<name>Québec</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:283"/>
+			<name>Saskatchewan</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:284"/>
+			<name>Yukon</name>
+			<broader qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:286"/>
+			<name>Antioquia</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:287"/>
+			<name>Arauca</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:288"/>
+			<name>Atlántico</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:290"/>
+			<name>Boyacá</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:291"/>
+			<name>Caldas</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:292"/>
+			<name>Caquetá</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:293"/>
+			<name>Casanare</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:294"/>
+			<name>Cauca</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:295"/>
+			<name>Cesar</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:296"/>
+			<name>Chocó</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:298"/>
+			<name>Cundinamarca</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:299"/>
+			<name>Distrito Capital de Bogotá</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:300"/>
+			<name>Guainía</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:301"/>
+			<name>Guaviare</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:302"/>
+			<name>Huila</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:303"/>
+			<name>La Guajira</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:304"/>
+			<name>Magdalena</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:305"/>
+			<name>Meta</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:306"/>
+			<name>Nariño</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:307"/>
+			<name>Norte de Santander</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:308"/>
+			<name>Putumayo</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:309"/>
+			<name>Quindío</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:310"/>
+			<name>Risaralda</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:311"/>
+			<name>San Andrés</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:312"/>
+			<name>Santander</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:313"/>
+			<name>Sucre</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:314"/>
+			<name>Tolima</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:315"/>
+			<name>Valle del Cauca</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:316"/>
+			<name>Vaupés</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:317"/>
+			<name>Vichada</name>
+			<broader qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:318"/>
+			<name>Selangor</name>
+			<broader qcode="dpacountry:101"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:97"/>
+			<name>Kärnten</name>
+			<broader qcode="dpacountry:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:98"/>
+			<name>Oberösterreich</name>
+			<broader qcode="dpacountry:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:99"/>
+			<name>Vorarlberg</name>
+			<broader qcode="dpacountry:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:319"/>
+			<name>Alto Paraguay</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:320"/>
+			<name>Alto Paraná</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:321"/>
+			<name>Amambay</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:322"/>
+			<name>Asunción</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:323"/>
+			<name>Boquerón</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:324"/>
+			<name>Caaguazú</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:325"/>
+			<name>Caazapá</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:326"/>
+			<name>Canindeyú</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:327"/>
+			<name>Central</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:328"/>
+			<name>Concepción</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:329"/>
+			<name>Cordillera</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:330"/>
+			<name>Guairá</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:331"/>
+			<name>Itapúa</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:333"/>
+			<name>Ñeembucú</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:334"/>
+			<name>Paraguarí</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:335"/>
+			<name>Presidente Hayes</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:336"/>
+			<name>San Pedro</name>
+			<broader qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:338"/>
+			<name>Ancash</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:339"/>
+			<name>Apurímac</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:340"/>
+			<name>Arequipa</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:341"/>
+			<name>Ayacucho</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:342"/>
+			<name>Cajamarca</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:343"/>
+			<name>Callao</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:344"/>
+			<name>Cuzco</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:345"/>
+			<name>Huancavelica</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:346"/>
+			<name>Huánuco</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:347"/>
+			<name>Ica</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:348"/>
+			<name>Junín</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:349"/>
+			<name>La Libertad</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:350"/>
+			<name>Lambayeque</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:351"/>
+			<name>Lima</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:352"/>
+			<name>Loreto</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:353"/>
+			<name>Madre de Dios</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:354"/>
+			<name>Moquegua</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:355"/>
+			<name>Pasco</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:356"/>
+			<name>Piura</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:357"/>
+			<name>Puno</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:358"/>
+			<name>San Martín</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:359"/>
+			<name>Tacna</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:360"/>
+			<name>Tumbes</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:361"/>
+			<name>Ucayali</name>
+			<broader qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:362"/>
+			<name>Dagestan</name>
+			<broader qcode="dpacountry:139"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:363"/>
+			<name>Kaliningrad</name>
+			<broader qcode="dpacountry:139"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:364"/>
+			<name>Nordossetien</name>
+			<broader qcode="dpacountry:139"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:457"/>
+			<name>Aargau</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:458"/>
+			<name>Appenzell Ausserrhoden</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:459"/>
+			<name>Appenzell Innerrhoden</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:460"/>
+			<name>Basel-Landschaft</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:461"/>
+			<name>Basel-Stadt</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:462"/>
+			<name>Bern</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:463"/>
+			<name>Freiburg</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:464"/>
+			<name>Genf</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:465"/>
+			<name>Glarus</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:466"/>
+			<name>Graubünden</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:467"/>
+			<name>Jura</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:468"/>
+			<name>Luzern</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:469"/>
+			<name>Neuenburg</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:470"/>
+			<name>Nidwalden</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:471"/>
+			<name>Obwalden</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:472"/>
+			<name>Schaffhausen</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:473"/>
+			<name>Schwyz</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:474"/>
+			<name>Solothurn</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:475"/>
+			<name>St. Gallen</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:476"/>
+			<name>Tessin</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:477"/>
+			<name>Thurgau</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:478"/>
+			<name>Uri</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:479"/>
+			<name>Waadt</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:480"/>
+			<name>Wallis</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:481"/>
+			<name>Zug</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:482"/>
+			<name>Zürich</name>
+			<broader qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:270"/>
+			<name>Montenegro</name>
+			<broader qcode="dpacountry:73"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:271"/>
+			<name>Serbien</name>
+			<broader qcode="dpacountry:73"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:365"/>
+			<name>Freistaat</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:366"/>
+			<name>Gauteng</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:367"/>
+			<name>KwaZulu-Natal</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:368"/>
+			<name>Limpopo</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:369"/>
+			<name>Mpumalanga</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:370"/>
+			<name>Nord-Kap</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:371"/>
+			<name>Nord-Provinz</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:372"/>
+			<name>Nord-West</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:373"/>
+			<name>Ost-Kap</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:374"/>
+			<name>West-Kap</name>
+			<broader qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:375"/>
+			<name>Darfur</name>
+			<broader qcode="dpacountry:161"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:376"/>
+			<name>Brokopondo</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:377"/>
+			<name>Commewijne</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:378"/>
+			<name>Coronie</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:379"/>
+			<name>Marowijne</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:380"/>
+			<name>Nickerie</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:381"/>
+			<name>Para</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:382"/>
+			<name>Paramaribo</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:383"/>
+			<name>Saramacca</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:384"/>
+			<name>Sipaliwini</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:385"/>
+			<name>Wanica</name>
+			<broader qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:386"/>
+			<name>Artigas</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:387"/>
+			<name>Canelones</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:388"/>
+			<name>Cerro Largo</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:389"/>
+			<name>Colonia</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:390"/>
+			<name>Durazno</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:391"/>
+			<name>Flores</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:392"/>
+			<name>Lavalleja</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:393"/>
+			<name>Maldonado</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:394"/>
+			<name>Montevideo</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:395"/>
+			<name>Paysandú</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:397"/>
+			<name>Rivera</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:398"/>
+			<name>Rocha</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:399"/>
+			<name>Salto</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:400"/>
+			<name>San José</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:401"/>
+			<name>Soriano</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:402"/>
+			<name>Tacuarembó</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:403"/>
+			<name>Treinta y Tres</name>
+			<broader qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:405"/>
+			<name>Anzoátegui</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:406"/>
+			<name>Apure</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:407"/>
+			<name>Aragua</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:408"/>
+			<name>Barinas</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:410"/>
+			<name>Carabobo</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:411"/>
+			<name>Cojedes</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:412"/>
+			<name>Delta Amacuro</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:413"/>
+			<name>Dependencias Federales</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:415"/>
+			<name>Falcón</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:416"/>
+			<name>Guárico</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:417"/>
+			<name>Lara</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:418"/>
+			<name>Mérida</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:419"/>
+			<name>Miranda</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:420"/>
+			<name>Monagas</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:421"/>
+			<name>Nueva Esparta</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:422"/>
+			<name>Portuguesa</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:424"/>
+			<name>Táchira</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:425"/>
+			<name>Trujillo</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:426"/>
+			<name>Vargas</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:427"/>
+			<name>Yaracuy</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:428"/>
+			<name>Zulia</name>
+			<broader qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaarea:429"/>
+			<name>Ajman</name>
+			<broader qcode="dpacountry:189"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaarea" uri="http://g2.dpa.com/cv/area/">
+		<definition>TODO</definition>
+		<name>dpaarea</name>
+	</schemeMeta>
+</knowledgeItem>

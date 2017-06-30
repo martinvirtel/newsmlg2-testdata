@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:apsubcat" standard="NewsML-G2" standardversion="2.12" version="3" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:IPTC"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-01-22T18:14:53+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>G2 Abbildung der AP Supplemental Categories</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:A"/>
+			<name role="nrol:mnemonic">A</name>
+			<definition xml:lang="en">Domestic</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:ADV"/>
+			<name role="nrol:mnemonic">ADV</name>
+			<definition xml:lang="en">Advance</definition>
+		</concept>
+		<concept id="dpax-apsubcatAGR">
+			<conceptId qcode="dpax-apsubcat:AGR"/>
+			<name role="nrol:mnemonic">AGR</name>
+			<definition xml:lang="en">Agriculture</definition>
+			<sameAs qcode="medtop:20000210"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:APN"/>
+			<name role="nrol:mnemonic">APN</name>
+			<definition xml:lang="en">APNewsFeatures</definition>
+		</concept>
+		<concept id="dpax-apsubcatARC">
+			<conceptId qcode="dpax-apsubcat:ARC"/>
+			<name role="nrol:mnemonic">ARC</name>
+			<definition xml:lang="en">Archery</definition>
+			<sameAs qcode="medtop:20000824"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:ATH"/>
+			<name role="nrol:mnemonic">ATH</name>
+			<definition xml:lang="en">Track and Field</definition>
+		</concept>
+		<concept id="dpax-apsubcatBAD">
+			<conceptId qcode="dpax-apsubcat:BAD"/>
+			<name role="nrol:mnemonic">BAD</name>
+			<definition xml:lang="en">Badminton</definition>
+			<sameAs qcode="medtop:20000847"/>
+		</concept>
+		<concept id="dpax-apsubcatBBA">
+			<conceptId qcode="dpax-apsubcat:BBA"/>
+			<name role="nrol:mnemonic">BBA</name>
+			<definition xml:lang="en">Professional Baseball (American League)</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBC">
+			<conceptId qcode="dpax-apsubcat:BBC"/>
+			<name role="nrol:mnemonic">BBC</name>
+			<definition xml:lang="en">College Baseball Men</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBH">
+			<conceptId qcode="dpax-apsubcat:BBH"/>
+			<name role="nrol:mnemonic">BBH</name>
+			<definition xml:lang="en">High School Baseball</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBI">
+			<conceptId qcode="dpax-apsubcat:BBI"/>
+			<name role="nrol:mnemonic">BBI</name>
+			<definition xml:lang="en">International Baseball</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBM">
+			<conceptId qcode="dpax-apsubcat:BBM"/>
+			<name role="nrol:mnemonic">BBM</name>
+			<definition xml:lang="en">Minor League Baseball</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBN">
+			<conceptId qcode="dpax-apsubcat:BBN"/>
+			<name role="nrol:mnemonic">BBN</name>
+			<definition xml:lang="en">Professional Baseball (National League)</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBO">
+			<conceptId qcode="dpax-apsubcat:BBO"/>
+			<name role="nrol:mnemonic">BBO</name>
+			<definition xml:lang="en">Professional Baseball (Other)</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBW">
+			<conceptId qcode="dpax-apsubcat:BBW"/>
+			<name role="nrol:mnemonic">BBW</name>
+			<definition xml:lang="en">Baseball Women</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBBY">
+			<conceptId qcode="dpax-apsubcat:BBY"/>
+			<name role="nrol:mnemonic">BBY</name>
+			<definition xml:lang="en">Youth Baseball (Little League)</definition>
+			<broader qcode="medtop:20000849"/>
+		</concept>
+		<concept id="dpax-apsubcatBIA">
+			<conceptId qcode="dpax-apsubcat:BIA"/>
+			<name role="nrol:mnemonic">BIA</name>
+			<definition xml:lang="en">Biathlon</definition>
+			<sameAs qcode="medtop:20000852"/>
+		</concept>
+		<concept id="dpax-apsubcatBKC">
+			<conceptId qcode="dpax-apsubcat:BKC"/>
+			<name role="nrol:mnemonic">BKC</name>
+			<definition xml:lang="en">College Basketball Men</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBKH">
+			<conceptId qcode="dpax-apsubcat:BKH"/>
+			<name role="nrol:mnemonic">BKH</name>
+			<definition xml:lang="en">High School Basketball</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBKL">
+			<conceptId qcode="dpax-apsubcat:BKL"/>
+			<name role="nrol:mnemonic">BKL</name>
+			<definition xml:lang="en">College Basketball Ladies</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBKN">
+			<conceptId qcode="dpax-apsubcat:BKN"/>
+			<name role="nrol:mnemonic">BKN</name>
+			<definition xml:lang="en">NBA Basketball</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBKO">
+			<conceptId qcode="dpax-apsubcat:BKO"/>
+			<name role="nrol:mnemonic">BKO</name>
+			<definition xml:lang="en">Basketball (Other)</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBKW">
+			<conceptId qcode="dpax-apsubcat:BKW"/>
+			<name role="nrol:mnemonic">BKW</name>
+			<definition xml:lang="en">Professional Basketball Women</definition>
+			<broader qcode="medtop:20000851"/>
+		</concept>
+		<concept id="dpax-apsubcatBOB">
+			<conceptId qcode="dpax-apsubcat:BOB"/>
+			<name role="nrol:mnemonic">BOB</name>
+			<definition xml:lang="en">Bobsledding</definition>
+			<sameAs qcode="medtop:20000854"/>
+		</concept>
+		<concept id="dpax-apsubcatBOX">
+			<conceptId qcode="dpax-apsubcat:BOX"/>
+			<name role="nrol:mnemonic">BOX</name>
+			<definition xml:lang="en">Boxing</definition>
+			<sameAs qcode="medtop:20000856"/>
+		</concept>
+		<concept id="dpax-apsubcatCAN">
+			<conceptId qcode="dpax-apsubcat:CAN"/>
+			<name role="nrol:mnemonic">CAN</name>
+			<definition xml:lang="en">Canoe-Kayak</definition>
+			<sameAs qcode="medtop:20000877"/>
+		</concept>
+		<concept id="dpax-apsubcatCAR">
+			<conceptId qcode="dpax-apsubcat:CAR"/>
+			<name role="nrol:mnemonic">CAR</name>
+			<definition xml:lang="en">Auto Racing</definition>
+			<sameAs qcode="medtop:20000991"/>
+		</concept>
+		<concept id="dpax-apsubcatCER">
+			<conceptId qcode="dpax-apsubcat:CER"/>
+			<name role="nrol:mnemonic">CER</name>
+			<definition xml:lang="en">Olympic Ceremony</definition>
+			<broader qcode="medtop:20001108"/>
+		</concept>
+		<concept id="dpax-apsubcatCRI">
+			<conceptId qcode="dpax-apsubcat:CRI"/>
+			<name role="nrol:mnemonic">CRI</name>
+			<definition xml:lang="en">Cricket</definition>
+			<sameAs qcode="medtop:20000888"/>
+		</concept>
+		<concept id="dpax-apsubcatCUR">
+			<conceptId qcode="dpax-apsubcat:CUR"/>
+			<name role="nrol:mnemonic">CUR</name>
+			<definition xml:lang="en">Curling</definition>
+			<sameAs qcode="medtop:20000890"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:CVN"/>
+			<name role="nrol:mnemonic">CVN</name>
+			<definition xml:lang="en">National political conventions</definition>
+		</concept>
+		<concept id="dpax-apsubcatCYC">
+			<conceptId qcode="dpax-apsubcat:CYC"/>
+			<name role="nrol:mnemonic">CYC</name>
+			<definition xml:lang="en">Bicycle Racing</definition>
+			<sameAs qcode="medtop:20000892"/>
+		</concept>
+		<concept id="dpax-apsubcatDIV">
+			<conceptId qcode="dpax-apsubcat:DIV"/>
+			<name role="nrol:mnemonic">DIV</name>
+			<definition xml:lang="en">Diving</definition>
+			<sameAs qcode="medtop:20000913"/>
+		</concept>
+		<concept id="dpax-apsubcatELN">
+			<conceptId qcode="dpax-apsubcat:ELN"/>
+			<name role="nrol:mnemonic">ELN</name>
+			<definition xml:lang="en">Election campaigns</definition>
+			<broader qcode="medtop:20000574"/>
+		</concept>
+		<concept id="dpax-apsubcatENT">
+			<conceptId qcode="dpax-apsubcat:ENT"/>
+			<name role="nrol:mnemonic">ENT</name>
+			<definition xml:lang="en">Entertainment</definition>
+			<sameAs qcode="medtop:20000002"/>
+		</concept>
+		<concept id="dpax-apsubcatEQU">
+			<conceptId qcode="dpax-apsubcat:EQU"/>
+			<name role="nrol:mnemonic">EQU</name>
+			<definition xml:lang="en">Equestrian</definition>
+			<sameAs qcode="medtop:20000923"/>
+		</concept>
+		<concept id="dpax-apsubcatF">
+			<conceptId qcode="dpax-apsubcat:F"/>
+			<name role="nrol:mnemonic">F</name>
+			<definition xml:lang="en">Finance</definition>
+			<sameAs qcode="medtop:04000000"/>
+		</concept>
+		<concept id="dpax-apsubcatFBC">
+			<conceptId qcode="dpax-apsubcat:FBC"/>
+			<name role="nrol:mnemonic">FBC</name>
+			<definition xml:lang="en">College football</definition>
+			<broader qcode="medtop:20000823"/>
+		</concept>
+		<concept id="dpax-apsubcatFBH">
+			<conceptId qcode="dpax-apsubcat:FBH"/>
+			<name role="nrol:mnemonic">FBH</name>
+			<definition xml:lang="en">High School Football</definition>
+			<broader qcode="medtop:20000823"/>
+		</concept>
+		<concept id="dpax-apsubcatFBN">
+			<conceptId qcode="dpax-apsubcat:FBN"/>
+			<name role="nrol:mnemonic">FBN</name>
+			<definition xml:lang="en">NFL Football</definition>
+			<broader qcode="medtop:20000823"/>
+		</concept>
+		<concept id="dpax-apsubcatFBO">
+			<conceptId qcode="dpax-apsubcat:FBO"/>
+			<name role="nrol:mnemonic">FBO</name>
+			<definition xml:lang="en">Football (other)</definition>
+			<broader qcode="medtop:20000823"/>
+		</concept>
+		<concept id="dpax-apsubcatFBX">
+			<conceptId qcode="dpax-apsubcat:FBX"/>
+			<name role="nrol:mnemonic">FBX</name>
+			<definition xml:lang="en">XFL Football</definition>
+			<broader qcode="medtop:20000823"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:FEA"/>
+			<name role="nrol:mnemonic">FEA</name>
+			<definition xml:lang="en">Feature</definition>
+		</concept>
+		<concept id="dpax-apsubcatFEN">
+			<conceptId qcode="dpax-apsubcat:FEN"/>
+			<name role="nrol:mnemonic">FEN</name>
+			<definition xml:lang="en">Fencing</definition>
+			<sameAs qcode="medtop:20000929"/>
+		</concept>
+		<concept id="dpax-apsubcatFIG">
+			<conceptId qcode="dpax-apsubcat:FIG"/>
+			<name role="nrol:mnemonic">FIG</name>
+			<definition xml:lang="en">Figure Skating</definition>
+			<sameAs qcode="medtop:20000934"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:FILE"/>
+			<name role="nrol:mnemonic">FILE</name>
+			<definition xml:lang="en">File photo</definition>
+		</concept>
+		<concept id="dpax-apsubcatFRE">
+			<conceptId qcode="dpax-apsubcat:FRE"/>
+			<name role="nrol:mnemonic">FRE</name>
+			<definition xml:lang="en">Freestyle Skiing</definition>
+			<sameAs qcode="medtop:20001058"/>
+		</concept>
+		<concept id="dpax-apsubcatGLF">
+			<conceptId qcode="dpax-apsubcat:GLF"/>
+			<name role="nrol:mnemonic">GLF</name>
+			<definition xml:lang="en">Golf</definition>
+			<sameAs qcode="medtop:20000940"/>
+		</concept>
+		<concept id="dpax-apsubcatGYM">
+			<conceptId qcode="dpax-apsubcat:GYM"/>
+			<name role="nrol:mnemonic">GYM</name>
+			<definition xml:lang="en">Gymnastics</definition>
+			<sameAs qcode="medtop:20000942"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:H"/>
+			<name role="nrol:mnemonic">H</name>
+			<definition xml:lang="en">Latin America</definition>
+		</concept>
+		<concept id="dpax-apsubcatHAN">
+			<conceptId qcode="dpax-apsubcat:HAN"/>
+			<name role="nrol:mnemonic">HAN</name>
+			<definition xml:lang="en">Team Handball</definition>
+			<sameAs qcode="medtop:20000958"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:HFR"/>
+			<name role="nrol:mnemonic">HFR</name>
+			<definition xml:lang="en">Hold for Release (embargoed for same day release)</definition>
+		</concept>
+		<concept id="dpax-apsubcatHKC">
+			<conceptId qcode="dpax-apsubcat:HKC"/>
+			<name role="nrol:mnemonic">HKC</name>
+			<definition xml:lang="en">College Hockey</definition>
+			<broader qcode="medtop:20000965"/>
+		</concept>
+		<concept id="dpax-apsubcatHKM">
+			<conceptId qcode="dpax-apsubcat:HKM"/>
+			<name role="nrol:mnemonic">HKM</name>
+			<definition xml:lang="en">Mens Hockey (Olympics)</definition>
+			<broader qcode="medtop:20000965"/>
+		</concept>
+		<concept id="dpax-apsubcatHKN">
+			<conceptId qcode="dpax-apsubcat:HKN"/>
+			<name role="nrol:mnemonic">HKN</name>
+			<definition xml:lang="en">NHL Hockey</definition>
+			<broader qcode="medtop:20000965"/>
+		</concept>
+		<concept id="dpax-apsubcatHKO">
+			<conceptId qcode="dpax-apsubcat:HKO"/>
+			<name role="nrol:mnemonic">HKO</name>
+			<definition xml:lang="en">Hockey (Other)</definition>
+			<broader qcode="medtop:20000965"/>
+		</concept>
+		<concept id="dpax-apsubcatHKW">
+			<conceptId qcode="dpax-apsubcat:HKW"/>
+			<name role="nrol:mnemonic">HKW</name>
+			<definition xml:lang="en">Womens Hockey</definition>
+			<broader qcode="medtop:20000965"/>
+		</concept>
+		<concept id="dpax-apsubcatHKY">
+			<conceptId qcode="dpax-apsubcat:HKY"/>
+			<name role="nrol:mnemonic">HKY</name>
+			<definition xml:lang="en">Field Hockey</definition>
+			<sameAs qcode="medtop:20000933"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:I"/>
+			<name role="nrol:mnemonic">I</name>
+			<definition xml:lang="en">International</definition>
+		</concept>
+		<concept id="dpax-apsubcatJUD">
+			<conceptId qcode="dpax-apsubcat:JUD"/>
+			<name role="nrol:mnemonic">JUD</name>
+			<definition xml:lang="en">Judo</definition>
+			<sameAs qcode="medtop:20000969"/>
+		</concept>
+		<concept id="dpax-apsubcatJUM">
+			<conceptId qcode="dpax-apsubcat:JUM"/>
+			<name role="nrol:mnemonic">JUM</name>
+			<definition xml:lang="en">Ski Jumping</definition>
+			<sameAs qcode="medtop:20001061"/>
+		</concept>
+		<concept id="dpax-apsubcatLUG">
+			<conceptId qcode="dpax-apsubcat:LUG"/>
+			<name role="nrol:mnemonic">LUG</name>
+			<definition xml:lang="en">Luge</definition>
+			<sameAs qcode="medtop:20000987"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:MAP"/>
+			<name role="nrol:mnemonic">MAP</name>
+			<definition xml:lang="en">Map or graphic</definition>
+		</concept>
+		<concept id="dpax-apsubcatMED">
+			<conceptId qcode="dpax-apsubcat:MED"/>
+			<name role="nrol:mnemonic">MED</name>
+			<definition xml:lang="en">Medical</definition>
+			<sameAs qcode="medtop:20000485"/>
+		</concept>
+		<concept id="dpax-apsubcatNOR">
+			<conceptId qcode="dpax-apsubcat:NOR"/>
+			<name role="nrol:mnemonic">NOR</name>
+			<definition xml:lang="en">Nordic Combined (Olympics)</definition>
+			<broader qcode="medtop:20001060"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:OBIT"/>
+			<name role="nrol:mnemonic">OBIT</name>
+			<definition xml:lang="en">Obituary</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:ODD"/>
+			<name role="nrol:mnemonic">ODD</name>
+			<definition xml:lang="en">Oddities</definition>
+		</concept>
+		<concept id="dpax-apsubcatOLY">
+			<conceptId qcode="dpax-apsubcat:OLY"/>
+			<name role="nrol:mnemonic">OLY</name>
+			<definition xml:lang="en">Olympics</definition>
+			<broader qcode="medtop:20001108"/>
+		</concept>
+		<concept id="dpax-apsubcatPEN">
+			<conceptId qcode="dpax-apsubcat:PEN"/>
+			<name role="nrol:mnemonic">PEN</name>
+			<definition xml:lang="en">Modern Pentathlon</definition>
+			<sameAs qcode="medtop:20000839"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:PM"/>
+			<name role="nrol:mnemonic">PM</name>
+			<definition xml:lang="en">PM Photos</definition>
+		</concept>
+		<concept id="dpax-apsubcatRAC">
+			<conceptId qcode="dpax-apsubcat:RAC"/>
+			<name role="nrol:mnemonic">RAC</name>
+			<definition xml:lang="en">Racing (animals)</definition>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept id="dpax-apsubcatREL">
+			<conceptId qcode="dpax-apsubcat:REL"/>
+			<name role="nrol:mnemonic">REL</name>
+			<definition xml:lang="en">Religion</definition>
+			<broader qcode="medtop:12000000"/>
+		</concept>
+		<concept id="dpax-apsubcatROW">
+			<conceptId qcode="dpax-apsubcat:ROW"/>
+			<name role="nrol:mnemonic">ROW</name>
+			<definition xml:lang="en">Rowing</definition>
+			<sameAs qcode="medtop:20001026"/>
+		</concept>
+		<concept id="dpax-apsubcatRUG">
+			<conceptId qcode="dpax-apsubcat:RUG"/>
+			<name role="nrol:mnemonic">RUG</name>
+			<definition xml:lang="en">Rugby</definition>
+			<broader qcode="medtop:20001035"/>
+		</concept>
+		<concept id="dpax-apsubcatRUN">
+			<conceptId qcode="dpax-apsubcat:RUN"/>
+			<name role="nrol:mnemonic">RUN</name>
+			<definition xml:lang="en">Track and field</definition>
+			<sameAs qcode="medtop:20000827"/>
+		</concept>
+		<concept id="dpax-apsubcatS">
+			<conceptId qcode="dpax-apsubcat:S"/>
+			<name role="nrol:mnemonic">S</name>
+			<definition xml:lang="en">Sports</definition>
+			<sameAs qcode="medtop:15000000"/>
+		</concept>
+		<concept id="dpax-apsubcatSAI">
+			<conceptId qcode="dpax-apsubcat:SAI"/>
+			<name role="nrol:mnemonic">SAI</name>
+			<definition xml:lang="en">Sailing</definition>
+			<sameAs qcode="medtop:20001038"/>
+		</concept>
+		<concept id="dpax-apsubcatSCI">
+			<conceptId qcode="dpax-apsubcat:SCI"/>
+			<name role="nrol:mnemonic">SCI</name>
+			<definition xml:lang="en">Science</definition>
+			<broader qcode="medtop:13000000"/>
+		</concept>
+		<concept id="dpax-apsubcatSHO">
+			<conceptId qcode="dpax-apsubcat:SHO"/>
+			<name role="nrol:mnemonic">SHO</name>
+			<definition xml:lang="en">Skeet Shooting</definition>
+			<broader qcode="medtop:20001049"/>
+		</concept>
+		<concept id="dpax-apsubcatSKI">
+			<conceptId qcode="dpax-apsubcat:SKI"/>
+			<name role="nrol:mnemonic">SKI</name>
+			<definition xml:lang="en">Alpine skiing</definition>
+			<sameAs qcode="medtop:20001057"/>
+		</concept>
+		<concept id="dpax-apsubcatSKL">
+			<conceptId qcode="dpax-apsubcat:SKL"/>
+			<name role="nrol:mnemonic">SKL</name>
+			<definition xml:lang="en">Skeleton</definition>
+			<sameAs qcode="medtop:20001055"/>
+		</concept>
+		<concept id="dpax-apsubcatSNO">
+			<conceptId qcode="dpax-apsubcat:SNO"/>
+			<name role="nrol:mnemonic">SNO</name>
+			<definition xml:lang="en">Snowboarding</definition>
+			<sameAs qcode="medtop:20001064"/>
+		</concept>
+		<concept id="dpax-apsubcatSOC">
+			<conceptId qcode="dpax-apsubcat:SOC"/>
+			<name role="nrol:mnemonic">SOC</name>
+			<definition xml:lang="en">Soccer</definition>
+			<sameAs qcode="medtop:20001065"/>
+		</concept>
+		<concept id="dpax-apsubcatSOF">
+			<conceptId qcode="dpax-apsubcat:SOF"/>
+			<name role="nrol:mnemonic">SOF</name>
+			<definition xml:lang="en">Softball</definition>
+			<sameAs qcode="medtop:20001066"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:SOU"/>
+			<name role="nrol:mnemonic">SOU</name>
+			<definition xml:lang="en">South</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:SPCL"/>
+			<name role="nrol:mnemonic">SPCL</name>
+			<definition xml:lang="en">Special</definition>
+		</concept>
+		<concept id="dpax-apsubcatSPE">
+			<conceptId qcode="dpax-apsubcat:SPE"/>
+			<name role="nrol:mnemonic">SPE</name>
+			<definition xml:lang="en">Speed Skating</definition>
+			<sameAs qcode="medtop:20001067"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:SPF"/>
+			<name role="nrol:mnemonic">SPF</name>
+			<definition xml:lang="en">Special Features Package</definition>
+		</concept>
+		<concept id="dpax-apsubcatSWM">
+			<conceptId qcode="dpax-apsubcat:SWM"/>
+			<name role="nrol:mnemonic">SWM</name>
+			<definition xml:lang="en">Swimming</definition>
+			<sameAs qcode="medtop:20001071"/>
+		</concept>
+		<concept id="dpax-apsubcatSYN">
+			<conceptId qcode="dpax-apsubcat:SYN"/>
+			<name role="nrol:mnemonic">SYN</name>
+			<definition xml:lang="en">Synchronized Swimming</definition>
+			<broader qcode="medtop:20001071"/>
+		</concept>
+		<concept id="dpax-apsubcatTAE">
+			<conceptId qcode="dpax-apsubcat:TAE"/>
+			<name role="nrol:mnemonic">TAE</name>
+			<definition xml:lang="en">Taekwando</definition>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept id="dpax-apsubcatTEC">
+			<conceptId qcode="dpax-apsubcat:TEC"/>
+			<name role="nrol:mnemonic">TEC</name>
+			<definition xml:lang="en">Technology</definition>
+			<broader qcode="medtop:20000756"/>
+		</concept>
+		<concept id="dpax-apsubcatTEN">
+			<conceptId qcode="dpax-apsubcat:TEN"/>
+			<name role="nrol:mnemonic">TEN</name>
+			<definition xml:lang="en">Tennis</definition>
+			<sameAs qcode="medtop:20001085"/>
+		</concept>
+		<concept id="dpax-apsubcatTRI">
+			<conceptId qcode="dpax-apsubcat:TRI"/>
+			<name role="nrol:mnemonic">TRI</name>
+			<definition xml:lang="en">Triathlon</definition>
+			<sameAs qcode="medtop:20001087"/>
+		</concept>
+		<concept id="dpax-apsubcatTRM">
+			<conceptId qcode="dpax-apsubcat:TRM"/>
+			<name role="nrol:mnemonic">TRM</name>
+			<definition xml:lang="en">Trampoline</definition>
+			<sameAs qcode="medtop:20000955"/>
+		</concept>
+		<concept id="dpax-apsubcatTTN">
+			<conceptId qcode="dpax-apsubcat:TTN"/>
+			<name role="nrol:mnemonic">TTN</name>
+			<definition xml:lang="en">Table Tennis</definition>
+			<sameAs qcode="medtop:20001083"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:V"/>
+			<name role="nrol:mnemonic">V</name>
+			<definition xml:lang="en">Advisory</definition>
+		</concept>
+		<concept id="dpax-apsubcatVBB">
+			<conceptId qcode="dpax-apsubcat:VBB"/>
+			<name role="nrol:mnemonic">VBB</name>
+			<definition xml:lang="en">Beach Volleyball</definition>
+			<sameAs qcode="medtop:20001090"/>
+		</concept>
+		<concept id="dpax-apsubcatVBL">
+			<conceptId qcode="dpax-apsubcat:VBL"/>
+			<name role="nrol:mnemonic">VBL</name>
+			<definition xml:lang="en">Volleyball</definition>
+			<sameAs qcode="medtop:20001089"/>
+		</concept>
+		<concept id="dpax-apsubcatWEA">
+			<conceptId qcode="dpax-apsubcat:WEA"/>
+			<name role="nrol:mnemonic">WEA</name>
+			<definition xml:lang="en">Weather</definition>
+			<sameAs qcode="medtop:17000000"/>
+		</concept>
+		<concept id="dpax-apsubcatWRE">
+			<conceptId qcode="dpax-apsubcat:WRE"/>
+			<name role="nrol:mnemonic">WRE</name>
+			<definition xml:lang="en">Wrestling</definition>
+			<sameAs qcode="medtop:20001098"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:WST"/>
+			<name role="nrol:mnemonic">WST</name>
+			<definition xml:lang="en">West</definition>
+		</concept>
+		<concept id="dpax-apsubcatWTL">
+			<conceptId qcode="dpax-apsubcat:WTL"/>
+			<name role="nrol:mnemonic">WTL</name>
+			<definition xml:lang="en">Weightlifting</definition>
+			<sameAs qcode="medtop:20001093"/>
+		</concept>
+		<concept id="dpax-apsubcatWTP">
+			<conceptId qcode="dpax-apsubcat:WTP"/>
+			<name role="nrol:mnemonic">WTP</name>
+			<definition xml:lang="en">Water Polo</definition>
+			<sameAs qcode="medtop:20001091"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:XGR"/>
+			<name role="nrol:mnemonic">XGR</name>
+			<definition xml:lang="en">State legislatures</definition>
+		</concept>
+		<concept id="dpax-apsubcatXXC">
+			<conceptId qcode="dpax-apsubcat:XXC"/>
+			<name role="nrol:mnemonic">XXC</name>
+			<definition xml:lang="en">Cross Country Skiing</definition>
+			<broader qcode="medtop:20001056"/>
+		</concept>
+		<concept id="dpax-apsubcatYAT">
+			<conceptId qcode="dpax-apsubcat:YAT"/>
+			<name role="nrol:mnemonic">YAT</name>
+			<definition xml:lang="en">Yachting</definition>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apsubcat:Z"/>
+			<name role="nrol:mnemonic">Z</name>
+			<definition xml:lang="en">Misc</definition>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-apsubcat" uri="http://g2.dpa.com/cv/dpax-apsubcat/"><definition>TODO</definition><name>dpax-apsubcat</name></schemeMeta></knowledgeItem>

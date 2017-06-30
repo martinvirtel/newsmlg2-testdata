@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:rights" standard="NewsML-G2" standardversion="2.4" version="11" xml:lang="de">
+	
+	
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+        <copyrightHolder qcode="nprov:dpa"/>
+        <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2010-11-02T14:15:55+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+        <title role="nrol:display" xml:lang="de">dpa Nutzungsrechte</title>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="dparight:D"/>
+            <name role="nrol:mnemonic">D</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DA"/>
+            <name role="nrol:mnemonic">DA</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DACH"/>
+            <name role="nrol:mnemonic">DACH</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:EUROPE"/>
+            <name role="nrol:mnemonic">EUROPE</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:GLOBAL"/>
+            <name role="nrol:mnemonic">GLOBAL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NONE"/>
+            <name role="nrol:mnemonic">NONE</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_AUS"/>
+            <name role="nrol:mnemonic">NO_AUS</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_CA"/>
+            <name role="nrol:mnemonic">NO_CA</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_CH"/>
+            <name role="nrol:mnemonic">NO_CH</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_GB"/>
+            <name role="nrol:mnemonic">NO_GB</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_IT"/>
+            <name role="nrol:mnemonic">NO_IT</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_IT_RU_ES"/>
+            <name role="nrol:mnemonic">NO_IT_RU_ES</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_JPN"/>
+            <name role="nrol:mnemonic">NO_JPN</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_USA"/>
+            <name role="nrol:mnemonic">NO_USA</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_PL"/>
+            <name role="nrol:mnemonic">NO_PL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_RUS"/>
+            <name role="nrol:mnemonic">NO_RUS</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_A"/>
+            <name role="nrol:mnemonic">NO_A</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DANL"/>
+            <name role="nrol:mnemonic">DANL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DACHNL"/>
+            <name role="nrol:mnemonic">DACHNL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_NL"/>
+            <name role="nrol:mnemonic">NO_NL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_GB_IT_ES_F"/>
+            <name role="nrol:mnemonic">NO_GB_IT_ES_F</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DACHNLPL"/>
+            <name role="nrol:mnemonic">DACHNLPL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_GB_RU"/>
+            <name role="nrol:mnemonic">NO_GB_RU</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_F_PL"/>
+            <name role="nrol:mnemonic">NO_F_PL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_DK_GB_NL"/>
+            <name role="nrol:mnemonic">NO_DK_GB_NL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:EUROPE_NO_GBITNLESBE"/>
+            <name role="nrol:mnemonic">EUROPE_NO_GBITNLESBE</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:DNL"/>
+            <name role="nrol:mnemonic">DNL</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_BRA"/>
+            <name role="nrol:mnemonic">NO_BRA</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:COUNTRY_PERMIT_SPRINGER"/>
+            <name role="nrol:mnemonic">COUNTRY_PERMIT_SPRINGER</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_D"/>
+            <name role="nrol:mnemonic">NO_D</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:COUNTRY_PERMIT_KM"/>
+            <name role="nrol:mnemonic">COUNTRY_PERMIT_KM</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_F_A_CH"/>
+            <name role="nrol:mnemonic">NO_F_A_CH</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dparight:NO_CN_TW"/>
+            <name role="nrol:mnemonic">NO_CN_TW</name>
+        </concept>
+    </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dparight" uri="http://g2.dpa.com/cv/dparights/"><definition>TODO</definition><name>dparight</name></schemeMeta></knowledgeItem>

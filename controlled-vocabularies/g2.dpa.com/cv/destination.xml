@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ -->
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:destination" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-01-26T14:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>Zielsysteme innerhalb der dpa Content Logistics Infrastruktur</title>
+		<edNote>Als Destination im Sinne der dpa Content Logistics Infrastruktur werden physikalische Zielsysteme oder deren Proxy Systeme verstanden, an die Objekte innerhalb des Prozesses weitergeleitet werden. Dies kann z. B. ein konkretes System wie die dpa Picture-Alliance sein, oder aber der Endpunkt eines weiteren Belieferungsweges wie der Bildfunk. Destinations müssen grundsätzlich von Produkten differenziert werden. So werden z.B. über den dpa-Bildfunk mehrere Produkte distribuiert. Mit der Auslieferung an die Destination endet die Verantwortlichkeit des aktuellen Prozesses. Damit ist die weitere Verarbeitung für den sendenden Prozess transparent. <br/>
+ACHTUNG: Bei den Destinations handelt sich jeweils um die logische Sicht auf die empfangenden Systeme. So wird z.B. bei einer ftp Belieferung an die epa nur der weitervermittelnde ftp Server adressiert.</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>Zielsysteme innerhalb der dpa Content Logistics Infrastruktur</headline>
+	</contentMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2010-03-01T09:56:05+01:00" qcode="dpadest:bifu"/>
+			<name role="nrol:mnemonic">bf</name>
+			<name role="nrol:full">dpa Bildfunk</name>
+			<name role="nrol:short">Bildfunk</name>
+			<definition>Alle Objekte, die an diese Destination adressiert werden, werden über den dpa Bildfunk gesendet.</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-01-26T14:00:00+01:00" qcode="dpadest:pa"/>
+			<name role="nrol:mnemonic">pa</name>
+			<name role="nrol:full">dpa Picture-Alliance GmbH</name>
+			<name role="nrol:short">picture alliance</name>
+			<definition>Bilddatenbank die neben der gesamten redaktionellen dpa Bildproduktion auch Bildmaterial für die Zweitvermarktung aufnimmt.</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-01-26T14:00:00+01:00" qcode="dpadest:epa"/>
+			<name role="nrol:mnemonic">epa</name>
+			<name role="nrol:full">european pressphoto agency</name>
+			<name role="nrol:short">epa-i</name>
+			<definition>Anlieferungsweg für den dpa Beitrag an der epa Bildproduktion.</definition>
+			<note>ACHTUNG: Hier ist einzig und alleine der Weg definiert, den das dpa Material zur epa nimmt!</note>
+		</concept>
+		<concept>
+			<conceptId created="2011-01-26T14:00:00+01:00" qcode="dpadest:dpai"/>
+			<name role="nrol:mnemonic">dpai</name>
+			<name role="nrol:full">dpa international photo service</name>
+			<name role="nrol:short">dpa-i</name>
+			<definition>Über diesen Kanal werden Bilder, für die die dpa internationale Vertriebsrechte besitzt vornehmlich an ausländische Partner weiter geleitet.</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-01-26T14:00:00+01:00" qcode="dpadest:plattform"/>
+			<name role="nrol:mnemonic">plattform</name>
+			<name role="nrol:full">dpa - Plattform</name>
+			<name role="nrol:short">dpa-Plattform</name>
+			<definition>In der dpa Plattform werden alle redaktionellen Produkte der dpa archiviert und für Kunden zur Recherche bereit gehalten.</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-12-15T13:00:00+01:00" qcode="dpadest:weblines"/>
+			<name role="nrol:mnemonic">weblines</name>
+			<name role="nrol:full">infocom WebLines</name>
+			<name role="nrol:short">weblines</name>
+		</concept>
+		<concept>
+			<conceptId created="2015-03-02T13:00:00+01:00" qcode="dpadest:pool"/>
+			<name role="nrol:mnemonic">pool</name>
+			<name role="nrol:full">Agentur Pool</name>
+		</concept>
+		<concept>
+			<conceptId created="2016-08-18T11:00:00+02:00" qcode="dpadest:dpa-epa-en"/>
+			<name role="nrol:mnemonic">dpa-epa-en</name>
+			<name role="nrol:full">dpa-epa-en</name>
+		</concept>
+		<concept>
+			<conceptId created="2016-10-18T13:00:00+02:00" qcode="dpadest:planpkg"/>
+			<name xml:lang="de" role="nrol:full">Pakete auf Basis von Planung</name>
+			<name xml:lang="en" role="nrol:full">planning based pakages</name>
+			<name xml:lang="de" role="nrol:display">Planungspakete</name>
+			<name xml:lang="en" role="nrol:display">planning pakages</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpadest" uri="http://g2.dpa.com/cv/destination/">
+		<definition>TODO</definition>
+		<name>dpadest</name>
+	</schemeMeta>
+</knowledgeItem>

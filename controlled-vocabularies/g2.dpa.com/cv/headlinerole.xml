@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:headlinerole" standard="NewsML-G2" standardversion="2.12" version="3" xml:lang="de">
+
+
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-11-07T10:48:44+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Rollen für headline/@role</title>
+		<edNote>zur Zeit nur für WebLines</edNote>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2012-11-07T10:47:00+01:00" qcode="dpaheadlinerole:7901"/>
+			<name role="nrol:mnemonic">7901</name>
+			<definition>Headline speziell für die Generierung von IPTC7901 Meldungen.</definition>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T13:00:00+02:00" qcode="dpaheadlinerole:title"/>
+			<name role="nrol:mnemonic">title</name>
+			<name role="nrol:short nrol:display" xml:lang="en">title</name>
+			<name role="nrol:short nrol:display" xml:lang="de">Titel</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T13:00:00+02:00" qcode="dpaheadlinerole:subtitle1"/>
+			<name role="nrol:mnemonic">subtitle1</name>
+			<name role="nrol:short nrol:display" xml:lang="de">Untertitel 1</name>
+			<name role="nrol:short nrol:display" xml:lang="en">subtitle 1</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T13:00:00+02:00" qcode="dpaheadlinerole:subtitle2"/>
+			<name role="nrol:display nrol:short" xml:lang="en">subtitle 2</name>
+			<name role="nrol:display nrol:short" xml:lang="de">Untertitel 2</name>
+			<name role="nrol:mnemonic">subtitle2</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaheadlinerole" uri="http://g2.dpa.com/cv/headlinerole/">
+		<definition>TODO</definition>
+		<name>dpaheadlinerole</name>
+	</schemeMeta>
+</knowledgeItem>

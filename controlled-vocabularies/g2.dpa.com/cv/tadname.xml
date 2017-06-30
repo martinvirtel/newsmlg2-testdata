@@ -1,0 +1,3259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:tadnames" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+  
+  
+  <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+    <copyrightHolder/>
+    <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+  </rightsInfo>
+  <itemMeta>
+    <itemClass qcode="cinat:scheme"/>
+    <provider qcode="nprov:dpa"/>
+    <versionCreated>2013-05-28T11:26:56+02:00</versionCreated>
+    <pubStatus qcode="stat:usable"/>
+    <title role="nrol:display" xml:lang="en-GB">tad Names</title>
+  </itemMeta>
+  
+  <conceptSet>
+    <concept>
+      <conceptId qcode="dpatadname:16"/>
+      <name role="nrol:short" xml:lang="de">K'lautern</name>
+      <name role="nrol:display" xml:lang="de">1. FC Kaiserslautern</name>
+      <name xml:lang="de">Kaiserslautern</name>
+      <name role="nrol:full">1. FC Kaiserslautern</name>
+      <name role="nrol:mnemonic" xml:lang="de">KAI</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:27"/>
+      <name role="nrol:display" xml:lang="de">1. FC Köln</name>
+      <name role="nrol:mnemonic" xml:lang="de">KLN</name>
+      <name role="nrol:full">1. FC Köln</name>
+      <name xml:lang="de">1.FC Köln</name>
+      <name role="nrol:short" xml:lang="de">Köln</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:21"/>
+      <name role="nrol:full">1. FC Nürnberg</name>
+      <name role="nrol:short" xml:lang="de">Nürnberg</name>
+      <name role="nrol:mnemonic" xml:lang="de">NUE</name>
+      <name role="nrol:display" xml:lang="de">1. FC Nürnberg</name>
+      <name xml:lang="de">Nürnberg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:61"/>
+      <name role="nrol:mnemonic" xml:lang="de">SAA</name>
+      <name role="nrol:short" xml:lang="de">Saarbrücken</name>
+      <name xml:lang="de">Saarbrücken</name>
+      <name role="nrol:full">1. FC Saarbrücken</name>
+      <name role="nrol:display" xml:lang="de">1. FC Saarbrücken</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:51"/>
+      <name role="nrol:full">1. FC Union Berlin</name>
+      <name role="nrol:mnemonic" xml:lang="de">UNI</name>
+      <name role="nrol:short" xml:lang="de">Union Berlin</name>
+      <name xml:lang="de">Union Berlin</name>
+      <name role="nrol:display" xml:lang="de">1. FC Union Berlin</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:247"/>
+      <name role="nrol:full">Abt</name>
+      <name role="nrol:display" xml:lang="de">Abt</name>
+      <name xml:lang="de">Abt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:126"/>
+      <name role="nrol:display" xml:lang="de">AC Mailand</name>
+      <name role="nrol:short" xml:lang="de">AC Mailand</name>
+      <name role="nrol:full">AC Mailand</name>
+      <name xml:lang="de">AC Mailand</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:155"/>
+      <name xml:lang="de">Adler Mannh.</name>
+      <name role="nrol:display" xml:lang="de">Adler Mannheim</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:230"/>
+      <name role="nrol:short" xml:lang="de">Sutil</name>
+      <name xml:lang="de">Sutil</name>
+      <name role="nrol:display" xml:lang="de">Adrian Sutil</name>
+      <name role="nrol:full">Adrian Sutil</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:90"/>
+      <name role="nrol:display" xml:lang="de">AEK Athen</name>
+      <name role="nrol:full">AEK Athen</name>
+      <name role="nrol:short" xml:lang="de">AEK Athen</name>
+      <name xml:lang="de">AEK Athen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:271"/>
+      <name role="nrol:display" xml:lang="de">Afghanistan</name>
+      <name role="nrol:short" xml:lang="de">Afghanistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:246"/>
+      <name role="nrol:full">Aiello</name>
+      <name role="nrol:display" xml:lang="de">Aiello</name>
+      <name xml:lang="de">Aiello</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:128"/>
+      <name xml:lang="de">Ajax Amsterd.</name>
+      <name role="nrol:full">Celta de Vigo</name>
+      <name role="nrol:display" xml:lang="de">Ajax Amsterdam</name>
+      <name role="nrol:short" xml:lang="de">Amsterdam</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:169"/>
+      <name role="nrol:display" xml:lang="de">Alba Berlin</name>
+      <name xml:lang="de">Alba Berlin</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:273"/>
+      <name role="nrol:short" xml:lang="de">Albanien</name>
+      <name role="nrol:display" xml:lang="en">Albania</name>
+      <name role="nrol:display" xml:lang="de">Albanien</name>
+      <name role="nrol:full">Albanien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:249"/>
+      <name role="nrol:display" xml:lang="de">Albers</name>
+      <name xml:lang="de">Albers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:32"/>
+      <name role="nrol:full">Alemannia Aachen</name>
+      <name xml:lang="de">Aachen</name>
+      <name role="nrol:display" xml:lang="de">Alemannia Aachen</name>
+      <name role="nrol:mnemonic" xml:lang="de">AAC</name>
+      <name role="nrol:short" xml:lang="de">Aachen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:255"/>
+      <name xml:lang="de">Alesi</name>
+      <name role="nrol:display" xml:lang="de">Alesi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:213"/>
+      <name role="nrol:display" xml:lang="de">Alex Yoong</name>
+      <name role="nrol:full">Alex Yoong</name>
+      <name xml:lang="de">Yoong</name>
+      <name role="nrol:short" xml:lang="de">Yoong</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:227"/>
+      <name role="nrol:display" xml:lang="de">Alexander Wurz</name>
+      <name role="nrol:full">Alexander Wurz</name>
+      <name xml:lang="de">Wurz</name>
+      <name role="nrol:short" xml:lang="de">Wurz</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:274"/>
+      <name role="nrol:display" xml:lang="de">Algerien</name>
+      <name role="nrol:display" xml:lang="en">Algeria</name>
+      <name role="nrol:short" xml:lang="de">Algerien</name>
+      <name role="nrol:display" xml:lang="es">Argelia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:198"/>
+      <name xml:lang="de">McNish</name>
+      <name role="nrol:full">Allan McNish</name>
+      <name role="nrol:short" xml:lang="de">McNish</name>
+      <name role="nrol:display" xml:lang="de">Allan McNish</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:364"/>
+      <name role="nrol:full">Amerik. Jungferninseln</name>
+      <name role="nrol:short" xml:lang="de">Amerik. Jungferninseln</name>
+      <name xml:lang="de">Amerik. Jungferninseln</name>
+      <name role="nrol:display" xml:lang="en">Virgin Islands, US</name>
+      <name role="nrol:display" xml:lang="de">Amerik. Jungferninseln</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:282"/>
+      <name role="nrol:display" xml:lang="de">Amerikanisch-Samoa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:275"/>
+      <name role="nrol:display" xml:lang="de">Andorra</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:486"/>
+      <name role="nrol:full">Andreas Klöden</name>
+      <name xml:lang="de">Klöden</name>
+      <name role="nrol:display" xml:lang="de">Andreas Klöden</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:276"/>
+      <name role="nrol:short" xml:lang="de">Angola</name>
+      <name role="nrol:display" xml:lang="de">Angola</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:231"/>
+      <name role="nrol:short" xml:lang="de">Davidson</name>
+      <name xml:lang="de">Davidson</name>
+      <name role="nrol:full">Anthony Davidson</name>
+      <name role="nrol:display" xml:lang="de">Anthony Davidson</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:277"/>
+      <name role="nrol:display" xml:lang="de">Antigua und Barbuda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:202"/>
+      <name role="nrol:display" xml:lang="de">Antonio Pizzonia</name>
+      <name xml:lang="de">Pizzonia</name>
+      <name role="nrol:full">Antonio Pizzonia</name>
+      <name role="nrol:short" xml:lang="de">Pizzonia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:278"/>
+      <name role="nrol:display" xml:lang="de">Argentinien</name>
+      <name role="nrol:display" xml:lang="es">Argentina</name>
+      <name role="nrol:full">Argentinien</name>
+      <name role="nrol:display" xml:lang="en">Argentina</name>
+      <name role="nrol:short" xml:lang="de">Argentinien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:279"/>
+      <name role="nrol:short" xml:lang="de">Armenien</name>
+      <name role="nrol:display" xml:lang="de">Armenien</name>
+      <name role="nrol:display" xml:lang="en">Armenia</name>
+      <name role="nrol:full">Armenien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:4"/>
+      <name role="nrol:full">Arminia Bielefeld</name>
+      <name role="nrol:mnemonic" xml:lang="de">BIE</name>
+      <name xml:lang="de">Arm. Bielefeld</name>
+      <name role="nrol:short" xml:lang="de">Bielefeld</name>
+      <name role="nrol:display" xml:lang="de">Arminia Bielefeld</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:280"/>
+      <name role="nrol:display" xml:lang="de">Aruba</name>
+      <name role="nrol:display" xml:lang="en">Aruba</name>
+      <name role="nrol:short" xml:lang="de">Aruba</name>
+      <name role="nrol:full">Aruba</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:281"/>
+      <name role="nrol:display" xml:lang="de">Aruba</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:91"/>
+      <name role="nrol:short" xml:lang="de">Monaco</name>
+      <name role="nrol:full">AS Monaco</name>
+      <name role="nrol:display" xml:lang="de">AS Monaco</name>
+      <name xml:lang="de">AS Monaco</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:285"/>
+      <name role="nrol:full">Aserbaidschan</name>
+      <name role="nrol:display" xml:lang="de">Aserbaidschan</name>
+      <name xml:lang="de">Aserbaidschan</name>
+      <name role="nrol:display" xml:lang="en">Azerbaijan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:81"/>
+      <name role="nrol:full">Aston Villa</name>
+      <name role="nrol:display" xml:lang="de">Aston Villa</name>
+      <name role="nrol:display" xml:lang="en">Aston Villa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:102"/>
+      <name role="nrol:display" xml:lang="es">Athletic Bilbao</name>
+      <name role="nrol:display" xml:lang="de">Athletic Bilbao</name>
+      <name role="nrol:full">Athletic Bilbao</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:268"/>
+      <name role="nrol:display" xml:lang="de">Audi</name>
+      <name xml:lang="de">Audi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:162"/>
+      <name xml:lang="de">Augsburger P.</name>
+      <name role="nrol:display" xml:lang="de">Augsburger Panther</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:283"/>
+      <name role="nrol:display" xml:lang="es">Australia</name>
+      <name role="nrol:display" xml:lang="en">Australia</name>
+      <name role="nrol:short" xml:lang="de">Australien</name>
+      <name role="nrol:display" xml:lang="de">Australien</name>
+      <name role="nrol:full">Australien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:75"/>
+      <name xml:lang="de">Austria Wien</name>
+      <name role="nrol:full">Austria Wien</name>
+      <name role="nrol:display" xml:lang="de">Austria Wien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:175"/>
+      <name role="nrol:display" xml:lang="de">Avitos Gießen</name>
+      <name xml:lang="de">Gießen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:286"/>
+      <name role="nrol:full">Bahamas</name>
+      <name role="nrol:display" xml:lang="en">Bahamas</name>
+      <name role="nrol:display" xml:lang="de">Bahamas</name>
+      <name xml:lang="de">Bahamas</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:300"/>
+      <name role="nrol:full">Bahrain</name>
+      <name role="nrol:short" xml:lang="de">Bahrain</name>
+      <name role="nrol:display" xml:lang="en">Bahrain</name>
+      <name role="nrol:display" xml:lang="de">Bahrain</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:287"/>
+      <name role="nrol:full">Bangladesch</name>
+      <name role="nrol:display" xml:lang="de">Bangladesch</name>
+      <name xml:lang="de">Bangladesch</name>
+      <name role="nrol:display" xml:lang="en">Bangladesh</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:288"/>
+      <name role="nrol:display" xml:lang="de">Barbados</name>
+      <name role="nrol:full">Barbados</name>
+      <name xml:lang="de">Barbados</name>
+      <name role="nrol:display" xml:lang="en">Barbados</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:17"/>
+      <name role="nrol:mnemonic" xml:lang="de">LEV</name>
+      <name role="nrol:short" xml:lang="de">Leverkusen</name>
+      <name xml:lang="de">Bayer Leverk.</name>
+      <name role="nrol:display" xml:lang="de">Bayer Leverkusen</name>
+      <name role="nrol:full">Bayer Leverkusen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:2"/>
+      <name xml:lang="de">Bayern München</name>
+      <name role="nrol:display" xml:lang="es">Bayern München</name>
+      <name role="nrol:mnemonic" xml:lang="de">BAY</name>
+      <name role="nrol:short" xml:lang="de">Bayern</name>
+      <name role="nrol:display" xml:lang="en">Bayern München</name>
+      <name role="nrol:full">Bayern München</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:290"/>
+      <name role="nrol:display" xml:lang="de">Belgien</name>
+      <name role="nrol:display" xml:lang="en">Belgium</name>
+      <name role="nrol:full">Belgien</name>
+      <name xml:lang="de">Belgien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:295"/>
+      <name role="nrol:display" xml:lang="de">Belize</name>
+      <name xml:lang="de">Belize</name>
+      <name role="nrol:display" xml:lang="en">Belize</name>
+      <name role="nrol:full">Belize</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:291"/>
+      <name role="nrol:display" xml:lang="de">Benin</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:292"/>
+      <name role="nrol:display" xml:lang="de">Bermuda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:480"/>
+      <name role="nrol:full">Bert Grabsch</name>
+      <name xml:lang="de">Grabsch</name>
+      <name role="nrol:display" xml:lang="de">Bert Grabsch</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:125"/>
+      <name role="nrol:short" xml:lang="de">B. Istanbul</name>
+      <name role="nrol:display" xml:lang="de">Besiktas Istanbul</name>
+      <name xml:lang="de">Besiktas</name>
+      <name role="nrol:full">Besiktas Istanbul</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:105"/>
+      <name role="nrol:full">Betism Sevilla</name>
+      <name role="nrol:display" xml:lang="es">Betis</name>
+      <name role="nrol:display" xml:lang="de">Betis</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:293"/>
+      <name role="nrol:display" xml:lang="de">Bhutan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:82"/>
+      <name role="nrol:display" xml:lang="de">Blackburn Rovers</name>
+      <name role="nrol:full">Blackburn Rovers</name>
+      <name role="nrol:display" xml:lang="en">Blackburn Rovers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:261"/>
+      <name role="nrol:display" xml:lang="de">Bleekemolen</name>
+      <name xml:lang="de">Bleekemolen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:234"/>
+      <name role="nrol:full">BMW Sauber F1 Team</name>
+      <name role="nrol:display" xml:lang="de">BMW-Sauber</name>
+      <name role="nrol:display" xml:lang="es">BMW-Sauber</name>
+      <name xml:lang="de">BMW-Sauber</name>
+      <name role="nrol:display" xml:lang="en">BMW-Sauber</name>
+      <name role="nrol:short" xml:lang="de">BMW-Sauber</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:297"/>
+      <name role="nrol:display" xml:lang="de">Bolivien</name>
+      <name role="nrol:full">Bolivien</name>
+      <name xml:lang="de">Bolivien</name>
+      <name role="nrol:display" xml:lang="en">Bolivia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:83"/>
+      <name role="nrol:display" xml:lang="de">Bolton Wanderers</name>
+      <name role="nrol:display" xml:lang="en">Bolton Wanderers</name>
+      <name role="nrol:full">Bolton Wanderers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:18"/>
+      <name role="nrol:full">Bor. Mönchengladbach</name>
+      <name role="nrol:display" xml:lang="de">Bor. Mönchengladbach</name>
+      <name xml:lang="de">M'gladbach</name>
+      <name role="nrol:short" xml:lang="de">Gladbach</name>
+      <name role="nrol:mnemonic" xml:lang="de">MGL</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:9"/>
+      <name role="nrol:full">Borussia Dortmund</name>
+      <name role="nrol:mnemonic" xml:lang="de">BVB</name>
+      <name xml:lang="de">Bor. Dortmund</name>
+      <name role="nrol:display" xml:lang="de">Borussia Dortmund</name>
+      <name role="nrol:short" xml:lang="de">Dortmund</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:294"/>
+      <name role="nrol:display" xml:lang="de">Bosnien</name>
+      <name role="nrol:full">Bosnien</name>
+      <name role="nrol:display" xml:lang="en">Bosnia</name>
+      <name xml:lang="de">Bosnien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:298"/>
+      <name role="nrol:display" xml:lang="de">Botswana</name>
+      <name role="nrol:full">Botswana</name>
+      <name role="nrol:display" xml:lang="en">Botswana</name>
+      <name xml:lang="de">Botswana</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:173"/>
+      <name xml:lang="de">Brandt Hagen</name>
+      <name role="nrol:display" xml:lang="de">Brandt Hagen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:299"/>
+      <name role="nrol:display" xml:lang="de">Brasilien</name>
+      <name role="nrol:full">Brasilien</name>
+      <name role="nrol:display" xml:lang="es">Brasil</name>
+      <name role="nrol:short" xml:lang="de">Brasilien</name>
+      <name role="nrol:display" xml:lang="en">Brazil</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:366"/>
+      <name role="nrol:display" xml:lang="en">Virgin Islands, GB</name>
+      <name role="nrol:short" xml:lang="de">Britische Jungferninseln</name>
+      <name role="nrol:full">Britische Jungferninseln</name>
+      <name role="nrol:display" xml:lang="de">Britische Jungferninseln</name>
+      <name xml:lang="de">Britische Jungferninseln</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:301"/>
+      <name role="nrol:short" xml:lang="de">Brunei</name>
+      <name role="nrol:display" xml:lang="en">Brunei</name>
+      <name role="nrol:full">Brunei</name>
+      <name role="nrol:display" xml:lang="de">Brunei</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:302"/>
+      <name role="nrol:full">Bulgarien</name>
+      <name role="nrol:display" xml:lang="en">Bulgaria</name>
+      <name role="nrol:display" xml:lang="de">Bulgarien</name>
+      <name role="nrol:short" xml:lang="de">Bulgarien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:303"/>
+      <name role="nrol:short" xml:lang="de">Burkina Faso</name>
+      <name role="nrol:display" xml:lang="en">Burkina Faso</name>
+      <name role="nrol:display" xml:lang="de">Burkina Faso</name>
+      <name role="nrol:full">Burkina Faso</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:289"/>
+      <name role="nrol:display" xml:lang="de">Burundi</name>
+    </concept>
+    <concept id="dpatadname40">
+      <conceptId qcode="dpatadname:40"/>
+      <name role="nrol:display" xml:lang="es">CA Osasuna</name>
+      <name role="nrol:full">CA Osasuna</name>
+      <name role="nrol:display" xml:lang="de">CA Osasuna</name>
+      <name role="nrol:display" xml:lang="en">CA Osasuna</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:127"/>
+      <name xml:lang="de">Celta de Vigo</name>
+      <name role="nrol:full">Celta de Vigo</name>
+      <name role="nrol:display" xml:lang="de">Celta de Vigo</name>
+      <name role="nrol:short" xml:lang="de">Celta de Vigo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:78"/>
+      <name xml:lang="de">Celtic Glasgow</name>
+      <name role="nrol:full">Celtic Glasgow/CZE</name>
+      <name role="nrol:display" xml:lang="de">Celtic Glasgow/CZE</name>
+      <name role="nrol:short" xml:lang="de">Celtic</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:84"/>
+      <name role="nrol:display" xml:lang="de">Charlton Athletic</name>
+      <name role="nrol:full">Charlton Athletic</name>
+      <name role="nrol:display" xml:lang="en">Charlton Athletic</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:311"/>
+      <name role="nrol:short" xml:lang="de">Chile</name>
+      <name role="nrol:display" xml:lang="en">Chile</name>
+      <name role="nrol:display" xml:lang="es">Chile</name>
+      <name role="nrol:display" xml:lang="de">Chile</name>
+      <name role="nrol:full">Chile</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:312"/>
+      <name role="nrol:display" xml:lang="en">China</name>
+      <name role="nrol:full">China</name>
+      <name role="nrol:display" xml:lang="de">China</name>
+      <name role="nrol:short" xml:lang="de">China</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:214"/>
+      <name xml:lang="de">Klien</name>
+      <name role="nrol:short" xml:lang="de">Klien</name>
+      <name role="nrol:full">Christian Klien</name>
+      <name role="nrol:display" xml:lang="de">Christian Klien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:220"/>
+      <name role="nrol:display" xml:lang="de">Christijan Albers</name>
+      <name role="nrol:full">Christijan Albers</name>
+      <name xml:lang="de">Albers</name>
+      <name role="nrol:display" xml:lang="en">Christijan Albers</name>
+      <name role="nrol:short" xml:lang="de">Albers</name>
+      <name role="nrol:display" xml:lang="es">Christijan Albers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:315"/>
+      <name role="nrol:display" xml:lang="de">Cookinseln</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:319"/>
+      <name role="nrol:display" xml:lang="en">Costa Rica</name>
+      <name role="nrol:full">Costa Rica</name>
+      <name role="nrol:display" xml:lang="de">Costa Rica</name>
+      <name role="nrol:short" xml:lang="de">Costa Rica</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:190"/>
+      <name role="nrol:full">Cristiano da Matta</name>
+      <name role="nrol:display" xml:lang="de">Cristiano da Matta</name>
+      <name role="nrol:short" xml:lang="de">da Matta</name>
+      <name xml:lang="de">da Matta</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:489"/>
+      <name xml:lang="de">Becke</name>
+      <name role="nrol:display" xml:lang="de">Daniel Becke</name>
+      <name role="nrol:full">Daniel Becke</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:481"/>
+      <name xml:lang="de">Hondo</name>
+      <name role="nrol:full">Danilo Hondo</name>
+      <name role="nrol:display" xml:lang="de">Danilo Hondo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:189"/>
+      <name role="nrol:short" xml:lang="de">Coulthard</name>
+      <name role="nrol:display" xml:lang="de">David Coulthard</name>
+      <name role="nrol:full">David Coulthard</name>
+      <name xml:lang="de">Coulthard</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:166"/>
+      <name role="nrol:display" xml:lang="de">DEG Metro Stars</name>
+      <name xml:lang="de">Düsseldorf</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:88"/>
+      <name xml:lang="de">La Coruna</name>
+      <name role="nrol:display" xml:lang="en">Deportivo La Coruña</name>
+      <name role="nrol:short" xml:lang="de">La Coruna</name>
+      <name role="nrol:full">Deportivo La Coruña</name>
+      <name role="nrol:display" xml:lang="de">Deportivo La Coruña</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:106"/>
+      <name role="nrol:display" xml:lang="es">Deportivo La Coruña</name>
+      <name role="nrol:display" xml:lang="de">Deportivo La Coruña</name>
+      <name role="nrol:full">Deportivo La Coruña</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:338"/>
+      <name role="nrol:display" xml:lang="de">Deutschland</name>
+      <name role="nrol:display" xml:lang="es">Alemania</name>
+      <name role="nrol:display" xml:lang="en">Germany</name>
+      <name xml:lang="de">Deutschland</name>
+      <name role="nrol:full">Deutschland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:74"/>
+      <name role="nrol:display" xml:lang="de">Dn. Dnepropetrowsk</name>
+      <name role="nrol:full">Dn. Dnepropetrowsk</name>
+      <name xml:lang="de">Dnjepropetrowsk</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:327"/>
+      <name role="nrol:full">Dominica</name>
+      <name role="nrol:display" xml:lang="en">Dominica</name>
+      <name role="nrol:display" xml:lang="de">Dominica</name>
+      <name role="nrol:short" xml:lang="de">Dominica</name>
+      <name xml:lang="de">Dominica</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:328"/>
+      <name role="nrol:display" xml:lang="en">Dominican Republic</name>
+      <name role="nrol:display" xml:lang="de">Dominikanische Republik</name>
+      <name role="nrol:full">Dominikanische Republik</name>
+      <name xml:lang="de">Dominikanische Republik</name>
+      <name role="nrol:short" xml:lang="de">Dominikanische Republik</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:326"/>
+      <name xml:lang="de">Dschibuti</name>
+      <name role="nrol:display" xml:lang="de">Dschibuti</name>
+      <name role="nrol:display" xml:lang="en">Djibouti</name>
+      <name role="nrol:short" xml:lang="de">Dschibuti</name>
+      <name role="nrol:full">Dschibuti</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:263"/>
+      <name role="nrol:display" xml:lang="de">Dumbreck</name>
+      <name xml:lang="de">Dumbreck</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:63"/>
+      <name role="nrol:short" xml:lang="de">Dynamo Dresden</name>
+      <name role="nrol:mnemonic" xml:lang="de">DRE</name>
+      <name role="nrol:display" xml:lang="de">Dynamo Dresden</name>
+      <name role="nrol:full">Dynamo Dresden</name>
+      <name xml:lang="de">Dresden</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:86"/>
+      <name role="nrol:full">Dynamo Kiew</name>
+      <name role="nrol:short" xml:lang="de">Kiew</name>
+      <name xml:lang="de">Dynamo Kiew</name>
+      <name role="nrol:display" xml:lang="de">Dynamo Kiew</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:325"/>
+      <name role="nrol:display" xml:lang="en">Denmark</name>
+      <name xml:lang="de">Dänemark</name>
+      <name role="nrol:display" xml:lang="de">Dänemark</name>
+      <name role="nrol:display" xml:lang="es">Dinamarca</name>
+      <name role="nrol:short" xml:lang="de">Dänemark</name>
+      <name role="nrol:full">Dänemark</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:154"/>
+      <name xml:lang="de">Düsseldorf</name>
+      <name role="nrol:display" xml:lang="de">Düsseldorf</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:168"/>
+      <name role="nrol:display" xml:lang="de">EC Bad Nauheim</name>
+      <name xml:lang="de">Bad Nauheim</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:329"/>
+      <name role="nrol:display" xml:lang="de">Ecuador</name>
+      <name role="nrol:full">Ecuador</name>
+      <name role="nrol:display" xml:lang="en">Ecuador</name>
+      <name xml:lang="de">Ecuador</name>
+      <name role="nrol:short" xml:lang="de">Ecuador</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:196"/>
+      <name role="nrol:full">Eddie Irvine</name>
+      <name xml:lang="de">Irvine</name>
+      <name role="nrol:display" xml:lang="de">Eddie Irvine</name>
+      <name role="nrol:short" xml:lang="de">Irvine</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:57"/>
+      <name role="nrol:display" xml:lang="de">Eintr. Braunschweig</name>
+      <name role="nrol:mnemonic" xml:lang="de">BRA</name>
+      <name xml:lang="de">Braunschweig</name>
+      <name role="nrol:short" xml:lang="de">Braunschweig</name>
+      <name role="nrol:full">Eintr. Braunschweig</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:66"/>
+      <name role="nrol:short" xml:lang="de">Braunschweig</name>
+      <name role="nrol:mnemonic" xml:lang="de">BRS</name>
+      <name xml:lang="de">Braunschweig</name>
+      <name role="nrol:full">Eintracht Braunschweig</name>
+      <name role="nrol:display" xml:lang="de">Eintracht Braunschweig</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:28"/>
+      <name role="nrol:short" xml:lang="de">Frankfurt</name>
+      <name role="nrol:full">Eintracht Frankfurt</name>
+      <name xml:lang="de">Frankfurt</name>
+      <name role="nrol:display" xml:lang="de">Eintracht Frankfurt</name>
+      <name role="nrol:mnemonic" xml:lang="de">FRA</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:31"/>
+      <name role="nrol:display" xml:lang="de">Eintracht Trier</name>
+      <name role="nrol:full">Eintracht Trier</name>
+      <name role="nrol:mnemonic" xml:lang="de">TRI</name>
+      <name xml:lang="de">Eintr. Trier</name>
+      <name role="nrol:short" xml:lang="de">Trier</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:152"/>
+      <name role="nrol:display" xml:lang="de">Eisbären Berlin</name>
+      <name xml:lang="de">Eisbären Berl.</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:250"/>
+      <name role="nrol:display" xml:lang="de">Ekström</name>
+      <name xml:lang="de">Ekström</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:331"/>
+      <name role="nrol:short" xml:lang="de">El Salvador</name>
+      <name role="nrol:display" xml:lang="de">El Salvador</name>
+      <name role="nrol:full">El Salvador</name>
+      <name role="nrol:display" xml:lang="en">El Salvador</name>
+      <name xml:lang="de">El Salvador</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:313"/>
+      <name role="nrol:display" xml:lang="es">Costa de Marfil</name>
+      <name role="nrol:full">Elfenbeinküste</name>
+      <name role="nrol:display" xml:lang="de">Elfenbeinküste</name>
+      <name role="nrol:short" xml:lang="de">Elfenbeinküste</name>
+      <name role="nrol:display" xml:lang="en">Ivory Coast</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:8"/>
+      <name role="nrol:short" xml:lang="de">Cottbus</name>
+      <name xml:lang="de">Cottbus</name>
+      <name role="nrol:full">Energie Cottbus</name>
+      <name role="nrol:mnemonic" xml:lang="de">COT</name>
+      <name role="nrol:display" xml:lang="de">Energie Cottbus</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:333"/>
+      <name role="nrol:display" xml:lang="es">Inglaterra</name>
+      <name role="nrol:display" xml:lang="en">England</name>
+      <name role="nrol:display" xml:lang="de">England</name>
+      <name role="nrol:full">England</name>
+      <name role="nrol:short" xml:lang="de">England</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:187"/>
+      <name role="nrol:full">Enrique Bernoldi</name>
+      <name role="nrol:short" xml:lang="de">Bernoldi</name>
+      <name role="nrol:display" xml:lang="de">Enrique Bernoldi</name>
+      <name xml:lang="de">Bernoldi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:163"/>
+      <name role="nrol:display" xml:lang="de">ERC Ingolstadt</name>
+      <name xml:lang="de">ERC Ingolstadt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:478"/>
+      <name xml:lang="de">Zabel</name>
+      <name role="nrol:display" xml:lang="de">Erik Zabel</name>
+      <name role="nrol:full">Erik Zabel</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:475"/>
+      <name role="nrol:full">Eritrea</name>
+      <name role="nrol:short" xml:lang="de">Eritrea</name>
+      <name role="nrol:display" xml:lang="de">Eritrea</name>
+      <name role="nrol:display" xml:lang="en">Eritrea</name>
+    </concept>
+    <concept id="dpatadname103">
+      <conceptId qcode="dpatadname:103"/>
+      <name role="nrol:display" xml:lang="de">Espanyol Barcelona</name>
+      <name role="nrol:full">Espanyol Barcelona</name>
+      <name role="nrol:display" xml:lang="es">Espanyol Barcelona</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:334"/>
+      <name role="nrol:full">Estland</name>
+      <name role="nrol:display" xml:lang="de">Estland</name>
+      <name xml:lang="de">Estland</name>
+      <name role="nrol:short" xml:lang="de">Estland</name>
+      <name role="nrol:display" xml:lang="en">Estonia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:122"/>
+      <name role="nrol:full">FC Everton</name>
+      <name role="nrol:short" xml:lang="de">Everton</name>
+      <name role="nrol:display" xml:lang="de">Everton</name>
+      <name role="nrol:display" xml:lang="en">Everton</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:180"/>
+      <name role="nrol:display" xml:lang="de">EWE Bask. Oldenburg</name>
+      <name xml:lang="de">Oldenburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:142"/>
+      <name role="nrol:display" xml:lang="de">FA Göppingen</name>
+      <name role="nrol:full">FA Göppingen</name>
+      <name xml:lang="de">Göppingen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:484"/>
+      <name xml:lang="de">Wegmann</name>
+      <name role="nrol:display" xml:lang="de">Fabian Wegmann</name>
+      <name role="nrol:full">Fabian Wegmann</name>
+    </concept>
+    <concept id="dpatadname80">
+      <conceptId qcode="dpatadname:80"/>
+      <name role="nrol:full">FC Arsenal</name>
+      <name role="nrol:display" xml:lang="de">FC Arsenal</name>
+      <name role="nrol:short" xml:lang="de">FC Arsenal</name>
+      <name xml:lang="de">FC Arsenal</name>
+      <name role="nrol:display" xml:lang="en">FC Arsenal</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:26"/>
+      <name role="nrol:mnemonic" xml:lang="de">AUG</name>
+      <name role="nrol:full">FC Augsburg</name>
+      <name role="nrol:short" xml:lang="de">Augsburg</name>
+      <name role="nrol:display" xml:lang="de">FC Augsburg</name>
+      <name xml:lang="de">Augsburg</name>
+    </concept>
+    <concept id="dpatadname104">
+      <conceptId qcode="dpatadname:104"/>
+      <name role="nrol:display" xml:lang="de">FC Barcelona</name>
+      <name role="nrol:display" xml:lang="es">FC Barcelona</name>
+      <name role="nrol:full">FC Barcelona</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:129"/>
+      <name role="nrol:full">FC Brügge</name>
+      <name role="nrol:display" xml:lang="de">FC Brügge</name>
+      <name xml:lang="de">FC Brügge</name>
+      <name role="nrol:short" xml:lang="de">Brügge</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:71"/>
+      <name role="nrol:short" xml:lang="de">Jena</name>
+      <name role="nrol:mnemonic" xml:lang="de">JEN</name>
+      <name role="nrol:display" xml:lang="de">FC Carl Zeiss Jena</name>
+      <name xml:lang="de">FC Carl Zeiss Jena</name>
+      <name role="nrol:full">FC Carl Zeiss Jena</name>
+    </concept>
+    <concept id="dpatadname121">
+      <conceptId qcode="dpatadname:121"/>
+      <name role="nrol:full">FC Chelsea</name>
+      <name role="nrol:display" xml:lang="de">FC Chelsea</name>
+      <name role="nrol:display" xml:lang="en">FC Chelsea</name>
+      <name role="nrol:short" xml:lang="de">FC Chelsea</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:59"/>
+      <name xml:lang="de">Erzgebirge Aue</name>
+      <name role="nrol:mnemonic" xml:lang="de">AUE</name>
+      <name role="nrol:short" xml:lang="de">Aue</name>
+      <name role="nrol:display" xml:lang="de">FC Erzgebirge Aue</name>
+      <name role="nrol:full">FC Erzgebirge Aue</name>
+    </concept>
+    <concept id="dpatadname108">
+      <conceptId qcode="dpatadname:108"/>
+      <name role="nrol:full">FC Getafe</name>
+      <name role="nrol:display" xml:lang="es">FC Getafe</name>
+      <name role="nrol:display" xml:lang="de">FC Getafe</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:11"/>
+      <name role="nrol:full">FC Ingolstadt 04</name>
+      <name role="nrol:mnemonic" xml:lang="de">ING</name>
+      <name role="nrol:short" xml:lang="de">Ingolstadt</name>
+      <name xml:lang="de">Ingolstadt</name>
+      <name role="nrol:display" xml:lang="de">FC Ingolstadt 04</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:117"/>
+      <name xml:lang="de">FC Porto</name>
+      <name role="nrol:display" xml:lang="de">FC Porto</name>
+      <name role="nrol:short" xml:lang="de">FC Porto</name>
+      <name role="nrol:full">FC Porto</name>
+    </concept>
+    <concept id="dpatadname100">
+      <conceptId qcode="dpatadname:100"/>
+      <name role="nrol:display" xml:lang="en">FC Reading</name>
+      <name role="nrol:full">FC Reading</name>
+      <name role="nrol:display" xml:lang="de">FC Reading</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:23"/>
+      <name role="nrol:full">FC Schalke 04</name>
+      <name xml:lang="de">Schalke 04</name>
+      <name role="nrol:mnemonic" xml:lang="de">S04</name>
+      <name role="nrol:display" xml:lang="de">FC Schalke 04</name>
+      <name role="nrol:short" xml:lang="de">Schalke</name>
+    </concept>
+    <concept id="dpatadname41">
+      <conceptId qcode="dpatadname:41"/>
+      <name role="nrol:display" xml:lang="de">FC Sevilla</name>
+      <name role="nrol:display" xml:lang="es">FC Sevilla</name>
+      <name role="nrol:full">FC Sevilla</name>
+      <name role="nrol:display" xml:lang="en">FC Sevilla</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:54"/>
+      <name role="nrol:full">FC St. Pauli</name>
+      <name xml:lang="de">FC St. Pauli</name>
+      <name role="nrol:short" xml:lang="de">Pauli</name>
+      <name role="nrol:display" xml:lang="de">FC St. Pauli</name>
+      <name role="nrol:mnemonic" xml:lang="de">PAU</name>
+    </concept>
+    <concept id="dpatadname42">
+      <conceptId qcode="dpatadname:42"/>
+      <name role="nrol:display" xml:lang="es">FC Valencia</name>
+      <name role="nrol:display" xml:lang="en">FC Valencia</name>
+      <name role="nrol:display" xml:lang="de">FC Valencia</name>
+      <name role="nrol:full">FC Valencia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:199"/>
+      <name role="nrol:display" xml:lang="de">Felipe Massa</name>
+      <name role="nrol:short" xml:lang="de">Massa</name>
+      <name xml:lang="de">Massa</name>
+      <name role="nrol:full">Felipe Massa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:185"/>
+      <name role="nrol:short" xml:lang="de">Alonso</name>
+      <name xml:lang="de">Alonso</name>
+      <name role="nrol:display" xml:lang="de">Fernando Alonso</name>
+      <name role="nrol:full">Fernando Alonso</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:232"/>
+      <name xml:lang="de">Ferrari</name>
+      <name role="nrol:short" xml:lang="de">Ferrari</name>
+      <name role="nrol:display" xml:lang="de">Ferrari</name>
+      <name role="nrol:display" xml:lang="es">Ferrari</name>
+      <name role="nrol:full">Scuderia Ferrari</name>
+      <name role="nrol:display" xml:lang="en">Ferrari</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:336"/>
+      <name role="nrol:display" xml:lang="de">Fidschi</name>
+      <name role="nrol:short" xml:lang="de">Fidschi</name>
+      <name role="nrol:full">Fidschi</name>
+      <name role="nrol:display" xml:lang="en">Fidschi</name>
+      <name xml:lang="de">Fidschi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:337"/>
+      <name xml:lang="de">Finnland</name>
+      <name role="nrol:display" xml:lang="de">Finnland</name>
+      <name role="nrol:display" xml:lang="es">Finlandia</name>
+      <name role="nrol:full">Finnland</name>
+      <name role="nrol:display" xml:lang="en">Finland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:72"/>
+      <name role="nrol:display" xml:lang="de">FK Teplice/CZE</name>
+      <name role="nrol:full">FK Teplice/CZE</name>
+      <name xml:lang="de">FK Teplice</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:5"/>
+      <name role="nrol:short" xml:lang="de">Düsseldorf</name>
+      <name role="nrol:full">Fortuna Düsseldorf</name>
+      <name role="nrol:mnemonic" xml:lang="de">DUE</name>
+      <name role="nrol:display" xml:lang="de">Fortuna Düsseldorf</name>
+      <name xml:lang="de">Fortuna Düsseldorf</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:164"/>
+      <name role="nrol:display" xml:lang="de">Frankfurt Lions</name>
+      <name xml:lang="de">Frankf. Lions</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:339"/>
+      <name xml:lang="de">Frankreich</name>
+      <name role="nrol:short" xml:lang="de">Frankreich</name>
+      <name role="nrol:display" xml:lang="en">France</name>
+      <name role="nrol:display" xml:lang="de">Frankreich</name>
+      <name role="nrol:display" xml:lang="es">Francia</name>
+      <name role="nrol:full">Frankreich</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:13"/>
+      <name role="nrol:mnemonic" xml:lang="de">FSV</name>
+      <name role="nrol:full">FSV Frankfurt</name>
+      <name role="nrol:short" xml:lang="de">FSV Frankfurt</name>
+      <name xml:lang="de">FSV Frankfurt</name>
+      <name role="nrol:display" xml:lang="de">FSV Frankfurt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:30"/>
+      <name xml:lang="de">Mainz 05</name>
+      <name role="nrol:short" xml:lang="de">Mainz</name>
+      <name role="nrol:display" xml:lang="de">FSV Mainz 05</name>
+      <name role="nrol:full">FSV Mainz 05</name>
+      <name role="nrol:mnemonic" xml:lang="de">MAI</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:123"/>
+      <name role="nrol:short" xml:lang="de">Fulham</name>
+      <name role="nrol:display" xml:lang="en">Fulham</name>
+      <name role="nrol:full">FC Fulham</name>
+      <name role="nrol:display" xml:lang="de">Fulham</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:254"/>
+      <name xml:lang="de">Fässler</name>
+      <name role="nrol:display" xml:lang="de">Fässler</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:340"/>
+      <name role="nrol:short" xml:lang="de">Gabun</name>
+      <name role="nrol:display" xml:lang="en">Gabon</name>
+      <name xml:lang="de">Gabun</name>
+      <name role="nrol:display" xml:lang="de">Gabun</name>
+      <name role="nrol:full">Gabun</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:93"/>
+      <name xml:lang="de">Galatasaray</name>
+      <name role="nrol:full">Galatasaray Istanbul</name>
+      <name role="nrol:short" xml:lang="de">G. Istanbul</name>
+      <name role="nrol:display" xml:lang="de">Galatasaray Istanbul</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:341"/>
+      <name xml:lang="de">Gambia</name>
+      <name role="nrol:display" xml:lang="de">Gambia</name>
+      <name role="nrol:full">Gambia</name>
+      <name role="nrol:display" xml:lang="en">Gambia</name>
+      <name role="nrol:short" xml:lang="de">Gambia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:223"/>
+      <name role="nrol:full">Gary Paffett</name>
+      <name role="nrol:short" xml:lang="de">Paffett</name>
+      <name xml:lang="de">Paffett</name>
+      <name role="nrol:display" xml:lang="de">Gary Paffett</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:344"/>
+      <name role="nrol:short" xml:lang="de">Georgien</name>
+      <name role="nrol:display" xml:lang="de">Georgien</name>
+      <name role="nrol:display" xml:lang="en">Georgia</name>
+      <name role="nrol:full">Georgien</name>
+      <name xml:lang="de">Georgien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:346"/>
+      <name role="nrol:full">Ghana</name>
+      <name role="nrol:display" xml:lang="es">Ghana</name>
+      <name role="nrol:short" xml:lang="de">Ghana</name>
+      <name role="nrol:display" xml:lang="de">Ghana</name>
+      <name role="nrol:display" xml:lang="en">Ghana</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:193"/>
+      <name role="nrol:full">Giancarlo Fisichella</name>
+      <name role="nrol:display" xml:lang="de">Giancarlo Fisichella</name>
+      <name role="nrol:short" xml:lang="de">Fisichella</name>
+      <name xml:lang="de">Fisichella</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:217"/>
+      <name role="nrol:full">Gianmaria Bruni</name>
+      <name role="nrol:short" xml:lang="de">Bruni</name>
+      <name xml:lang="de">Bruni</name>
+      <name role="nrol:display" xml:lang="de">Gianmaria Bruni</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:172"/>
+      <name xml:lang="de">Giants Leverkusen</name>
+      <name role="nrol:display" xml:lang="de">Giants Leverkusen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:37"/>
+      <name role="nrol:display" xml:lang="es">Gimnàstic</name>
+      <name role="nrol:display" xml:lang="de">Gimnàstic</name>
+      <name role="nrol:full">Gimnàstic Tarragona</name>
+      <name role="nrol:display" xml:lang="en">Gimnàstic</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:215"/>
+      <name role="nrol:short" xml:lang="de">Pantano</name>
+      <name role="nrol:display" xml:lang="de">Giorgio Pantano</name>
+      <name xml:lang="de">Pantano</name>
+      <name role="nrol:full">Giorgio Pantano</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:115"/>
+      <name role="nrol:display" xml:lang="de">Glasgow Rangers</name>
+      <name role="nrol:full">Glasgow Rangers</name>
+      <name xml:lang="de">Glasgow R.</name>
+      <name role="nrol:short" xml:lang="de">Rangers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:348"/>
+      <name role="nrol:display" xml:lang="de">Grenada</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:321"/>
+      <name role="nrol:display" xml:lang="de">Griechenland</name>
+      <name role="nrol:display" xml:lang="es">Grecia</name>
+      <name role="nrol:short" xml:lang="de">Griechenland</name>
+      <name xml:lang="de">Griechenland</name>
+      <name role="nrol:full">Griechenland</name>
+      <name role="nrol:display" xml:lang="en">Greece</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:347"/>
+      <name role="nrol:display" xml:lang="en">Greece</name>
+      <name xml:lang="de">Griechenland</name>
+      <name role="nrol:full">Griechenland</name>
+      <name role="nrol:display" xml:lang="de">Griechenland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:497"/>
+      <name role="nrol:display" xml:lang="de">Grischa Niermann</name>
+      <name role="nrol:full">Grischa Niermann</name>
+      <name xml:lang="de">Niermann</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:73"/>
+      <name xml:lang="de">Grodzisk</name>
+      <name role="nrol:display" xml:lang="de">Groclin Grodzisk/POL</name>
+      <name role="nrol:full">Groclin Grodzisk/POL</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:342"/>
+      <name role="nrol:display" xml:lang="de">Großbritannien</name>
+      <name xml:lang="de">Großbritannien</name>
+      <name role="nrol:full">Großbritannien</name>
+      <name role="nrol:display" xml:lang="es">Gran Bretaña</name>
+      <name role="nrol:display" xml:lang="en">Great Britain</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:351"/>
+      <name role="nrol:display" xml:lang="de">Guam</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:349"/>
+      <name role="nrol:display" xml:lang="de">Guatemala</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:350"/>
+      <name role="nrol:display" xml:lang="de">Guinea</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:343"/>
+      <name role="nrol:display" xml:lang="de">Guinea-Bissau</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:352"/>
+      <name role="nrol:display" xml:lang="de">Guyana</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:143"/>
+      <name xml:lang="de">Minden</name>
+      <name role="nrol:display" xml:lang="de">GWD Minden</name>
+      <name role="nrol:full">GWD Minden</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:353"/>
+      <name role="nrol:display" xml:lang="de">Haiti</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:159"/>
+      <name xml:lang="de">Hamburg Fr.</name>
+      <name role="nrol:display" xml:lang="de">Hamburg Freezers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:15"/>
+      <name role="nrol:mnemonic" xml:lang="de">HSV</name>
+      <name role="nrol:display" xml:lang="de">Hamburger SV</name>
+      <name role="nrol:full">Hamburger SV</name>
+      <name role="nrol:short" xml:lang="de">HSV</name>
+      <name xml:lang="de">Hamburger SV</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:10"/>
+      <name xml:lang="de">Hannover 96</name>
+      <name role="nrol:short" xml:lang="de">Hannover</name>
+      <name role="nrol:display" xml:lang="de">Hannover 96</name>
+      <name role="nrol:full">Hannover 96</name>
+      <name role="nrol:mnemonic" xml:lang="de">HAN</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:161"/>
+      <name xml:lang="de">Hannover Sc.</name>
+      <name role="nrol:display" xml:lang="de">Hannover Scorpions</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:22"/>
+      <name xml:lang="de">Hansa Rostock</name>
+      <name role="nrol:short" xml:lang="de">Rostock</name>
+      <name role="nrol:display" xml:lang="de">Hansa Rostock</name>
+      <name role="nrol:full">Hansa Rostock</name>
+      <name role="nrol:mnemonic" xml:lang="de">ROS</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:224"/>
+      <name xml:lang="de">Kovalainen</name>
+      <name role="nrol:short" xml:lang="de">Heikki</name>
+      <name role="nrol:display" xml:lang="de">Heikki Kovalainen</name>
+      <name role="nrol:full">Heikki Kovalainen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:194"/>
+      <name xml:lang="de">Frentzen</name>
+      <name role="nrol:full">Heinz-Harald Frentzen</name>
+      <name role="nrol:short" xml:lang="de">Frentzen</name>
+      <name role="nrol:display" xml:lang="de">Heinz-Harald Frentzen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:14"/>
+      <name role="nrol:mnemonic" xml:lang="de">BER</name>
+      <name role="nrol:display" xml:lang="es">Hertha BSC</name>
+      <name role="nrol:full">Hertha BSC</name>
+      <name role="nrol:short" xml:lang="de">Hertha</name>
+      <name xml:lang="de">Hertha BSC</name>
+      <name role="nrol:display" xml:lang="de">Hertha BSC</name>
+      <name role="nrol:display" xml:lang="en">Hertha BSC</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:20"/>
+      <name role="nrol:full">1899 Hoffenheim</name>
+      <name role="nrol:display" xml:lang="de">Hoffenheim</name>
+      <name xml:lang="de">Hoffenheim</name>
+      <name role="nrol:mnemonic" xml:lang="de">HOF</name>
+      <name role="nrol:short" xml:lang="de">Hoffenheim</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:233"/>
+      <name role="nrol:short" xml:lang="de">Honda</name>
+      <name role="nrol:display" xml:lang="en">Honda</name>
+      <name xml:lang="de">BAR-Honda</name>
+      <name role="nrol:display" xml:lang="es">Honda</name>
+      <name role="nrol:display" xml:lang="de">Honda F1 Racing</name>
+      <name role="nrol:full">Honda F1 Racing</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:355"/>
+      <name role="nrol:display" xml:lang="es">Honduras</name>
+      <name role="nrol:display" xml:lang="en">Honduras</name>
+      <name role="nrol:full">Honduras</name>
+      <name role="nrol:display" xml:lang="de">Honduras</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:354"/>
+      <name role="nrol:display" xml:lang="de">Hongkong</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:140"/>
+      <name xml:lang="de">Wetzlar</name>
+      <name role="nrol:full">HSG D/M Wetzlar</name>
+      <name role="nrol:display" xml:lang="de">HSG D/M Wetzlar</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:151"/>
+      <name role="nrol:display" xml:lang="de">HSG Düsseldorf</name>
+      <name xml:lang="de">Düsseldorf</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:135"/>
+      <name role="nrol:full">HSG Nordhorn</name>
+      <name xml:lang="de">Nordhorn</name>
+      <name role="nrol:display" xml:lang="de">HSG Nordhorn</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:138"/>
+      <name xml:lang="de">HSV Hamburg</name>
+      <name role="nrol:display" xml:lang="de">HSV Hamburg</name>
+      <name role="nrol:full">HSV Hamburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:265"/>
+      <name xml:lang="de">Huisman</name>
+      <name role="nrol:display" xml:lang="de">Huisman</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:358"/>
+      <name role="nrol:display" xml:lang="de">Indien</name>
+      <name role="nrol:display" xml:lang="en">India</name>
+      <name xml:lang="de">Indien</name>
+      <name role="nrol:full">Indien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:357"/>
+      <name role="nrol:display" xml:lang="en">Indonesia</name>
+      <name role="nrol:display" xml:lang="de">Indonesien</name>
+      <name role="nrol:full">Indonesien</name>
+      <name xml:lang="de">Indonesien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:85"/>
+      <name role="nrol:short" xml:lang="de">I. Mailand</name>
+      <name role="nrol:display" xml:lang="de">Inter Mailand</name>
+      <name xml:lang="de">Inter Mailand</name>
+      <name role="nrol:full">Inter Mailand</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:361"/>
+      <name role="nrol:display" xml:lang="en">Iraq</name>
+      <name xml:lang="de">Irak</name>
+      <name role="nrol:full">Irak</name>
+      <name role="nrol:display" xml:lang="de">Irak</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:359"/>
+      <name role="nrol:display" xml:lang="de">Iran</name>
+      <name role="nrol:short" xml:lang="de">Iran</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:360"/>
+      <name role="nrol:display" xml:lang="en">Ireland</name>
+      <name xml:lang="de">Irland</name>
+      <name role="nrol:display" xml:lang="de">Irland</name>
+      <name role="nrol:full">Irland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:160"/>
+      <name role="nrol:display" xml:lang="de">Iserlohn Roosters</name>
+      <name xml:lang="de">Iserlohn Roost.</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:362"/>
+      <name role="nrol:display" xml:lang="de">Island</name>
+      <name role="nrol:full">Island</name>
+      <name xml:lang="de">Island</name>
+      <name role="nrol:display" xml:lang="en">Iceland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:363"/>
+      <name role="nrol:display" xml:lang="de">Israel</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:365"/>
+      <name role="nrol:display" xml:lang="de">Italien</name>
+      <name role="nrol:short" xml:lang="de">Italien</name>
+      <name role="nrol:display" xml:lang="es">Italia</name>
+      <name xml:lang="de">Italien</name>
+      <name role="nrol:full">Italien</name>
+      <name role="nrol:display" xml:lang="en">Italy</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:210"/>
+      <name role="nrol:full">Jacques Villeneuve</name>
+      <name xml:lang="de">Villeneuve</name>
+      <name role="nrol:display" xml:lang="de">Jacques Villeneuve</name>
+      <name role="nrol:short" xml:lang="de">Villeneuve</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:65"/>
+      <name role="nrol:short" xml:lang="de">Regensburg</name>
+      <name role="nrol:display" xml:lang="de">Jahn Regensburg</name>
+      <name xml:lang="de">Regensburg</name>
+      <name role="nrol:full">Jahn Regensburg</name>
+      <name role="nrol:mnemonic" xml:lang="de">REG</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:367"/>
+      <name role="nrol:full">Jamaika</name>
+      <name xml:lang="de">Jamaika</name>
+      <name role="nrol:display" xml:lang="de">Jamaika</name>
+      <name role="nrol:display" xml:lang="en">Jamaica</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:369"/>
+      <name role="nrol:short" xml:lang="de">Japan</name>
+      <name role="nrol:display" xml:lang="de">Japan</name>
+      <name role="nrol:display" xml:lang="en">Japan</name>
+      <name role="nrol:full">Japan</name>
+      <name role="nrol:display" xml:lang="es">Japón</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:208"/>
+      <name role="nrol:short" xml:lang="de">Trulli</name>
+      <name xml:lang="de">Trulli</name>
+      <name role="nrol:full">Jarno Trulli</name>
+      <name role="nrol:display" xml:lang="de">Jarno Trulli</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:470"/>
+      <name role="nrol:full">Jemen</name>
+      <name role="nrol:display" xml:lang="en">Yemen</name>
+      <name role="nrol:display" xml:lang="de">Jemen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:495"/>
+      <name xml:lang="de">Voigt</name>
+      <name role="nrol:display" xml:lang="de">Jens Voigt</name>
+      <name role="nrol:full">Jens Voigt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:188"/>
+      <name xml:lang="de">Button</name>
+      <name role="nrol:full">Jenson Button</name>
+      <name role="nrol:short" xml:lang="de">Button</name>
+      <name role="nrol:display" xml:lang="de">Jenson Button</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:237"/>
+      <name role="nrol:display" xml:lang="de">Jordan</name>
+      <name role="nrol:full">Jordan</name>
+      <name xml:lang="de">Jordan-Ford</name>
+      <name role="nrol:short" xml:lang="de">Jordan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:368"/>
+      <name role="nrol:full">Jordanien</name>
+      <name role="nrol:display" xml:lang="en">Jordan</name>
+      <name role="nrol:display" xml:lang="de">Jordanien</name>
+      <name xml:lang="de">Jordanien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:209"/>
+      <name role="nrol:full">Jos Verstappen</name>
+      <name role="nrol:short" xml:lang="de">Verstappen</name>
+      <name role="nrol:display" xml:lang="de">Jos Verstappen</name>
+      <name xml:lang="de">Verstappen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:200"/>
+      <name role="nrol:short" xml:lang="de">Montoya</name>
+      <name role="nrol:full">Juan Pablo Montoya</name>
+      <name role="nrol:display" xml:lang="de">Juan Pablo Montoya</name>
+      <name xml:lang="de">Montoya</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:471"/>
+      <name role="nrol:display" xml:lang="de">Jugoslawien</name>
+      <name xml:lang="de">Jugoslawien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:212"/>
+      <name xml:lang="de">Wilson</name>
+      <name role="nrol:short" xml:lang="de">Wilson</name>
+      <name role="nrol:display" xml:lang="de">Justin Wilson</name>
+      <name role="nrol:full">Justin Wilson</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:92"/>
+      <name role="nrol:full">Juventus Turin</name>
+      <name xml:lang="de">Juventus Turin</name>
+      <name role="nrol:short" xml:lang="de">J. Turin</name>
+      <name role="nrol:display" xml:lang="de">Juventus Turin</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:256"/>
+      <name xml:lang="de">Jäger</name>
+      <name role="nrol:display" xml:lang="de">Jäger</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:496"/>
+      <name role="nrol:display" xml:lang="de">Jörg Jaksche</name>
+      <name xml:lang="de">Jaksche</name>
+      <name role="nrol:full">Jörg Jaksche</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:498"/>
+      <name role="nrol:full">Jörg Ludewig</name>
+      <name xml:lang="de">Ludewig</name>
+      <name role="nrol:display" xml:lang="de">Jörg Ludewig</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:308"/>
+      <name role="nrol:short" xml:lang="de">Kaimaninseln</name>
+      <name role="nrol:display" xml:lang="en">Cayman Islands</name>
+      <name role="nrol:display" xml:lang="de">Kaimaninseln</name>
+      <name role="nrol:full">Kaimaninseln</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:305"/>
+      <name role="nrol:full">Kambodscha</name>
+      <name role="nrol:display" xml:lang="en">Cambodia</name>
+      <name role="nrol:display" xml:lang="de">Kambodscha</name>
+      <name role="nrol:short" xml:lang="de">Kambodscha</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:306"/>
+      <name xml:lang="de">Kambodscha</name>
+      <name role="nrol:display" xml:lang="de">Kambodscha</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:76"/>
+      <name role="nrol:full">Kamen I. Velika/CRO</name>
+      <name xml:lang="de">Velika</name>
+      <name role="nrol:display" xml:lang="de">Kamen I. Velika/CRO</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:314"/>
+      <name role="nrol:full">Kamerun</name>
+      <name role="nrol:display" xml:lang="es">Camerún</name>
+      <name role="nrol:display" xml:lang="de">Kamerun</name>
+      <name role="nrol:display" xml:lang="en">Cameroon</name>
+      <name role="nrol:short" xml:lang="de">Kamerun</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:307"/>
+      <name role="nrol:short" xml:lang="de">Kanada</name>
+      <name role="nrol:display" xml:lang="de">Kanada</name>
+      <name role="nrol:display" xml:lang="en">Canada</name>
+      <name role="nrol:full">Kanada</name>
+      <name role="nrol:display" xml:lang="es">Canadá</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:264"/>
+      <name role="nrol:display" xml:lang="de">Kaneishi</name>
+      <name xml:lang="de">Kaneishi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:318"/>
+      <name role="nrol:short" xml:lang="de">Kap Verde</name>
+      <name role="nrol:display" xml:lang="de">Kap Verde</name>
+      <name role="nrol:display" xml:lang="en">Cape Verde</name>
+      <name role="nrol:full">Kap Verde</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:55"/>
+      <name role="nrol:mnemonic" xml:lang="de">KAR</name>
+      <name xml:lang="de">Karlsruher SC</name>
+      <name role="nrol:full">Karlsruher SC</name>
+      <name role="nrol:short" xml:lang="de">Karlsruher</name>
+      <name role="nrol:display" xml:lang="de">Karlsruher SC</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:370"/>
+      <name role="nrol:display" xml:lang="de">Kasachstan</name>
+      <name xml:lang="de">Kasachstan</name>
+      <name role="nrol:full">Kasachstan</name>
+      <name role="nrol:display" xml:lang="en">Kazakhstan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:158"/>
+      <name role="nrol:display" xml:lang="de">Kassel Huskies</name>
+      <name xml:lang="de">Kassel Huskies</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:424"/>
+      <name role="nrol:display" xml:lang="de">Katar</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:371"/>
+      <name role="nrol:display" xml:lang="en">Kenya</name>
+      <name role="nrol:full">Kenia</name>
+      <name xml:lang="de">Kenia</name>
+      <name role="nrol:display" xml:lang="de">Kenia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:69"/>
+      <name role="nrol:mnemonic" xml:lang="de">OFF</name>
+      <name role="nrol:display" xml:lang="de">Kickers Offenbach</name>
+      <name xml:lang="de">Offenbach</name>
+      <name role="nrol:full">Kickers Offenbach</name>
+      <name role="nrol:short" xml:lang="de">Offenbach</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:203"/>
+      <name xml:lang="de">Räikkönen</name>
+      <name role="nrol:display" xml:lang="en">Kimi Räikkönen</name>
+      <name role="nrol:full">Kimi Räikkönen</name>
+      <name role="nrol:short" xml:lang="de">Räikkönen</name>
+      <name role="nrol:display" xml:lang="de">Kimi Räikkönen</name>
+      <name role="nrol:display" xml:lang="es">Kimi Räikkönen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:372"/>
+      <name xml:lang="de">Kirgistan</name>
+      <name role="nrol:display" xml:lang="en">Kyrgyzstan</name>
+      <name role="nrol:full">Kirgistan</name>
+      <name role="nrol:display" xml:lang="de">Kirgistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:316"/>
+      <name role="nrol:display" xml:lang="de">Kolumbien</name>
+      <name role="nrol:display" xml:lang="es">Colombia</name>
+      <name role="nrol:display" xml:lang="en">Colombia</name>
+      <name role="nrol:full">Kolumbien</name>
+      <name role="nrol:short" xml:lang="de">Kolumbien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:317"/>
+      <name role="nrol:short" xml:lang="de">Komoren</name>
+      <name role="nrol:display" xml:lang="de">Komoren</name>
+      <name role="nrol:display" xml:lang="en">Comoros</name>
+      <name role="nrol:full">Komoren</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:474"/>
+      <name role="nrol:display" xml:lang="en">Congo</name>
+      <name role="nrol:full">Kongo</name>
+      <name role="nrol:display" xml:lang="de">Kongo</name>
+      <name role="nrol:short" xml:lang="de">Kongo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:309"/>
+      <name role="nrol:display" xml:lang="en">Congo-Brazzaville</name>
+      <name role="nrol:short" xml:lang="de">Kongo-Brazzaville</name>
+      <name role="nrol:full">Kongo-Brazzaville</name>
+      <name role="nrol:display" xml:lang="de">Kongo-Brazzaville</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:157"/>
+      <name role="nrol:display" xml:lang="de">Krefeld Pinguine</name>
+      <name xml:lang="de">Krefeld Ping</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:320"/>
+      <name role="nrol:full">Kroatien</name>
+      <name role="nrol:display" xml:lang="de">Kroatien</name>
+      <name role="nrol:short" xml:lang="de">Kroatien</name>
+      <name xml:lang="de">Kroatien</name>
+      <name role="nrol:display" xml:lang="en">Croatia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:322"/>
+      <name role="nrol:full">Kuba</name>
+      <name role="nrol:display" xml:lang="en">Cuba</name>
+      <name role="nrol:display" xml:lang="de">Kuba</name>
+      <name xml:lang="de">Kuba</name>
+      <name role="nrol:short" xml:lang="de">Kuba</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:375"/>
+      <name role="nrol:display" xml:lang="de">Kuwait</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:153"/>
+      <name xml:lang="de">Kölner Haie</name>
+      <name role="nrol:display" xml:lang="de">Kölner Haie</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:376"/>
+      <name role="nrol:display" xml:lang="de">Laos</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:120"/>
+      <name role="nrol:short" xml:lang="de">L. Rom</name>
+      <name role="nrol:display" xml:lang="de">Lazio Rom</name>
+      <name xml:lang="de">Lazio Rom</name>
+      <name role="nrol:full">Lazio Rom</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:381"/>
+      <name role="nrol:display" xml:lang="de">Lesotho</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:377"/>
+      <name role="nrol:display" xml:lang="de">Lettland</name>
+      <name xml:lang="de">Lettland</name>
+      <name role="nrol:full">Lettland</name>
+      <name role="nrol:display" xml:lang="en">Latvia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:222"/>
+      <name role="nrol:display" xml:lang="de">Lewis Hamilton</name>
+      <name role="nrol:full">Lewis Hamilton</name>
+      <name xml:lang="de">Hamiltion</name>
+      <name role="nrol:short" xml:lang="de">Hamilton</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:382"/>
+      <name role="nrol:display" xml:lang="en">Lebanon</name>
+      <name role="nrol:full">Libanon</name>
+      <name role="nrol:display" xml:lang="de">Libanon</name>
+      <name xml:lang="de">Libanon</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:379"/>
+      <name role="nrol:display" xml:lang="de">Liberia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:378"/>
+      <name role="nrol:display" xml:lang="de">Libyen</name>
+      <name xml:lang="de">Libyen</name>
+      <name role="nrol:full">Libyen</name>
+      <name role="nrol:display" xml:lang="en">Libya</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:383"/>
+      <name xml:lang="de">Liechtenstein</name>
+      <name role="nrol:display" xml:lang="de">Liechtenstein</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:384"/>
+      <name role="nrol:display" xml:lang="en">Lithuania</name>
+      <name role="nrol:full">Litauen</name>
+      <name xml:lang="de">Litauen</name>
+      <name role="nrol:display" xml:lang="de">Litauen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:34"/>
+      <name role="nrol:full">FC Liverpool</name>
+      <name role="nrol:display" xml:lang="es">Liverpool</name>
+      <name role="nrol:mnemonic" xml:lang="de">Liverpool</name>
+      <name role="nrol:display" xml:lang="en">Liverpool</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:87"/>
+      <name role="nrol:short" xml:lang="de">Lok Moskau</name>
+      <name xml:lang="de">Lok. Moskau</name>
+      <name role="nrol:display" xml:lang="de">Lokomotive Moskau</name>
+      <name role="nrol:full">Lokomotive Moskau</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:52"/>
+      <name role="nrol:full">LR Ahlen</name>
+      <name role="nrol:display" xml:lang="de">LR Ahlen</name>
+      <name xml:lang="de">LR Ahlen</name>
+      <name role="nrol:mnemonic" xml:lang="de">AHL</name>
+      <name role="nrol:short" xml:lang="de">Ahlen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:182"/>
+      <name xml:lang="de">Ludwigsburg</name>
+      <name role="nrol:display" xml:lang="de">Ludwigsburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:385"/>
+      <name role="nrol:display" xml:lang="en">Luxembourg</name>
+      <name role="nrol:full">Luxemburg</name>
+      <name role="nrol:display" xml:lang="de">Luxemburg</name>
+      <name xml:lang="de">Luxemburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:386"/>
+      <name xml:lang="de">Madagaskar</name>
+      <name role="nrol:display" xml:lang="de">Madagaskar</name>
+      <name role="nrol:full">Madagaskar</name>
+      <name role="nrol:display" xml:lang="en">Madagascar</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:389"/>
+      <name role="nrol:display" xml:lang="de">Malawi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:388"/>
+      <name role="nrol:display" xml:lang="de">Malaysia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:391"/>
+      <name xml:lang="de">Malediven</name>
+      <name role="nrol:display" xml:lang="de">Malediven</name>
+      <name role="nrol:full">Malediven</name>
+      <name role="nrol:display" xml:lang="en">Maledives</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:395"/>
+      <name role="nrol:display" xml:lang="de">Mali</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:396"/>
+      <name role="nrol:display" xml:lang="de">Malta</name>
+      <name xml:lang="de">Malta</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:3"/>
+      <name role="nrol:display" xml:lang="es">Manchester City</name>
+      <name role="nrol:full">Manchester City</name>
+      <name role="nrol:mnemonic" xml:lang="de">Manchester City</name>
+      <name role="nrol:display" xml:lang="en">Manchester City</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:96"/>
+      <name role="nrol:short" xml:lang="de">ManU</name>
+      <name role="nrol:full">Manchester United</name>
+      <name role="nrol:display" xml:lang="de">Manchester United</name>
+      <name xml:lang="de">Manchester U.</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:211"/>
+      <name role="nrol:display" xml:lang="de">Mark Webber</name>
+      <name role="nrol:full">Mark Webber</name>
+      <name role="nrol:short" xml:lang="de">Webber</name>
+      <name xml:lang="de">Webber</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:387"/>
+      <name role="nrol:display" xml:lang="de">Marokko</name>
+      <name role="nrol:full">Marokko</name>
+      <name role="nrol:display" xml:lang="en">Morocco</name>
+      <name xml:lang="de">Marokko</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:485"/>
+      <name role="nrol:full">Matthias Kessler</name>
+      <name xml:lang="de">Kessler</name>
+      <name role="nrol:display" xml:lang="de">Matthias Kessler</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:400"/>
+      <name role="nrol:display" xml:lang="de">Mauretanien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:399"/>
+      <name role="nrol:display" xml:lang="de">Mauritius</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:257"/>
+      <name role="nrol:display" xml:lang="de">Mayländer</name>
+      <name xml:lang="de">Mayländer</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:394"/>
+      <name xml:lang="de">Mazedonien</name>
+      <name role="nrol:display" xml:lang="en">Macedonia</name>
+      <name role="nrol:display" xml:lang="de">Mazedonien</name>
+      <name role="nrol:full">Mazedonien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:235"/>
+      <name xml:lang="de">McLa.-Merc.</name>
+      <name role="nrol:display" xml:lang="de">McLaren-Mercedes</name>
+      <name role="nrol:short" xml:lang="de">McLaren-Mercedes</name>
+      <name role="nrol:full">McLaren-Mercedes</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:253"/>
+      <name role="nrol:display" xml:lang="de">Menu</name>
+      <name xml:lang="de">Menu</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:269"/>
+      <name xml:lang="de">Mercedes</name>
+      <name role="nrol:display" xml:lang="de">Mercedes</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:270"/>
+      <name role="nrol:display" xml:lang="de">Mercedes</name>
+      <name xml:lang="de">Mercedes</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:392"/>
+      <name role="nrol:full">Mexiko</name>
+      <name role="nrol:display" xml:lang="es">México</name>
+      <name role="nrol:display" xml:lang="de">Mexiko</name>
+      <name xml:lang="de">Mexiko</name>
+      <name role="nrol:display" xml:lang="en">Mexico</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:492"/>
+      <name role="nrol:full">Michael Rich</name>
+      <name xml:lang="de">Rich</name>
+      <name role="nrol:display" xml:lang="de">Michael Rich</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:206"/>
+      <name role="nrol:display" xml:lang="de">Michael Schumacher</name>
+      <name xml:lang="de">M. Schumacher</name>
+      <name role="nrol:short" xml:lang="de">M. Schumacher</name>
+      <name role="nrol:full">Michael Schumacher</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:97"/>
+      <name role="nrol:full">FC Middlesbrough</name>
+      <name role="nrol:display" xml:lang="en">Middlesbrough</name>
+      <name role="nrol:display" xml:lang="de">Middlesbrough</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:241"/>
+      <name role="nrol:display" xml:lang="de">Midland F1 Racing</name>
+      <name role="nrol:full">Midland F1 Racing</name>
+      <name role="nrol:display" xml:lang="en">Midland</name>
+      <name role="nrol:display" xml:lang="es">Midland</name>
+      <name role="nrol:short" xml:lang="de">Midland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:204"/>
+      <name role="nrol:short" xml:lang="de">Salo</name>
+      <name role="nrol:full">Mika Salo</name>
+      <name role="nrol:display" xml:lang="de">Mika Salo</name>
+      <name xml:lang="de">Salo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:476"/>
+      <name role="nrol:display" xml:lang="de">Mikronesien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:240"/>
+      <name role="nrol:full">Minardi</name>
+      <name xml:lang="de">Minardi-Cosw.</name>
+      <name role="nrol:display" xml:lang="de">Minardi</name>
+      <name role="nrol:short" xml:lang="de">Minardi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:179"/>
+      <name role="nrol:display" xml:lang="de">Mitteldeutscher BC</name>
+      <name xml:lang="de">Mitteldt. BC</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:390"/>
+      <name role="nrol:full">Moldawien</name>
+      <name xml:lang="de">Moldawien</name>
+      <name role="nrol:display" xml:lang="de">Moldawien</name>
+      <name role="nrol:display" xml:lang="en">Moldova</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:397"/>
+      <name role="nrol:display" xml:lang="de">Monaco</name>
+      <name xml:lang="de">Monaco</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:393"/>
+      <name role="nrol:full">Mongolei</name>
+      <name role="nrol:display" xml:lang="de">Mongolei</name>
+      <name role="nrol:display" xml:lang="en">Mongolia</name>
+      <name xml:lang="de">Mongolei</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:398"/>
+      <name role="nrol:full">Mosambik</name>
+      <name xml:lang="de">Mosambik</name>
+      <name role="nrol:display" xml:lang="de">Mosambik</name>
+      <name role="nrol:display" xml:lang="en">Mozambique</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:47"/>
+      <name role="nrol:display" xml:lang="de">MSV Duisburg</name>
+      <name role="nrol:mnemonic" xml:lang="de">DUI</name>
+      <name role="nrol:full">MSV Duisburg</name>
+      <name xml:lang="de">MSV Duisburg</name>
+      <name role="nrol:short" xml:lang="de">Duisburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:401"/>
+      <name role="nrol:display" xml:lang="de">Myanmar</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:266"/>
+      <name xml:lang="de">Mücke</name>
+      <name role="nrol:display" xml:lang="de">Mücke</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:402"/>
+      <name role="nrol:display" xml:lang="de">Namibia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:219"/>
+      <name xml:lang="de">Karthikeyan</name>
+      <name role="nrol:display" xml:lang="de">Narain Karthikeyan</name>
+      <name role="nrol:short" xml:lang="de">Karthikeyan</name>
+      <name role="nrol:full">Narain Karthikeyan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:409"/>
+      <name role="nrol:display" xml:lang="de">Nauru</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:405"/>
+      <name role="nrol:display" xml:lang="de">Nepal</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:146"/>
+      <name role="nrol:full">Nettelstedt</name>
+      <name xml:lang="de">Nettelstedt</name>
+      <name role="nrol:display" xml:lang="de">Nettelstedt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:410"/>
+      <name role="nrol:full">Neuseeland</name>
+      <name xml:lang="de">Neuseeland</name>
+      <name role="nrol:display" xml:lang="de">Neuseeland</name>
+      <name role="nrol:display" xml:lang="en">New Zealand</name>
+      <name role="nrol:display" xml:lang="es">Nueva Zelanda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:98"/>
+      <name role="nrol:full">Newcastle United</name>
+      <name role="nrol:display" xml:lang="de">Newcastle United</name>
+      <name role="nrol:display" xml:lang="en">Newcastle United</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:403"/>
+      <name role="nrol:display" xml:lang="de">Nicaragua</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:195"/>
+      <name role="nrol:full">Nick Heidfeld</name>
+      <name xml:lang="de">Heidfeld</name>
+      <name role="nrol:display" xml:lang="de">Nick Heidfeld</name>
+      <name role="nrol:short" xml:lang="de">Heidfeld</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:226"/>
+      <name role="nrol:display" xml:lang="de">Nico Rosberg</name>
+      <name xml:lang="de">Rosberg</name>
+      <name role="nrol:short" xml:lang="de">Rosberg</name>
+      <name role="nrol:full">Nico Rosberg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:197"/>
+      <name role="nrol:short" xml:lang="de">Kiesa</name>
+      <name xml:lang="de">Kiesa</name>
+      <name role="nrol:full">Nicolas Kiesa</name>
+      <name role="nrol:display" xml:lang="de">Nicolas Kiesa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:404"/>
+      <name xml:lang="de">Niederlande</name>
+      <name role="nrol:full">Niederlande</name>
+      <name role="nrol:display" xml:lang="de">Niederlande</name>
+      <name role="nrol:short" xml:lang="de">Niederlande</name>
+      <name role="nrol:display" xml:lang="en">Netherlands</name>
+      <name role="nrol:display" xml:lang="es">Holanda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:272"/>
+      <name role="nrol:full">Niederländische Antillen</name>
+      <name role="nrol:display" xml:lang="en">Netherlands Antilles</name>
+      <name role="nrol:display" xml:lang="de">Niederländische Antillen</name>
+      <name role="nrol:short" xml:lang="de">Niederländische Antillen</name>
+      <name role="nrol:display" xml:lang="es">Páises Bajos</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:407"/>
+      <name role="nrol:display" xml:lang="de">Niger</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:406"/>
+      <name role="nrol:display" xml:lang="en">Nigeria</name>
+      <name role="nrol:display" xml:lang="es">Nigeria</name>
+      <name role="nrol:display" xml:lang="de">Nigeria</name>
+      <name role="nrol:full">Nigeria</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:411"/>
+      <name xml:lang="de">Nordirland</name>
+      <name role="nrol:display" xml:lang="de">Nordirland</name>
+      <name role="nrol:display" xml:lang="en">Northern Ireland</name>
+      <name role="nrol:full">Nordirland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:422"/>
+      <name xml:lang="de">Nordkorea</name>
+      <name role="nrol:display" xml:lang="en">North Korea</name>
+      <name role="nrol:full">Nordkorea</name>
+      <name role="nrol:display" xml:lang="de">Nordkorea</name>
+      <name role="nrol:display" xml:lang="es">RDP de Corea</name>
+      <name role="nrol:short" xml:lang="de">Nordkorea</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:408"/>
+      <name role="nrol:full">Norwegen</name>
+      <name role="nrol:display" xml:lang="es">Noruega</name>
+      <name role="nrol:display" xml:lang="de">Norwegen</name>
+      <name xml:lang="de">Norwegen</name>
+      <name role="nrol:display" xml:lang="en">Norway</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:36"/>
+      <name role="nrol:display" xml:lang="en">Nástic</name>
+      <name role="nrol:full">Nástic</name>
+      <name role="nrol:display" xml:lang="es">Nástic</name>
+      <name role="nrol:display" xml:lang="de">Nástic</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:156"/>
+      <name xml:lang="de">Nürnberg</name>
+      <name role="nrol:display" xml:lang="de">Nürnberg Ice Tigers</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:491"/>
+      <name role="nrol:display" xml:lang="de">Olaf Pollack</name>
+      <name role="nrol:full">Olaf Pollack</name>
+      <name xml:lang="de">Pollack</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:201"/>
+      <name role="nrol:short" xml:lang="de">Panis</name>
+      <name xml:lang="de">Panis</name>
+      <name role="nrol:full">Olivier Panis</name>
+      <name role="nrol:display" xml:lang="de">Olivier Panis</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:94"/>
+      <name role="nrol:full">Olympiakos Piräus</name>
+      <name role="nrol:display" xml:lang="de">Olympiakos Piräus</name>
+      <name role="nrol:short" xml:lang="de">Piräus</name>
+      <name xml:lang="de">Olymp. Piräus</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:77"/>
+      <name role="nrol:display" xml:lang="de">Olympique Lyon</name>
+      <name xml:lang="de">Olymp. Lyon</name>
+      <name role="nrol:short" xml:lang="de">Lyon</name>
+      <name role="nrol:full">Olympique Lyon</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:118"/>
+      <name role="nrol:full">Olympique Marseille</name>
+      <name role="nrol:display" xml:lang="de">Olympique Marseille</name>
+      <name role="nrol:short" xml:lang="de">Marseille</name>
+      <name xml:lang="de">Marseille</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:412"/>
+      <name role="nrol:display" xml:lang="de">Oman</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:267"/>
+      <name role="nrol:display" xml:lang="de">Opel</name>
+      <name xml:lang="de">Opel</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:413"/>
+      <name role="nrol:display" xml:lang="de">Pakistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:477"/>
+      <name role="nrol:display" xml:lang="de">Palau</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:418"/>
+      <name role="nrol:display" xml:lang="de">Palästina</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:414"/>
+      <name role="nrol:display" xml:lang="de">Panama</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:114"/>
+      <name role="nrol:full">Panathinaikos Athen</name>
+      <name role="nrol:short" xml:lang="de">P. Athen</name>
+      <name xml:lang="de">Panath. Athen</name>
+      <name role="nrol:display" xml:lang="de">Panathinaikos Athen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:419"/>
+      <name role="nrol:display" xml:lang="en">Papua New Guinea</name>
+      <name role="nrol:short" xml:lang="de">Papua-Neuguinea</name>
+      <name xml:lang="de">Papua-Neuguinea</name>
+      <name role="nrol:display" xml:lang="de">Papua-Neuguinea</name>
+      <name role="nrol:full">Papua-Neuguinea</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:415"/>
+      <name role="nrol:display" xml:lang="de">Paraguay</name>
+      <name role="nrol:display" xml:lang="en">Paraguay</name>
+      <name role="nrol:short" xml:lang="de">Paraguay</name>
+      <name role="nrol:full">Paraguay</name>
+      <name role="nrol:display" xml:lang="es">Paraguay</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:119"/>
+      <name role="nrol:display" xml:lang="de">Partizan Belgrad</name>
+      <name role="nrol:full">Partizan Belgrad</name>
+      <name role="nrol:short" xml:lang="de">Belgrad</name>
+      <name xml:lang="de">Partiz. Belgrad</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:221"/>
+      <name role="nrol:short" xml:lang="de">Friesacher</name>
+      <name role="nrol:display" xml:lang="de">Patrick Friesacher</name>
+      <name xml:lang="de">Friesacher</name>
+      <name role="nrol:full">Patrick Friesacher</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:191"/>
+      <name role="nrol:short" xml:lang="de">de la Rosa</name>
+      <name role="nrol:display" xml:lang="de">Pedro de la Rosa</name>
+      <name xml:lang="de">de la Rosa</name>
+      <name role="nrol:full">Pedro de la Rosa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:416"/>
+      <name role="nrol:display" xml:lang="de">Peru</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:417"/>
+      <name xml:lang="de">Philippinen</name>
+      <name role="nrol:display" xml:lang="de">Philippinen</name>
+      <name role="nrol:full">Philippinen</name>
+      <name role="nrol:display" xml:lang="en">Philippines</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:420"/>
+      <name role="nrol:full">Polen</name>
+      <name role="nrol:short" xml:lang="de">Polen</name>
+      <name role="nrol:display" xml:lang="en">Poland</name>
+      <name role="nrol:display" xml:lang="de">Polen</name>
+      <name xml:lang="de">Polen</name>
+      <name role="nrol:display" xml:lang="es">Polonia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:99"/>
+      <name role="nrol:display" xml:lang="de">Portsmouth</name>
+      <name role="nrol:full">FC Portsmouth</name>
+      <name role="nrol:display" xml:lang="en">Portsmouth</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:421"/>
+      <name role="nrol:full">Portugal</name>
+      <name xml:lang="de">Portugal</name>
+      <name role="nrol:display" xml:lang="en">Portugal</name>
+      <name role="nrol:short" xml:lang="de">Portugal</name>
+      <name role="nrol:display" xml:lang="de">Portugal</name>
+      <name role="nrol:display" xml:lang="es">Portugal</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:89"/>
+      <name role="nrol:full">PSV Eindhoven</name>
+      <name role="nrol:short" xml:lang="de">Einhoven</name>
+      <name role="nrol:display" xml:lang="de">PSV Eindhoven</name>
+      <name xml:lang="de">Eindhoven</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:423"/>
+      <name role="nrol:full">Puerto Rico</name>
+      <name role="nrol:short" xml:lang="de">Puerto Rico</name>
+      <name role="nrol:display" xml:lang="de">Puerto Rico</name>
+      <name xml:lang="de">Puerto Rico</name>
+      <name role="nrol:display" xml:lang="en">Puerto Rico</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:46"/>
+      <name role="nrol:full">Racing Santander</name>
+      <name role="nrol:display" xml:lang="es">Racing Santander</name>
+      <name role="nrol:display" xml:lang="en">Racing Santander</name>
+      <name role="nrol:display" xml:lang="de">Racing Santander</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:207"/>
+      <name role="nrol:display" xml:lang="de">Ralf Schumacher</name>
+      <name xml:lang="de">R. Schumacher</name>
+      <name role="nrol:full">Ralf Schumacher</name>
+      <name role="nrol:short" xml:lang="de">R. Schumacher</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:192"/>
+      <name role="nrol:display" xml:lang="de">Ralph Firman</name>
+      <name role="nrol:full">Ralph Firman</name>
+      <name role="nrol:short" xml:lang="de">Firman</name>
+      <name xml:lang="de">Firman</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:35"/>
+      <name role="nrol:display" xml:lang="es">Mallorca</name>
+      <name role="nrol:full">RCD Mallorca</name>
+      <name role="nrol:display" xml:lang="de">RCD Mallorca</name>
+      <name role="nrol:display" xml:lang="en">Mallorca</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:116"/>
+      <name role="nrol:full">Real Madrid</name>
+      <name role="nrol:short" xml:lang="de">R. Madrid</name>
+      <name role="nrol:display" xml:lang="de">Real Madrid</name>
+      <name xml:lang="de">Real Madrid</name>
+      <name role="nrol:display" xml:lang="es">Real Madrid</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:95"/>
+      <name role="nrol:display" xml:lang="de">Real S. San Sebastián</name>
+      <name role="nrol:full">Real S. San Sebastián</name>
+      <name xml:lang="de">San Sebastian</name>
+      <name role="nrol:short" xml:lang="de">S.Sebastian</name>
+    </concept>
+    <concept id="dpatadname45">
+      <conceptId qcode="dpatadname:45"/>
+      <name role="nrol:display" xml:lang="es">Real Saragossa</name>
+      <name role="nrol:display" xml:lang="en">Real Saragossa</name>
+      <name role="nrol:display" xml:lang="de">Real Saragossa</name>
+      <name role="nrol:full">Real Saragossa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:38"/>
+      <name role="nrol:full">Real Sociedad</name>
+      <name role="nrol:display" xml:lang="de">Real Sociedad</name>
+      <name role="nrol:display" xml:lang="en">Real Sociedad</name>
+      <name role="nrol:display" xml:lang="es">Real Sociedad</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:39"/>
+      <name role="nrol:display" xml:lang="es">Recreativo Huelva</name>
+      <name role="nrol:display" xml:lang="de">Recreativo Huelva</name>
+      <name role="nrol:full">Recreativo Huelva</name>
+      <name role="nrol:display" xml:lang="en">Recreativo Huelva</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:238"/>
+      <name role="nrol:short" xml:lang="de">Red Bull</name>
+      <name xml:lang="de">Red Bull</name>
+      <name role="nrol:display" xml:lang="de">Red Bull Racing</name>
+      <name role="nrol:full">Red Bull Racing</name>
+      <name role="nrol:display" xml:lang="es">Red Bull</name>
+      <name role="nrol:display" xml:lang="en">Red Bull</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:236"/>
+      <name role="nrol:display" xml:lang="en">Renault</name>
+      <name role="nrol:display" xml:lang="es">Renault</name>
+      <name role="nrol:display" xml:lang="de">Renault</name>
+      <name role="nrol:full">Renault F1 Team</name>
+      <name xml:lang="de">Renault</name>
+      <name role="nrol:short" xml:lang="de">Renault</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:252"/>
+      <name xml:lang="de">Reuter</name>
+      <name role="nrol:display" xml:lang="de">Reuter</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:181"/>
+      <name xml:lang="de">RE Cologne</name>
+      <name role="nrol:display" xml:lang="de">RheinEn. Cologne</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:225"/>
+      <name role="nrol:display" xml:lang="de">Robert Kubica</name>
+      <name role="nrol:short" xml:lang="de">Kubica</name>
+      <name xml:lang="de">Kubica</name>
+      <name role="nrol:full">Robert Kubica</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:479"/>
+      <name role="nrol:full">Rolf Aldag</name>
+      <name role="nrol:display" xml:lang="de">Rolf Aldag</name>
+      <name xml:lang="de">Aldag</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:483"/>
+      <name xml:lang="de">Scholz</name>
+      <name role="nrol:display" xml:lang="de">Ronny Scholz</name>
+      <name role="nrol:full">Ronny Scholz</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:12"/>
+      <name role="nrol:short" xml:lang="de">Rot Weiss Ahlen</name>
+      <name xml:lang="de">Rot Weiss Ahlen</name>
+      <name role="nrol:full">Rot Weiss Ahlen</name>
+      <name role="nrol:display" xml:lang="de">Rot Weiss Ahlen</name>
+      <name role="nrol:mnemonic" xml:lang="de">AHL</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:60"/>
+      <name role="nrol:mnemonic" xml:lang="de">RWE</name>
+      <name role="nrol:short" xml:lang="de">Essen</name>
+      <name role="nrol:full">Rot-Weiss Essen</name>
+      <name role="nrol:display" xml:lang="de">Rot-Weiss Essen</name>
+      <name xml:lang="de">RW Essen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:62"/>
+      <name role="nrol:display" xml:lang="de">Rot-Weiß Erfurt</name>
+      <name xml:lang="de">Erfurt</name>
+      <name role="nrol:full">Rot-Weiß Erfurt</name>
+      <name role="nrol:short" xml:lang="de">Erfurt</name>
+      <name role="nrol:mnemonic" xml:lang="de">ERF</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:49"/>
+      <name role="nrol:mnemonic" xml:lang="de">OBH</name>
+      <name xml:lang="de">Oberhausen</name>
+      <name role="nrol:full">Rot-Weiß Oberhausen</name>
+      <name role="nrol:short" xml:lang="de">Oberhausen</name>
+      <name role="nrol:display" xml:lang="de">Rot-Weiß Oberhausen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:79"/>
+      <name role="nrol:full">RSC Anderlecht</name>
+      <name role="nrol:short" xml:lang="de">Anderlecht</name>
+      <name xml:lang="de">Anderlecht</name>
+      <name role="nrol:display" xml:lang="de">RSC Anderlecht</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:428"/>
+      <name role="nrol:display" xml:lang="de">Ruanda</name>
+      <name xml:lang="de">Ruanda</name>
+      <name role="nrol:full">Ruanda</name>
+      <name role="nrol:display" xml:lang="en">Rwanda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:186"/>
+      <name xml:lang="de">Barrichello</name>
+      <name role="nrol:display" xml:lang="de">Rubens Barrichello</name>
+      <name role="nrol:full">Rubens Barrichello</name>
+      <name role="nrol:short" xml:lang="de">Barrichello</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:425"/>
+      <name role="nrol:full">Rumänien</name>
+      <name xml:lang="de">Rumänien</name>
+      <name role="nrol:display" xml:lang="de">Rumänien</name>
+      <name role="nrol:display" xml:lang="en">Romania</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:427"/>
+      <name role="nrol:display" xml:lang="en">Russia</name>
+      <name xml:lang="de">Russland</name>
+      <name role="nrol:display" xml:lang="de">Russland</name>
+      <name role="nrol:full">Russland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:177"/>
+      <name xml:lang="de">Würzburg</name>
+      <name role="nrol:display" xml:lang="de">s. Oliver Würzburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:437"/>
+      <name role="nrol:display" xml:lang="de">Salomonen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:472"/>
+      <name role="nrol:display" xml:lang="de">Sambia</name>
+      <name role="nrol:display" xml:lang="en">Zambia</name>
+      <name role="nrol:full">Sambia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:429"/>
+      <name role="nrol:display" xml:lang="de">Samoa</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:436"/>
+      <name role="nrol:display" xml:lang="de">San Marino</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:440"/>
+      <name role="nrol:display" xml:lang="en">Sao Tome a. Principe</name>
+      <name role="nrol:short" xml:lang="de">Sao Tome u. Principe</name>
+      <name xml:lang="de">Sao Tome u. Principe</name>
+      <name role="nrol:display" xml:lang="de">Sao Tome u. Principe</name>
+      <name role="nrol:full">Sao Tome u. Principe</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:374"/>
+      <name role="nrol:display" xml:lang="en">Saudi Arabia</name>
+      <name role="nrol:display" xml:lang="de">Saudi-Arabien</name>
+      <name role="nrol:full">Saudi-Arabien</name>
+      <name xml:lang="de">Saudi-Arabien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:167"/>
+      <name xml:lang="de">Bietigheim</name>
+      <name role="nrol:display" xml:lang="de">SC Bietigheim</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:29"/>
+      <name xml:lang="de">SC Freiburg</name>
+      <name role="nrol:full">SC Freiburg</name>
+      <name role="nrol:mnemonic" xml:lang="de">FRB</name>
+      <name role="nrol:display" xml:lang="de">SC Freiburg</name>
+      <name role="nrol:short" xml:lang="de">Freiburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:133"/>
+      <name xml:lang="de">Magdeburg</name>
+      <name role="nrol:full">SC Magdeburg</name>
+      <name role="nrol:display" xml:lang="de">SC Magdeburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:67"/>
+      <name role="nrol:short" xml:lang="de">Paderborn</name>
+      <name role="nrol:full">SC Paderborn</name>
+      <name role="nrol:display" xml:lang="de">SC Paderborn</name>
+      <name role="nrol:mnemonic" xml:lang="de">PAD</name>
+      <name xml:lang="de">Paderborn</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:262"/>
+      <name role="nrol:display" xml:lang="de">Scheider</name>
+      <name xml:lang="de">Scheider</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:248"/>
+      <name xml:lang="de">Schneider</name>
+      <name role="nrol:display" xml:lang="de">Schneider</name>
+      <name role="nrol:full">Schneider</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:447"/>
+      <name xml:lang="de">Schottland</name>
+      <name role="nrol:display" xml:lang="en">Scotland</name>
+      <name role="nrol:display" xml:lang="de">Schottland</name>
+      <name role="nrol:short" xml:lang="de">Schottland</name>
+      <name role="nrol:full">Schottland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:446"/>
+      <name xml:lang="de">Schweden</name>
+      <name role="nrol:display" xml:lang="es">Suecia</name>
+      <name role="nrol:short" xml:lang="de">Schweden</name>
+      <name role="nrol:full">Schweden</name>
+      <name role="nrol:display" xml:lang="en">Sweden</name>
+      <name role="nrol:display" xml:lang="de">Schweden</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:442"/>
+      <name role="nrol:display" xml:lang="en">Switzerland</name>
+      <name role="nrol:full">Schweiz</name>
+      <name role="nrol:display" xml:lang="de">Schweiz</name>
+      <name xml:lang="de">Schweiz</name>
+      <name role="nrol:short" xml:lang="de">Schweiz</name>
+      <name role="nrol:display" xml:lang="es">Suiza</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:184"/>
+      <name xml:lang="de">Schwelmer Baskets</name>
+      <name role="nrol:display" xml:lang="de">Schwelmer Baskets</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:165"/>
+      <name role="nrol:display" xml:lang="de">Schwenninger W. Wings</name>
+      <name xml:lang="de">Schwenningen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:229"/>
+      <name role="nrol:short" xml:lang="de">Speed</name>
+      <name role="nrol:display" xml:lang="de">Scott Speed</name>
+      <name xml:lang="de">Speed</name>
+      <name role="nrol:full">Scott Speed</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:482"/>
+      <name role="nrol:full">Sebastian Lang</name>
+      <name xml:lang="de">Lang</name>
+      <name role="nrol:display" xml:lang="de">Sebastian Lang</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:430"/>
+      <name role="nrol:display" xml:lang="de">Senegal</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:445"/>
+      <name role="nrol:full">Serbien</name>
+      <name role="nrol:short" xml:lang="de">Serbien</name>
+      <name role="nrol:display" xml:lang="es">Serbia</name>
+      <name role="nrol:display" xml:lang="en">Serbia</name>
+      <name xml:lang="de">Serbien</name>
+      <name role="nrol:display" xml:lang="de">Serbien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:431"/>
+      <name role="nrol:short" xml:lang="de">Seychellen</name>
+      <name xml:lang="de">Seychellen</name>
+      <name role="nrol:display" xml:lang="de">Seychellen</name>
+      <name role="nrol:display" xml:lang="en">Seychelles</name>
+      <name role="nrol:full">Seychellen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:132"/>
+      <name xml:lang="de">Flensburg-H.</name>
+      <name role="nrol:full">SG Flensburg-Handewitt</name>
+      <name role="nrol:display" xml:lang="de">SG Flensburg-Handewitt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:150"/>
+      <name role="nrol:display" xml:lang="de">SG Kronau/Östringen</name>
+      <name xml:lang="de">Kronau/Östringen</name>
+      <name role="nrol:full">SG Kronau/Östringen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:139"/>
+      <name role="nrol:display" xml:lang="de">SG Wallau-Massenheim</name>
+      <name role="nrol:full">SG Wallau-Massenheim</name>
+      <name xml:lang="de">SG Wallau</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:130"/>
+      <name role="nrol:display" xml:lang="de">SG Willstätt-Schutt.</name>
+      <name role="nrol:full">SG Willstätt-Schutt.</name>
+      <name xml:lang="de">Willstätt/S.</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:101"/>
+      <name role="nrol:display" xml:lang="de">Sheffield United</name>
+      <name role="nrol:display" xml:lang="en">Sheffield United</name>
+      <name role="nrol:full">Sheffield United</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:434"/>
+      <name role="nrol:display" xml:lang="de">Sierra Leone</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:473"/>
+      <name role="nrol:display" xml:lang="de">Simbabwe</name>
+      <name role="nrol:full">Simbabwe</name>
+      <name role="nrol:display" xml:lang="en">Zimbabwe</name>
+      <name role="nrol:short" xml:lang="de">Simbabwe</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:432"/>
+      <name xml:lang="de">Singapur</name>
+      <name role="nrol:display" xml:lang="de">Singapur</name>
+      <name role="nrol:display" xml:lang="en">Singapore</name>
+      <name role="nrol:full">Singapur</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:178"/>
+      <name role="nrol:display" xml:lang="de">Skyliners Frankfurt</name>
+      <name xml:lang="de">Skyl. Frankfurt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:444"/>
+      <name role="nrol:display" xml:lang="de">Slowakei</name>
+      <name role="nrol:display" xml:lang="es">Eslovaquia</name>
+      <name xml:lang="de">Slowakei</name>
+      <name role="nrol:full">Slowakei</name>
+      <name role="nrol:short" xml:lang="de">Slowakei</name>
+      <name role="nrol:display" xml:lang="en">Slovakia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:435"/>
+      <name role="nrol:display" xml:lang="en">Slovenia</name>
+      <name role="nrol:display" xml:lang="de">Slowenien</name>
+      <name role="nrol:display" xml:lang="es">Eslovenia</name>
+      <name role="nrol:full">Slowenien</name>
+      <name xml:lang="de">Slowenien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:438"/>
+      <name role="nrol:display" xml:lang="de">Somalia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:332"/>
+      <name role="nrol:full">Spanien</name>
+      <name role="nrol:display" xml:lang="es">España</name>
+      <name xml:lang="de">Spanien</name>
+      <name role="nrol:display" xml:lang="en">Spain</name>
+      <name role="nrol:short" xml:lang="de">Spanien</name>
+      <name role="nrol:display" xml:lang="de">Spanien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:124"/>
+      <name role="nrol:full">Sparta Prag</name>
+      <name xml:lang="de">Sparta Prag</name>
+      <name role="nrol:short" xml:lang="de">Prag</name>
+      <name role="nrol:display" xml:lang="de">Sparta Prag</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:68"/>
+      <name role="nrol:display" xml:lang="de">Sportfreunde Siegen</name>
+      <name role="nrol:short" xml:lang="de">Siegen</name>
+      <name role="nrol:full">Sportfreunde Siegen</name>
+      <name xml:lang="de">Siegen</name>
+      <name role="nrol:mnemonic" xml:lang="de">SIE</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:33"/>
+      <name role="nrol:full">SpVgg Greuther Fürth</name>
+      <name role="nrol:mnemonic" xml:lang="de">FUE</name>
+      <name xml:lang="de">Greuther Fürth</name>
+      <name role="nrol:short" xml:lang="de">Fürth</name>
+      <name role="nrol:display" xml:lang="de">SpVgg Greuther Fürth</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:64"/>
+      <name xml:lang="de">Unterhaching</name>
+      <name role="nrol:short" xml:lang="de">Unterhaching</name>
+      <name role="nrol:full">SpVgg Unterhaching</name>
+      <name role="nrol:mnemonic" xml:lang="de">UNT</name>
+      <name role="nrol:display" xml:lang="de">SpVgg Unterhaching</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:244"/>
+      <name role="nrol:display" xml:lang="de">Spyker</name>
+      <name role="nrol:short" xml:lang="de">Spyker</name>
+      <name role="nrol:full">Spyker</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:439"/>
+      <name role="nrol:display" xml:lang="de">Sri Lanka</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:53"/>
+      <name role="nrol:short" xml:lang="de">Reutlingen</name>
+      <name role="nrol:display" xml:lang="de">SSV Reutlingen</name>
+      <name xml:lang="de">Reutlingen</name>
+      <name role="nrol:mnemonic" xml:lang="de">REU</name>
+      <name role="nrol:full">SSV Reutlingen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:433"/>
+      <name role="nrol:display" xml:lang="de">St. Kitts und Nevis</name>
+      <name xml:lang="de">St. Kitts und Nevis</name>
+      <name role="nrol:full">St. Kitts und Nevis</name>
+      <name role="nrol:display" xml:lang="en">St. Kitts and Nevis</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:380"/>
+      <name role="nrol:display" xml:lang="de">St. Lucia</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:469"/>
+      <name role="nrol:display" xml:lang="de">St. Vincent u. d. Grenadinen</name>
+      <name role="nrol:full">St. Vincent u. d. Grenadinen</name>
+      <name role="nrol:display" xml:lang="en">St. Vincent a. the Grenadines</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:148"/>
+      <name xml:lang="de">Stralsunder</name>
+      <name role="nrol:display" xml:lang="de">Stralsunder HV</name>
+      <name role="nrol:full">Stralsunder HV</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:441"/>
+      <name role="nrol:display" xml:lang="de">Sudan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:245"/>
+      <name role="nrol:display" xml:lang="en">Super Aguri</name>
+      <name role="nrol:display" xml:lang="es">Super Aguri</name>
+      <name role="nrol:short" xml:lang="de">Super Aguri</name>
+      <name role="nrol:display" xml:lang="de">Super Aguri</name>
+      <name role="nrol:full">Super Aguri F1</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:443"/>
+      <name role="nrol:display" xml:lang="de">Suriname</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:149"/>
+      <name xml:lang="de">Schwerin</name>
+      <name role="nrol:display" xml:lang="de">SV Post Schwerin</name>
+      <name role="nrol:full">SV Post Schwerin</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:56"/>
+      <name role="nrol:mnemonic" xml:lang="de">MAN</name>
+      <name role="nrol:display" xml:lang="de">SV Waldhof Mannheim</name>
+      <name role="nrol:short" xml:lang="de">Mannheim</name>
+      <name role="nrol:full">SV Waldhof Mannheim</name>
+      <name xml:lang="de">SV Waldhof Mannheim</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:448"/>
+      <name xml:lang="de">Swasiland</name>
+      <name role="nrol:full">Swasiland</name>
+      <name role="nrol:short" xml:lang="de">Swasiland</name>
+      <name role="nrol:display" xml:lang="en">Swaziland</name>
+      <name role="nrol:display" xml:lang="de">Swasiland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:449"/>
+      <name xml:lang="de">Syrien</name>
+      <name role="nrol:short" xml:lang="de">Syrien</name>
+      <name role="nrol:display" xml:lang="de">Syrien</name>
+      <name role="nrol:display" xml:lang="en">Syria</name>
+      <name role="nrol:full">Syrien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:426"/>
+      <name role="nrol:display" xml:lang="de">Südafrika</name>
+      <name xml:lang="de">Südafrika</name>
+      <name role="nrol:full">Südafrika</name>
+      <name role="nrol:display" xml:lang="en">South Africa</name>
+      <name role="nrol:display" xml:lang="es">Sudáfrica</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:373"/>
+      <name role="nrol:display" xml:lang="de">Südkorea</name>
+      <name xml:lang="de">Südkorea</name>
+      <name role="nrol:display" xml:lang="en">South Korea</name>
+      <name role="nrol:full">Südkorea</name>
+      <name role="nrol:display" xml:lang="es">República de Corea</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:453"/>
+      <name role="nrol:display" xml:lang="de">Tadschikistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:310"/>
+      <name role="nrol:display" xml:lang="de">Tadschikistan</name>
+      <name role="nrol:full">Tadschikistan</name>
+      <name role="nrol:short" xml:lang="de">Tadschikistan</name>
+      <name xml:lang="de">Tadschikistan</name>
+      <name role="nrol:display" xml:lang="en">Tajikistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:456"/>
+      <name role="nrol:display" xml:lang="de">Taiwan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:205"/>
+      <name role="nrol:short" xml:lang="de">Sato</name>
+      <name xml:lang="de">Sato</name>
+      <name role="nrol:display" xml:lang="de">Takuma Sato</name>
+      <name role="nrol:full">Takuma Sato</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:450"/>
+      <name role="nrol:display" xml:lang="de">Tansania</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:170"/>
+      <name role="nrol:display" xml:lang="de">TBB Trier</name>
+      <name xml:lang="de">TBB Trier</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:131"/>
+      <name xml:lang="de">TBV Lemgo</name>
+      <name role="nrol:full">TBV Lemgo</name>
+      <name role="nrol:display" xml:lang="de">TBV Lemgo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:171"/>
+      <name role="nrol:display" xml:lang="de">Telekom Bask. Bonn</name>
+      <name xml:lang="de">Telekom Bonn</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:259"/>
+      <name role="nrol:display" xml:lang="de">Terting</name>
+      <name xml:lang="de">Terting</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:452"/>
+      <name role="nrol:display" xml:lang="de">Thailand</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:488"/>
+      <name role="nrol:full">Thomas Liese</name>
+      <name role="nrol:display" xml:lang="de">Thomas Liese</name>
+      <name xml:lang="de">Liese</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:145"/>
+      <name role="nrol:display" xml:lang="de">ThSV Eisenach</name>
+      <name role="nrol:full">ThSV Eisenach</name>
+      <name xml:lang="de">Eisenach</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:137"/>
+      <name role="nrol:display" xml:lang="de">THW Kiel</name>
+      <name role="nrol:full">THW Kiel</name>
+      <name xml:lang="de">THW Kiel</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:218"/>
+      <name xml:lang="de">Monteiro</name>
+      <name role="nrol:full">Tiago Monteiro</name>
+      <name role="nrol:display" xml:lang="de">Tiago Monteiro</name>
+      <name role="nrol:short" xml:lang="de">Monteiro</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:487"/>
+      <name xml:lang="de">Steinhauser</name>
+      <name role="nrol:full">Tobias Steinhauser</name>
+      <name role="nrol:display" xml:lang="de">Tobias Steinhauser</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:455"/>
+      <name role="nrol:display" xml:lang="de">Togo</name>
+      <name role="nrol:short" xml:lang="de">Togo</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:258"/>
+      <name role="nrol:display" xml:lang="de">Tomczyk</name>
+      <name xml:lang="de">Tomczyk</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:451"/>
+      <name role="nrol:display" xml:lang="de">Tonga</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:243"/>
+      <name role="nrol:short" xml:lang="de">Toro Rosso</name>
+      <name role="nrol:display" xml:lang="de">Toro Rosso</name>
+      <name role="nrol:display" xml:lang="en">Toro Rosso</name>
+      <name role="nrol:display" xml:lang="es">Toro Rosso</name>
+      <name role="nrol:full">Scuderia Toro Rosso</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:494"/>
+      <name role="nrol:full">Torsten Schmidt</name>
+      <name role="nrol:display" xml:lang="de">Torsten Schmidt</name>
+      <name xml:lang="de">Schmidt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:112"/>
+      <name role="nrol:display" xml:lang="de">Tottenham Hotspur</name>
+      <name role="nrol:display" xml:lang="en">Tottenham Hotspur</name>
+      <name role="nrol:full">Tottenham Hotspur</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:239"/>
+      <name role="nrol:short" xml:lang="de">Toyota</name>
+      <name role="nrol:display" xml:lang="es">Toyota Racing</name>
+      <name role="nrol:display" xml:lang="en">Toyota Racing</name>
+      <name role="nrol:display" xml:lang="de">Toyota</name>
+      <name role="nrol:full">Toyota Racing</name>
+      <name xml:lang="de">Toyota</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:457"/>
+      <name role="nrol:display" xml:lang="de">Trinidad und Tobago</name>
+      <name role="nrol:full">Trinidad und Tobago</name>
+      <name role="nrol:short" xml:lang="de">Trinidad/Tobago</name>
+      <name role="nrol:display" xml:lang="en">Trinidad and Tobago</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:323"/>
+      <name role="nrol:display" xml:lang="en">Czech Republic</name>
+      <name role="nrol:short" xml:lang="de">Tschechien</name>
+      <name role="nrol:display" xml:lang="de">Tschechien</name>
+      <name xml:lang="de">Tschechien</name>
+      <name role="nrol:full">Tschechien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:1"/>
+      <name role="nrol:full">TSV 1860 München</name>
+      <name xml:lang="de">München 1860</name>
+      <name role="nrol:display" xml:lang="es">TSV 1860 München</name>
+      <name role="nrol:display" xml:lang="en">TSV 1860 Munich</name>
+      <name role="nrol:mnemonic" xml:lang="de">M60</name>
+      <name role="nrol:short" xml:lang="de">1860</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:183"/>
+      <name xml:lang="de">TSV Quakenbrück</name>
+      <name role="nrol:display" xml:lang="de">TSV Quakenbrück</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:458"/>
+      <name role="nrol:display" xml:lang="de">Tunesien</name>
+      <name role="nrol:display" xml:lang="en">Tunisia</name>
+      <name role="nrol:full">Tunesien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:454"/>
+      <name role="nrol:display" xml:lang="de">Turkmenien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:70"/>
+      <name role="nrol:mnemonic" xml:lang="de">KOB</name>
+      <name role="nrol:full">TuS Koblenz</name>
+      <name role="nrol:display" xml:lang="de">TuS Koblenz</name>
+      <name xml:lang="de">TuS Koblenz</name>
+      <name role="nrol:short" xml:lang="de">Koblenz</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:134"/>
+      <name role="nrol:full">TuSEM Essen</name>
+      <name role="nrol:display" xml:lang="de">TuSEM Essen</name>
+      <name xml:lang="de">TuSEM Essen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:141"/>
+      <name role="nrol:display" xml:lang="de">TV Großwallstadt</name>
+      <name role="nrol:full">TV Großwallstadt</name>
+      <name xml:lang="de">Großwallstadt</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:176"/>
+      <name xml:lang="de">Braunschweig</name>
+      <name role="nrol:display" xml:lang="de">TXU En. Braunschw.</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:459"/>
+      <name role="nrol:full">Türkei</name>
+      <name role="nrol:display" xml:lang="de">Türkei</name>
+      <name role="nrol:display" xml:lang="en">Turkey</name>
+    </concept>
+    <concept id="dpatadname109">
+      <conceptId qcode="dpatadname:109"/>
+      <name role="nrol:display" xml:lang="de">UD Levante</name>
+      <name role="nrol:display" xml:lang="es">UD Levante</name>
+      <name role="nrol:full">UD Levante</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:490"/>
+      <name xml:lang="de">Bölts</name>
+      <name role="nrol:full">Udo Bölts</name>
+      <name role="nrol:display" xml:lang="de">Udo Bölts</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:461"/>
+      <name role="nrol:display" xml:lang="de">Uganda</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:462"/>
+      <name role="nrol:full">Ukraine</name>
+      <name role="nrol:display" xml:lang="de">Ukraine</name>
+      <name role="nrol:short" xml:lang="de">Ukraine</name>
+      <name xml:lang="de">Ukraine</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:356"/>
+      <name role="nrol:display" xml:lang="de">Ungarn</name>
+      <name role="nrol:display" xml:lang="en">Hungary</name>
+      <name xml:lang="de">Ungarn</name>
+      <name role="nrol:full">Ungarn</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:174"/>
+      <name xml:lang="de">Bamberg</name>
+      <name role="nrol:display" xml:lang="de">universa Bamberg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:463"/>
+      <name role="nrol:display" xml:lang="en">Uruguay</name>
+      <name role="nrol:full">Uruguay</name>
+      <name role="nrol:display" xml:lang="de">Uruguay</name>
+      <name role="nrol:display" xml:lang="es">Uruguay</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:464"/>
+      <name role="nrol:short" xml:lang="de">USA</name>
+      <name role="nrol:display" xml:lang="en">United States</name>
+      <name role="nrol:full">USA</name>
+      <name role="nrol:display" xml:lang="es">Estados Unidos</name>
+      <name role="nrol:display" xml:lang="de">USA</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:465"/>
+      <name role="nrol:full">Usbekistan</name>
+      <name role="nrol:display" xml:lang="de">Usbekistan</name>
+      <name role="nrol:short" xml:lang="de">Usbekistan</name>
+      <name role="nrol:display" xml:lang="en">Uzbekistan</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:493"/>
+      <name role="nrol:full">Uwe Peschel</name>
+      <name xml:lang="de">Peschel</name>
+      <name role="nrol:display" xml:lang="de">Uwe Peschel</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:466"/>
+      <name role="nrol:display" xml:lang="de">Vanuatu</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:467"/>
+      <name role="nrol:display" xml:lang="de">Venezuela</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:460"/>
+      <name role="nrol:full">Vereinigte Arabische Emirate</name>
+      <name role="nrol:display" xml:lang="en">United Arab Emirates</name>
+      <name role="nrol:display" xml:lang="de">Vereinigte Arabische Emirate</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:50"/>
+      <name role="nrol:short" xml:lang="de">Lübeck</name>
+      <name xml:lang="de">VfB Lübeck</name>
+      <name role="nrol:display" xml:lang="de">VfB Lübeck</name>
+      <name role="nrol:full">VfB Lübeck</name>
+      <name role="nrol:mnemonic" xml:lang="de">LUE</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:24"/>
+      <name role="nrol:display" xml:lang="de">VfB Stuttgart</name>
+      <name role="nrol:short" xml:lang="de">Stuttgart</name>
+      <name xml:lang="de">VfB Stuttgart</name>
+      <name role="nrol:full">VfB Stuttgart</name>
+      <name role="nrol:mnemonic" xml:lang="de">STU</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:6"/>
+      <name role="nrol:full">VfL Bochum</name>
+      <name xml:lang="de">VfL Bochum</name>
+      <name role="nrol:mnemonic" xml:lang="de">BOC</name>
+      <name role="nrol:short" xml:lang="de">Bochum</name>
+      <name role="nrol:display" xml:lang="de">VfL Bochum</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:136"/>
+      <name role="nrol:display" xml:lang="de">VfL Gummersbach</name>
+      <name xml:lang="de">Gummersbach</name>
+      <name role="nrol:full">VfL Gummersbach</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:58"/>
+      <name xml:lang="de">VfL Osnabrück</name>
+      <name role="nrol:mnemonic" xml:lang="de">OSB</name>
+      <name role="nrol:full">VfL Osnabrück</name>
+      <name role="nrol:short" xml:lang="de">Osnabrück</name>
+      <name role="nrol:display" xml:lang="de">VfL Osnabrück</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:147"/>
+      <name role="nrol:full">VfL Pfullingen</name>
+      <name xml:lang="de">Pfullingen</name>
+      <name role="nrol:display" xml:lang="de">VfL Pfullingen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:25"/>
+      <name xml:lang="de">Wolfsburg</name>
+      <name role="nrol:short" xml:lang="de">Wolfsburg</name>
+      <name role="nrol:full">VfL Wolfsburg</name>
+      <name role="nrol:mnemonic" xml:lang="de">WOL</name>
+      <name role="nrol:display" xml:lang="de">VfL Wolfsburg</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:468"/>
+      <name role="nrol:display" xml:lang="de">Vietnam</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:43"/>
+      <name role="nrol:display" xml:lang="en">Villarreal</name>
+      <name role="nrol:full">FC Villarreal</name>
+      <name role="nrol:display" xml:lang="es">Villarreal</name>
+      <name role="nrol:display" xml:lang="de">Villarreal</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:228"/>
+      <name role="nrol:display" xml:lang="de">Vitantonio Liuzzi</name>
+      <name role="nrol:full">Vitantonio Liuzzi</name>
+      <name role="nrol:short" xml:lang="de">Liuzzi</name>
+      <name xml:lang="de">Liuzzi</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:48"/>
+      <name role="nrol:full">Wacker Burghausen</name>
+      <name role="nrol:short" xml:lang="de">Burghausen</name>
+      <name role="nrol:display" xml:lang="de">Wacker Burghausen</name>
+      <name xml:lang="de">Burghausen</name>
+      <name role="nrol:mnemonic" xml:lang="de">BUR</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:110"/>
+      <name role="nrol:display" xml:lang="de">Watford</name>
+      <name role="nrol:full">FC Watford</name>
+      <name role="nrol:display" xml:lang="en">Watford</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:19"/>
+      <name role="nrol:mnemonic" xml:lang="de">WEH</name>
+      <name role="nrol:full">SV Wehen Wiesbaden</name>
+      <name xml:lang="de">Wehen</name>
+      <name role="nrol:display" xml:lang="de">Wehen</name>
+      <name role="nrol:short" xml:lang="de">Wehen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:296"/>
+      <name xml:lang="de">Weißrussland</name>
+      <name role="nrol:display" xml:lang="en">Belarus</name>
+      <name role="nrol:display" xml:lang="de">Weißrussland</name>
+      <name role="nrol:full">Weißrussland</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:251"/>
+      <name xml:lang="de">Wendlinger</name>
+      <name role="nrol:display" xml:lang="de">Wendlinger</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:7"/>
+      <name role="nrol:display" xml:lang="de">Werder Bremen</name>
+      <name role="nrol:full">Werder Bremen</name>
+      <name role="nrol:mnemonic" xml:lang="de">BRE</name>
+      <name role="nrol:short" xml:lang="de">Bremen</name>
+      <name xml:lang="de">W. Bremen</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:111"/>
+      <name role="nrol:display" xml:lang="de">West Ham  United</name>
+      <name role="nrol:display" xml:lang="en">West Ham  United</name>
+      <name role="nrol:full">West Ham  United</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:113"/>
+      <name role="nrol:full">Wigan Athletic</name>
+      <name role="nrol:display" xml:lang="en">Wigan Athletic</name>
+      <name role="nrol:display" xml:lang="de">Wigan Athletic</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:144"/>
+      <name xml:lang="de">Wilhelmshav.</name>
+      <name role="nrol:full">Wilhelmshavener HV</name>
+      <name role="nrol:display" xml:lang="de">Wilhelmshavener HV</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:242"/>
+      <name role="nrol:short" xml:lang="de">Williams</name>
+      <name role="nrol:display" xml:lang="es">Williams</name>
+      <name role="nrol:display" xml:lang="en">Williams</name>
+      <name role="nrol:full">Williams F1 Team</name>
+      <name role="nrol:display" xml:lang="de">Williams</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:260"/>
+      <name xml:lang="de">Winkelhock</name>
+      <name role="nrol:display" xml:lang="de">Winkelhock</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:304"/>
+      <name role="nrol:short" xml:lang="de">Zentralafrika</name>
+      <name role="nrol:display" xml:lang="en">Central Africa</name>
+      <name role="nrol:display" xml:lang="de">Zentralafrika</name>
+      <name role="nrol:full">Zentralafrika</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:216"/>
+      <name role="nrol:display" xml:lang="de">Zsolt Baumgartner</name>
+      <name xml:lang="de">Baumgartner</name>
+      <name role="nrol:full">Zsolt Baumgartner</name>
+      <name role="nrol:short" xml:lang="de">Baumgartner</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:324"/>
+      <name role="nrol:display" xml:lang="en">Cyprus</name>
+      <name role="nrol:full">Zypern</name>
+      <name xml:lang="de">Zypern</name>
+      <name role="nrol:display" xml:lang="de">Zypern</name>
+      <name role="nrol:short" xml:lang="de">Zypern</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:330"/>
+      <name role="nrol:full">Ägypten</name>
+      <name xml:lang="de">Ägypten</name>
+      <name role="nrol:display" xml:lang="en">Egypt</name>
+      <name role="nrol:short" xml:lang="de">Ägypten</name>
+      <name role="nrol:display" xml:lang="de">Ägypten</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:345"/>
+      <name role="nrol:display" xml:lang="en">Equatorial Guinea</name>
+      <name role="nrol:display" xml:lang="de">Äquatorialguinea</name>
+      <name role="nrol:display" xml:lang="es">Guinea Ecuatorial</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:335"/>
+      <name xml:lang="de">Äthiopien</name>
+      <name role="nrol:display" xml:lang="en">Ethiopia</name>
+      <name role="nrol:display" xml:lang="de">Äthiopien</name>
+      <name role="nrol:full">Äthiopien</name>
+      <name role="nrol:short" xml:lang="de">Äthiopien</name>
+    </concept>
+    <concept>
+      <conceptId qcode="dpatadname:284"/>
+      <name xml:lang="de">Österreich</name>
+      <name role="nrol:display" xml:lang="en">Austria</name>
+      <name role="nrol:display" xml:lang="de">Österreich</name>
+      <name role="nrol:display" xml:lang="es">Austria</name>
+      <name role="nrol:full">Österreich</name>
+    </concept>
+  </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpatadname" uri="http://g2.dpa.com/cv/tadname/"><definition>TODO</definition><name>dpatadname</name></schemeMeta></knowledgeItem>

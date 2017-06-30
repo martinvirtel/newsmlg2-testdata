@@ -1,0 +1,3102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:subject" standard="NewsML-G2" standardversion="2.12" version="10" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-05-06T15:27:48+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title xml:lang="de">dpa Erststichwörter</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:487"/>
+			<name role="nrol:display" xml:lang="de">Abfall</name>
+			<name dir="rtl" xml:lang="ar">نفايات</name>
+			<name role="nrol:display" xml:lang="en">waste</name>
+			<sameAs qcode="medtop:20000428"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:2"/>
+			<name xml:lang="de">Abgeordnetenhaus</name>
+			<broader qcode="medtop:20000615"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:13"/>
+			<name xml:lang="de">Abrüstung</name>
+			<broader qcode="medtop:20000598"/>
+		</concept>
+		<concept modified="2015-07-20T18:58:00+02:00">
+			<conceptId qcode="dpasubject:24"/>
+			<name xml:lang="en">abortion</name>
+			<name xml:lang="de">Abtreibung</name>
+			<name xml:lang="ar">اجهاض</name>
+			<broader qcode="medtop:20000784"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:525"/>
+			<name xml:lang="de">Adel</name>
+			<name xml:lang="en">royalty</name>
+			<name dir="rtl" xml:lang="ar">شؤون امبراطورية وملكية</name>
+			<name xml:lang="es">Monarquía</name>
+			<sameAs qcode="medtop:20000506"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:35"/>
+			<name xml:lang="de">Affären</name>
+		</concept>
+		<concept modified="2015-07-08T13:30:00+02:00">
+			<conceptId qcode="dpasubject:46"/>
+			<name xml:lang="en">African Games</name>
+			<name xml:lang="de">Afrikaspiele</name>
+			<name xml:lang="ar">العاب قارية</name>
+			<broader qcode="medtop:20001111"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:270"/>
+			<name xml:lang="de">Agrar</name>
+			<name xml:lang="en">agriculture</name>
+			<name dir="rtl" xml:lang="ar">زراعة</name>
+			<name xml:lang="es">Agricultura</name>
+			<sameAs qcode="medtop:20000210"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:326"/>
+			<name xml:lang="de">Alternativ-Energien</name>
+			<name dir="rtl" xml:lang="ar">طاقة بديلة</name>
+			<name xml:lang="en">alternative energy</name>
+			<sameAs qcode="medtop:20000257"/>
+		</concept>
+		<concept modified="2012-05-10T13:00:00+02:00">
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:722"/>
+			<name xml:lang="de">American Football</name>
+			<name xml:lang="en">American Football</name>
+			<name xml:lang="es">Fútbol americano</name>
+			<name xml:lang="ar">كرة قدم اميركية</name>
+			<narrower qcode="subj:15073046"/>
+			<sameAs qcode="medtop:20000823"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:362"/>
+			<name xml:lang="de">Anlagenbau</name>
+			<name dir="rtl" xml:lang="ar">هندسة ثقيلة</name>
+			<name xml:lang="en">heavy engineering</name>
+			<sameAs qcode="medtop:20000299"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:57"/>
+			<name xml:lang="de">Apec</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:68"/>
+			<name xml:lang="de">Arabische Liga</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept modified="2015-07-20T19:00:00+02:00">
+			<conceptId qcode="dpasubject:345"/>
+			<name xml:lang="de">Arbeit</name>
+			<name xml:lang="en">labour</name>
+			<name xml:lang="es">Trabajo</name>
+			<name xml:lang="ar">توظيف</name>
+			<broader qcode="medtop:09000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:533"/>
+			<name xml:lang="de">Arbeitgeber</name>
+			<name dir="rtl" xml:lang="ar">رب العمل</name>
+			<name xml:lang="en">employer</name>
+			<sameAs qcode="medtop:20000513"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:549"/>
+			<name xml:lang="de">Arbeitslosigkeit</name>
+			<name xml:lang="es">Desempleo</name>
+			<name dir="rtl" xml:lang="ar">بطالة</name>
+			<name xml:lang="en">unemployment</name>
+			<sameAs qcode="medtop:20000533"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:540"/>
+			<name xml:lang="de">Arbeitsmarkt</name>
+			<name xml:lang="es">Empleo</name>
+			<name dir="rtl" xml:lang="ar">سوق العمل</name>
+			<name xml:lang="en">labour market</name>
+			<sameAs qcode="medtop:20000523"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:140"/>
+			<name xml:lang="de">Architektur</name>
+			<name xml:lang="en">architecture</name>
+			<name dir="rtl" xml:lang="ar">هندسة معمارية</name>
+			<name xml:lang="es">Arquitectura</name>
+			<sameAs qcode="medtop:20000032"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:676"/>
+			<name xml:lang="de">Archäologie</name>
+			<name xml:lang="en">archaeology</name>
+			<name dir="rtl" xml:lang="ar">علم آثار</name>
+			<name xml:lang="es">Arqueología</name>
+			<sameAs qcode="medtop:20000744"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:711"/>
+			<name xml:lang="de">Armut</name>
+			<name xml:lang="es">Pobreza</name>
+			<name dir="rtl" xml:lang="ar">فقر</name>
+			<name xml:lang="en">poverty</name>
+			<sameAs qcode="medtop:20000801"/>
+		</concept>
+		<concept modified="2015-07-20T19:01:00+02:00">
+			<conceptId qcode="dpasubject:74"/>
+			<name xml:lang="de">Arzneimittel</name>
+			<name xml:lang="en">medicines</name>
+			<name xml:lang="ar">طب</name>
+			<broader qcode="medtop:07000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:1"/>
+			<name xml:lang="de">Asean</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept modified="2015-07-06T10:15:00+02:00">
+			<conceptId qcode="dpasubject:75"/>
+			<name xml:lang="en">Asian Games</name>
+			<name xml:lang="de">Asienspiele</name>
+			<name xml:lang="ar">العاب قارية</name>
+			<broader qcode="medtop:20001111"/>
+		</concept>
+		<concept modified="2015-07-20T19:02:00+02:00">
+			<conceptId qcode="dpasubject:222"/>
+			<name xml:lang="de">Atom</name>
+			<name xml:lang="en">nuclear</name>
+			<name xml:lang="es">Nuclear</name>
+			<name xml:lang="ar">سياسة نووية</name>
+			<broader qcode="medtop:11000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:223"/>
+			<name xml:lang="de">Atomkraft</name>
+			<name dir="rtl" xml:lang="ar">طاقة نووية</name>
+			<name xml:lang="en">nuclear energy</name>
+			<sameAs qcode="medtop:20000265"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:224"/>
+			<name xml:lang="de">Atomunfälle</name>
+			<name dir="rtl" xml:lang="ar">حادث نووي</name>
+			<name xml:lang="en">nuclear accident</name>
+			<sameAs qcode="medtop:20000142"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:183"/>
+			<name xml:lang="de">AU</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:341"/>
+			<name xml:lang="de">Auktion</name>
+			<name xml:lang="es">Subastas</name>
+			<name dir="rtl" xml:lang="ar">خدمات مزادات</name>
+			<name xml:lang="en">auction service</name>
+			<sameAs qcode="medtop:20000273"/>
+		</concept>
+		<concept modified="2015-07-20T19:04:00+02:00">
+			<conceptId qcode="dpasubject:529"/>
+			<name xml:lang="de">Ausbildung</name>
+			<name xml:lang="en">education</name>
+			<name xml:lang="ar">مبتدئون/متدربون</name>
+			<sameAs qcode="medtop:20000510"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:641"/>
+			<name xml:lang="de">Auslandshilfe</name>
+			<name dir="rtl" xml:lang="ar">مساعدات اجنبية</name>
+			<name xml:lang="en">foreign aid</name>
+			<sameAs qcode="medtop:20000643"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:642"/>
+			<name xml:lang="de">Auslandspresse</name>
+			<broader qcode="medtop:20000310"/>
+		</concept>
+		<concept modified="2015-07-08T16:22:00+02:00">
+			<conceptId qcode="dpasubject:632"/>
+			<name xml:lang="de">Ausländer</name>
+			<name xml:lang="ar">سكان اصليون</name>
+			<broader qcode="medtop:20000626"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:184"/>
+			<name xml:lang="de">Ausschreitungen</name>
+			<name dir="rtl" xml:lang="ar">شغب</name>
+			<name xml:lang="en">riots</name>
+			<sameAs qcode="medtop:20000069"/>
+		</concept>
+		<concept modified="2015-07-20T19:07:00+02:00">
+			<conceptId qcode="dpasubject:185"/>
+			<name xml:lang="de">Ausstellungen</name>
+			<broader qcode="medtop:20000043"/>
+		</concept>
+		<concept modified="2015-07-20T19:08:00+02:00">
+			<conceptId qcode="dpasubject:516"/>
+			<name xml:lang="de">Auszeichnungen</name>
+			<name xml:lang="es">Premios</name>
+			<name xml:lang="ar">مكافات وجوائز</name>
+			<broader qcode="medtop:20000498"/>
+		</concept>
+		<concept modified="2012-05-10T13:00:00+02:00">
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:576"/>
+			<name xml:lang="de">Auto</name>
+			<name xml:lang="en">automotive</name>
+			<name xml:lang="es">Automotor</name>
+			<name xml:lang="ar">شغف بالسيارات</name>
+			<narrower qcode="medtop:20000566"/>
+			<sameAs qcode="medtop:20000296"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:577"/>
+			<name xml:lang="de">Autonomie</name>
+			<broader qcode="medtop:20000626"/>
+		</concept>
+		<concept modified="2015-07-20T19:06:00+02:00">
+			<conceptId qcode="dpasubject:206"/>
+			<name xml:lang="de">Außenhandel</name>
+			<name xml:lang="en">exports</name>
+			<name xml:lang="ar">صادرات</name>
+			<broader qcode="medtop:20000346"/>
+		</concept>
+		<concept modified="2015-10-16T10:21:00+02:00">
+			<conceptId qcode="dpasubject:730"/>
+			<name xml:lang="de">Badminton</name>
+			<name xml:lang="en">badminton</name>
+			<name xml:lang="ar">بادمنتون</name>
+			<name xml:lang="es">Badminton</name>
+			<sameAs qcode="medtop:20000847"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:408"/>
+			<name xml:lang="de">Bahn</name>
+			<name dir="rtl" xml:lang="ar">نقل بالقطارات</name>
+			<name xml:lang="en">railway</name>
+			<sameAs qcode="medtop:20000340"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:343"/>
+			<name xml:lang="de">Banken</name>
+			<name xml:lang="en">banking</name>
+			<name dir="rtl" xml:lang="ar">عمل مصرفي</name>
+			<name xml:lang="es">Bancos</name>
+			<sameAs qcode="medtop:20000274"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:733"/>
+			<name xml:lang="de">Baseball</name>
+			<name xml:lang="es">Béisbol</name>
+			<name dir="rtl" xml:lang="ar">بيسبول</name>
+			<name xml:lang="en">baseball</name>
+			<sameAs qcode="medtop:20000849"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:735"/>
+			<name xml:lang="es">Baloncesto</name>
+			<name xml:lang="de">Basketball</name>
+			<name dir="rtl" xml:lang="ar">سلة</name>
+			<name xml:lang="en">basketball</name>
+			<sameAs qcode="medtop:20000851"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:298"/>
+			<name xml:lang="de">Bau</name>
+			<name xml:lang="es">Construcción</name>
+			<name dir="rtl" xml:lang="ar">بناء وملكية</name>
+			<name xml:lang="en">construction and property</name>
+			<sameAs qcode="medtop:20000235"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:702"/>
+			<name xml:lang="de">Behinderte</name>
+			<name dir="rtl" xml:lang="ar">معوقون</name>
+			<name xml:lang="en">disabled</name>
+			<sameAs qcode="medtop:20000791"/>
+		</concept>
+		<concept modified="2015-07-08T17:33:00+02:00">
+			<conceptId qcode="dpasubject:703"/>
+			<name xml:lang="de">Behindertensport</name>
+			<broader qcode="medtop:20000791"/>
+		</concept>
+		<concept modified="2015-07-22T08:53:00+02:00">
+			<conceptId qcode="dpasubject:638"/>
+			<name xml:lang="de">Behörden</name>
+			<name xml:lang="ar">ادارة مدنية وعامة</name>
+			<broader qcode="medtop:20000593"/>
+			<narrower qcode="medtop:20000636"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:310"/>
+			<name xml:lang="de">Bekleidung</name>
+			<name dir="rtl" xml:lang="ar">البسة</name>
+			<name xml:lang="en">clothing</name>
+			<sameAs qcode="medtop:20000245"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:385"/>
+			<name xml:lang="de">Bergbau</name>
+			<name xml:lang="es">Minería</name>
+			<name dir="rtl" xml:lang="ar">مناجم</name>
+			<name xml:lang="en">mining</name>
+			<sameAs qcode="medtop:20000320"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:701"/>
+			<name xml:lang="de">Bevölkerung</name>
+			<name xml:lang="es">Población</name>
+			<name dir="rtl" xml:lang="ar">رجال ونساء</name>
+			<name xml:lang="en">population</name>
+			<sameAs qcode="medtop:20000788"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:737"/>
+			<name xml:lang="de">Biathlon</name>
+			<name dir="rtl" xml:lang="ar">بياثلون</name>
+			<name xml:lang="en">biathlon</name>
+			<sameAs qcode="medtop:20000852"/>
+		</concept>
+		<concept modified="2015-07-20T19:11:00+02:00">
+			<conceptId qcode="dpasubject:156"/>
+			<name xml:lang="de">Bibliotheken</name>
+			<name xml:lang="en">libraries and museums</name>
+			<name xml:lang="ar">مكاتب ومتاحف</name>
+			<broader qcode="medtop:20000043"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:97"/>
+			<name xml:lang="de">Bildung</name>
+			<name xml:lang="en">education</name>
+			<name xml:lang="es">Educación</name>
+			<broader qcode="medtop:05000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:739"/>
+			<name xml:lang="de">Billard</name>
+			<name dir="rtl" xml:lang="ar">بلياردو</name>
+			<name xml:lang="en">billiards</name>
+			<sameAs qcode="medtop:20000853"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:281"/>
+			<name xml:lang="de">Biotechnologie</name>
+			<name xml:lang="es">Biotecnología</name>
+			<name dir="rtl" xml:lang="ar">علم التكنولوجيا الحيوية</name>
+			<name xml:lang="en">biotechnology</name>
+			<sameAs qcode="medtop:20000711"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:741"/>
+			<name xml:lang="de">Bob</name>
+			<name dir="rtl" xml:lang="ar">بوبسلي</name>
+			<name xml:lang="en">bobsleigh</name>
+			<sameAs qcode="medtop:20000854"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:725"/>
+			<name xml:lang="de">Bogenschießen</name>
+			<name dir="rtl" xml:lang="ar">نبالة</name>
+			<name xml:lang="en">archery</name>
+			<sameAs qcode="medtop:20000824"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:744"/>
+			<name xml:lang="de">Boxen</name>
+			<name xml:lang="es">Boxeo</name>
+			<name dir="rtl" xml:lang="ar">ملاكمة</name>
+			<name xml:lang="en">boxing</name>
+			<sameAs qcode="medtop:20000856"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:269"/>
+			<name xml:lang="de">Branchen</name>
+			<name dir="rtl" xml:lang="ar">قطاع اقتصادي</name>
+			<name xml:lang="en">econmic sector</name>
+			<sameAs qcode="medtop:20000209"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:150"/>
+			<name xml:lang="de">Brauchtum</name>
+			<name dir="rtl" xml:lang="ar">عادات وتقاليد</name>
+			<name xml:lang="en">customs and traditions</name>
+			<sameAs qcode="medtop:20000040"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:6"/>
+			<name xml:lang="de">Breitensport</name>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:7"/>
+			<name xml:lang="de">Brände</name>
+			<name xml:lang="en">fire</name>
+			<name dir="rtl" xml:lang="ar">حريق</name>
+			<name xml:lang="es">Incendios</name>
+			<sameAs qcode="medtop:20000150"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:586"/>
+			<name xml:lang="de">Bundesbank</name>
+			<broader qcode="medtop:20000350"/>
+		</concept>
+		<concept modified="2015-07-22T08:56:00+02:00">
+			<conceptId qcode="dpasubject:621"/>
+			<name xml:lang="de">Bundesländer</name>
+			<name xml:lang="en">regional authorities</name>
+			<name xml:lang="ar">سلطة اقليمية</name>
+			<broader qcode="medtop:20000618"/>
+		</concept>
+		<concept modified="2015-07-22T09:08:00+02:00">
+			<conceptId qcode="dpasubject:612"/>
+			<name xml:lang="de">Bundespräsident</name>
+			<name xml:lang="en">heads of state</name>
+			<name xml:lang="ar">رئيس حكومة</name>
+			<broader qcode="medtop:20000610"/>
+		</concept>
+		<concept modified="2015-07-06T10:04:00+02:00">
+			<conceptId qcode="dpasubject:616"/>
+			<name xml:lang="de">Bundesrat</name>
+			<name xml:lang="ar">مجلس الشيوخ</name>
+			<broader qcode="medtop:20000615"/>
+		</concept>
+		<concept modified="2015-07-20T19:13:00+02:00">
+			<conceptId qcode="dpasubject:617"/>
+			<name xml:lang="de">Bundesregierung</name>
+			<name xml:lang="en">national government</name>
+			<name xml:lang="ar">حكومة مركزية</name>
+			<sameAs qcode="medtop:20000614"/>
+		</concept>
+		<concept modified="2015-07-06T10:03:00+02:00">
+			<conceptId qcode="dpasubject:587"/>
+			<name xml:lang="de">Bundestag</name>
+			<name xml:lang="ar">مجلس النواب</name>
+			<broader qcode="medtop:20000615"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:8"/>
+			<name xml:lang="de">Buntes</name>
+			<name xml:lang="es">Curiosidades</name>
+			<name xml:lang="en">curiosity</name>
+			<name xml:lang="ar">قضية انسانية</name>
+			<sameAs qcode="medtop:08000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:260"/>
+			<name xml:lang="de">Börsen</name>
+			<name dir="rtl" xml:lang="ar">سندات مالية</name>
+			<name xml:lang="en">markets</name>
+			<sameAs qcode="medtop:20000394"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:591"/>
+			<name xml:lang="de">Bürgerschaft</name>
+			<broader qcode="medtop:20000615"/>
+			<broader qcode="medtop:20000618"/>
+			<narrower qcode="medtop:20000585"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:278"/>
+			<name xml:lang="de">Chemie</name>
+			<name xml:lang="es">Química</name>
+			<name dir="rtl" xml:lang="ar">مواد كيميائية</name>
+			<name xml:lang="en">chemicals</name>
+			<sameAs qcode="medtop:20000217"/>
+		</concept>
+		<concept modified="2015-07-08T13:34:00+02:00">
+			<conceptId qcode="dpasubject:312"/>
+			<name xml:lang="de">Commonwealth Games</name>
+			<name xml:lang="en">Commonwealth Games</name>
+			<name xml:lang="ar">العاب دولية</name>
+			<broader qcode="medtop:20001114"/>
+		</concept>
+		<concept modified="2015-07-20T19:14:00+02:00">
+			<conceptId qcode="dpasubject:193"/>
+			<name xml:lang="es">Computación</name>
+			<name xml:lang="de">Computer</name>
+			<name xml:lang="en">computing and information technology</name>
+			<name xml:lang="ar">تكنولوجيا كمبيوتر ومعلوماتية</name>
+			<broader qcode="medtop:20000225"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:753"/>
+			<name xml:lang="de">Curling</name>
+			<name dir="rtl" xml:lang="ar">كيرلينغ</name>
+			<name xml:lang="en">curling</name>
+			<sameAs qcode="medtop:20000890"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:629"/>
+			<name xml:lang="de">Datenschutz</name>
+			<name dir="rtl" xml:lang="ar">حماية معلومات</name>
+			<name xml:lang="en">data protection</name>
+			<sameAs qcode="medtop:20000627"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:180"/>
+			<name xml:lang="de">Demonstrationen</name>
+			<name xml:lang="en">demonstration</name>
+			<name dir="rtl" xml:lang="ar">تظاهرة</name>
+			<name xml:lang="es">Protestas</name>
+			<sameAs qcode="medtop:20000066"/>
+		</concept>
+		<concept modified="2015-07-21T13:28:00+02:00">
+			<conceptId qcode="dpasubject:160"/>
+			<name xml:lang="de">Denkmäler</name>
+			<name xml:lang="en">monuments and heritage sites</name>
+			<name xml:lang="ar">تراث</name>
+			<broader qcode="medtop:20000044"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:338"/>
+			<name xml:lang="de">Dienstleistungen</name>
+			<name xml:lang="es">Servicios</name>
+			<name dir="rtl" xml:lang="ar">خدمات مال واعمال</name>
+			<name xml:lang="en">financial and business service</name>
+			<sameAs qcode="medtop:20000271"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:639"/>
+			<name xml:lang="de">Diplomatie</name>
+			<name xml:lang="en">diplomacy</name>
+			<name dir="rtl" xml:lang="ar">دبلوماسية</name>
+			<name xml:lang="es">Diplomacia</name>
+			<sameAs qcode="medtop:20000639"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:871"/>
+			<name xml:lang="de">Doping</name>
+			<name xml:lang="es">Doping</name>
+			<name dir="rtl" xml:lang="ar">الاساءة في استخدام المنشطات</name>
+			<name xml:lang="en">doping</name>
+			<sameAs qcode="medtop:20001105"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:238"/>
+			<name xml:lang="de">Dürre</name>
+			<name xml:lang="en">drought</name>
+			<name dir="rtl" xml:lang="ar">جفاف</name>
+			<name xml:lang="es">Sequías</name>
+			<sameAs qcode="medtop:20000152"/>
+		</concept>
+		<concept modified="2015-07-21T13:28:00+02:00">
+			<conceptId qcode="dpasubject:382"/>
+			<name xml:lang="de">Edelmetalle</name>
+			<name xml:lang="en">gold and precious material</name>
+			<name xml:lang="ar">ذهب واحجار ثمينة</name>
+			<broader qcode="medtop:20000318"/>
+		</concept>
+		<concept modified="2015-07-06T10:37:00+02:00">
+			<conceptId qcode="dpasubject:350"/>
+			<name xml:lang="de">Einkommen</name>
+			<name xml:lang="en">personal income</name>
+			<name xml:lang="ar">ميزانية شخصية</name>
+			<broader qcode="medtop:20000285"/>
+			<narrower qcode="medtop:20000286"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:318"/>
+			<name xml:lang="de">Einzelhandel</name>
+			<name xml:lang="es">Mercados</name>
+			<name dir="rtl" xml:lang="ar">تجارة مفرق</name>
+			<name xml:lang="en">retail</name>
+			<sameAs qcode="medtop:20000252"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:781"/>
+			<name xml:lang="de">Eishockey</name>
+			<name dir="rtl" xml:lang="ar">هوكي الجليد</name>
+			<name xml:lang="en">ice hockey</name>
+			<sameAs qcode="medtop:20000965"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:768"/>
+			<name xml:lang="de">Eiskunstlauf</name>
+			<name xml:lang="es">Patinaje artístico</name>
+			<name dir="rtl" xml:lang="ar">تزلج فني على الجليد</name>
+			<name xml:lang="en">figure skating</name>
+			<sameAs qcode="medtop:20000934"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:836"/>
+			<name xml:lang="de">Eisschnelllauf</name>
+			<name xml:lang="es">Patinaje velocidad</name>
+			<name dir="rtl" xml:lang="ar">تزلج سريع</name>
+			<name xml:lang="en">speed skating</name>
+			<sameAs qcode="medtop:20001067"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:291"/>
+			<name xml:lang="de">Elektro</name>
+			<name dir="rtl" xml:lang="ar">اجهزة كهربائية</name>
+			<name xml:lang="en">electrical appliance</name>
+			<sameAs qcode="medtop:20000298"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:292"/>
+			<name xml:lang="de">Elektronik</name>
+			<name dir="rtl" xml:lang="ar">موصل احادي وعنصر نشيط</name>
+			<name xml:lang="es">Electrónica</name>
+			<sameAs qcode="medtop:20000230"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:323"/>
+			<name xml:lang="de">Energie</name>
+			<name xml:lang="en">energy</name>
+			<name dir="rtl" xml:lang="ar">طاقة وموارد</name>
+			<name xml:lang="es">Energía</name>
+			<sameAs qcode="medtop:20000256"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:497"/>
+			<name xml:lang="de">Epidemien</name>
+			<name dir="rtl" xml:lang="ar">وبائي</name>
+			<name xml:lang="en">epidemic and plague</name>
+			<sameAs qcode="medtop:20000449"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:240"/>
+			<name xml:lang="de">Erdbeben</name>
+			<name xml:lang="en">earthquake</name>
+			<name dir="rtl" xml:lang="ar">زلزال</name>
+			<name xml:lang="es">Terremotos</name>
+			<sameAs qcode="medtop:20000153"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:205"/>
+			<name xml:lang="de">Ergebnisse</name>
+			<name xml:lang="en">reports</name>
+		</concept>
+		<concept modified="2015-10-16T10:18:00+02:00">
+			<conceptId qcode="dpasubject:10"/>
+			<name xml:lang="de">Ernährung</name>
+			<name xml:lang="en">food</name>
+			<name xml:lang="ar">طعام ومشروب</name>
+			<name xml:lang="es">Alimentación</name>
+			<broader qcode="medtop:20000248"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:465"/>
+			<name xml:lang="de">Erwachsenenbildung</name>
+			<name dir="rtl" xml:lang="ar">تعليم الراشدين</name>
+			<name xml:lang="en">adult education</name>
+			<sameAs qcode="medtop:20000403"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:471"/>
+			<name xml:lang="de">Erziehung</name>
+			<name dir="rtl" xml:lang="ar">تعليم اجتماعي</name>
+			<name xml:lang="en">upbringing</name>
+			<sameAs qcode="medtop:20000410"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:580"/>
+			<name xml:lang="de">Essen &amp; Trinken</name>
+			<name dir="rtl" xml:lang="ar">طعام ومشروب</name>
+			<name xml:lang="es">Gastronomía</name>
+			<sameAs qcode="medtop:20000568"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:157"/>
+			<name xml:lang="de">EU</name>
+			<name xml:lang="es">UE</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:11"/>
+			<name xml:lang="de">Europarat</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:218"/>
+			<name xml:lang="de">Explosionen</name>
+			<name xml:lang="es">Explosión</name>
+			<name dir="rtl" xml:lang="ar">حادث انفجار</name>
+			<name xml:lang="en">explosions</name>
+			<sameAs qcode="medtop:20000140"/>
+		</concept>
+		<concept modified="2015-07-06T10:41:00+02:00">
+			<conceptId qcode="dpasubject:786"/>
+			<name xml:lang="es">Extremismo</name>
+			<name xml:lang="de">Extremismus</name>
+			<broader qcode="medtop:20000626"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:9"/>
+			<name xml:lang="de">EZB</name>
+			<name xml:lang="es">BCE</name>
+			<broader qcode="medtop:20000350"/>
+		</concept>
+		<concept modified="2015-07-06T10:42:00+02:00">
+			<conceptId qcode="dpasubject:579"/>
+			<name xml:lang="en">automotive equipment</name>
+			<name xml:lang="de">Fahrzeugbau</name>
+			<name xml:lang="ar">تجهيزات سيارات</name>
+			<broader qcode="medtop:20000296"/>
+		</concept>
+		<concept modified="2015-10-16T10:45:00+02:00">
+			<conceptId qcode="dpasubject:696"/>
+			<name xml:lang="de">Familie</name>
+			<name xml:lang="en">family</name>
+			<name xml:lang="ar">اسرة</name>
+			<name xml:lang="es">Familia</name>
+			<sameAs qcode="medtop:20000780"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:763"/>
+			<name xml:lang="de">Fechten</name>
+			<name dir="rtl" xml:lang="ar">مبارزة</name>
+			<name xml:lang="en">fencing</name>
+			<sameAs qcode="medtop:20000929"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:562"/>
+			<name xml:lang="de">Feiertage</name>
+			<name dir="rtl" xml:lang="ar">عطلة عامة</name>
+			<name xml:lang="en">public holidays</name>
+			<sameAs qcode="medtop:20000552"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:165"/>
+			<name xml:lang="de">Fernsehen</name>
+			<name xml:lang="en">televison</name>
+			<name dir="rtl" xml:lang="ar">تلفزيون</name>
+			<name xml:lang="es">TV</name>
+			<sameAs qcode="medtop:20000051"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:152"/>
+			<name xml:lang="es">Carnaval</name>
+			<name xml:lang="de">Feste</name>
+			<name dir="rtl" xml:lang="ar">حدث احتفالي</name>
+			<name xml:lang="en">carnival</name>
+			<sameAs qcode="medtop:20000041"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:634"/>
+			<name xml:lang="de">Festspiele</name>
+			<broader qcode="medtop:20000002"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:119"/>
+			<name xml:lang="de">Film</name>
+			<name xml:lang="en">cinema</name>
+			<name dir="rtl" xml:lang="ar">سينما</name>
+			<name xml:lang="es">Cine</name>
+			<sameAs qcode="medtop:20000005"/>
+			<narrower qcode="medtop:20000307"/>
+		</concept>
+		<concept modified="2015-07-06T10:45:00+02:00">
+			<conceptId qcode="dpasubject:95"/>
+			<name xml:lang="en">finance</name>
+			<name xml:lang="es">Finanzas</name>
+			<name xml:lang="de">Finanzen</name>
+			<name xml:lang="ar">سوق ومبادلة</name>
+			<broader qcode="medtop:04000000"/>
+		</concept>
+		<concept modified="2015-07-22T09:07:00+02:00">
+			<conceptId qcode="dpasubject:273"/>
+			<name xml:lang="de">Fischerei</name>
+			<name xml:lang="en">fishing industry</name>
+			<name xml:lang="es">Pesca</name>
+			<name xml:lang="ar">صناعة سمكية</name>
+			<broader qcode="medtop:20000210"/>
+		</concept>
+		<concept modified="2015-07-06T10:47:00+02:00">
+			<conceptId qcode="dpasubject:229"/>
+			<name xml:lang="en">aviation</name>
+			<name xml:lang="de">Flugzeugbau</name>
+			<name xml:lang="ar">صناعات جوية وفضائية</name>
+			<broader qcode="medtop:20000295"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:644"/>
+			<name xml:lang="de">Flüchtlinge</name>
+			<name xml:lang="es">Refugiados</name>
+			<name dir="rtl" xml:lang="ar">لاجئون</name>
+			<name xml:lang="en">refugee</name>
+			<sameAs qcode="medtop:20000645"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:669"/>
+			<name xml:lang="de">Forschung</name>
+			<name xml:lang="es">Investigación</name>
+			<name dir="rtl" xml:lang="ar">ابحاث</name>
+			<name xml:lang="en">research</name>
+			<sameAs qcode="medtop:20000735"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:275"/>
+			<name xml:lang="de">Forstwirtschaft</name>
+			<name dir="rtl" xml:lang="ar">احراج واخشاب</name>
+			<name xml:lang="en">forestry and timber</name>
+			<sameAs qcode="medtop:20000214"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:553"/>
+			<name xml:lang="de">Freizeit</name>
+			<name xml:lang="en">leisure</name>
+			<name dir="rtl" xml:lang="ar">ترفيه</name>
+			<name xml:lang="es">Ocio</name>
+			<sameAs qcode="medtop:20000538"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:832"/>
+			<name xml:lang="de">Fußball</name>
+			<name xml:lang="es">Fútbol</name>
+			<name xml:lang="en">soccer</name>
+			<name xml:lang="ar">قدم</name>
+			<sameAs qcode="medtop:20001065"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:17"/>
+			<name xml:lang="de">G7</name>
+			<broader qcode="medtop:20000640"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:18"/>
+			<name xml:lang="de">G8</name>
+			<name xml:lang="es">Cumbre</name>
+			<broader qcode="medtop:20000640"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:400"/>
+			<name xml:lang="de">Gas</name>
+			<name dir="rtl" xml:lang="ar">غاز طبيعي</name>
+			<name xml:lang="en">natural resources</name>
+			<narrower qcode="medtop:20000267"/>
+			<narrower qcode="medtop:20000266"/>
+			<sameAs qcode="medtop:20000263"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:401"/>
+			<name xml:lang="de">Gastgewerbe</name>
+			<name xml:lang="en">hotel and accommodation</name>
+			<name dir="rtl" xml:lang="ar">فنادق ومساكن</name>
+			<name xml:lang="es">Hotelería</name>
+			<sameAs qcode="medtop:20000333"/>
+		</concept>
+		<concept modified="2015-07-21T13:57:00+02:00">
+			<conceptId qcode="dpasubject:159"/>
+			<name xml:lang="de">Gedenkstätten</name>
+			<name xml:lang="en">monuments and heritage sites</name>
+			<name xml:lang="ar">تراث</name>
+			<broader qcode="medtop:20000044"/>
+		</concept>
+		<concept modified="2015-07-21T13:57:00+02:00">
+			<conceptId qcode="dpasubject:606"/>
+			<name xml:lang="en">espionage and intelligence</name>
+			<name xml:lang="de">Geheimdienste</name>
+			<name xml:lang="ar">تجسس واستخبارات</name>
+			<broader qcode="medtop:20000605"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:678"/>
+			<name dir="rtl" xml:lang="ar">جغرافيا</name>
+			<name xml:lang="de">Geografie</name>
+			<sameAs qcode="medtop:20000746"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:679"/>
+			<name xml:lang="de">Geschichte</name>
+			<name xml:lang="en">history</name>
+			<name dir="rtl" xml:lang="ar">تاريخ</name>
+			<name xml:lang="es">Historia</name>
+			<sameAs qcode="medtop:20000747"/>
+		</concept>
+		<concept modified="2015-07-08T16:26:00+02:00">
+			<conceptId qcode="dpasubject:688"/>
+			<name xml:lang="de">Gesellschaft</name>
+			<name xml:lang="es">Sociedad</name>
+			<name xml:lang="en">society</name>
+			<name xml:lang="ar">مجتمعات</name>
+			<sameAs qcode="medtop:20000768"/>
+		</concept>
+		<concept modified="2015-07-22T09:02:00+02:00">
+			<conceptId qcode="dpasubject:346"/>
+			<name xml:lang="de">Gesundheit</name>
+			<name xml:lang="en">health</name>
+			<name xml:lang="es">Salud</name>
+			<name xml:lang="ar">صحة</name>
+			<broader qcode="medtop:07000000"/>
+		</concept>
+		<concept modified="2015-07-06T10:51:00+02:00">
+			<conceptId qcode="dpasubject:309"/>
+			<name xml:lang="de">Getränke</name>
+			<name xml:lang="ar">مشروبات</name>
+			<narrower qcode="medtop:20000323"/>
+			<narrower qcode="medtop:20000328"/>
+			<sameAs qcode="medtop:20000244"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:551"/>
+			<name xml:lang="de">Gewerkschaften</name>
+			<name xml:lang="es">Sindicatos</name>
+			<name dir="rtl" xml:lang="ar">نقابات</name>
+			<name xml:lang="en">unions</name>
+			<sameAs qcode="medtop:20000536"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:864"/>
+			<name xml:lang="de">Gewichtheben</name>
+			<name xml:lang="es">Halterofilia</name>
+			<name dir="rtl" xml:lang="ar">رفع اثقال</name>
+			<name xml:lang="en">weightlifting</name>
+			<sameAs qcode="medtop:20001093"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:651"/>
+			<name xml:lang="de">Glaube</name>
+			<name dir="rtl" xml:lang="ar">ايمان</name>
+			<name xml:lang="en">belief</name>
+			<sameAs qcode="medtop:20000657"/>
+		</concept>
+		<concept modified="2015-07-21T13:58:00+02:00">
+			<conceptId qcode="dpasubject:399"/>
+			<name xml:lang="en">gaming and lotteries</name>
+			<name xml:lang="de">Glücksspiele</name>
+			<name xml:lang="ar">يانصيب</name>
+			<broader qcode="medtop:20000549"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:772"/>
+			<name xml:lang="de">Golf</name>
+			<name xml:lang="es">Golf</name>
+			<name dir="rtl" xml:lang="ar">غولف</name>
+			<name xml:lang="en">golf</name>
+			<sameAs qcode="medtop:20000940"/>
+		</concept>
+		<concept modified="2015-07-08T13:40:00+02:00">
+			<conceptId qcode="dpasubject:20"/>
+			<name xml:lang="de">Goodwill Games</name>
+			<name xml:lang="ar">العاب دولية</name>
+			<broader qcode="medtop:20001114"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:19"/>
+			<name xml:lang="de">GUS</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:778"/>
+			<name xml:lang="es">Balonmano</name>
+			<name xml:lang="de">Handball</name>
+			<name dir="rtl" xml:lang="ar">كرة اليد (فريق)</name>
+			<name xml:lang="en">handball</name>
+			<sameAs qcode="medtop:20000958"/>
+		</concept>
+		<concept modified="2015-07-21T14:00:00+02:00">
+			<conceptId qcode="dpasubject:446"/>
+			<name xml:lang="es">Comercio</name>
+			<name xml:lang="de">Handel</name>
+			<name xml:lang="en">trade</name>
+			<broader qcode="medtop:04000000"/>
+			<narrower qcode="medtop:20000366"/>
+			<narrower qcode="medtop:20000369"/>
+			<narrower qcode="medtop:20000373"/>
+		</concept>
+		<concept modified="2015-07-06T10:53:00+02:00">
+			<conceptId qcode="dpasubject:447"/>
+			<name xml:lang="de">Handwerk</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:265"/>
+			<name xml:lang="de">Hauptstadt</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:418"/>
+			<name dir="rtl" xml:lang="ar">ميزانيات ورسم ميزانيات</name>
+			<name xml:lang="de">Haushalt</name>
+			<sameAs qcode="medtop:20000348"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:254"/>
+			<name xml:lang="de">Hilfsorganisationen</name>
+			<name dir="rtl" xml:lang="ar">استجابة لحالة طوارىء</name>
+			<name xml:lang="en">relief organisations</name>
+			<sameAs qcode="medtop:20000168"/>
+		</concept>
+		<concept modified="2015-10-16T10:29:00+02:00">
+			<conceptId qcode="dpasubject:558"/>
+			<name xml:lang="en">hobbies</name>
+			<name xml:lang="de">Hobbys</name>
+			<name xml:lang="ar">هواية</name>
+			<name xml:lang="es">Hobby</name>
+			<sameAs qcode="medtop:20000550"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:467"/>
+			<name xml:lang="de">Hochschulen</name>
+			<name dir="rtl" xml:lang="ar">تعليم عالي</name>
+			<name xml:lang="en">university</name>
+			<sameAs qcode="medtop:20000405"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:243"/>
+			<name xml:lang="de">Hochwasser</name>
+			<name xml:lang="en">flood</name>
+			<name dir="rtl" xml:lang="ar">فيضانات</name>
+			<name xml:lang="es">Inundaciones</name>
+			<sameAs qcode="medtop:20000154"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:765"/>
+			<name xml:lang="de">Hockey</name>
+			<name xml:lang="es">Hockey</name>
+			<name dir="rtl" xml:lang="ar">هوكي</name>
+			<name xml:lang="en">hockey</name>
+			<sameAs qcode="medtop:20000933"/>
+		</concept>
+		<concept modified="2015-07-06T10:54:00+02:00">
+			<conceptId qcode="dpasubject:22"/>
+			<name xml:lang="de">Holz</name>
+			<broader qcode="medtop:20000214"/>
+			<narrower qcode="medtop:20000433"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:233"/>
+			<name xml:lang="de">Hunger</name>
+			<name xml:lang="en">famine</name>
+			<name dir="rtl" xml:lang="ar">مجاعة</name>
+			<name xml:lang="es">Hambre</name>
+			<sameAs qcode="medtop:20000149"/>
+		</concept>
+		<concept modified="2015-10-16T10:30:00+02:00">
+			<conceptId qcode="dpasubject:306"/>
+			<name xml:lang="en">construction and property</name>
+			<name xml:lang="de">Immobilien</name>
+			<name xml:lang="ar">عقارات</name>
+			<name xml:lang="es">Inmuebles</name>
+			<sameAs qcode="medtop:20000241"/>
+		</concept>
+		<concept modified="2015-07-06T10:56:00+02:00">
+			<conceptId qcode="dpasubject:220"/>
+			<name xml:lang="es">Industria</name>
+			<name xml:lang="de">Industrie</name>
+			<name xml:lang="en">process industry</name>
+			<name xml:lang="ar">صناعة تحويلية</name>
+			<broader qcode="medtop:20000209"/>
+			<narrower qcode="medtop:20000294"/>
+			<narrower qcode="medtop:20000322"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:433"/>
+			<name xml:lang="de">Inlandspresse</name>
+			<broader qcode="medtop:20000310"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:627"/>
+			<name xml:lang="de">Innenpolitik</name>
+			<name dir="rtl" xml:lang="ar">سياسة داخلية</name>
+			<name xml:lang="en">interior policies</name>
+			<sameAs qcode="medtop:20000626"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:623"/>
+			<name xml:lang="de">Innere Sicherheit</name>
+			<name xml:lang="es">Seguridad</name>
+			<name dir="rtl" xml:lang="ar">امن عام</name>
+			<name xml:lang="en">national security</name>
+			<sameAs qcode="medtop:20000619"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:169"/>
+			<name dir="rtl" xml:lang="ar">معاهدات ومنظمات دولية</name>
+			<name xml:lang="de">International</name>
+			<sameAs qcode="medtop:20000638"/>
+		</concept>
+		<concept modified="2015-07-21T14:07:00+02:00">
+			<conceptId qcode="dpasubject:377"/>
+			<name xml:lang="de">Internet</name>
+			<name xml:lang="en">internet</name>
+			<name xml:lang="es">Internet</name>
+			<name xml:lang="ar">انترنت</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:25"/>
+			<name xml:lang="de">IWF</name>
+			<name xml:lang="es">FMI</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:26"/>
+			<name xml:lang="de">Jahreswechsel</name>
+		</concept>
+		<concept modified="2015-07-06T10:58:00+02:00">
+			<conceptId qcode="dpasubject:27"/>
+			<name xml:lang="de">Jahreszeiten</name>
+			<broader qcode="medtop:17000000"/>
+		</concept>
+		<concept modified="2015-10-16T10:56:00+02:00">
+			<conceptId qcode="dpasubject:784"/>
+			<name xml:lang="de">Judo</name>
+			<name xml:lang="en">judo</name>
+			<name xml:lang="es">Judo</name>
+			<name xml:lang="ar">جودو</name>
+			<sameAs qcode="medtop:20000969"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:199"/>
+			<name xml:lang="en">justice</name>
+			<name xml:lang="es">Justicia</name>
+			<name xml:lang="de">Justiz</name>
+			<name xml:lang="ar">سلطة قضائية</name>
+			<sameAs qcode="medtop:20000106"/>
+		</concept>
+		<concept modified="2015-07-21T14:09:00+02:00">
+			<conceptId qcode="dpasubject:609"/>
+			<name xml:lang="en">executive</name>
+			<name xml:lang="de">Kabinett</name>
+			<name xml:lang="ar">سلطة تنفيذية (حكومة)</name>
+			<broader qcode="medtop:20000593"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:747"/>
+			<name xml:lang="de">Kanu</name>
+			<name dir="rtl" xml:lang="ar">كانو كاياك</name>
+			<name xml:lang="en">canoeing and kayaking</name>
+			<sameAs qcode="medtop:20000877"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:788"/>
+			<name xml:lang="de">Karate</name>
+			<name dir="rtl" xml:lang="ar">كاراتيه</name>
+			<name xml:lang="es">Karate</name>
+			<sameAs qcode="medtop:20000983"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:251"/>
+			<name xml:lang="de">Katastrophen</name>
+			<name xml:lang="en">disaster</name>
+			<name dir="rtl" xml:lang="ar">كارثة</name>
+			<name xml:lang="es">Catástrofes</name>
+			<sameAs qcode="medtop:20000148"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:252"/>
+			<name xml:lang="de">Katastrophenschutz</name>
+			<name dir="rtl" xml:lang="ar">خطط الطوارىء</name>
+			<name xml:lang="en">emergency planning</name>
+			<sameAs qcode="medtop:20000167"/>
+		</concept>
+		<concept modified="2015-07-21T14:13:00+02:00">
+			<conceptId qcode="dpasubject:30"/>
+			<name xml:lang="de">Kegeln</name>
+			<name xml:lang="ar">بولينغ</name>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept modified="2015-07-21T14:13:00+02:00">
+			<conceptId qcode="dpasubject:469"/>
+			<name xml:lang="de">Kindergärten</name>
+			<name xml:lang="en">preschool</name>
+			<name xml:lang="ar">حضانة</name>
+			<broader qcode="medtop:20000409"/>
+		</concept>
+		<concept modified="2015-07-06T11:04:00+02:00">
+			<conceptId qcode="dpasubject:664"/>
+			<name xml:lang="de">Kirche</name>
+			<name xml:lang="ar">كنيسة</name>
+			<broader qcode="medtop:20000659"/>
+			<narrower qcode="medtop:20000664"/>
+			<narrower qcode="medtop:20000671"/>
+		</concept>
+		<concept modified="2015-07-06T11:05:00+02:00">
+			<conceptId qcode="dpasubject:476"/>
+			<name xml:lang="es">Clima</name>
+			<name xml:lang="en">climate</name>
+			<name xml:lang="de">Klima</name>
+			<broader qcode="medtop:06000000"/>
+			<narrower qcode="medtop:20000419"/>
+			<narrower qcode="medtop:20000418"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:32"/>
+			<name xml:lang="de">Koalition</name>
+			<broader qcode="medtop:20000593"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:614"/>
+			<name xml:lang="de">Kommunen</name>
+			<name dir="rtl" xml:lang="ar">سلطة محلية</name>
+			<name xml:lang="en">local authority</name>
+			<sameAs qcode="medtop:20000612"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:655"/>
+			<name xml:lang="de">Konferenzen</name>
+		</concept>
+		<concept modified="2015-07-06T11:09:00+02:00">
+			<conceptId qcode="dpasubject:114"/>
+			<name xml:lang="en">conflict</name>
+			<name xml:lang="es">Conflictos</name>
+			<name xml:lang="de">Konflikte</name>
+			<name xml:lang="ar">نزاعات،  حرب وسلام</name>
+			<broader qcode="medtop:16000000"/>
+			<narrower qcode="medtop:20000056"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:431"/>
+			<name xml:lang="es">Coyuntura</name>
+			<name xml:lang="de">Konjunktur</name>
+			<name dir="rtl" xml:lang="ar">مؤشر اقتصادي</name>
+			<name xml:lang="en">economic indicator</name>
+			<sameAs qcode="medtop:20000358"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:307"/>
+			<name xml:lang="en">consumer goods</name>
+			<name xml:lang="de">Konsumgüter</name>
+			<name dir="rtl" xml:lang="ar">سلع استهلاكية</name>
+			<name xml:lang="es">Consumo</name>
+			<sameAs qcode="medtop:20000243"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:283"/>
+			<name xml:lang="de">Kosmetik</name>
+			<name dir="rtl" xml:lang="ar">صحة ومواد تجميل</name>
+			<name xml:lang="en">health and beauty product</name>
+			<sameAs qcode="medtop:20000220"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:500"/>
+			<name xml:lang="en">hospital and clinics</name>
+			<name dir="rtl" xml:lang="ar">مستشفيات وعيادات</name>
+			<name xml:lang="de">Krankenhäuser</name>
+			<sameAs qcode="medtop:20000462"/>
+		</concept>
+		<concept modified="2015-07-21T14:14:00+02:00">
+			<conceptId qcode="dpasubject:508"/>
+			<name xml:lang="de">Krankenversicherung</name>
+			<name xml:lang="ar">مساعدة طبية للفقراء</name>
+			<broader qcode="medtop:20000479"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:495"/>
+			<name xml:lang="de">Krankheiten</name>
+			<name dir="rtl" xml:lang="ar">امراض وظروف</name>
+			<name xml:lang="en">diseases</name>
+			<sameAs qcode="medtop:20000446"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:173"/>
+			<name xml:lang="es">Guerras</name>
+			<name xml:lang="de">Krieg</name>
+			<name dir="rtl" xml:lang="ar">حرب</name>
+			<name xml:lang="en">war</name>
+			<sameAs qcode="medtop:20000062"/>
+		</concept>
+		<concept modified="2012-05-10T13:00:00+02:00">
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:191"/>
+			<name xml:lang="en">crime</name>
+			<name xml:lang="es">Criminalidad</name>
+			<name xml:lang="de">Kriminalität</name>
+			<name xml:lang="ar">جريمة</name>
+			<sameAs qcode="medtop:20000082"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:147"/>
+			<name xml:lang="de">Kultur</name>
+			<name xml:lang="en">culture</name>
+			<name dir="rtl" xml:lang="ar">ثقافة</name>
+			<name xml:lang="es">Cultura</name>
+			<sameAs qcode="medtop:20000038"/>
+		</concept>
+		<concept modified="2015-07-06T11:18:00+02:00">
+			<conceptId qcode="dpasubject:148"/>
+			<name xml:lang="de">Kulturpolitik</name>
+			<broader qcode="medtop:20000621"/>
+			<sameAs qcode="medtop:20001132"/>
+		</concept>
+		<concept modified="2015-07-21T14:15:00+02:00">
+			<conceptId qcode="dpasubject:118"/>
+			<name xml:lang="es">Arte</name>
+			<name xml:lang="en">arts</name>
+			<name xml:lang="de">Kunst</name>
+			<name xml:lang="ar">فنون بصرية</name>
+			<broader qcode="medtop:20000002"/>
+			<narrower qcode="medtop:20000031"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:287"/>
+			<name xml:lang="de">Kunststoffe</name>
+			<name dir="rtl" xml:lang="ar">بلاستيك ومواد صناعية</name>
+			<name xml:lang="en">synthetic and plastic</name>
+			<sameAs qcode="medtop:20000224"/>
+		</concept>
+		<concept modified="2015-07-21T14:15:00+02:00">
+			<conceptId qcode="dpasubject:590"/>
+			<name xml:lang="de">Landtag</name>
+			<broader qcode="medtop:20000615"/>
+			<narrower qcode="medtop:20000585"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:313"/>
+			<name xml:lang="de">Lebensmittel</name>
+			<name dir="rtl" xml:lang="ar">اغذية</name>
+			<name xml:lang="en">food</name>
+			<sameAs qcode="medtop:20000248"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:473"/>
+			<name xml:lang="de">Lehrer</name>
+			<name dir="rtl" xml:lang="ar">مدرسون</name>
+			<name xml:lang="en">teachers unions</name>
+			<sameAs qcode="medtop:20000416"/>
+		</concept>
+		<concept modified="2015-07-21T14:16:00+02:00">
+			<conceptId qcode="dpasubject:474"/>
+			<name xml:lang="en">apprentices</name>
+			<name xml:lang="de">Lehrstellen</name>
+			<name xml:lang="ar">مبتدئون/متدربون</name>
+			<broader qcode="medtop:20000509"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:727"/>
+			<name xml:lang="en">athletics</name>
+			<name xml:lang="es">Atletismo</name>
+			<name xml:lang="de">Leichtathletik</name>
+			<name xml:lang="ar">العاب القوى</name>
+			<sameAs qcode="medtop:20000827"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:337"/>
+			<name xml:lang="de">Leistungssport</name>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:521"/>
+			<name xml:lang="es">Gente</name>
+			<name xml:lang="de">Leute</name>
+			<name dir="rtl" xml:lang="ar">شخصيات</name>
+			<name xml:lang="en">celebrity</name>
+			<sameAs qcode="medtop:20000502"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:127"/>
+			<name xml:lang="de">Literatur</name>
+			<name xml:lang="en">literature</name>
+			<name dir="rtl" xml:lang="ar">ادب</name>
+			<name xml:lang="es">Literatura</name>
+			<sameAs qcode="medtop:20000013"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:406"/>
+			<name xml:lang="es">Aviación</name>
+			<name xml:lang="en">air transport</name>
+			<name dir="rtl" xml:lang="ar">نقل جوي</name>
+			<name xml:lang="de">Luftverkehr</name>
+			<sameAs qcode="medtop:20000338"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:792"/>
+			<name xml:lang="de">Marathon</name>
+			<name xml:lang="es">Maratón</name>
+			<name dir="rtl" xml:lang="ar">ماراتون</name>
+			<name xml:lang="en">marathon</name>
+			<sameAs qcode="medtop:20000988"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:365"/>
+			<name xml:lang="de">Maschinenbau</name>
+			<name dir="rtl" xml:lang="ar">صناعة آلات</name>
+			<name xml:lang="en">machine manufacturing</name>
+			<sameAs qcode="medtop:20000302"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:368"/>
+			<name xml:lang="de">Medien</name>
+			<name xml:lang="en">media</name>
+			<name dir="rtl" xml:lang="ar">اعلام</name>
+			<name xml:lang="es">Medios</name>
+			<sameAs qcode="medtop:20000304"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:514"/>
+			<name xml:lang="de">Medizin</name>
+			<name dir="rtl" xml:lang="ar">مهنة طبية</name>
+			<name xml:lang="en">medical research</name>
+			<sameAs qcode="medtop:20000485"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:592"/>
+			<name xml:lang="es">DDHH</name>
+			<name xml:lang="de">Menschenrechte</name>
+			<name dir="rtl" xml:lang="ar">حقوق الانسان</name>
+			<name xml:lang="en">human rights</name>
+			<sameAs qcode="medtop:20000592"/>
+		</concept>
+		<concept modified="2015-07-21T14:18:00+02:00">
+			<conceptId qcode="dpasubject:454"/>
+			<name xml:lang="es">Metales</name>
+			<name xml:lang="de">Metalle</name>
+			<name xml:lang="en">metals and minerals</name>
+			<name xml:lang="ar">معادن وثروات معدنية</name>
+			<broader qcode="medtop:20000316"/>
+		</concept>
+		<concept modified="2015-07-22T09:04:00+02:00">
+			<conceptId qcode="dpasubject:455"/>
+			<name xml:lang="en">metal goods and engineering</name>
+			<name xml:lang="de">Metallindustrie</name>
+			<name xml:lang="es">Metalúrgica</name>
+			<name xml:lang="ar">تصنيع وهندسة</name>
+			<broader qcode="medtop:20000294"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:635"/>
+			<name xml:lang="de">Migration</name>
+			<name xml:lang="en">migration</name>
+			<name dir="rtl" xml:lang="ar">هجرة</name>
+			<name xml:lang="es">Migración</name>
+			<sameAs qcode="medtop:20000634"/>
+		</concept>
+		<concept modified="2015-07-22T09:12:00+02:00">
+			<conceptId qcode="dpasubject:172"/>
+			<name xml:lang="en">military equipment</name>
+			<name xml:lang="de">Militär</name>
+			<name xml:lang="ar">قوات مسلحة</name>
+			<broader qcode="medtop:20000598"/>
+		</concept>
+		<concept modified="2015-07-21T14:21:00+02:00">
+			<conceptId qcode="dpasubject:705"/>
+			<name xml:lang="de">Minderheiten</name>
+			<name xml:lang="en">minority group</name>
+			<name xml:lang="ar">اقلية وطنية او اتنية</name>
+			<broader qcode="medtop:14000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:729"/>
+			<name xml:lang="de">Mittelstand</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:124"/>
+			<name xml:lang="de">Mode</name>
+			<name xml:lang="en">fashion</name>
+			<name dir="rtl" xml:lang="ar">موضة</name>
+			<name xml:lang="es">Moda</name>
+			<sameAs qcode="medtop:20000011"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:794"/>
+			<name xml:lang="de">Moderner Fünfkampf</name>
+			<name dir="rtl" xml:lang="ar">بينتاثلون حديث</name>
+			<name xml:lang="en">modern pentathlon</name>
+			<sameAs qcode="medtop:20000989"/>
+		</concept>
+		<concept modified="2012-05-10T13:00:00+02:00">
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:804"/>
+			<name xml:lang="de">Motorbootsport</name>
+			<name xml:lang="en">power boating</name>
+			<name xml:lang="ar">سباق اليخوت</name>
+			<name xml:lang="es">Motonáutica</name>
+			<sameAs qcode="medtop:20001016"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:796"/>
+			<name xml:lang="es">Automovilismo</name>
+			<name xml:lang="de">Motorsport</name>
+			<name dir="rtl" xml:lang="ar">سباق الزوارق السريعة</name>
+			<name xml:lang="en">motorsport</name>
+			<sameAs qcode="medtop:20000991"/>
+		</concept>
+		<concept modified="2015-07-21T14:21:00+02:00">
+			<conceptId qcode="dpasubject:155"/>
+			<name xml:lang="en">libraries and museums</name>
+			<name xml:lang="de">Museen</name>
+			<name xml:lang="es">Museos</name>
+			<name xml:lang="ar">مكاتب ومتاحف</name>
+			<broader qcode="medtop:20000043"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:130"/>
+			<name xml:lang="de">Musik</name>
+			<name xml:lang="en">music</name>
+			<name dir="rtl" xml:lang="ar">موسيقى</name>
+			<name xml:lang="es">Música</name>
+			<sameAs qcode="medtop:20000018"/>
+		</concept>
+		<concept modified="2015-10-16T10:45:00+02:00">
+			<conceptId qcode="dpasubject:389"/>
+			<name xml:lang="en">furnishings and furniture</name>
+			<name xml:lang="es">Muebles y Decoración</name>
+			<name xml:lang="de">Möbel</name>
+			<name xml:lang="ar">اثاث ومفروشات</name>
+			<sameAs qcode="medtop:20000325"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:41"/>
+			<name xml:lang="de">Nafta</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:42"/>
+			<name xml:lang="de">Nato</name>
+			<broader qcode="medtop:20000598"/>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:493"/>
+			<name xml:lang="de">Natur</name>
+			<name dir="rtl" xml:lang="ar">طبيعة</name>
+			<name xml:lang="en">nature</name>
+			<sameAs qcode="medtop:20000441"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:479"/>
+			<name xml:lang="de">Naturschutz</name>
+			<name dir="rtl" xml:lang="ar">حفظ</name>
+			<name xml:lang="en">conservation</name>
+			<sameAs qcode="medtop:20000420"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:43"/>
+			<name xml:lang="de">Nobelpreise</name>
+			<broader qcode="medtop:20000498"/>
+		</concept>
+		<concept modified="2015-10-16T10:53:00+02:00">
+			<conceptId qcode="dpasubject:249"/>
+			<name xml:lang="en">emergency incidents</name>
+			<name xml:lang="de">Notfälle</name>
+			<name xml:lang="ar">حادث طارىء</name>
+			<name xml:lang="es">Incidentes</name>
+			<sameAs qcode="medtop:20000160"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:662"/>
+			<name xml:lang="de">OAS</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:709"/>
+			<name xml:lang="de">Obdachlosigkeit</name>
+			<name dir="rtl" xml:lang="ar">تشرد</name>
+			<name xml:lang="en">homelessness</name>
+			<sameAs qcode="medtop:20000800"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:44"/>
+			<name xml:lang="de">OECD</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept modified="2015-07-06T11:29:00+02:00">
+			<conceptId qcode="dpasubject:47"/>
+			<name xml:lang="es">Olimpismo</name>
+			<name xml:lang="de">Olympia</name>
+			<name xml:lang="en">Olympics</name>
+			<broader qcode="medtop:20001123"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:48"/>
+			<name xml:lang="de">Opec</name>
+			<name xml:lang="es">Opep</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept modified="2015-07-06T11:30:00+02:00">
+			<conceptId qcode="dpasubject:137"/>
+			<name xml:lang="de">Optik</name>
+			<broader qcode="medtop:20000230"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:45"/>
+			<name xml:lang="de">OSZE</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept modified="2015-07-08T13:36:00+02:00">
+			<conceptId qcode="dpasubject:49"/>
+			<name xml:lang="en">Panamerican Games</name>
+			<name xml:lang="de">Panamerikanische Spiele</name>
+			<name xml:lang="ar">العاب قارية</name>
+			<broader qcode="medtop:20001111"/>
+		</concept>
+		<concept modified="2015-07-21T14:22:00+02:00">
+			<conceptId qcode="dpasubject:391"/>
+			<name xml:lang="en">paper and packaging product</name>
+			<name xml:lang="de">Papier</name>
+			<name xml:lang="ar">صناعة الورق والنغليف</name>
+			<broader qcode="medtop:20000326"/>
+		</concept>
+		<concept modified="2015-07-06T11:31:00+02:00">
+			<conceptId qcode="dpasubject:331"/>
+			<name xml:lang="en">paralympic games</name>
+			<name xml:lang="de">Paralympics</name>
+			<broader qcode="medtop:20000791"/>
+			<broader qcode="medtop:20001123"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:619"/>
+			<name xml:lang="de">Parlament</name>
+			<name xml:lang="es">Parlamento</name>
+			<name dir="rtl" xml:lang="ar">برلمان</name>
+			<name xml:lang="en">parliament</name>
+			<sameAs qcode="medtop:20000615"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:649"/>
+			<name xml:lang="de">Parteien</name>
+			<name xml:lang="es">Partidos</name>
+			<name dir="rtl" xml:lang="ar">احزب وحركات</name>
+			<name xml:lang="en">parties</name>
+			<sameAs qcode="medtop:20000651"/>
+		</concept>
+		<concept modified="2015-07-21T14:23:00+02:00">
+			<conceptId qcode="dpasubject:261"/>
+			<name xml:lang="de">Personalien</name>
+			<name xml:lang="ar">موارد بشرية</name>
+		</concept>
+		<concept modified="2015-07-06T11:32:00+02:00">
+			<conceptId qcode="dpasubject:262"/>
+			<name xml:lang="en">people</name>
+			<name xml:lang="es">Personalidades</name>
+			<name xml:lang="de">Personen</name>
+			<name xml:lang="ar">موارد بشرية</name>
+			<sameAs qcode="medtop:20000502"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:760"/>
+			<name xml:lang="es">Equitación</name>
+			<name xml:lang="de">Pferdesport</name>
+			<name dir="rtl" xml:lang="ar">فروسية</name>
+			<name xml:lang="en">equestrian</name>
+			<sameAs qcode="medtop:20000923"/>
+		</concept>
+		<concept modified="2015-07-06T11:37:00+02:00">
+			<conceptId qcode="dpasubject:511"/>
+			<name xml:lang="en">medical stuff</name>
+			<name xml:lang="de">Pflegeberufe</name>
+			<name xml:lang="ar">طاقم طبي</name>
+			<broader qcode="medtop:20000492"/>
+		</concept>
+		<concept modified="2015-07-21T14:24:00+02:00">
+			<conceptId qcode="dpasubject:512"/>
+			<name xml:lang="de">Pflegeversicherung</name>
+			<name xml:lang="ar">ميديكير</name>
+			<broader qcode="medtop:20000479"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:285"/>
+			<name xml:lang="es">Farmacéutica</name>
+			<name xml:lang="de">Pharma</name>
+			<name dir="rtl" xml:lang="ar">صيدلي</name>
+			<name xml:lang="en">pharmaceutical</name>
+			<sameAs qcode="medtop:20000223"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:102"/>
+			<name xml:lang="en">politics</name>
+			<name xml:lang="de">Politik</name>
+			<name dir="rtl" xml:lang="ar">سياسة</name>
+			<name xml:lang="es">Política</name>
+			<sameAs qcode="medtop:11000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:210"/>
+			<name xml:lang="de">Polizei</name>
+			<name xml:lang="en">police</name>
+			<name dir="rtl" xml:lang="ar">شرطة</name>
+			<name xml:lang="es">Policiales</name>
+			<sameAs qcode="medtop:20000133"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:802"/>
+			<name xml:lang="de">Polo</name>
+			<name xml:lang="es">Polo</name>
+			<name dir="rtl" xml:lang="ar">بولو</name>
+			<name xml:lang="en">polo</name>
+			<sameAs qcode="medtop:20001014"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:449"/>
+			<name xml:lang="de">Preise</name>
+			<name dir="rtl" xml:lang="ar">اسعار</name>
+			<name xml:lang="en">prices</name>
+			<sameAs qcode="medtop:20000382"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:376"/>
+			<name xml:lang="de">Pressestimmen</name>
+			<broader qcode="medtop:20000310"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:625"/>
+			<name xml:lang="de">Privatisierung</name>
+			<name xml:lang="es">Privatizaciones</name>
+			<name dir="rtl" xml:lang="ar">خصخصة</name>
+			<name xml:lang="en">privatisation</name>
+			<sameAs qcode="medtop:20000624"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:715"/>
+			<name xml:lang="es">Prostitución</name>
+			<name xml:lang="de">Prostitution</name>
+			<name dir="rtl" xml:lang="ar">بغاء</name>
+			<name xml:lang="en">prostitution</name>
+			<sameAs qcode="medtop:20000806"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:202"/>
+			<name xml:lang="de">Prozesse</name>
+			<name dir="rtl" xml:lang="ar">محاكمة</name>
+			<name xml:lang="en">trials</name>
+			<sameAs qcode="medtop:20000111"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:163"/>
+			<name xml:lang="de">Radio</name>
+			<name dir="rtl" xml:lang="ar">اذاعة</name>
+			<name xml:lang="en">radio</name>
+			<sameAs qcode="medtop:20000050"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:755"/>
+			<name xml:lang="es">Ciclismo</name>
+			<name xml:lang="de">Radsport</name>
+			<name dir="rtl" xml:lang="ar">دراجات</name>
+			<name xml:lang="en">cycling</name>
+			<sameAs qcode="medtop:20000892"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:694"/>
+			<name xml:lang="es">Racismo</name>
+			<name xml:lang="de">Rassismus</name>
+			<name dir="rtl" xml:lang="ar">عنصرية</name>
+			<name xml:lang="en">racism</name>
+			<sameAs qcode="medtop:20000777"/>
+		</concept>
+		<concept modified="2015-07-21T14:26:00+02:00">
+			<conceptId qcode="dpasubject:686"/>
+			<name xml:lang="es">Espacio</name>
+			<name xml:lang="de">Raumfahrt</name>
+			<name xml:lang="en">space</name>
+			<name xml:lang="ar">هندسة فضاء</name>
+			<broader qcode="medtop:20000757"/>
+		</concept>
+		<concept modified="2015-07-21T14:26:00+02:00">
+			<conceptId qcode="dpasubject:687"/>
+			<name xml:lang="en">aerospace</name>
+			<name xml:lang="es">Aerospacial</name>
+			<name xml:lang="de">Raumfahrtindustrie</name>
+			<name xml:lang="ar">صناعات جوية وفضائية</name>
+			<broader qcode="medtop:20000295"/>
+		</concept>
+		<concept modified="2015-07-21T14:27:00+02:00">
+			<conceptId qcode="dpasubject:204"/>
+			<name xml:lang="es">Derechos</name>
+			<name xml:lang="de">Recht</name>
+			<name xml:lang="en">rights</name>
+			<name xml:lang="ar">دراسة حقوق</name>
+			<broader qcode="medtop:02000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:594"/>
+			<name xml:lang="es">Gobierno</name>
+			<name xml:lang="de">Regierung</name>
+			<name dir="rtl" xml:lang="ar">حكومة</name>
+			<name xml:lang="en">government</name>
+			<sameAs qcode="medtop:20000593"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:571"/>
+			<name xml:lang="de">Reisen</name>
+			<name dir="rtl" xml:lang="ar">سفر</name>
+			<name xml:lang="en">travel</name>
+			<sameAs qcode="medtop:20000563"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:517"/>
+			<name xml:lang="de">Rekorde</name>
+			<name dir="rtl" xml:lang="ar">رقم قياسي</name>
+			<name xml:lang="en">record</name>
+			<sameAs qcode="medtop:20000499"/>
+		</concept>
+		<concept modified="2015-07-21T14:28:00+02:00">
+			<conceptId qcode="dpasubject:458"/>
+			<name xml:lang="de">Religion</name>
+			<name xml:lang="en">religion</name>
+			<name xml:lang="es">Religión</name>
+			<name xml:lang="ar">ديانة ومعتقدات</name>
+			<broader qcode="medtop:12000000"/>
+		</concept>
+		<concept modified="2015-07-06T11:57:00+02:00">
+			<conceptId qcode="dpasubject:539"/>
+			<name xml:lang="de">Rente</name>
+			<name xml:lang="en">wages and pensions</name>
+			<name xml:lang="ar">راتب تقاعد</name>
+			<sameAs qcode="medtop:20000532"/>
+		</concept>
+		<concept modified="2015-10-16T10:22:00+02:00">
+			<conceptId qcode="dpasubject:869"/>
+			<name xml:lang="de">Ringen</name>
+			<name xml:lang="en">wrestling</name>
+			<name xml:lang="ar">مصارعة</name>
+			<name xml:lang="es">Lucha</name>
+			<sameAs qcode="medtop:20001098"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:790"/>
+			<name xml:lang="en">luge</name>
+			<name dir="rtl" xml:lang="ar">الزحافات الثلجية</name>
+			<name xml:lang="de">Rodeln</name>
+			<sameAs qcode="medtop:20000987"/>
+		</concept>
+		<concept modified="2015-07-06T11:57:00+02:00">
+			<conceptId qcode="dpasubject:490"/>
+			<name xml:lang="en">energy and resource</name>
+			<name xml:lang="es">Recursos</name>
+			<name xml:lang="de">Rohstoffe</name>
+			<name xml:lang="ar">موارد طاقة</name>
+			<sameAs qcode="medtop:20000431"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:807"/>
+			<name xml:lang="es">Remo</name>
+			<name xml:lang="de">Rudern</name>
+			<name dir="rtl" xml:lang="ar">تجديف</name>
+			<name xml:lang="en">rowing</name>
+			<sameAs qcode="medtop:20001026"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:809"/>
+			<name xml:lang="de">Rugby</name>
+			<name xml:lang="es">Rugby</name>
+			<name xml:lang="en">rugby</name>
+			<sameAs qcode="medtop:20001036"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:358"/>
+			<name xml:lang="de">Rüstungsindustrie</name>
+			<name dir="rtl" xml:lang="ar">تجهيرات دفاعية</name>
+			<name xml:lang="en">defence equipment</name>
+			<sameAs qcode="medtop:20000297"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:816"/>
+			<name xml:lang="de">Schießen</name>
+			<name dir="rtl" xml:lang="ar">رماية</name>
+			<name xml:lang="en">shooting</name>
+			<sameAs qcode="medtop:20001049"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:230"/>
+			<name xml:lang="de">Schiffbau</name>
+			<name dir="rtl" xml:lang="ar">بناء سفن</name>
+			<name xml:lang="en">shipbuilding</name>
+			<sameAs qcode="medtop:20000303"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:409"/>
+			<name xml:lang="de">Schifffahrt</name>
+			<name dir="rtl" xml:lang="ar">ممرات مائية ونقل بحري</name>
+			<name xml:lang="en">waterway and maritime transport</name>
+			<sameAs qcode="medtop:20000343"/>
+		</concept>
+		<concept modified="2015-07-21T14:29:00+02:00">
+			<conceptId qcode="dpasubject:427"/>
+			<name xml:lang="en">credit and debt</name>
+			<name xml:lang="es">Deuda</name>
+			<name xml:lang="de">Schulden</name>
+			<name xml:lang="ar">ائتمان ودين</name>
+			<broader qcode="medtop:20000354"/>
+			<narrower qcode="medtop:20000368"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:461"/>
+			<name xml:lang="de">Schulen</name>
+			<name dir="rtl" xml:lang="ar">مدرسة</name>
+			<name xml:lang="en">schools</name>
+			<sameAs qcode="medtop:20000400"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:845"/>
+			<name xml:lang="es">Natación</name>
+			<name xml:lang="de">Schwimmen</name>
+			<name dir="rtl" xml:lang="ar">سباحة</name>
+			<name xml:lang="en">swimming</name>
+			<sameAs qcode="medtop:20001071"/>
+		</concept>
+		<concept modified="2015-07-21T14:29:00+02:00">
+			<conceptId qcode="dpasubject:813"/>
+			<name xml:lang="de">Segelfliegen</name>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:814"/>
+			<name xml:lang="de">Segeln</name>
+			<name xml:lang="es">Vela</name>
+			<name dir="rtl" xml:lang="ar">سباق القوارب الشرعية</name>
+			<name xml:lang="en">sailing</name>
+			<sameAs qcode="medtop:20001038"/>
+		</concept>
+		<concept modified="2015-07-21T14:30:00+02:00">
+			<conceptId qcode="dpasubject:657"/>
+			<name xml:lang="en">cult and sect</name>
+			<name xml:lang="es">Sectas</name>
+			<name xml:lang="de">Sekten</name>
+			<name xml:lang="ar">معتقدات وطوائف</name>
+			<broader qcode="medtop:20000674"/>
+		</concept>
+		<concept modified="2015-07-21T14:31:00+02:00">
+			<conceptId qcode="dpasubject:54"/>
+			<name xml:lang="de">Senat</name>
+			<broader qcode="medtop:20000615"/>
+			<narrower qcode="medtop:20000585"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:819"/>
+			<name xml:lang="de">Skeleton</name>
+			<name dir="rtl" xml:lang="ar">سباق الزلاجات الصدرية</name>
+			<name xml:lang="en">skeleton</name>
+			<sameAs qcode="medtop:20001055"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:821"/>
+			<name xml:lang="de">Ski alpin</name>
+			<name dir="rtl" xml:lang="ar">تزلج</name>
+			<name xml:lang="en">alpine skiing</name>
+			<sameAs qcode="medtop:20001057"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:825"/>
+			<name xml:lang="en">Nordic skiing</name>
+			<name xml:lang="de">Ski nordisch</name>
+			<name xml:lang="ar">تزلج شمالي</name>
+			<sameAs qcode="medtop:20001060"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:828"/>
+			<name xml:lang="de">Skispringen</name>
+			<name dir="rtl" xml:lang="ar">قفز تزلجي</name>
+			<name xml:lang="en">ski jumping</name>
+			<sameAs qcode="medtop:20001061"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:830"/>
+			<name xml:lang="de">Snowboard</name>
+			<name dir="rtl" xml:lang="ar">تزلج على الثليج</name>
+			<name xml:lang="en">snow boarding</name>
+			<sameAs qcode="medtop:20001064"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:834"/>
+			<name xml:lang="de">Softball</name>
+			<name dir="rtl" xml:lang="ar">سوفتبول</name>
+			<name xml:lang="en">softball</name>
+			<sameAs qcode="medtop:20001066"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:294"/>
+			<name xml:lang="de">Software</name>
+			<name xml:lang="es">Software</name>
+			<name dir="rtl" xml:lang="ar">برامج معلوماتية</name>
+			<name xml:lang="en">software</name>
+			<sameAs qcode="medtop:20000231"/>
+		</concept>
+		<concept modified="2015-07-22T08:58:00+02:00">
+			<conceptId qcode="dpasubject:689"/>
+			<name xml:lang="de">Soziales</name>
+			<name xml:lang="en">welfare</name>
+			<name xml:lang="ar">رفاهية</name>
+			<broader qcode="medtop:14000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:799"/>
+			<name xml:lang="de">Speedway</name>
+			<name dir="rtl" xml:lang="ar">مضمار</name>
+			<name xml:lang="en">speedway</name>
+			<sameAs qcode="medtop:20001007"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:873"/>
+			<name xml:lang="de">Spiele</name>
+			<name dir="rtl" xml:lang="ar">العاب</name>
+			<name xml:lang="en">games</name>
+			<sameAs qcode="medtop:20000540"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:321"/>
+			<name xml:lang="de">Spielwaren</name>
+			<name dir="rtl" xml:lang="ar">لعب</name>
+			<name xml:lang="en">toy</name>
+			<sameAs qcode="medtop:20000254"/>
+		</concept>
+		<concept modified="2015-07-21T14:31:00+02:00">
+			<conceptId qcode="dpasubject:607"/>
+			<name xml:lang="en">espionage and intelligence</name>
+			<name xml:lang="es">Espionaje</name>
+			<name xml:lang="de">Spionage</name>
+			<name xml:lang="ar">تجسس واستخبارات</name>
+			<broader qcode="medtop:20000605"/>
+		</concept>
+		<concept modified="2015-07-08T17:30:00+02:00">
+			<conceptId qcode="dpasubject:109"/>
+			<name xml:lang="es">Polideportivo</name>
+			<name xml:lang="de">Sport</name>
+			<name xml:lang="en">sports</name>
+			<name xml:lang="ar">رياضة</name>
+			<narrower qcode="dpasubject:703"/>
+			<sameAs qcode="medtop:15000000"/>
+		</concept>
+		<concept modified="2015-07-21T14:32:00+02:00">
+			<conceptId qcode="dpasubject:565"/>
+			<name xml:lang="en">recreational and sporting goods</name>
+			<name xml:lang="de">Sportartikel</name>
+			<name xml:lang="ar">سلع ترفيهية ورياضية</name>
+			<broader qcode="medtop:20000334"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:110"/>
+			<name xml:lang="de">Sporthilfe</name>
+			<broader qcode="medtop:20001125"/>
+		</concept>
+		<concept modified="2015-07-06T00:58:00+02:00">
+			<conceptId qcode="dpasubject:111"/>
+			<name xml:lang="de">Sportlerwahl</name>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:112"/>
+			<name xml:lang="de">Sportmedizin</name>
+			<broader qcode="medtop:20000487"/>
+		</concept>
+		<concept modified="2015-07-06T13:01:00+02:00">
+			<conceptId qcode="dpasubject:818"/>
+			<name xml:lang="de">Sportpolitik</name>
+			<broader qcode="medtop:20000621"/>
+			<sameAs qcode="medtop:20001147"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:153"/>
+			<name xml:lang="de">Sprache</name>
+			<name xml:lang="en">language</name>
+			<name dir="rtl" xml:lang="ar">لغة</name>
+			<name xml:lang="es">Lengua</name>
+			<sameAs qcode="medtop:20000042"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:838"/>
+			<name xml:lang="de">Squash</name>
+			<name dir="rtl" xml:lang="ar">سكواش</name>
+			<name xml:lang="en">squash</name>
+			<sameAs qcode="medtop:20001068"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:187"/>
+			<name xml:lang="de">Staat</name>
+			<broader qcode="medtop:11000000"/>
+			<narrower qcode="medtop:20000607"/>
+			<narrower qcode="medtop:20000625"/>
+			<narrower qcode="medtop:20000610"/>
+		</concept>
+		<concept modified="2015-07-22T09:09:00+02:00">
+			<conceptId qcode="dpasubject:611"/>
+			<name xml:lang="en">heads of state</name>
+			<name xml:lang="de">Staatsoberhaupt</name>
+			<name xml:lang="ar">رئيس حكومة</name>
+			<broader qcode="medtop:20000610"/>
+		</concept>
+		<concept modified="2015-07-21T14:33:00+02:00">
+			<conceptId qcode="dpasubject:198"/>
+			<name xml:lang="en">iron and steel</name>
+			<name xml:lang="de">Stahl</name>
+			<name xml:lang="ar">حديد وصلب</name>
+			<broader qcode="medtop:20000319"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:435"/>
+			<name xml:lang="de">Statistik</name>
+			<name xml:lang="en">statistics</name>
+			<narrower qcode="medtop:20000365"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:717"/>
+			<name xml:lang="es">Eutanasia</name>
+			<name xml:lang="de">Sterbehilfe</name>
+			<name dir="rtl" xml:lang="ar">قتل رحيم</name>
+			<name xml:lang="en">euthanasia</name>
+			<sameAs qcode="medtop:20000811"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:624"/>
+			<name xml:lang="es">Impuestos</name>
+			<name xml:lang="de">Steuern</name>
+			<name dir="rtl" xml:lang="ar">فرض ضرائب</name>
+			<name xml:lang="en">taxation</name>
+			<sameAs qcode="medtop:20000620"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:214"/>
+			<name xml:lang="de">Strafvollzug</name>
+			<name xml:lang="en">prison</name>
+			<name dir="rtl" xml:lang="ar">سجن</name>
+			<name xml:lang="es">Cárceles</name>
+			<sameAs qcode="medtop:20000137"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:546"/>
+			<name xml:lang="es">Huelgas</name>
+			<name xml:lang="de">Streiks</name>
+			<name dir="rtl" xml:lang="ar">اضراب</name>
+			<name xml:lang="en">strike</name>
+			<sameAs qcode="medtop:20000530"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:329"/>
+			<name xml:lang="de">Strom</name>
+			<name dir="rtl" xml:lang="ar">انتاج وتوزيع كهرباء</name>
+			<name xml:lang="en">electricity production and distribution</name>
+			<sameAs qcode="medtop:20000260"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:439"/>
+			<name xml:lang="de">Subventionen</name>
+			<name dir="rtl" xml:lang="ar">مساعدات حكومية</name>
+			<name xml:lang="en">government aid</name>
+			<sameAs qcode="medtop:20000367"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:713"/>
+			<name xml:lang="de">Sucht</name>
+			<name dir="rtl" xml:lang="ar">ادمان</name>
+			<name xml:lang="en">addiction</name>
+			<sameAs qcode="medtop:20000804"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:840"/>
+			<name xml:lang="de">Sumo</name>
+			<name dir="rtl" xml:lang="ar">سومو</name>
+			<name xml:lang="en">sumo wrestling</name>
+			<sameAs qcode="medtop:20001069"/>
+		</concept>
+		<concept modified="2015-07-21T14:35:00+02:00">
+			<conceptId qcode="dpasubject:59"/>
+			<name xml:lang="de">Szene</name>
+			<name xml:lang="ar">اسلوب حياة</name>
+			<broader qcode="medtop:10000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:396"/>
+			<name xml:lang="de">Tabak</name>
+			<name dir="rtl" xml:lang="ar">تبغ</name>
+			<name xml:lang="en">tobacco</name>
+			<sameAs qcode="medtop:20000330"/>
+		</concept>
+		<concept modified="2015-10-16T10:20:00+02:00">
+			<conceptId qcode="dpasubject:850"/>
+			<name xml:lang="en">taekwon-do</name>
+			<name xml:lang="de">Taekwondo</name>
+			<name xml:lang="ar">تايكواندو</name>
+			<name xml:lang="es">Taekwondo</name>
+			<sameAs qcode="medtop:20001084"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:121"/>
+			<name xml:lang="de">Tanz</name>
+			<name xml:lang="en">dance</name>
+			<name dir="rtl" xml:lang="ar">رقص</name>
+			<name xml:lang="es">Danza</name>
+			<sameAs qcode="medtop:20000007"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:757"/>
+			<name xml:lang="de">Tanzen</name>
+			<name dir="rtl" xml:lang="ar">رقص رياضي</name>
+			<name xml:lang="en">dancing</name>
+			<sameAs qcode="medtop:20000911"/>
+		</concept>
+		<concept modified="2015-07-06T13:09:00+02:00">
+			<conceptId qcode="dpasubject:543"/>
+			<name xml:lang="de">Tarife</name>
+			<name xml:lang="ar">عقد جماعي</name>
+			<broader qcode="medtop:20000524"/>
+			<narrower qcode="medtop:20000529"/>
+			<narrower qcode="medtop:20000525"/>
+		</concept>
+		<concept modified="2015-07-21T14:35:00+02:00">
+			<conceptId qcode="dpasubject:300"/>
+			<name xml:lang="de">Technik</name>
+			<name xml:lang="en">technology</name>
+			<name xml:lang="es">Tecnología</name>
+			<name xml:lang="ar">تكنولوجيا وهندسة</name>
+			<broader qcode="medtop:20000756"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:297"/>
+			<name xml:lang="de">Telekommunikation</name>
+			<name xml:lang="en">semiconductors and active components</name>
+			<broader qcode="medtop:20000225"/>
+			<narrower qcode="medtop:20000232"/>
+			<narrower qcode="medtop:20000233"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:852"/>
+			<name xml:lang="es">Tenis</name>
+			<name xml:lang="de">Tennis</name>
+			<name dir="rtl" xml:lang="ar">مضرب</name>
+			<name xml:lang="en">tennis</name>
+			<sameAs qcode="medtop:20001085"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:196"/>
+			<name xml:lang="de">Terrorismus</name>
+			<name xml:lang="en">terrorism</name>
+			<name dir="rtl" xml:lang="ar">ارهاب</name>
+			<name xml:lang="es">Terrorismo</name>
+			<sameAs qcode="medtop:20000103"/>
+		</concept>
+		<concept modified="2015-07-21T14:36:00+02:00">
+			<conceptId qcode="dpasubject:394"/>
+			<name xml:lang="de">Textil</name>
+			<name xml:lang="en">textile and clothing</name>
+			<name xml:lang="ar">نسيج والبسة</name>
+			<broader qcode="medtop:20000329"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:138"/>
+			<name xml:lang="es">Teatro</name>
+			<name xml:lang="de">Theater</name>
+			<name dir="rtl" xml:lang="ar">مسرح</name>
+			<name xml:lang="en">theatre</name>
+			<sameAs qcode="medtop:20000029"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:507"/>
+			<name xml:lang="de">Therapien</name>
+			<name dir="rtl" xml:lang="ar">علاج</name>
+			<name xml:lang="en">health treatment</name>
+			<sameAs qcode="medtop:20000478"/>
+		</concept>
+		<concept modified="2015-10-28T15:48:00+01:00">
+			<conceptId qcode="dpasubject:519"/>
+			<name xml:lang="en">animal</name>
+			<name xml:lang="de">Tiere</name>
+			<name xml:lang="es">Animales</name>
+			<name xml:lang="ar">حيوان</name>
+			<sameAs qcode="medtop:20000500"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:848"/>
+			<name xml:lang="de">Tischtennis</name>
+			<name dir="rtl" xml:lang="ar">كرة الطاولة</name>
+			<name xml:lang="en">table tennis</name>
+			<sameAs qcode="medtop:20001083"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:573"/>
+			<name xml:lang="de">Tourismus</name>
+			<name xml:lang="en">tourism</name>
+			<name dir="rtl" xml:lang="ar">سياحة</name>
+			<name xml:lang="es">Turismo</name>
+			<sameAs qcode="medtop:20000564"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:404"/>
+			<name xml:lang="de">Transport</name>
+			<name xml:lang="en">transport</name>
+			<name dir="rtl" xml:lang="ar">نقل</name>
+			<name xml:lang="es">Transporte</name>
+			<sameAs qcode="medtop:20000337"/>
+		</concept>
+		<concept modified="2015-10-16T10:19:00+02:00">
+			<conceptId qcode="dpasubject:855"/>
+			<name xml:lang="de">Triathlon</name>
+			<name xml:lang="en">triathlon</name>
+			<name xml:lang="ar">ترياثلون او سباق ثلاثي</name>
+			<name xml:lang="es">Triatlón</name>
+			<sameAs qcode="medtop:20001087"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:774"/>
+			<name xml:lang="es">Gimnasia</name>
+			<name xml:lang="de">Turnen</name>
+			<name dir="rtl" xml:lang="ar">جمباز</name>
+			<name xml:lang="en">gymnastics</name>
+			<sameAs qcode="medtop:20000942"/>
+		</concept>
+		<concept modified="2015-07-21T14:38:00+02:00">
+			<conceptId qcode="dpasubject:259"/>
+			<name xml:lang="en">coup d'etat</name>
+			<name xml:lang="es">Golpe</name>
+			<name xml:lang="de">Umsturz</name>
+			<name xml:lang="ar">ثورة</name>
+			<broader qcode="medtop:16000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:99"/>
+			<name xml:lang="en">environment</name>
+			<name xml:lang="de">Umwelt</name>
+			<name dir="rtl" xml:lang="ar">بيئة</name>
+			<name xml:lang="es">Medio ambiente</name>
+			<sameAs qcode="medtop:06000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:482"/>
+			<name xml:lang="de">Umweltpolitik</name>
+			<name dir="rtl" xml:lang="ar">سياسات بيئية</name>
+			<name xml:lang="en">environmental politics</name>
+			<sameAs qcode="medtop:20000423"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:485"/>
+			<name xml:lang="de">Umweltverschmutzung</name>
+			<name dir="rtl" xml:lang="ar">تلوث بيئي</name>
+			<name xml:lang="en">environmental pollution</name>
+			<sameAs qcode="medtop:20000424"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:176"/>
+			<name xml:lang="de">UN</name>
+			<name xml:lang="es">ONU</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept modified="2015-07-21T14:38:00+02:00">
+			<conceptId qcode="dpasubject:62"/>
+			<name xml:lang="en">accident</name>
+			<name xml:lang="es">Accidentes</name>
+			<name xml:lang="de">Unfälle</name>
+			<name xml:lang="ar">حادث</name>
+			<broader qcode="medtop:03000000"/>
+			<narrower qcode="medtop:20000160"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:177"/>
+			<name xml:lang="de">Unruhen</name>
+			<name xml:lang="en">unrest</name>
+			<name dir="rtl" xml:lang="ar">اضطرابات اهلية</name>
+			<name xml:lang="es">Disturbios</name>
+			<sameAs qcode="medtop:20000065"/>
+		</concept>
+		<concept modified="2015-07-21T14:39:00+02:00">
+			<conceptId qcode="dpasubject:91"/>
+			<name xml:lang="en">entertainment</name>
+			<name xml:lang="de">Unterhaltung</name>
+			<name xml:lang="ar">فنون وتسلية</name>
+			<broader qcode="medtop:20000002"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:419"/>
+			<name xml:lang="es">Empresas</name>
+			<name xml:lang="de">Unternehmen</name>
+			<name dir="rtl" xml:lang="ar">شركات كبيرة</name>
+			<name xml:lang="en">company information</name>
+			<sameAs qcode="medtop:20000349"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:245"/>
+			<name xml:lang="de">Unwetter</name>
+			<name dir="rtl" xml:lang="ar">كارثة تقلبات جوية</name>
+			<name xml:lang="en">meterological disaster</name>
+			<sameAs qcode="medtop:20000157"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:560"/>
+			<name xml:lang="de">Urlaub</name>
+			<name dir="rtl" xml:lang="ar">عطلة</name>
+			<name xml:lang="en">holidays or vacations</name>
+			<sameAs qcode="medtop:20000551"/>
+		</concept>
+		<concept modified="2015-07-06T13:18:00+02:00">
+			<conceptId qcode="dpasubject:63"/>
+			<name xml:lang="en">punishment</name>
+			<name xml:lang="de">Urteile</name>
+			<name xml:lang="ar">عقوبة</name>
+			<broader qcode="medtop:20000111"/>
+			<narrower qcode="medtop:20000134"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:425"/>
+			<name xml:lang="de">Verbraucher</name>
+			<name dir="rtl" xml:lang="ar">قضية مستهلك</name>
+			<name xml:lang="en">consumer issue</name>
+			<sameAs qcode="medtop:20000353"/>
+		</concept>
+		<concept modified="2015-07-21T14:40:00+02:00">
+			<conceptId qcode="dpasubject:424"/>
+			<name xml:lang="en">clubs and associations</name>
+			<name xml:lang="de">Verbände</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:555"/>
+			<name xml:lang="de">Vereine</name>
+			<name dir="rtl" xml:lang="ar">نادي وجمعية</name>
+			<name xml:lang="en">clubs and associations</name>
+			<sameAs qcode="medtop:20000539"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:597"/>
+			<name xml:lang="de">Verfassung</name>
+			<name dir="rtl" xml:lang="ar">دستور</name>
+			<name xml:lang="en">constitution</name>
+			<sameAs qcode="medtop:20000597"/>
+		</concept>
+		<concept modified="2015-07-21T14:41:00+02:00">
+			<conceptId qcode="dpasubject:232"/>
+			<name xml:lang="en">road transport</name>
+			<name xml:lang="de">Verkehr</name>
+			<name xml:lang="ar">نقل طرقي</name>
+			<broader qcode="medtop:04000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:372"/>
+			<name xml:lang="en">book</name>
+			<name dir="rtl" xml:lang="ar">صناعة الكتب</name>
+			<name xml:lang="de">Verlage</name>
+			<sameAs qcode="medtop:20000306"/>
+		</concept>
+		<concept modified="2015-07-21T14:41:00+02:00">
+			<conceptId qcode="dpasubject:392"/>
+			<name xml:lang="en">paper and packaging product</name>
+			<name xml:lang="de">Verpackung</name>
+			<name xml:lang="ar">صناعة الورق والنغليف</name>
+			<broader qcode="medtop:20000326"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:315"/>
+			<name xml:lang="de">Versandhandel</name>
+			<name dir="rtl" xml:lang="ar">شراء بالبريد</name>
+			<name xml:lang="en">mail order</name>
+			<sameAs qcode="medtop:20000250"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:347"/>
+			<name xml:lang="es">Seguros</name>
+			<name xml:lang="de">Versicherungen</name>
+			<name dir="rtl" xml:lang="ar">تأمين</name>
+			<name xml:lang="en">insurance</name>
+			<sameAs qcode="medtop:20000279"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:599"/>
+			<name xml:lang="de">Verteidigung</name>
+			<name xml:lang="en">defence</name>
+			<name dir="rtl" xml:lang="ar">دفاع</name>
+			<name xml:lang="es">Defensa</name>
+			<sameAs qcode="medtop:20000598"/>
+		</concept>
+		<concept modified="2015-07-06T13:25:00+02:00">
+			<conceptId qcode="dpasubject:201"/>
+			<name xml:lang="de">Verwaltung</name>
+			<name xml:lang="ar">ادارة مدنية وعامة</name>
+			<narrower qcode="medtop:20000594"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:416"/>
+			<name xml:lang="de">Volkswirtschaft</name>
+			<name dir="rtl" xml:lang="ar">اقتصادات كلية</name>
+			<name xml:lang="en">macro economics</name>
+			<sameAs qcode="medtop:20000346"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:858"/>
+			<name xml:lang="de">Volleyball</name>
+			<name xml:lang="es">Vóleibol</name>
+			<name dir="rtl" xml:lang="ar">كرة طائرة</name>
+			<name xml:lang="en">volleyball</name>
+			<sameAs qcode="medtop:20001089"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:505"/>
+			<name xml:lang="de">Vorsorge</name>
+			<name dir="rtl" xml:lang="ar">طب وقائي</name>
+			<name xml:lang="en">preventative medicine</name>
+			<sameAs qcode="medtop:20000476"/>
+		</concept>
+		<concept modified="2015-07-21T14:42:00+02:00">
+			<conceptId qcode="dpasubject:247"/>
+			<name xml:lang="es">Volcanes</name>
+			<name xml:lang="en">volcanic eruption</name>
+			<name xml:lang="de">Vulkane</name>
+			<name xml:lang="ar">انفجار بركان</name>
+		</concept>
+		<concept modified="2015-07-06T13:29:00+02:00">
+			<conceptId qcode="dpasubject:604"/>
+			<name xml:lang="es">Armas</name>
+			<name xml:lang="en">firearms</name>
+			<name xml:lang="de">Waffen</name>
+			<name xml:lang="ar">اسلحة</name>
+			<narrower qcode="medtop:20000632"/>
+			<sameAs qcode="medtop:20000602"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:583"/>
+			<name xml:lang="de">Wahlen</name>
+			<name xml:lang="en">elections</name>
+			<name dir="rtl" xml:lang="ar">انتخابات</name>
+			<name xml:lang="es">Elecciones</name>
+			<sameAs qcode="medtop:20000574"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:335"/>
+			<name xml:lang="de">Wasser</name>
+			<name dir="rtl" xml:lang="ar">امدادات المياه</name>
+			<name xml:lang="en">water suplies</name>
+			<sameAs qcode="medtop:20000270"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:860"/>
+			<name xml:lang="de">Wasserball</name>
+			<name dir="rtl" xml:lang="ar">كرة المياه</name>
+			<name xml:lang="en">water polo</name>
+			<sameAs qcode="medtop:20001091"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:862"/>
+			<name xml:lang="de">Wasserski</name>
+			<name dir="rtl" xml:lang="ar">تزلج على المياه</name>
+			<name xml:lang="en">water skiing</name>
+			<sameAs qcode="medtop:20001092"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:463"/>
+			<name xml:lang="de">Weiterbildung</name>
+			<name dir="rtl" xml:lang="ar">تعليم اضافي</name>
+			<name xml:lang="en">further education</name>
+			<sameAs qcode="medtop:20000402"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:842"/>
+			<name xml:lang="es">Surf</name>
+			<name xml:lang="de">Wellenreiten</name>
+			<name dir="rtl" xml:lang="ar">ركوب الامواج</name>
+			<name xml:lang="en">surfing</name>
+			<sameAs qcode="medtop:20001070"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:443"/>
+			<name xml:lang="de">Weltbank</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:444"/>
+			<name xml:lang="de">Welthandel</name>
+			<name dir="rtl" xml:lang="ar">تجارة دولية</name>
+			<name xml:lang="en">international trade</name>
+			<sameAs qcode="medtop:20000373"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:445"/>
+			<name xml:lang="de">Weltwirtschaft</name>
+			<broader qcode="medtop:20000344"/>
+			<narrower qcode="medtop:20000373"/>
+		</concept>
+		<concept modified="2015-10-16T10:55:00+02:00">
+			<conceptId qcode="dpasubject:370"/>
+			<name xml:lang="en">advertising</name>
+			<name xml:lang="de">Werbung</name>
+			<name xml:lang="ar">اعلان</name>
+			<name xml:lang="es">Publicidad</name>
+			<sameAs qcode="medtop:20000305"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:116"/>
+			<name xml:lang="de">Wetter</name>
+			<name dir="rtl" xml:lang="ar">طقس</name>
+			<name xml:lang="en">weather</name>
+			<sameAs qcode="medtop:17000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:65"/>
+			<name xml:lang="de">WEU</name>
+			<broader qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:867"/>
+			<name xml:lang="de">Windsurfen</name>
+			<name dir="rtl" xml:lang="ar">ركمجة</name>
+			<name xml:lang="en">windsurfing</name>
+			<sameAs qcode="medtop:20001097"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:411"/>
+			<name xml:lang="de">Wirtschaft</name>
+			<name xml:lang="en">economy</name>
+			<name dir="rtl" xml:lang="ar">اقتصاد</name>
+			<name xml:lang="es">Economía</name>
+			<sameAs qcode="medtop:20000344"/>
+		</concept>
+		<concept modified="2015-07-21T14:44:00+02:00">
+			<conceptId qcode="dpasubject:340"/>
+			<name xml:lang="en">economic organisation</name>
+			<name xml:lang="de">Wirtschaftsinstitutionen</name>
+			<name xml:lang="ar">مؤسسة اقتصادية دولية</name>
+			<broader qcode="medtop:04000000"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:413"/>
+			<name xml:lang="de">Wirtschaftspolitik</name>
+			<name dir="rtl" xml:lang="ar">سياسة اقتصادية</name>
+			<name xml:lang="en">economic policy</name>
+			<sameAs qcode="medtop:20000345"/>
+		</concept>
+		<concept modified="2015-07-21T14:44:00+02:00">
+			<conceptId qcode="dpasubject:106"/>
+			<name xml:lang="es">Ciencia</name>
+			<name xml:lang="en">science</name>
+			<name xml:lang="de">Wissenschaft</name>
+			<name xml:lang="ar">علوم وتكنولوجيا</name>
+			<broader qcode="medtop:13000000"/>
+		</concept>
+		<concept modified="2015-10-16T10:23:00+02:00">
+			<conceptId qcode="dpasubject:303"/>
+			<name xml:lang="de">Wohnen</name>
+			<name xml:lang="ar">بيت ومسكن</name>
+			<name xml:lang="es">Hogar</name>
+			<broader qcode="medtop:20000239"/>
+			<narrower qcode="medtop:20000570"/>
+		</concept>
+		<concept modified="2015-07-21T14:45:00+02:00">
+			<conceptId qcode="dpasubject:305"/>
+			<name xml:lang="en">housing and urban planning</name>
+			<name xml:lang="de">Wohnungspolitik</name>
+			<name xml:lang="ar">تخطيط الاسكان والمدن</name>
+			<broader qcode="medtop:20000628"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:66"/>
+			<name xml:lang="de">WTO</name>
+			<broader qcode="medtop:20000372"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:429"/>
+			<name xml:lang="es">Divisas</name>
+			<name xml:lang="de">Währung</name>
+			<name dir="rtl" xml:lang="ar">قيمة عملة</name>
+			<name xml:lang="en">currency values</name>
+			<sameAs qcode="medtop:20000355"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:420"/>
+			<name xml:lang="es">Fed</name>
+			<name xml:lang="de">Zentralbanken</name>
+			<name dir="rtl" xml:lang="ar">مصرف مركزي</name>
+			<name xml:lang="en">central bank</name>
+			<sameAs qcode="medtop:20000350"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:441"/>
+			<name xml:lang="es">Tasas</name>
+			<name xml:lang="de">Zinsen</name>
+			<name dir="rtl" xml:lang="ar">معدل الفائدة</name>
+			<name xml:lang="en">interest rate</name>
+			<sameAs qcode="medtop:20000371"/>
+		</concept>
+		<concept modified="2015-07-06T10:14:00+02:00">
+			<conceptId qcode="dpasubject:72"/>
+			<name xml:lang="en">medical staff</name>
+			<name xml:lang="de">Ärzte</name>
+			<name xml:lang="ar">طاقم طبي</name>
+			<broader qcode="medtop:20000492"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-10T13:00:00+02:00" qcode="dpasubject:332"/>
+			<name xml:lang="es">Petróleo</name>
+			<name xml:lang="de">Öl</name>
+			<name xml:lang="en">natural resources</name>
+			<broader qcode="medtop:20000256"/>
+			<narrower qcode="medtop:20000267"/>
+			<narrower qcode="medtop:20000266"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T11:51:00+01:00" qcode="dpasubject:874"/>
+			<name xml:lang="de">Fotografie</name>
+			<name xml:lang="en">photography</name>
+			<name dir="rtl" xml:lang="ar">تصوير فوتوغرافي</name>
+			<name xml:lang="es">Fotografía</name>
+			<sameAs qcode="medtop:20000036"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T11:54:00+01:00" qcode="dpasubject:875"/>
+			<name xml:lang="de">Malerei</name>
+			<name xml:lang="en">painting</name>
+			<name dir="rtl" xml:lang="ar">تصوير</name>
+			<name xml:lang="es">Pintura</name>
+			<sameAs qcode="medtop:20000035"/>
+		</concept>
+		<concept modified="2015-07-21T14:09:00+02:00">
+			<conceptId qcode="dpasubject:876"/>
+			<name xml:lang="en">charity</name>
+			<name xml:lang="de">Karitatives</name>
+			<name xml:lang="ar">عمل خيري</name>
+			<broader qcode="medtop:14000000"/>
+		</concept>
+		<concept modified="2015-07-06T11:48:00+02:00">
+			<conceptId qcode="dpasubject:878"/>
+			<name xml:lang="de">Pornografie</name>
+			<name xml:lang="es">Pornografía</name>
+			<name xml:lang="en">pornography</name>
+			<name xml:lang="ar">اباحة</name>
+			<sameAs qcode="medtop:20000815"/>
+		</concept>
+		<concept modified="2015-07-06T11:47:00+02:00">
+			<conceptId qcode="dpasubject:879"/>
+			<name xml:lang="es">Filosofía</name>
+			<name xml:lang="en">philosophical science</name>
+			<name xml:lang="de">Philosophie</name>
+			<name xml:lang="ar">فلسفة</name>
+			<sameAs qcode="medtop:20000751"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T11:57:00+01:00" qcode="dpasubject:880"/>
+			<name xml:lang="de">Theologie</name>
+		</concept>
+		<concept modified="2015-07-21T14:03:00+02:00">
+			<conceptId qcode="dpasubject:881"/>
+			<name xml:lang="en">computing and information technology</name>
+			<name xml:lang="de">Informationstechnologie</name>
+			<name xml:lang="ar">تكنولوجيا كمبيوتر ومعلوماتية</name>
+			<broader qcode="medtop:20000225"/>
+		</concept>
+		<concept modified="2015-07-06T10:43:00+02:00">
+			<conceptId qcode="dpasubject:882"/>
+			<name xml:lang="de">Familienplanung</name>
+			<name xml:lang="en">family planning</name>
+			<name xml:lang="ar">تنظيم الاسرة</name>
+			<sameAs qcode="medtop:20000784"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T13:51:00+01:00" qcode="dpasubject:883"/>
+			<name xml:lang="de">Feldhockey</name>
+			<name dir="rtl" xml:lang="ar">هوكي</name>
+			<name xml:lang="en">field hockey</name>
+			<sameAs qcode="medtop:20000933"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:08:00+01:00" qcode="dpasubject:884"/>
+			<name xml:lang="de">Casting</name>
+			<name dir="rtl" xml:lang="ar">رمي</name>
+			<name xml:lang="en">casting</name>
+			<sameAs qcode="medtop:20000883"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:08:00+01:00" qcode="dpasubject:885"/>
+			<name xml:lang="de">Crocket</name>
+			<name dir="rtl" xml:lang="ar">كروكيت</name>
+			<name xml:lang="en">croquet</name>
+			<sameAs qcode="medtop:20000889"/>
+		</concept>
+		<concept modified="2015-10-16T10:20:00+02:00">
+			<conceptId qcode="dpasubject:886"/>
+			<name xml:lang="en">cricket</name>
+			<name xml:lang="de">Kricket</name>
+			<name xml:lang="ar">كريكيت</name>
+			<name xml:lang="es">Cricket</name>
+			<sameAs qcode="medtop:20000888"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:14:00+01:00" qcode="dpasubject:887"/>
+			<name xml:lang="de">Bandy</name>
+			<name dir="rtl" xml:lang="ar">باندي</name>
+			<name xml:lang="en">bandy</name>
+			<sameAs qcode="medtop:20000848"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:15:00+01:00" qcode="dpasubject:888"/>
+			<name xml:lang="de">Bowling</name>
+			<name dir="rtl" xml:lang="ar">بولينغ</name>
+			<name xml:lang="en">bowling</name>
+			<sameAs qcode="medtop:20001086"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:15:00+01:00" qcode="dpasubject:889"/>
+			<name xml:lang="de">Turm- und Brettspringen</name>
+			<name dir="rtl" xml:lang="ar">غطس</name>
+			<name xml:lang="en">diving</name>
+			<sameAs qcode="medtop:20000913"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:15:00+01:00" qcode="dpasubject:890"/>
+			<name xml:lang="de">Boule/Pètanque</name>
+			<name dir="rtl" xml:lang="ar">بيتانك</name>
+			<name xml:lang="en">bowls and petanque</name>
+			<sameAs qcode="medtop:20000855"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-01-30T16:16:00+01:00" qcode="dpasubject:891"/>
+			<name xml:lang="de">Pelota/Jai Alai</name>
+			<name dir="rtl" xml:lang="ar">جاي ألاي</name>
+			<name xml:lang="en">Jai Alai (Pelota)</name>
+			<sameAs qcode="medtop:20000968"/>
+		</concept>
+		<concept modified="2015-07-21T14:17:00+02:00">
+			<conceptId qcode="dpasubject:892"/>
+			<name xml:lang="en">aero and aviation sports</name>
+			<name xml:lang="de">Luft- und Flugsport</name>
+			<broader qcode="medtop:15000000"/>
+			<narrower qcode="medtop:20001013"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-03-11T10:25:00+01:00" qcode="dpasubject:442"/>
+			<name xml:lang="de">Sportereignisse</name>
+			<name dir="rtl" xml:lang="ar">حدث رياضي</name>
+			<name xml:lang="en">sports event</name>
+			<sameAs qcode="medtop:20001108"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-03-11T10:28:00+01:00" qcode="dpasubject:448"/>
+			<name xml:lang="es">Hípica</name>
+			<name xml:lang="de">Pferderennen</name>
+			<name dir="rtl" xml:lang="ar">سباق خيول</name>
+			<name xml:lang="en">horse racing </name>
+			<sameAs qcode="medtop:20000960"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-03-11T00:04:00+01:00" qcode="dpasubject:841"/>
+			<name xml:lang="de">Rodeo</name>
+			<name dir="rtl" xml:lang="ar">روديو</name>
+			<name xml:lang="en">rodeo</name>
+			<sameAs qcode="medtop:20001017"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-08-07T13:23:00+02:00" qcode="dpasubject:430"/>
+			<name xml:lang="de">Nachrichtenüberblick</name>
+		</concept>
+		<concept>
+			<conceptId created="2013-08-07T13:24:00+02:00" qcode="dpasubject:432"/>
+			<name xml:lang="es">Previsiones</name>
+			<name xml:lang="en">schedule</name>
+			<name xml:lang="de">Vorschau</name>
+		</concept>
+		<concept modified="2015-07-20T19:09:00+02:00">
+			<conceptId qcode="dpasubject:893"/>
+			<name xml:lang="de">Beach-Volleyball</name>
+			<name xml:lang="ar">كرة طائرة شاطئية</name>
+			<sameAs qcode="medtop:20001090"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-03-17T13:11:00+01:00" qcode="dpasubject:894"/>
+			<name dir="rtl" xml:lang="ar">رمي النبلة</name>
+			<name xml:lang="de">Dart</name>
+			<sameAs qcode="medtop:20000912"/>
+			<broader qcode="dpasubject:109"/>
+		</concept>
+		<concept modified="2015-07-08T16:32:00+02:00">
+			<conceptId qcode="dpasubject:895"/>
+			<name xml:lang="es">Esquí</name>
+			<name xml:lang="de">Ski</name>
+			<name xml:lang="ar">تزلج</name>
+			<sameAs qcode="medtop:20001056"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-03-17T13:15:00+01:00" qcode="dpasubject:896"/>
+			<name xml:lang="es">Fórmula 1</name>
+			<name dir="rtl" xml:lang="ar">فورمولا</name>
+			<name xml:lang="de">Formel 1</name>
+			<broader qcode="dpasubject:796"/>
+			<sameAs qcode="medtop:20000994"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-03-17T13:20:00+01:00" qcode="dpasubject:897"/>
+			<name dir="rtl" xml:lang="ar">كرة اليد</name>
+			<name xml:lang="de">Faustball</name>
+			<sameAs qcode="medtop:20000936"/>
+			<broader qcode="dpasubject:109"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-03-18T11:00:00+01:00" qcode="dpasubject:898"/>
+			<name xml:lang="de">Shorttrack</name>
+			<name dir="rtl" xml:lang="ar">التزحلق السريع على الجليد</name>
+			<name xml:lang="en">shorttrack</name>
+			<sameAs qcode="medtop:20001151"/>
+		</concept>
+		<concept modified="2015-07-22T08:59:00+02:00">
+			<conceptId qcode="dpasubject:900"/>
+			<name xml:lang="es">Ajedrez</name>
+			<name xml:lang="en">chess</name>
+			<name xml:lang="de">Schach</name>
+			<sameAs qcode="medtop:20001154"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T15:38:00+02:00" qcode="dpasubject:901"/>
+			<name xml:lang="es">Sumario</name>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T15:38:00+02:00" qcode="dpasubject:902"/>
+			<name xml:lang="es">Agenda</name>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:20:00+02:00" qcode="dpasubject:903"/>
+			<name xml:lang="es">Escultura</name>
+			<name dir="rtl" xml:lang="ar">نحت</name>
+			<name xml:lang="en">sculpture</name>
+			<sameAs qcode="medtop:20000037"/>
+		</concept>
+		<concept modified="2015-08-06T16:04:00+02:00">
+			<conceptId qcode="dpasubject:904"/>
+			<name xml:lang="en">motor rallying</name>
+			<name xml:lang="es">Rally</name>
+			<narrower qcode="medtop:20001005"/>
+			<narrower qcode="medtop:20000997"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:24:00+02:00" qcode="dpasubject:905"/>
+			<name dir="rtl" xml:lang="ar">تهريب مخدرات</name>
+			<name xml:lang="es">Narcotráfico</name>
+			<sameAs qcode="medtop:20000096"/>
+		</concept>
+		<concept modified="2014-10-20T17:26:00+02:00">
+			<conceptId created="2014-10-20T17:26:00+02:00" qcode="dpasubject:906"/>
+			<name xml:lang="es">Genocidio</name>
+			<name xml:lang="ar">ابادة</name>
+			<sameAs qcode="medtop:20000072"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:27:00+02:00" qcode="dpasubject:907"/>
+			<name dir="rtl" xml:lang="ar">تضخم</name>
+			<name xml:lang="es">Inflación</name>
+			<sameAs qcode="medtop:20000370"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:30:00+02:00" qcode="dpasubject:908"/>
+			<name dir="rtl" xml:lang="ar">معاهدات ومنظمات دولية</name>
+			<name xml:lang="es">Organismos internacionales</name>
+			<sameAs qcode="medtop:20000644"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:32:00+02:00" qcode="dpasubject:909"/>
+			<name dir="rtl" xml:lang="ar">فساد</name>
+			<name xml:lang="es">Corrupción</name>
+			<sameAs qcode="medtop:20000093"/>
+		</concept>
+		
+		<concept>
+			<conceptId created="2014-10-20T17:36:00+02:00" qcode="dpasubject:911"/>
+			<name dir="rtl" xml:lang="ar">اسلام</name>
+			<name xml:lang="es">Islam</name>
+			<sameAs qcode="medtop:20000677"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:37:00+02:00" qcode="dpasubject:912"/>
+			<name dir="rtl" xml:lang="ar">فلك</name>
+			<name xml:lang="es">Astronomía</name>
+			<sameAs qcode="medtop:20000718"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:39:00+02:00" qcode="dpasubject:913"/>
+			<name dir="rtl" xml:lang="ar">علم الاحياء</name>
+			<name xml:lang="es">Biología</name>
+			<sameAs qcode="medtop:20000719"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:40:00+02:00" qcode="dpasubject:914"/>
+			<name dir="rtl" xml:lang="ar">فيزياء</name>
+			<name xml:lang="es">Física</name>
+			<sameAs qcode="medtop:20000731"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:41:00+02:00" qcode="dpasubject:915"/>
+			<name dir="rtl" xml:lang="ar">علم المتحجرات</name>
+			<name xml:lang="es">Paleontología</name>
+			<sameAs qcode="medtop:20000722"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:43:00+02:00" qcode="dpasubject:916"/>
+			<name xml:lang="es">Indígenas</name>
+			<name dir="rtl" xml:lang="ar">سكان اصليون</name>
+			<name xml:lang="en">indigenous people</name>
+			<sameAs qcode="medtop:20000629"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-20T17:51:00+02:00" qcode="dpasubject:917"/>
+			<name xml:lang="es">Organización deportiva</name>
+			<name dir="rtl" xml:lang="ar">منظمة رياضية</name>
+			<name xml:lang="en">sports organisations</name>
+			<sameAs qcode="medtop:20001125"/>
+		</concept>
+		<concept modified="2015-08-06T15:51:00+02:00">
+			<conceptId qcode="dpasubject:918"/>
+			<name xml:lang="en">climbing</name>
+			<name xml:lang="es">Montañismo</name>
+			<name xml:lang="ar">تسلق الجبال</name>
+			<broader qcode="medtop:20000886"/>
+			<narrower qcode="medtop:20000887"/>
+			<sameAs qcode="medtop:20000884"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-27T10:09:00+01:00" qcode="dpasubject:919"/>
+			<name xml:lang="es">Matanza</name>
+			<name dir="rtl" xml:lang="ar">مجزرة</name>
+			<name xml:lang="en">massacre</name>
+			<sameAs qcode="medtop:20000071"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-10-27T10:20:00+01:00" qcode="dpasubject:921"/>
+			<name xml:lang="es">Náutica</name>
+			<narrower qcode="medtop:20001016"/>
+		</concept>
+		<concept modified="2015-08-06T15:59:00+02:00">
+			<conceptId qcode="dpasubject:922"/>
+			<name xml:lang="es">Motociclismo</name>
+			<name xml:lang="ar">شغف بالدراجات النارية</name>
+			<sameAs qcode="medtop:20000998"/>
+		</concept>
+		
+		
+		<concept>
+			<conceptId created="2014-12-09T11:54:00+01:00" qcode="dpasubject:924"/>
+			<name xml:lang="en">business</name>
+			<sameAs qcode="medtop:20000170"/>
+		</concept>
+		
+		<concept modified="2015-08-06T15:55:00+02:00">
+			<conceptId qcode="dpasubject:925"/>
+			<name xml:lang="en">freestyle skiing</name>
+			<broader qcode="medtop:20001056"/>
+			<sameAs qcode="medtop:20001058"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-12-12T16:12:00+01:00" qcode="dpasubject:926"/>
+			<name xml:lang="en">advisory</name>
+		</concept>
+		
+		<concept modified="2015-08-06T15:53:00+02:00">
+			<conceptId qcode="dpasubject:927"/>
+			<name xml:lang="es">Desarrollo</name>
+			<broader qcode="medtop:20000208"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-12-15T11:04:00+01:00" qcode="dpasubject:928"/>
+			<name xml:lang="en-GB">football</name>
+			<sameAs qcode="dpasubject:832"/>
+		</concept>
+		<concept>
+			<conceptId created="2015-01-19T10:52:00+01:00" qcode="dpasubject:929"/>
+			<name xml:lang="es">Crimen organizado</name>
+			<sameAs qcode="medtop:20000101"/>
+		</concept>
+		
+		<concept modified="2015-10-16T00:43:00+02:00">
+			<conceptId qcode="dpasubject:930"/>
+			<name xml:lang="es">Inversiónes</name>
+			<sameAs qcode="medtop:20000378"/>
+		</concept>
+		
+		<concept modified="2015-10-16T00:44:00+02:00">
+			<conceptId created="2015-10-16T00:44:00+02:00" qcode="dpasubject:931"/>
+			<name xml:lang="es">Psicología</name>
+			<sameAs qcode="medtop:20000753"/>
+		</concept>
+		<concept modified="2015-10-16T00:50:00+02:00">
+			<conceptId qcode="dpasubject:932"/>
+			<name xml:lang="es">Horticultura</name>
+			<sameAs qcode="medtop:20000728"/>
+		</concept>
+		<concept modified="2015-10-28T15:37:00+01:00">
+			<conceptId created="2015-10-28T15:37:00+01:00" qcode="dpasubject:933"/>
+			<name xml:lang="es">Niños</name>
+			<sameAs qcode="medtop:20000790"/>
+		</concept>
+		<concept modified="2015-10-28T15:50:00+01:00">
+			<conceptId created="2015-10-28T15:50:00+01:00" qcode="dpasubject:934"/>
+			<name xml:lang="es">Zoología</name>
+			<sameAs qcode="medtop:20000724"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpasubject" uri="http://g2.dpa.com/cv/subject/">
+		<definition>TODO</definition>
+		<name>dpasubject</name>
+	</schemeMeta>
+</knowledgeItem>

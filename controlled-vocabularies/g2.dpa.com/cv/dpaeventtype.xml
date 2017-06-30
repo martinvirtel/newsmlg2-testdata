@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- +++++++++++++++++++++++++++++++++ 
+     +++ $LastChangedDate: 2012-05-22 11:46:00 +0200 (Di, 22 Mai 2012) $ 
+     +++ $LastChangedRevision: 5033 $ 
+     +++ $LastChangedBy: Rathje.Kalle $ 
+     +++++++++++++++++++++++++++++++++ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:eventtype" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-06-18T14:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Termintypen</title>
+		<edNote>Diese Termin Typen werden z. Zt. in Plato von dpa-AFX verwendet und an die Kunden ausgeliefgert.</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>dpa event type</headline>
+	</contentMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaeventtype:1"/>
+			<name role="nrol:full">Q1-Zahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:2"/>
+			<name role="nrol:full">Q2-Zahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:3"/>
+			<name role="nrol:full">Q3-Zahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:4"/>
+			<name role="nrol:full">Q4-Zahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:5"/>
+			<name role="nrol:full">Halbjahreszahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:6"/>
+			<name role="nrol:full">Neunmonatszahlen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:7"/>
+			<name role="nrol:full">Bilanz-Pk</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:8"/>
+			<name role="nrol:full">Herbst-Pk</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:9"/>
+			<name role="nrol:full">Hauptversammlung</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:10"/>
+			<name role="nrol:full">Telefon-Pk</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:11"/>
+			<name role="nrol:full">Q1-Umsatz/Q2-Umsatz</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaeventtype:12"/>
+			<name role="nrol:full">Q3-Umsatz/Q4-Umsatz</name>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpaeventtype" uri="http://g2.dpa.com/cv/dpaeventtype/"><definition>TODO</definition><name>dpaeventtype</name></schemeMeta></knowledgeItem>

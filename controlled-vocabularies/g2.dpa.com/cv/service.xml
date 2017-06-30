@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:service" standard="NewsML-G2" standardversion="2.12" version="22" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2016-02-19T11:43:31+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:b2b"/>
+			<name role="nrol:full">B2B-Portal</name>
+			<name role="nrol:mnemonic">b2b</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvbdt">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bdt"/>
+			<name role="nrol:mnemonic">bdt</name>
+			<name role="nrol:full">Basisdienst</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2015-12-11T13:00:00+01:00" qcode="dpasrv:spe"/>
+			<name role="nrol:mnemonic">spe</name>
+			<name role="nrol:full">Sport Ergebnisdienst</name>
+			<broader qcode="dpaagenturzeichen:dpa-spe"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2016-08-11T13:00:00+02:00" qcode="dpasrv:apwire"/>
+			<name role="nrol:mnemonic">apwire</name>
+			<name role="nrol:full">Original AP Wire</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrveca">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:eca"/>
+			<name role="nrol:mnemonic">eca</name>
+			<name role="nrol:full">Englischer Dienst</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<note xml:lang="en">This service contains text message in English language only</note>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:ldi"/>
+			<name role="nrol:mnemonic">ldi</name>
+			<name role="nrol:full">Spanischer Dienst</name>
+			<name xml:lang="es" role="nrol:display">dpa internacional</name>
+			<note xml:lang="en">This service contains text message in Spanish language only</note>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrverd">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:erd"/>
+			<name role="nrol:mnemonic">erd</name>
+			<name role="nrol:full">Europadienst</name>
+			<name xml:lang="de" role="nrol:display">dpa-Europadienst</name>
+			<broader qcode="dpaagenturzeichen:dpa-euro"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:fbi"/>
+			<name role="nrol:full">Zentrale Bilderdienst</name>
+			<name role="nrol:mnemonic">fbi</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:GTK"/>
+			<name role="nrol:full">Gedenktagekalender</name>
+			<name role="nrol:mnemonic">GTK</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:JVO"/>
+			<name role="nrol:full">Jahresterminvorschau</name>
+			<name role="nrol:mnemonic">JVO</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lah" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lah</name>
+			<name role="nrol:full">Landesdienst Sachsen-Anhalt</name>
+			<sameAs qcode="dpasrv:aht"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lbn" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lbn</name>
+			<name role="nrol:full">Landesdienst Berlin/Brandenburg</name>
+			<sameAs qcode="dpasrv:brb"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lby" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lby</name>
+			<name role="nrol:full">Landesdienst Bayern</name>
+			<sameAs qcode="dpasrv:bay"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lhe" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lhe</name>
+			<name role="nrol:full">Landesdienst Hessen</name>
+			<sameAs qcode="dpasrv:hes"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lmv" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lmv</name>
+			<name role="nrol:full">Landesdienst Mecklenburg-Vorpommern</name>
+			<sameAs qcode="dpasrv:mbv"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lni" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lni</name>
+			<name role="nrol:full">Landesdienst Niedersachsen/Bremen</name>
+			<sameAs qcode="dpasrv:nsb"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lno" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lno</name>
+			<name role="nrol:full">Landesdienst Nord</name>
+			<sameAs qcode="dpasrv:hsh"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lnw" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lnw</name>
+			<name role="nrol:full">Landesdienst Nordrhein-Westfalen</name>
+			<sameAs qcode="dpasrv:nwf"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lrs" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lrs</name>
+			<name role="nrol:full">Landesdienst Rheinland-Pfalz/Saarland</name>
+			<sameAs qcode="dpasrv:rhs"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lsn" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lsn</name>
+			<name role="nrol:full">Landesdienst Sachsen</name>
+			<sameAs qcode="dpasrv:san"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lsu" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lsu</name>
+			<name role="nrol:full">Landesdienste Südost</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lsw" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lsw</name>
+			<name role="nrol:full">Landesdienst Baden-Württemberg</name>
+			<sameAs qcode="dpasrv:bwg"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:lth" retired="2014-03-31T13:00:00+02:00"/>
+			<name role="nrol:mnemonic">lth</name>
+			<name role="nrol:full">Landesdienst Thüringen</name>
+			<sameAs qcode="dpasrv:thg"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:MCH"/>
+			<name role="nrol:full">Monatschronik</name>
+			<name role="nrol:mnemonic">MCH</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:ndk"/>
+			<name role="nrol:full">Nachrichtendienst Kinder</name>
+			<name role="nrol:mnemonic">ndk</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpaagenturzeichen:dpa-knd"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:rdt"/>
+			<name role="nrol:full">Reportagedienst</name>
+			<name role="nrol:mnemonic">rdt</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:tvo"/>
+			<name role="nrol:full">Tagesvorschau</name>
+			<name role="nrol:mnemonic">tvo</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wvo"/>
+			<name role="nrol:mnemonic">wvo</name>
+			<name role="nrol:full">Wochenvorschau</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:4wvo"/>
+			<name role="nrol:full">Vierwochenvorschau</name>
+			<name role="nrol:mnemonic">4wvo</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:event"/>
+			<name role="nrol:mnemonic">event</name>
+			<name role="nrol:full">EventData</name>
+			<definition>ToDo</definition>
+			<related qcode="cpnat:event"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bbasis"/>
+			<name role="nrol:mnemonic">bbasis</name>
+			<name role="nrol:full">dpa Bildfunk</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bkind"/>
+			<name role="nrol:full">Bildfunk Kinder</name>
+			<name role="nrol:mnemonic">bkind</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bobs"/>
+			<name role="nrol:full">Original Bilder Service</name>
+			<name role="nrol:mnemonic">obs</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept id="dpasrvbmag">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bmag"/>
+			<name role="nrol:full">Magazin</name>
+			<name role="nrol:mnemonic">mag</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:btmn"/>
+			<name role="nrol:mnemonic">btmn</name>
+			<name role="nrol:full">Themendienst Bild</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept id="dpasrvbzbreg">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bzbreg"/>
+			<name role="nrol:full">ZB-Regio</name>
+			<name role="nrol:mnemonic">bzbreg</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:barch"/>
+			<name role="nrol:full">Report</name>
+			<name role="nrol:mnemonic">report</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bepai"/>
+			<name role="nrol:mnemonic">epa-i</name>
+			<name role="nrol:full">epa-i</name>
+			<definition>Dieser Dienst umfasst das Material, das die dpa für den epa Dienst bereitstellt.</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bdpai"/>
+			<name role="nrol:full">dpa-i</name>
+			<name role="nrol:mnemonic">dpa-i</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bb2btop100"/>
+			<name role="nrol:mnemonic">bb2btop100</name>
+			<name role="nrol:full">B2B Top 100 Bilder</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:blatam" retired="2016-03-23T10:00:00+01:00"/>
+			<name role="nrol:mnemonic">latam</name>
+			<name role="nrol:full">dpa Lateinamerika Bilderdienst</name>
+			<name role="nrol:full" xml:lang="es">dpa Fotografia</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2011-12-15T13:00:00+01:00" qcode="dpasrv:bweblines" retired="2016-08-18T11:00:00+02:00"/>
+			<name role="nrol:full">infocom WebLines</name>
+			<name role="nrol:mnemonic">weblines</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:anstueck"/>
+			<name role="nrol:full">dpa Rufa Nachrichtenstück</name>
+			<name role="nrol:mnemonic">n-stueck</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:aoton"/>
+			<name role="nrol:mnemonic">o-ton</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:atalk"/>
+			<name role="nrol:mnemonic">talk_interview</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:abunt"/>
+			<name role="nrol:mnemonic">bunt</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:anachrichten_lang"/>
+			<name role="nrol:mnemonic">nachrichten_lang</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:anachrichten_kurz"/>
+			<name role="nrol:mnemonic">nachrichten_kurz</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:akinder"/>
+			<name role="nrol:mnemonic">audiokinder</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-04-26T14:00:00+02:00" qcode="dpasrv:aors"/>
+			<name role="nrol:mnemonic">ors</name>
+			<related qcode="ninat:audio"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-30T14:00:00+02:00" qcode="dpasrv:weblines"/>
+			<name role="nrol:full">weblines</name>
+			<name role="nrol:short nrol:display">Weblines</name>
+			<name role="nrol:mnemonic">weblines</name>
+			<name role="dpanrol:gui">web</name>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:graphic"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:dpa-portal"/>
+			<name role="nrol:full">dpa-portal</name>
+			<name role="nrol:short nrol:display">dpa-portal</name>
+			<name role="nrol:mnemonic">dpa-portal</name>
+			<definition>Oberprodukt aller Produkte, die auf dem Onlineportal der dpa dargestellt werden sollen</definition>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:audio"/>
+			<related qcode="ninat:video"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:infoline"/>
+			<name role="nrol:display nrol:short">InfoLine</name>
+			<name role="nrol:full">dpa-infocom InfoLine</name>
+			<name role="nrol:mnemonic">infoline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:infoline_rs"/>
+			<name role="nrol:display nrol:short">InfoLine_rs</name>
+			<name role="nrol:mnemonic">infoline_rs</name>
+			<name role="nrol:full">dpa-infocom InfoLine_rs</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2015-03-02T14:00:00+02:00" qcode="dpasrv:infoline_inland"/>
+			<name role="nrol:display nrol:short">InfoLine_Inland</name>
+			<name role="nrol:mnemonic">infoline_Inland</name>
+			<name role="nrol:full">dpa-infocom InfoLine_Inland</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:starline"/>
+			<name role="nrol:full">dpa-infocom StarLine</name>
+			<name role="nrol:mnemonic">starline</name>
+			<name role="nrol:short nrol:display">StarLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:sportsline"/>
+			<name role="nrol:mnemonic">sportsline</name>
+			<name role="nrol:short nrol:display">SportsLine</name>
+			<name role="nrol:full">dpa-infocom SportsLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:juniorline"/>
+			<name role="nrol:mnemonic">juniorline</name>
+			<name role="nrol:full">dpa-infocom JuniorLine</name>
+			<name role="nrol:short nrol:display">JuniorLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:graphic"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:mobilesms"/>
+			<name role="nrol:mnemonic">mobilesms</name>
+			<name role="nrol:full">dpa-infocom Mobil</name>
+			<name role="nrol:short nrol:display">Mobil</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:newsscreen"/>
+			<name role="nrol:full">dpa-infocom NewsScreen</name>
+			<name role="nrol:mnemonic">newsscreen</name>
+			<name role="nrol:display nrol:short">NewsScreen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:regiolinebayern"/>
+			<name role="nrol:full">dpa-infocom RegioLine Bayern</name>
+			<name role="nrol:mnemonic">bayern</name>
+			<name role="nrol:display nrol:short">Bayern</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:regiolinegeo"/>
+			<name role="nrol:full">dpa-infocom RegioLineGeo</name>
+			<name role="nrol:mnemonic">regiolinegeo</name>
+			<name role="nrol:display nrol:short">RegioLineGeo</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-04-26T14:00:00+02:00" qcode="dpasrv:regiolinecities"/>
+			<name role="nrol:full">dpa-infocom RegioLineCities</name>
+			<name role="nrol:short nrol:display">RegioLineCities</name>
+			<name role="nrol:mnemonic">regiolinecities</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-06-07T14:00:00+02:00" qcode="dpasrv:serviceline"/>
+			<name role="nrol:full">dpa-infocom ServiceLine</name>
+			<name role="nrol:mnemonic">serviceline</name>
+			<name role="nrol:display nrol:short">ServiceLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvafx">
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:afx"/>
+			<name role="nrol:mnemonic">afx</name>
+			<name role="nrol:display nrol:short">AFX</name>
+			<name role="nrol:full">dpa-AFX</name>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:afxline"/>
+			<name role="nrol:full">dpa-infocom dpa-AFXLine</name>
+			<name role="nrol:short nrol:display">AFXLine</name>
+			<name role="nrol:mnemonic">afxline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:avis"/>
+			<name role="nrol:mnemonic">avis</name>
+			<name role="nrol:short nrol:display">Avis</name>
+			<name role="nrol:full">dpa-infocom Avis</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinebwg"/>
+			<name role="nrol:short nrol:display">Badenwuerttemberg</name>
+			<name role="nrol:full">dpa-infocom RegioLine Baden-Wuerttemberg</name>
+			<name role="nrol:mnemonic">badenwuerttemberg</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinebrb"/>
+			<name role="nrol:full">dpa-infocom RegioLine Berlin/Brandenburg</name>
+			<name role="nrol:mnemonic">berlinbrandenburg</name>
+			<name role="nrol:display nrol:short">BerlinBrandenburg</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinehsh"/>
+			<name role="nrol:mnemonic">hamburgschleswigholstein</name>
+			<name role="nrol:full">dpa-infocom RegioLine Hamburg/Schleswig-Holstein</name>
+			<name role="nrol:display nrol:short">HamburgSchleswigHolstein</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinehes"/>
+			<name role="nrol:mnemonic">hessen</name>
+			<name role="nrol:full">dpa-infocom RegioLine Hessen</name>
+			<name role="nrol:short nrol:display">Hessen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinembv"/>
+			<name role="nrol:short nrol:display">MecklenburgVorpommern</name>
+			<name role="nrol:full">dpa-infocom RegioLine Mecklenburg-Vorpommern</name>
+			<name role="nrol:mnemonic">mecklenburgvorpommern</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinensb"/>
+			<name role="nrol:full">dpa-infocom RegioLine Niedersachsen</name>
+			<name role="nrol:mnemonic">niedersachsen</name>
+			<name role="nrol:short nrol:display">Niedersachsen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinenwf"/>
+			<name role="nrol:full">dpa-infocom RegioLine Nordrhein-Westfalen</name>
+			<name role="nrol:mnemonic">nordrheinwestfalen</name>
+			<name role="nrol:display nrol:short">NordrheinWestfalen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinerhs"/>
+			<name role="nrol:full">dpa-infocom RegioLine Rheinland-Pfalz/Saarland</name>
+			<name role="nrol:mnemonic">rheinlandpfalzsaarland</name>
+			<name role="nrol:display nrol:short">RheinlandpfalzSaarland</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinesan"/>
+			<name role="nrol:full">dpa-infocom RegioLine Sachsen</name>
+			<name role="nrol:short nrol:display">Sachsen</name>
+			<name role="nrol:mnemonic">sachsen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolineaht"/>
+			<name role="nrol:short nrol:display">Sachsenanhalt</name>
+			<name role="nrol:full">dpa-infocom RegioLine Sachsen-Anhalt</name>
+			<name role="nrol:mnemonic">sachsenanhalt</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:regiolinethg"/>
+			<name role="nrol:mnemonic">thueringen</name>
+			<name role="nrol:full">dpa-infocom RegioLine Thueringen</name>
+			<name role="nrol:display nrol:short">Thueringen</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:handelsblatt"/>
+			<name role="nrol:display nrol:short">Handelsblatt</name>
+			<name role="nrol:mnemonic">handelsblatt</name>
+			<name role="nrol:full">dpa-infocom Handelsblatt</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:hitradio"/>
+			<name role="nrol:full">dpa-infocom HitRadio</name>
+			<name role="nrol:mnemonic">hitradio</name>
+			<name role="nrol:short nrol:display">HitRadio</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:msn"/>
+			<name role="nrol:mnemonic">msn</name>
+			<name role="nrol:full">dpa-infocom MSN</name>
+			<name role="nrol:display nrol:short">MSN</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:mobileweb"/>
+			<name role="nrol:display nrol:short">MobileWeb</name>
+			<name role="nrol:mnemonic">mobileweb</name>
+			<name role="nrol:full">dpa-infocom MobileWeb</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:ntv"/>
+			<name role="nrol:full">dpa-infocom ntv</name>
+			<name role="nrol:display nrol:short">Ntv</name>
+			<name role="nrol:mnemonic">ntv</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T13:00:00+02:00" qcode="dpasrv:tcom"/>
+			<name role="nrol:full">dpa-infocom TCom</name>
+			<name role="nrol:display nrol:short">Tcom</name>
+			<name role="nrol:mnemonic">tcom</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2012-10-15T15:21:00+02:00" qcode="dpasrv:dtag"/>
+			<name role="nrol:short">DTAG</name>
+			<name role="nrol:mnemonic">dtag</name>
+			<name role="nrol:full">dpa-infocom DTAG</name>
+			<broader qcode="dpasrv:weblines"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-04-02T15:35:00+02:00" qcode="dpasrv:bzv_myline"/>
+			<name role="nrol:full">dpa-infocom bzv_myline</name>
+			<name role="nrol:short">bzv_myline</name>
+			<name role="nrol:mnemonic">bzv_myline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-06-28T10:11:00+02:00" qcode="dpasrv:waz_myline"/>
+			<name role="nrol:mnemonic">waz_myline</name>
+			<name role="nrol:full">dpa-infocom waz_myline</name>
+			<name role="nrol:short nrol:display">waz_myline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-06-28T10:15:00+02:00" qcode="dpasrv:zgt_myline"/>
+			<name role="nrol:full">dpa-infocom zgt_myline</name>
+			<name role="nrol:mnemonic">zgt_myline</name>
+			<name role="nrol:short nrol:display">zgt_myline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvbid">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bid"/>
+			<name role="nrol:mnemonic">bid</name>
+			<name role="nrol:full">Basisdienst Inland</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvhfk">
+			<conceptId qcode="dpasrv:hfk"/>
+			<name role="nrol:full">Kurznachrichtendienst</name>
+			<name role="nrol:mnemonic">hfk</name>
+			<broader qcode="dpaagenturzeichen:dpa-kurz"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:hsd"/>
+			<name role="nrol:mnemonic">hsd</name>
+			<name role="nrol:full">Hauptstadtdienst</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:fsh"/>
+			<name role="nrol:mnemonic">fsh</name>
+			<name role="nrol:full">Flashdienst</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvkom">
+			<conceptId qcode="dpasrv:kom"/>
+			<name role="nrol:full">Vorschau Audiodienst</name>
+			<name role="nrol:mnemonic">kom</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:mag"/>
+			<name role="nrol:full">dpa Themendienst Magazin</name>
+			<name role="nrol:mnemonic">mag</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpaagenturzeichen:azin"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:tmn"/>
+			<name role="nrol:full">dpa Themendienst</name>
+			<name role="nrol:mnemonic">tmn</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpaagenturzeichen:dpa-tmn"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:tad"/>
+			<name role="nrol:full">dpa Tabellendienst</name>
+			<name role="nrol:mnemonic">tad</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:biog"/>
+			<name role="nrol:full">Leichenspeicher</name>
+			<name role="nrol:mnemonic">biog</name>
+			<broader qcode="dpaagenturzeichen:dpa-biog"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2013-12-11T12:25:00+01:00" qcode="dpasrv:teletext"/>
+			<name role="nrol:mnemonic">teletext</name>
+			<name role="nrol:short">Teletext</name>
+			<name role="nrol:full">dpa-infocom Teletext</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvmbv">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:mbv"/>
+			<name role="nrol:full">Landesdienst Mecklenburg-Vorpommern</name>
+			<name role="nrol:mnemonic">mbv</name>
+			<broader qcode="dpaagenturzeichen:lmv"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvbwg">
+			<conceptId qcode="dpasrv:bwg"/>
+			<name role="nrol:mnemonic">bwg</name>
+			<name role="nrol:full">Landesdienst Baden-Württemberg</name>
+			<broader qcode="dpaagenturzeichen:lsw"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvhes">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:hes"/>
+			<name role="nrol:mnemonic">hes</name>
+			<name role="nrol:full">Landesdienst Hessen</name>
+			<broader qcode="dpaagenturzeichen:lhe"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvbay">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:bay"/>
+			<name role="nrol:mnemonic">bay</name>
+			<name role="nrol:full">Landesdienst Bayern</name>
+			<broader qcode="dpaagenturzeichen:lby"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvbrb">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:brb"/>
+			<name role="nrol:full">Landesdienst Berlin/Brandenburg</name>
+			<name role="nrol:mnemonic">brb</name>
+			<broader qcode="dpaagenturzeichen:lbn"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvnsb">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:nsb"/>
+			<name role="nrol:mnemonic">nsb</name>
+			<name role="nrol:full">Landesdienst Niedersachsen/Bremen</name>
+			<broader qcode="dpaagenturzeichen:lni"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvnwf">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:nwf"/>
+			<name role="nrol:full">Landesdienst Nordrhein-Westfalen</name>
+			<name role="nrol:mnemonic">nwf</name>
+			<broader qcode="dpaagenturzeichen:lnw"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvhsh">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:hsh"/>
+			<name role="nrol:full">Landesdienst Hamburg/Schleswig-Holstein</name>
+			<name role="nrol:mnemonic">hsh</name>
+			<broader qcode="dpaagenturzeichen:lno"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvrhs">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:rhs"/>
+			<name role="nrol:full">Landesdienst Rheinland-Pfalz/Saarland</name>
+			<name role="nrol:mnemonic">rhs</name>
+			<broader qcode="dpaagenturzeichen:lrs"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvsan">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:san"/>
+			<name role="nrol:mnemonic">san</name>
+			<name role="nrol:full">Landesdienst Sachsen</name>
+			<broader qcode="dpaagenturzeichen:lsn"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvaht">
+			<conceptId qcode="dpasrv:aht"/>
+			<name role="nrol:full">Landesdienst Sachsen-Anhalt</name>
+			<name role="nrol:mnemonic">aht</name>
+			<broader qcode="dpaagenturzeichen:lah"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvthg">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:thg"/>
+			<name role="nrol:full">Landesdienst Thüringen</name>
+			<name role="nrol:mnemonic">thg</name>
+			<broader qcode="dpaagenturzeichen:lth"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-aht">
+			<conceptId qcode="dpasrv:wap-aht"/>
+			<name role="nrol:full">RegioLine Sachsen-Anhalt</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lah"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-san">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-san"/>
+			<name role="nrol:mnemonic">wap</name>
+			<name role="nrol:full">RegioLine Sachsen</name>
+			<broader qcode="dpaagenturzeichen:lsn"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-rhs">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-rhs"/>
+			<name role="nrol:full">RegioLine Rheinland-Pfalz/Saarland</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lrs"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-hsh">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-hsh"/>
+			<name role="nrol:full">RegioLine Hamburg / Schleswig-Holstein</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lno"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-nsb">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-nsb"/>
+			<name role="nrol:mnemonic">wap</name>
+			<name role="nrol:full">RegioLine Niedersachsen/Bremen</name>
+			<broader qcode="dpaagenturzeichen:lni"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-hes">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-hes"/>
+			<name role="nrol:mnemonic">wap</name>
+			<name role="nrol:full">RegioLine Hessen</name>
+			<broader qcode="dpaagenturzeichen:lhe"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-brb">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-brb"/>
+			<name role="nrol:full">RegioLine Berlin/Brandenburg</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lbn"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-mbv">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-mbv"/>
+			<name role="nrol:full">RegioLine Mecklenburg-Vorpommern</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lmv"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-thg">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-thg"/>
+			<name role="nrol:full">RegioLine Thüringen</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lth"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-bwg">
+			<conceptId qcode="dpasrv:wap-bwg"/>
+			<name role="nrol:mnemonic">wap</name>
+			<name role="nrol:full">RegioLine Baden-Württemberg</name>
+			<broader qcode="dpaagenturzeichen:lsw"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-nwf">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-nwf"/>
+			<name role="nrol:full">RegioLine Nordrhein-Westfalen</name>
+			<name role="nrol:mnemonic">wap</name>
+			<broader qcode="dpaagenturzeichen:lnw"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvwap-bay">
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:wap-bay"/>
+			<name role="nrol:mnemonic">wap</name>
+			<name role="nrol:full">RegioLine Bayern</name>
+			<broader qcode="dpaagenturzeichen:lby"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:edi"/>
+			<name role="nrol:mnemonic">edi</name>
+			<name role="nrol:full">Europadienst auf AFP ECS uplink</name>
+			<broader qcode="dpaagenturzeichen:dpa-euro-term"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:edt"/>
+			<name role="nrol:mnemonic">edt</name>
+			<name role="nrol:full">Europadienst für AFP</name>
+			<name xml:lang="de" role="nrol:display">dpa-Europadienst</name>
+			<broader qcode="dpaagenturzeichen:dpa-euro-term"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature"/>
+			<name role="nrol:full">dpa Featuredienste</name>
+			<name role="nrol:mnemonic">feature</name>
+			<definition>Feature Dienste im Allgemeinen. Umfasst Text und Bild</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-ar"/>
+			<name role="nrol:full">Featuredienst Arabisch</name>
+			<name role="nrol:mnemonic">feature-ar</name>
+			<name xml:lang="en" role="nrol:display">dpa features</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-en"/>
+			<name role="nrol:full">Featuredienst Englisch</name>
+			<name xml:lang="en" role="nrol:display">dpa features</name>
+			<name role="nrol:mnemonic">feature-en</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-es"/>
+			<name role="nrol:full">Featuredienst Spanisch</name>
+			<name role="nrol:mnemonic">feature-es</name>
+			<name xml:lang="es" role="nrol:display">dpa reportajes</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2016-04-08T13:00:00+01:00" qcode="dpasrv:feature-sports-ar"/>
+			<name role="nrol:full">Featuredienst Sportpakete Arabisch</name>
+			<name role="nrol:mnemonic">feature-sports-ar</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-child-ar"/>
+			<name role="nrol:full">Featuredienst Kinder Arabisch</name>
+			<name role="nrol:mnemonic">feature-child-ar</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-child-es"/>
+			<name role="nrol:full">Featuredienst Kinder Spanisch</name>
+			<name role="nrol:mnemonic">feature-child-es</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-consumer-ar"/>
+			<name role="nrol:full">Featuredienst Verbraucher Arabisch</name>
+			<name role="nrol:mnemonic">feature-consumer-ar</name>
+			<name xml:lang="en" role="nrol:display">dpa consumer news</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-special-es-auto"/>
+			<name role="nrol:full">Featurespezial Automation Spanisch</name>
+			<name role="nrol:mnemonic">feature-special-es-auto</name>
+			<name xml:lang="es" role="nrol:display">dpa servicio al consumidor: autos</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-special-es-tourism"/>
+			<name role="nrol:full">Featurespezial Tourismus Spanisch</name>
+			<name role="nrol:mnemonic">feature-special-es-tourism</name>
+			<name xml:lang="es" role="nrol:display">dpa servicio al consumidor: turismo</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-special-es-trend"/>
+			<name role="nrol:full">Featurespezial Trends Spanisch</name>
+			<name role="nrol:mnemonic">feature-special-es-trend</name>
+			<name xml:lang="es" role="nrol:display">dpa servicio al consumidor: tendencias</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2010-02-11T13:00:00+01:00" qcode="dpasrv:feature-special-es-tech"/>
+			<name role="nrol:full">Featurespezial Technik Spanisch</name>
+			<name role="nrol:mnemonic">feature-special-es-tech</name>
+			<name xml:lang="es" role="nrol:display">dpa servicio al consumidor: tecnología</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:feature"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvapx">
+			<conceptId created="2013-09-30T14:00:00+02:00" qcode="dpasrv:apx"/>
+			<name role="nrol:full">AP Weltnachrichten</name>
+			<name role="nrol:mnemonic">apx</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpaagenturzeichen:ap"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvdpa-News-Exklusiv">
+			<conceptId qcode="dpasrv:dpa-News-Exklusiv"/>
+			<name role="nrol:full">dpa-News-Exklusiv</name>
+			<name role="nrol:mnemonic">dpa-News-Exklusiv</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvinsight-eu">
+			<conceptId created="2014-01-15T00:00:00+01:00" qcode="dpasrv:insight-eu"/>
+			<name role="nrol:full">dpa-insight-eu</name>
+			<name role="nrol:mnemonic">ieu</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept modified="2016-06-14T10:05:00+02:00">
+			<conceptId created="2016-06-03T10:49:00+02:00" qcode="dpasrv:specials-en"/>
+			<name role="nrol:full">dpa Specials</name>
+			<name role="nrol:mnemonic">specials-en</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvinsight-sports-es">
+			<conceptId created="2016-02-03T09:49:00+01:00" qcode="dpasrv:insight-sports-es"/>
+			<name role="nrol:full">dpa Insight Sports</name>
+			<name role="nrol:mnemonic">insight-sports-es</name>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-09-11T00:00:00+02:00" qcode="dpasrv:dpa-insight-eu"/>
+			<name role="nrol:full">insight-eu</name>
+			<name role="nrol:mnemonic">dpa-insight-eu</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="ninat:composite"/>
+		</concept>
+		<concept id="dpasrvinsight-eu-en">
+			<conceptId created="2014-01-15T00:00:00+01:00" qcode="dpasrv:insight-eu-en"/>
+			<name role="nrol:full">dpa-insight-eu-en</name>
+			<name role="nrol:mnemonic">ien</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-09-11T00:00:00+02:00" qcode="dpasrv:dpa-insight-eu-en"/>
+			<name role="nrol:full">insight-eu-en</name>
+			<name role="nrol:mnemonic">dpa-insight-eu-en</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="ninat:composite"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:vertrieb"/>
+			<name role="nrol:full">dpa-vertrieb</name>
+			<name role="nrol:mnemonic">vertrieb</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:dpa-vertrieb"/>
+			<name role="nrol:full">vertrieb</name>
+			<name role="nrol:mnemonic">dpa-vertrieb</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="ninat:composite"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpasrv:spezial"/>
+			<name role="nrol:full">Spezial</name>
+			<name role="nrol:short nrol:display">Spezial</name>
+			<name role="nrol:mnemonic">spezial</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+		</concept>
+		<concept id="dpasrvfeature-special-es-sport">
+			<conceptId created="2014-02-03T09:49:00+01:00" qcode="dpasrv:feature-special-es-sport"/>
+			<name role="nrol:full">Feature Spezialpaket Sport Spanisch</name>
+			<name role="nrol:mnemonic">feature-special-es-sport</name>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvfeature-special-en-sport">
+			<conceptId created="2014-02-03T09:56:00+01:00" qcode="dpasrv:feature-special-en-sport"/>
+			<name role="nrol:mnemonic">feature-special-en-sport</name>
+			<name role="nrol:full">Feature Spezialpaket Sport Englisch</name>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-03-31T13:00:00+02:00" qcode="dpasrv:GJA"/>
+			<name role="nrol:full">Gruner + Jahr Auswahl</name>
+			<name role="nrol:mnemonic">GJA</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-01-15T00:00:00+01:00" qcode="dpasrv:dpa-news"/>
+			<name role="nrol:full">dpa-News</name>
+			<name role="nrol:mnemonic">news</name>
+			<definition>ToDo</definition>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2014-01-15T00:00:00+01:00" qcode="dpasrv:dpa-agenda"/>
+			<name role="nrol:full">dpa-Agenda</name>
+			<name role="nrol:mnemonic">agenda</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvdpa-feedback">
+			<conceptId created="2014-04-10T15:24:00+02:00" qcode="dpasrv:dpa-feedback"/>
+			<name role="nrol:mnemonic">feedback</name>
+			<name role="nrol:full">dpa-Feedback</name>
+			<name role="nrol:display">dpa-Feedback</name>
+			<broader qcode="dpaagenturzeichen:intern"/>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-09-08T15:14:00+02:00">
+			<conceptId qcode="dpasrv:newslab-de"/>
+			<name role="nrol:mnemonic">newslab-de</name>
+			<name role="nrol:full">newslab-de</name>
+			<name role="nrol:display">newslab-de</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvdossier-wis">
+			<conceptId created="2014-05-20T16:05:00+02:00" qcode="dpasrv:dossier-wis"/>
+			<name role="nrol:mnemonic">dossier-wis</name>
+			<name role="nrol:full">Dossiers Wissenschaft</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvgermany-today-de">
+			<conceptId created="2014-05-20T16:05:00+02:00" qcode="dpasrv:germany-today-de"/>
+			<name role="nrol:mnemonic">germany-today-de</name>
+			<name role="nrol:full">Germany-Today Deutsch</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvgermany-today-en">
+			<conceptId created="2014-05-20T16:05:00+02:00" qcode="dpasrv:germany-today-en"/>
+			<name role="nrol:mnemonic">germany-today-en</name>
+			<name role="nrol:full">Germany-Today English</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvgermany-today-es">
+			<conceptId created="2014-05-20T16:05:00+02:00" qcode="dpasrv:germany-today-es"/>
+			<name role="nrol:mnemonic">germany-today-es</name>
+			<name role="nrol:full">Germany-Today Espanol</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvgermany-today-ar">
+			<conceptId created="2014-05-20T16:05:00+02:00" qcode="dpasrv:germany-today-ar"/>
+			<name role="nrol:mnemonic">germany-today-ar</name>
+			<name role="nrol:full">Germany-Today Arabisch</name>
+			<definition>ToDo</definition>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept id="dpasrvavisline">
+			<conceptId created="2014-06-23T11:16:00+02:00" qcode="dpasrv:avisline"/>
+			<name role="nrol:mnemonic">avisline</name>
+			<name role="nrol:display">AvisLine</name>
+			<name role="nrol:full">dpa-infocom AvisLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvradioline">
+			<conceptId created="2014-06-23T11:16:00+02:00" qcode="dpasrv:radioline"/>
+			<name role="nrol:mnemonic">radioline</name>
+			<name role="nrol:display">RadioLine</name>
+			<name role="nrol:full">dpa-infocom RadioLine</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvembassynews">
+			<conceptId qcode="dpasrv:embassynews" created="2014-09-09T11:16:00+02:00"/>
+			<name role="nrol:mnemonic">embassynews</name>
+			<name role="nrol:display">EmbassyNews</name>
+			<name role="nrol:full">dpa-infocom EmbassyNews</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvlabline">
+			<conceptId qcode="dpasrv:labline" created="2015-09-07T11:16:00+02:00"/>
+			<name role="nrol:mnemonic">labline</name>
+			<name role="nrol:display">LabLine</name>
+			<name role="nrol:full">dpa-infocom labline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept id="dpasrvnextline">
+			<conceptId qcode="dpasrv:nextline" created="2016-03-07T11:16:00+02:00"/>
+			<name role="nrol:mnemonic">nextline</name>
+			<name role="nrol:display">NextLine</name>
+			<name role="nrol:full">dpa-infocom nextline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-05-22T10:17:00+02:00">
+			<conceptId qcode="dpasrv:g7-2015"/>
+			<name role="nrol:mnemonic">g7-2015</name>
+			<name role="nrol:full">g7-2015</name>
+			<name role="nrol:short">g7-2015</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-05-22T10:18:00+02:00">
+			<conceptId qcode="dpasrv:g7-2015-en"/>
+			<name role="nrol:mnemonic">g7-2015-en</name>
+			<name role="nrol:full">g7-2015-en</name>
+			<name role="nrol:short">g7-2015-en</name>
+			<broader qcode="dpasrv:dpa-portal"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-01-13T09:02:00+01:00">
+			<conceptId created="2015-01-13T09:02:00+01:00" qcode="dpasrv:text-arabisch-abi"/>
+			<name role="nrol:full">Arabischer Dienst (abi)</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<name xml:lang="ar" dir="rtl" role="nrol:mnemonic">صاب</name>
+			<note xml:lang="en">This service contains text message in Arabic language only</note>
+			<broader qcode="dpaagenturzeichen:dpa-text-arabisch-abi"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-01-13T09:02:00+01:00">
+			<conceptId created="2015-01-13T09:02:00+01:00" qcode="dpasrv:text-arabisch-acc"/>
+			<name xml:lang="de" role="nrol:full">Arabischer Dienst (acc)</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<name xml:lang="ar" dir="rtl" role="nrol:mnemonic">صيي</name>
+			<name xml:lang="en" role="nrol:display">dpa international Arabic</name>
+			<note xml:lang="en">This service contains text message in Arabic language only</note>
+			<broader qcode="dpaagenturzeichen:dpa-text-arabisch-acc"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-01-13T09:02:00+01:00">
+			<conceptId created="2015-01-13T09:02:00+01:00" qcode="dpasrv:text-arabisch-dara"/>
+			<name role="nrol:full">Arabischer Dienst (dara)</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<name xml:lang="ar" dir="rtl" role="nrol:mnemonic">س</name>
+			<note xml:lang="en">This service contains text message in Arabic language only</note>
+			<broader qcode="dpaagenturzeichen:dpa-text-arabisch-dara"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-01-13T09:02:00+01:00">
+			<conceptId created="2015-01-13T09:02:00+01:00" qcode="dpasrv:text-arabisch-are"/>
+			<name role="nrol:full">Arabischer Dienst (are)</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<name xml:lang="ar" dir="rtl" role="nrol:mnemonic">صدط</name>
+			<note xml:lang="en">This service contains text message in Arabic language only</note>
+			<broader qcode="dpaagenturzeichen:dpa-text-arabisch-are"/>
+			<related qcode="dpachannel:mecom"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2016-10-11T09:02:00+02:00" qcode="dpasrv:text-arabic"/>
+			<name role="nrol:full">Arabischer Dienst (G2)</name>
+			<name xml:lang="en" role="nrol:display">dpa international</name>
+			<note xml:lang="en">This service contains text message in Arabic language only</note>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept>
+			<conceptId created="2015-08-11T13:00:00+02:00" qcode="dpasrv:kon"/>
+			<name role="nrol:mnemonic">kon</name>
+			<name role="nrol:full">Kontrollmeldung</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept>
+			<conceptId created="2015-08-11T13:00:00+02:00" qcode="dpasrv:ctn"/>
+			<name role="nrol:mnemonic">ctn</name>
+			<name role="nrol:full">Control Messsage</name>
+			<broader qcode="dpaagenturzeichen:dpa"/>
+			<related qcode="ninat:text"/>
+			<related qcode="dpachannel:mecom"/>
+		</concept>
+		<concept modified="2015-10-06T13:26:00+02:00">
+			<conceptId created="2015-10-05T14:50:00+02:00" qcode="dpasrv:rtli_myline"/>
+			<name role="nrol:short">rtli_myline</name>
+			<name role="nrol:full">dpa-infocom rtli_myline</name>
+			<name role="nrol:mnemonic">rtli_myline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2015-11-12T10:45:00+01:00">
+			<conceptId created="2015-11-12T10:44:00+01:00" qcode="dpasrv:rtl2_myline"/>
+			<name role="nrol:short">rtl2_myline</name>
+			<name role="nrol:full">dpa-infocom rtl2_myline</name>
+			<name role="nrol:mnemonic">rtl2_myline</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2016-01-19T10:45:00+01:00">
+			<conceptId created="2016-01-19T10:44:00+01:00" qcode="dpasrv:news_for_kids"/>
+			<name role="nrol:short">news_for_kids</name>
+			<name role="nrol:full">News For Kids</name>
+			<name role="nrol:display">News For Kids</name>
+			<name role="nrol:mnemonic">news_for_kids</name>
+			<name xml:lang="en" role="nrol:display">dpa news for kids</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2016-08-19T10:45:00+01:00">
+			<conceptId created="2016-08-19T10:44:00+01:00" qcode="dpasrv:luther500"/>
+			<name role="nrol:short">luther500</name>
+			<name role="nrol:full">Luther 500</name>
+			<name role="nrol:display">Luther 500</name>
+			<name role="nrol:mnemonic">luther500</name>
+			<broader qcode="dpasrv:weblines"/>
+			<related qcode="ninat:picture"/>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2016-02-18T10:45:00+01:00">
+			<conceptId created="2016-02-18T10:44:00+01:00" qcode="dpasrv:story"/>
+			<name role="nrol:short">story</name>
+			<name role="nrol:full">dpa-Story</name>
+			<name role="nrol:display">dpa-Story</name>
+			<name role="nrol:mnemonic">story</name>
+			<related qcode="ninat:text"/>
+		</concept>
+		<concept modified="2016-03-23T10:45:00+01:00">
+			<conceptId created="2016-02-18T10:44:00+01:00" qcode="dpasrv:bfotografia"/>
+			<name role="nrol:full">dpa Fotografia</name>
+			<name xml:lang="es" role="nrol:display">dpa fotografía</name>
+			<name role="nrol:mnemonic">fotografia</name>
+			<definition>Spanischer Bilderdienst</definition>
+			<related qcode="ninat:picture"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpasrv" uri="http://g2.dpa.com/cv/service/">
+		<definition>TODO</definition>
+		<name>dpasrv</name>
+	</schemeMeta>
+</knowledgeItem>

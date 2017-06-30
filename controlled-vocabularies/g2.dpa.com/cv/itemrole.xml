@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:itemrole" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+    
+    
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+        <copyrightHolder qcode="nprov:dpa"/>
+        <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2011-05-11T13:00:00+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+        <title>dpa Rollen von G2 Items</title>
+        <edNote>wird zur Adressierung von Plattform Rubrik-Seiten verwendet.</edNote>
+    </itemMeta>
+    <contentMeta>
+        <headline>dpa Rollen von G2 Items</headline>
+    </contentMeta>
+    <conceptSet>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.news"/>
+            <name role="nrol:full">Nachrichten-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.authors"/>
+            <name role="nrol:full">Autorenstücke-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.prelims"/>
+            <name role="nrol:full">Vorberichte-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.childnews"/>
+            <name role="nrol:full">Kindernachrichten-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.curios"/>
+            <name role="nrol:full">Kuriositäten-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.fotos"/>
+            <name role="nrol:full">Fotostrecken-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+        <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:rubric.multimedia"/>
+            <name role="nrol:full">Multimedia-Rubrik-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+                <concept>
+            <conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaitemrole:topic.news"/>
+            <name role="nrol:full">Nachrichten-Paket</name>
+            <definition>ToDo</definition>
+        </concept>
+    </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpaitemrole" uri="http://g2.dpa.com/cv/itemrole/"><definition>TODO</definition><name>dpaitemrole</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:dpa.com:20090101:130825-9999-000004" standard="NewsML-G2" standardversion="2.12" version="1" xml:lang="de">
+	
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-08-25T18:59:29+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10122"/>
+			<name role="nrol:display" xml:lang="de">Montenegro</name>
+			<name role="nrol:full" xml:lang="de">Republik Montenegro</name>
+			<sameAs qcode="iso3166-1a3:MNE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7070"/>
+			<name role="nrol:display" xml:lang="de">Liechtenstein</name>
+			<name role="nrol:full" xml:lang="de">Fürstentum Liechtenstein</name>
+			<sameAs qcode="iso3166-1a3:LIE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:2693092"/>
+			<name role="nrol:display" xml:lang="de">Komoren</name>
+			<name role="nrol:full" xml:lang="de">Union der Komoren</name>
+			<sameAs qcode="iso3166-1a3:COM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7072"/>
+			<name role="nrol:full" xml:lang="de">Gabunische Republik</name>
+			<name role="nrol:display" xml:lang="de">Gabun</name>
+			<sameAs qcode="iso3166-1a3:GAB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7071"/>
+			<name role="nrol:full" xml:lang="de">Fürstentum Monaco</name>
+			<name role="nrol:display" xml:lang="de">Monaco</name>
+			<sameAs qcode="iso3166-1a3:MCO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7074"/>
+			<name role="nrol:display" xml:lang="de">Griechenland</name>
+			<name role="nrol:full" xml:lang="de">Hellenische Republik</name>
+			<sameAs qcode="iso3166-1a3:GRC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7073"/>
+			<name role="nrol:full" xml:lang="de">Grenada</name>
+			<name role="nrol:display" xml:lang="de">Grenada</name>
+			<sameAs qcode="iso3166-1a3:GRD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7076"/>
+			<name role="nrol:display" xml:lang="de">Jordanien</name>
+			<name role="nrol:full" xml:lang="de">Haschemitisches Königreich Jordanien</name>
+			<sameAs qcode="iso3166-1a3:JOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:8160572"/>
+			<name role="nrol:display" xml:lang="de">Biafra</name>
+			<name role="nrol:full" xml:lang="de">Republik Biafra</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7075"/>
+			<name role="nrol:full" xml:lang="de">Großherzogtum Luxemburg</name>
+			<name role="nrol:display" xml:lang="de">Luxemburg</name>
+			<sameAs qcode="iso3166-1a3:LUX"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7078"/>
+			<name role="nrol:display" xml:lang="de">Mauretanien</name>
+			<name role="nrol:full" xml:lang="de">Islamische Republik Mauretanien</name>
+			<sameAs qcode="iso3166-1a3:MRT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7077"/>
+			<name role="nrol:display" xml:lang="de">Brasilien</name>
+			<name role="nrol:full" xml:lang="de">Föderative Republik Brasilien</name>
+			<sameAs qcode="iso3166-1a3:BRA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7079"/>
+			<name role="nrol:display" xml:lang="de">St. Kitts und Nevis</name>
+			<name role="nrol:full" xml:lang="de">Föderation St. Kitts und Nevis</name>
+			<sameAs qcode="iso3166-1a3:KNA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10239"/>
+			<name role="nrol:display" xml:lang="de">Bahamas</name>
+			<name role="nrol:full" xml:lang="de">Commonwealth der Bahamas</name>
+			<sameAs qcode="iso3166-1a3:BHS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7081"/>
+			<name role="nrol:full" xml:lang="de">Jamaica</name>
+			<name role="nrol:display" xml:lang="de">Jamaika</name>
+			<sameAs qcode="iso3166-1a3:JAM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7080"/>
+			<name role="nrol:display" xml:lang="de">Italien</name>
+			<name role="nrol:full" xml:lang="de">Italienische Republik</name>
+			<sameAs qcode="iso3166-1a3:ITA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7085"/>
+			<name role="nrol:display" xml:lang="de">Kirgistan</name>
+			<name role="nrol:full" xml:lang="de">Kirgisische Republik</name>
+			<sameAs qcode="iso3166-1a3:KGZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7084"/>
+			<name role="nrol:display" xml:lang="de">Kanada</name>
+			<name role="nrol:full" xml:lang="de">Kanada</name>
+			<sameAs qcode="iso3166-1a3:CAN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7082"/>
+			<name role="nrol:display" xml:lang="de">Japan</name>
+			<sameAs qcode="iso3166-1a3:JPN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7089"/>
+			<name role="nrol:full" xml:lang="de">Königreich Dänemark</name>
+			<name role="nrol:display" xml:lang="de">Dänemark</name>
+			<sameAs qcode="iso3166-1a3:DNK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7088"/>
+			<name role="nrol:display" xml:lang="de">Bhutan</name>
+			<name role="nrol:full" xml:lang="de">Königreich Bhutan</name>
+			<sameAs qcode="iso3166-1a3:BTN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10240"/>
+			<name role="nrol:display" xml:lang="de">Jemen</name>
+			<name role="nrol:full" xml:lang="de">Republik Jemen</name>
+			<sameAs qcode="iso3166-1a3:YEM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7087"/>
+			<name role="nrol:full" xml:lang="de">Königreich Belgien</name>
+			<name role="nrol:display" xml:lang="de">Belgien</name>
+			<sameAs qcode="iso3166-1a3:BEL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7086"/>
+			<name role="nrol:display" xml:lang="de">Kiribati</name>
+			<name role="nrol:full" xml:lang="de">Republik Kiribati</name>
+			<sameAs qcode="iso3166-1a3:KIR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10241"/>
+			<name role="nrol:full" xml:lang="de">Republik Irak</name>
+			<name role="nrol:display" xml:lang="de">Irak</name>
+			<sameAs qcode="iso3166-1a3:IRQ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10243"/>
+			<name role="nrol:display" xml:lang="de">Elfenbeinküste</name>
+			<name role="nrol:full" xml:lang="de">Republik Côte d'Ivoire</name>
+			<sameAs qcode="iso3166-1a3:CIV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10242"/>
+			<name role="nrol:display" xml:lang="de">Philippinen</name>
+			<name role="nrol:full" xml:lang="de">Republik der Philippinen</name>
+			<sameAs qcode="iso3166-1a3:PHL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10249"/>
+			<name role="nrol:display" xml:lang="de">Afghanistan</name>
+			<name role="nrol:full" xml:lang="de">Islamische Republik Afghanistan</name>
+			<sameAs qcode="iso3166-1a3:AFG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10248"/>
+			<name role="nrol:full" xml:lang="de">Königreich der Niederlande</name>
+			<name role="nrol:display" xml:lang="de">Niederlande</name>
+			<sameAs qcode="iso3166-1a3:NLD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10247"/>
+			<name role="nrol:full" xml:lang="de">Libanesische Republik</name>
+			<name role="nrol:display" xml:lang="de">Libanon</name>
+			<sameAs qcode="iso3166-1a3:LBN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10108"/>
+			<name role="nrol:display" xml:lang="de">Kosovo</name>
+			<name role="nrol:full" xml:lang="de">Republik Kosovo</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10246"/>
+			<name role="nrol:display" xml:lang="de">Mongolei</name>
+			<name role="nrol:full" xml:lang="de">Mongolei</name>
+			<sameAs qcode="iso3166-1a3:MNG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10101"/>
+			<name role="nrol:full" xml:lang="de">Republik Serbien</name>
+			<name role="nrol:display" xml:lang="de">Serbien</name>
+			<sameAs qcode="iso3166-1a3:SRB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7094"/>
+			<name role="nrol:full" xml:lang="de">Arabische Republik Ägypten</name>
+			<name role="nrol:display" xml:lang="de">Ägypten</name>
+			<sameAs qcode="iso3166-1a3:EGY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7093"/>
+			<name role="nrol:full" xml:lang="de">Republik Kap Verde</name>
+			<name role="nrol:display" xml:lang="de">Kap Verde</name>
+			<sameAs qcode="iso3166-1a3:CPV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7096"/>
+			<name role="nrol:full" xml:lang="de">Argentinische Republik</name>
+			<name role="nrol:display" xml:lang="de">Argentinien</name>
+			<sameAs qcode="iso3166-1a3:ARG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7095"/>
+			<name role="nrol:full" xml:lang="de">Arabische Republik Syrien</name>
+			<name role="nrol:display" xml:lang="de">Syrien</name>
+			<sameAs qcode="iso3166-1a3:SYR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6937"/>
+			<name role="nrol:display" xml:lang="de">Uganda</name>
+			<name role="nrol:full" xml:lang="de">Republik Uganda</name>
+			<sameAs qcode="iso3166-1a3:UGA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7090"/>
+			<name role="nrol:display" xml:lang="de">Kambodscha</name>
+			<name role="nrol:full" xml:lang="de">Königreich Kambodscha</name>
+			<sameAs qcode="iso3166-1a3:KHM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7092"/>
+			<name role="nrol:full" xml:lang="de">Burkina Faso</name>
+			<name role="nrol:display" xml:lang="de">Burkina Faso</name>
+			<sameAs qcode="iso3166-1a3:BFA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7091"/>
+			<name role="nrol:full" xml:lang="de">Irland</name>
+			<name role="nrol:display" xml:lang="de">Irland</name>
+			<sameAs qcode="iso3166-1a3:IRL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6933"/>
+			<name role="nrol:full" xml:lang="de">Republik Togo</name>
+			<name role="nrol:display" xml:lang="de">Togo</name>
+			<sameAs qcode="iso3166-1a3:TGO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6934"/>
+			<name role="nrol:display" xml:lang="de">Trinidad und Tobago</name>
+			<name role="nrol:full" xml:lang="de">Republik Trinidad und Tobago</name>
+			<sameAs qcode="iso3166-1a3:TTO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9916"/>
+			<name role="nrol:display" xml:lang="de">Kongo-Brazzaville</name>
+			<name role="nrol:full" xml:lang="de">Republik Kongo</name>
+			<sameAs qcode="iso3166-1a3:COG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7098"/>
+			<name role="nrol:display" xml:lang="de">Äthiopien</name>
+			<name role="nrol:full" xml:lang="de">Demokratische Bundesrepublik Äthiopien</name>
+			<sameAs qcode="iso3166-1a3:ETH"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10252"/>
+			<name role="nrol:display" xml:lang="de">Kongo</name>
+			<name role="nrol:full" xml:lang="de">Demokratische Republik Kongo</name>
+			<sameAs qcode="iso3166-1a3:COD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7097"/>
+			<name role="nrol:display" xml:lang="de">Aserbaidschan</name>
+			<name role="nrol:full" xml:lang="de">Aserbaidschanische Republik</name>
+			<sameAs qcode="iso3166-1a3:AZE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10250"/>
+			<name role="nrol:full" xml:lang="de">Islamische Republik Iran</name>
+			<name role="nrol:display" xml:lang="de">Iran</name>
+			<sameAs qcode="iso3166-1a3:IRN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7099"/>
+			<name role="nrol:display" xml:lang="de">Australien</name>
+			<name role="nrol:full" xml:lang="de">Commonwealth of Australia</name>
+			<sameAs qcode="iso3166-1a3:AUS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10254"/>
+			<name role="nrol:display" xml:lang="de">Jugoslawien</name>
+			<name role="nrol:full" xml:lang="de">Bundesrepublik Jugoslawien</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10255"/>
+			<name role="nrol:display" xml:lang="de">Antigua und Barbuda</name>
+			<name role="nrol:full" xml:lang="de">Antigua und Barbuda</name>
+			<sameAs qcode="iso3166-1a3:ATG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:18317813"/>
+			<name role="nrol:display" xml:lang="de">Südsudan</name>
+			<name role="nrol:full" xml:lang="de">Republik Südsudan</name>
+			<sameAs qcode="iso3166-1a3:SSD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6927"/>
+			<name role="nrol:full" xml:lang="de">Republik Vanuatu</name>
+			<name role="nrol:display" xml:lang="de">Vanuatu</name>
+			<sameAs qcode="iso3166-1a3:VUT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7108"/>
+			<name role="nrol:full" xml:lang="de">Demokratische Republik São Tomé und Príncipe</name>
+			<name role="nrol:display" xml:lang="de">São Tomé und Príncipe</name>
+			<sameAs qcode="iso3166-1a3:STP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7107"/>
+			<name role="nrol:display" xml:lang="de">Dominica</name>
+			<name role="nrol:full" xml:lang="de">Commonwealth of Dominica</name>
+			<sameAs qcode="iso3166-1a3:DMA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7105"/>
+			<name role="nrol:full" xml:lang="de">Demokratische Volksrepublik Korea</name>
+			<name role="nrol:display" xml:lang="de">Nordkorea</name>
+			<sameAs qcode="iso3166-1a3:PRK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7109"/>
+			<name role="nrol:full" xml:lang="de">Republik Somalia</name>
+			<name role="nrol:display" xml:lang="de">Somalia</name>
+			<sameAs qcode="iso3166-1a3:SOM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10266"/>
+			<name role="nrol:full" xml:lang="de">Staat Eritrea</name>
+			<name role="nrol:display" xml:lang="de">Eritrea</name>
+			<sameAs qcode="iso3166-1a3:ERI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7100"/>
+			<name role="nrol:full" xml:lang="de">Barbados</name>
+			<name role="nrol:display" xml:lang="de">Barbados</name>
+			<sameAs qcode="iso3166-1a3:BRB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7103"/>
+			<name role="nrol:display" xml:lang="de">Mikronesien</name>
+			<name role="nrol:full" xml:lang="de">Föderierte Staaten von Mikronesien</name>
+			<sameAs qcode="iso3166-1a3:FSM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7104"/>
+			<name role="nrol:full" xml:lang="de">Bundesrepublik Nigeria</name>
+			<name role="nrol:display" xml:lang="de">Nigeria</name>
+			<sameAs qcode="iso3166-1a3:NGA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7101"/>
+			<name role="nrol:display" xml:lang="de">Belize</name>
+			<name role="nrol:full" xml:lang="de">Belize</name>
+			<sameAs qcode="iso3166-1a3:BLZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7102"/>
+			<name role="nrol:display" xml:lang="de">Brunei</name>
+			<name role="nrol:full" xml:lang="de">Brunei Darussalam</name>
+			<sameAs qcode="iso3166-1a3:BRN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7142"/>
+			<name role="nrol:full" xml:lang="de">Republik Kamerun</name>
+			<name role="nrol:display" xml:lang="de">Kamerun</name>
+			<sameAs qcode="iso3166-1a3:CMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7141"/>
+			<name role="nrol:full" xml:lang="de">Demokratische Volksrepublik Algerien</name>
+			<name role="nrol:display" xml:lang="de">Algerien</name>
+			<sameAs qcode="iso3166-1a3:DZA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7144"/>
+			<name role="nrol:full" xml:lang="de">Nepal</name>
+			<name role="nrol:display" xml:lang="de">Nepal</name>
+			<sameAs qcode="iso3166-1a3:NPL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7143"/>
+			<name role="nrol:display" xml:lang="de">Finnland</name>
+			<name role="nrol:full" xml:lang="de">Republik Finnland</name>
+			<sameAs qcode="iso3166-1a3:FIN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7146"/>
+			<name role="nrol:full" xml:lang="de">Königreich Tonga</name>
+			<name role="nrol:display" xml:lang="de">Tonga</name>
+			<sameAs qcode="iso3166-1a3:TON"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7145"/>
+			<name role="nrol:display" xml:lang="de">Thailand</name>
+			<name role="nrol:full" xml:lang="de">Königreich Thailand</name>
+			<sameAs qcode="iso3166-1a3:THA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7148"/>
+			<name role="nrol:display" xml:lang="de">Spanien</name>
+			<name role="nrol:full" xml:lang="de">Königreich Spanien</name>
+			<sameAs qcode="iso3166-1a3:ESP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7147"/>
+			<name role="nrol:display" xml:lang="de">Guyana</name>
+			<name role="nrol:full" xml:lang="de">Kooperative Republik Guyana</name>
+			<sameAs qcode="iso3166-1a3:GUY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6997"/>
+			<name role="nrol:full" xml:lang="de">Vereinigte Republik Tansania</name>
+			<name role="nrol:display" xml:lang="de">Tansania</name>
+			<sameAs qcode="iso3166-1a3:TZA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7002"/>
+			<name role="nrol:display" xml:lang="de">Westsahara</name>
+			<name role="nrol:full" xml:lang="de">Demokratische Arabische Republik Sahara</name>
+			<sameAs qcode="iso3166-1a3:ESH"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6998"/>
+			<name role="nrol:full" xml:lang="de">Vereinigte Arabische Emirate</name>
+			<name role="nrol:display" xml:lang="de">Vereinigte Arabische Emirate</name>
+			<sameAs qcode="iso3166-1a3:ARE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6995"/>
+			<name role="nrol:display" xml:lang="de">Großbritannien</name>
+			<name role="nrol:full" xml:lang="de">Vereinigtes Königreich Großbritannien und Nordirland</name>
+			<sameAs qcode="iso3166-1a3:GBR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7005"/>
+			<name role="nrol:display" xml:lang="de">Liberia</name>
+			<name role="nrol:full" xml:lang="de">Republik Liberia</name>
+			<sameAs qcode="iso3166-1a3:LBR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6999"/>
+			<name role="nrol:full" xml:lang="de">Union Myanmar</name>
+			<name role="nrol:display" xml:lang="de">Birma</name>
+			<sameAs qcode="iso3166-1a3:MMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7140"/>
+			<name role="nrol:display" xml:lang="de">Marokko</name>
+			<name role="nrol:full" xml:lang="de">Königreich Marokko</name>
+			<sameAs qcode="iso3166-1a3:MAR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7000"/>
+			<name role="nrol:display" xml:lang="de">Samoa</name>
+			<name role="nrol:full" xml:lang="de">Unabhängiger Staat Samoa</name>
+			<sameAs qcode="iso3166-1a3:WSM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6994"/>
+			<name role="nrol:full" xml:lang="de">Volksrepublik Bangladesch</name>
+			<name role="nrol:display" xml:lang="de">Bangladesch</name>
+			<sameAs qcode="iso3166-1a3:BGD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7006"/>
+			<name role="nrol:full" xml:lang="de">Republik Namibia</name>
+			<name role="nrol:display" xml:lang="de">Namibia</name>
+			<sameAs qcode="iso3166-1a3:NAM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6992"/>
+			<name role="nrol:display" xml:lang="de">China</name>
+			<name role="nrol:full" xml:lang="de">Volksrepublik China</name>
+			<sameAs qcode="iso3166-1a3:CHN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7008"/>
+			<name role="nrol:display" xml:lang="de">Nauru</name>
+			<name role="nrol:full" xml:lang="de">Republik Nauru</name>
+			<sameAs qcode="iso3166-1a3:NRU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6991"/>
+			<name role="nrol:display" xml:lang="de">Weißrussland</name>
+			<name role="nrol:full" xml:lang="de">Republik Belarus</name>
+			<sameAs qcode="iso3166-1a3:BLR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7009"/>
+			<name role="nrol:full" xml:lang="de">Republik Nicaragua</name>
+			<name role="nrol:display" xml:lang="de">Nicaragua</name>
+			<sameAs qcode="iso3166-1a3:NIC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10038"/>
+			<name role="nrol:display" xml:lang="de">USA</name>
+			<name role="nrol:full" xml:lang="de">Vereinigte Staaten von Amerika</name>
+			<sameAs qcode="iso3166-1a3:USA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7149"/>
+			<name role="nrol:display" xml:lang="de">Schweden</name>
+			<name role="nrol:full" xml:lang="de">Königreich Schweden</name>
+			<sameAs qcode="iso3166-1a3:SWE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7133"/>
+			<name role="nrol:full" xml:lang="de">Republik Guinea</name>
+			<name role="nrol:display" xml:lang="de">Guinea</name>
+			<sameAs qcode="iso3166-1a3:GIN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7132"/>
+			<name role="nrol:full" xml:lang="de">Republik Guatemala</name>
+			<name role="nrol:display" xml:lang="de">Guatemala</name>
+			<sameAs qcode="iso3166-1a3:GTM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7131"/>
+			<name role="nrol:full" xml:lang="de">Republik Gambia</name>
+			<name role="nrol:display" xml:lang="de">Gambia</name>
+			<sameAs qcode="iso3166-1a3:GMB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7130"/>
+			<name role="nrol:display" xml:lang="de">Georgien</name>
+			<name role="nrol:full" xml:lang="de">Georgien</name>
+			<sameAs qcode="iso3166-1a3:GEO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7137"/>
+			<name role="nrol:full" xml:lang="de">Republik Indien</name>
+			<name role="nrol:display" xml:lang="de">Indien</name>
+			<sameAs qcode="iso3166-1a3:IND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7136"/>
+			<name role="nrol:full" xml:lang="de">Republik Honduras</name>
+			<name role="nrol:display" xml:lang="de">Honduras</name>
+			<sameAs qcode="iso3166-1a3:HND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7135"/>
+			<name role="nrol:display" xml:lang="de">Haiti</name>
+			<name role="nrol:full" xml:lang="de">Republik Haiti</name>
+			<sameAs qcode="iso3166-1a3:HTI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7134"/>
+			<name role="nrol:display" xml:lang="de">Guinea-Bissau</name>
+			<name role="nrol:full" xml:lang="de">Republik Guinea-Bissau</name>
+			<sameAs qcode="iso3166-1a3:GNB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10094"/>
+			<name role="nrol:full" xml:lang="de">Demokratische Republik Timor-Leste</name>
+			<name role="nrol:display" xml:lang="de">Osttimor</name>
+			<sameAs qcode="iso3166-1a3:TLS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6985"/>
+			<name role="nrol:full" xml:lang="de">Serbien und Montenegro</name>
+			<name role="nrol:display" xml:lang="de">Serbien-Montenegro</name>
+			<sameAs qcode="iso3166-1a3:SCG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6987"/>
+			<name role="nrol:display" xml:lang="de">Zentralafrikanische Republik</name>
+			<name role="nrol:full" xml:lang="de">Zentralafrikanische Republik</name>
+			<sameAs qcode="iso3166-1a3:CAF"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6988"/>
+			<name role="nrol:display" xml:lang="de">Tuvalu</name>
+			<name role="nrol:full" xml:lang="de">Tuvalu</name>
+			<sameAs qcode="iso3166-1a3:TUV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9853"/>
+			<name role="nrol:display" xml:lang="de">Tschad</name>
+			<name role="nrol:full" xml:lang="de">Republik Tschad</name>
+			<sameAs qcode="iso3166-1a3:TCD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9854"/>
+			<name role="nrol:display" xml:lang="de">Türkei</name>
+			<name role="nrol:full" xml:lang="de">Republik Türkei</name>
+			<sameAs qcode="iso3166-1a3:TUR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6981"/>
+			<name role="nrol:full" xml:lang="de">Republik Kenia</name>
+			<name role="nrol:display" xml:lang="de">Kenia</name>
+			<sameAs qcode="iso3166-1a3:KEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7138"/>
+			<name role="nrol:display" xml:lang="de">Indonesien</name>
+			<name role="nrol:full" xml:lang="de">Republik Indonesien</name>
+			<sameAs qcode="iso3166-1a3:IDN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7139"/>
+			<name role="nrol:display" xml:lang="de">Island</name>
+			<name role="nrol:full" xml:lang="de">Republik Island</name>
+			<sameAs qcode="iso3166-1a3:ISL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:18428297"/>
+			<name role="nrol:display" xml:lang="de">Staaten</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7124"/>
+			<name role="nrol:full" xml:lang="de">Republik Dschibuti</name>
+			<name role="nrol:display" xml:lang="de">Dschibuti</name>
+			<sameAs qcode="iso3166-1a3:DJI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7123"/>
+			<name role="nrol:full" xml:lang="de">Republik Dahome</name>
+			<name role="nrol:display" xml:lang="de">Dahome</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7126"/>
+			<name role="nrol:full" xml:lang="de">Republik El Salvador</name>
+			<name role="nrol:display" xml:lang="de">El Salvador</name>
+			<sameAs qcode="iso3166-1a3:SLV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10060"/>
+			<name role="nrol:display" xml:lang="de">Sowjetunion</name>
+			<name role="nrol:full" xml:lang="de">Union der Sozialistischen Sowjetrepubliken</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7125"/>
+			<name role="nrol:display" xml:lang="de">Ecuador</name>
+			<name role="nrol:full" xml:lang="de">Republik Ecuador</name>
+			<sameAs qcode="iso3166-1a3:ECU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7120"/>
+			<name role="nrol:full" xml:lang="de">Republik Chile</name>
+			<name role="nrol:display" xml:lang="de">Chile</name>
+			<sameAs qcode="iso3166-1a3:CHL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7122"/>
+			<name role="nrol:display" xml:lang="de">Costa Rica</name>
+			<name role="nrol:full" xml:lang="de">Republik Costa Rica</name>
+			<sameAs qcode="iso3166-1a3:CRI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10064"/>
+			<name role="nrol:full" xml:lang="de">Vereinigte Mexikanische Staaten</name>
+			<name role="nrol:display" xml:lang="de">Mexiko</name>
+			<sameAs qcode="iso3166-1a3:MEX"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7121"/>
+			<name role="nrol:display" xml:lang="de">Taiwan</name>
+			<name role="nrol:full" xml:lang="de">Republik China</name>
+			<sameAs qcode="iso3166-1a3:TWN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7020"/>
+			<name role="nrol:display" xml:lang="de">Marshallinseln</name>
+			<name role="nrol:full" xml:lang="de">Republik Marshallinseln</name>
+			<sameAs qcode="iso3166-1a3:MHL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7025"/>
+			<name role="nrol:display" xml:lang="de">Malediven</name>
+			<name role="nrol:full" xml:lang="de">Republik Malediven</name>
+			<sameAs qcode="iso3166-1a3:MDV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7024"/>
+			<name role="nrol:full" xml:lang="de">Republik Malawi</name>
+			<name role="nrol:display" xml:lang="de">Malawi</name>
+			<sameAs qcode="iso3166-1a3:MWI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7027"/>
+			<name role="nrol:full" xml:lang="de">Republik Litauen</name>
+			<name role="nrol:display" xml:lang="de">Litauen</name>
+			<sameAs qcode="iso3166-1a3:LTU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7026"/>
+			<name role="nrol:full" xml:lang="de">Republik Mali</name>
+			<name role="nrol:display" xml:lang="de">Mali</name>
+			<sameAs qcode="iso3166-1a3:MLI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7028"/>
+			<name role="nrol:full" xml:lang="de">Republik Malta</name>
+			<name role="nrol:display" xml:lang="de">Malta</name>
+			<sameAs qcode="iso3166-1a3:MLT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7029"/>
+			<name role="nrol:full" xml:lang="de">Republik Korea</name>
+			<name role="nrol:display" xml:lang="de">Südkorea</name>
+			<sameAs qcode="iso3166-1a3:KOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7315"/>
+			<name role="nrol:display" xml:lang="de">Polen</name>
+			<name role="nrol:full" xml:lang="de">Republik Polen</name>
+			<sameAs qcode="iso3166-1a3:POL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7127"/>
+			<name role="nrol:display" xml:lang="de">Estland</name>
+			<name role="nrol:full" xml:lang="de">Republik Estland</name>
+			<sameAs qcode="iso3166-1a3:EST"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7128"/>
+			<name role="nrol:display" xml:lang="de">Fidschi</name>
+			<name role="nrol:full" xml:lang="de">Republik Fidschi-Inseln</name>
+			<sameAs qcode="iso3166-1a3:FJI"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7129"/>
+			<name role="nrol:display" xml:lang="de">Bulgarien</name>
+			<name role="nrol:full" xml:lang="de">Republik Bulgarien</name>
+			<sameAs qcode="iso3166-1a3:BGR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7115"/>
+			<name role="nrol:display" xml:lang="de">Dominikanische Republik</name>
+			<sameAs qcode="iso3166-1a3:DOM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7113"/>
+			<name role="nrol:full" xml:lang="de">Deutsche Demokratische Republik</name>
+			<name role="nrol:display" xml:lang="de">DDR</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7112"/>
+			<name role="nrol:display" xml:lang="de">Laos</name>
+			<name role="nrol:full" xml:lang="de">Demokratische Volksrepublik Laos</name>
+			<sameAs qcode="iso3166-1a3:LAO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7110"/>
+			<name role="nrol:full" xml:lang="de">Demokratische Sozialistische Republik Sri Lanka</name>
+			<name role="nrol:display" xml:lang="de">Sri Lanka</name>
+			<sameAs qcode="iso3166-1a3:LKA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:10051"/>
+			<name role="nrol:full" xml:lang="de">Republik Sudan</name>
+			<name role="nrol:display" xml:lang="de">Sudan</name>
+			<sameAs qcode="iso3166-1a3:SDN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7012"/>
+			<name role="nrol:full" xml:lang="de">Republik Singapur</name>
+			<name role="nrol:display" xml:lang="de">Singapur</name>
+			<sameAs qcode="iso3166-1a3:SGP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9877"/>
+			<name role="nrol:display" xml:lang="de">Slowakei</name>
+			<name role="nrol:full" xml:lang="de">Slowakische Republik</name>
+			<sameAs qcode="iso3166-1a3:SVK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7013"/>
+			<name role="nrol:display" xml:lang="de">Kuba</name>
+			<name role="nrol:full" xml:lang="de">Republik Kuba</name>
+			<sameAs qcode="iso3166-1a3:CUB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7019"/>
+			<name role="nrol:full" xml:lang="de">Republik Lettland</name>
+			<name role="nrol:display" xml:lang="de">Lettland</name>
+			<sameAs qcode="iso3166-1a3:LVA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7017"/>
+			<name role="nrol:full" xml:lang="de">Republik Kroatien</name>
+			<name role="nrol:display" xml:lang="de">Kroatien</name>
+			<sameAs qcode="iso3166-1a3:HRV"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9876"/>
+			<name role="nrol:display" xml:lang="de">Schweiz</name>
+			<name role="nrol:full" xml:lang="de">Schweizerische Eidgenossenschaft</name>
+			<sameAs qcode="iso3166-1a3:CHE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7118"/>
+			<name role="nrol:full" xml:lang="de">Republik Ghana</name>
+			<name role="nrol:display" xml:lang="de">Ghana</name>
+			<sameAs qcode="iso3166-1a3:GHA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7119"/>
+			<name role="nrol:full" xml:lang="de">Republik Burundi</name>
+			<name role="nrol:display" xml:lang="de">Burundi</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7116"/>
+			<name role="nrol:display" xml:lang="de">Mazedonien</name>
+			<name role="nrol:full" xml:lang="de">Ehemalige jugoslawische Republik Mazedonien</name>
+			<sameAs qcode="iso3166-1a3:MKD"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7117"/>
+			<name role="nrol:display" xml:lang="de">Deutschland</name>
+			<name role="nrol:full" xml:lang="de">Bundesrepublik Deutschland</name>
+			<sameAs qcode="iso3166-1a3:DEU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6954"/>
+			<name role="nrol:full" xml:lang="de">Tunesische Republik</name>
+			<name role="nrol:display" xml:lang="de">Tunesien</name>
+			<sameAs qcode="iso3166-1a3:TUN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6953"/>
+			<name role="nrol:full" xml:lang="de">Türkische Republik Nordzypern</name>
+			<name role="nrol:display" xml:lang="de">Nordzypern</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6952"/>
+			<name role="nrol:display" xml:lang="de">Turkmenistan</name>
+			<name role="nrol:full" xml:lang="de">Turkmenistan</name>
+			<sameAs qcode="iso3166-1a3:TKM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7049"/>
+			<name role="nrol:display" xml:lang="de">Peru</name>
+			<name role="nrol:full" xml:lang="de">Republik Peru</name>
+			<sameAs qcode="iso3166-1a3:PER"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6958"/>
+			<name role="nrol:full" xml:lang="de">Sultanat Oman</name>
+			<name role="nrol:display" xml:lang="de">Oman</name>
+			<sameAs qcode="iso3166-1a3:OMN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9823"/>
+			<name role="nrol:full" xml:lang="de">Ukraine</name>
+			<name role="nrol:display" xml:lang="de">Ukraine</name>
+			<sameAs qcode="iso3166-1a3:UKR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7043"/>
+			<name role="nrol:full" xml:lang="de">Republik San Marino</name>
+			<name role="nrol:display" xml:lang="de">San Marino</name>
+			<sameAs qcode="iso3166-1a3:SMR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7044"/>
+			<name role="nrol:full" xml:lang="de">Republik Sambia</name>
+			<name role="nrol:display" xml:lang="de">Sambia</name>
+			<sameAs qcode="iso3166-1a3:ZMB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6956"/>
+			<name role="nrol:display" xml:lang="de">Tschechien</name>
+			<name role="nrol:full" xml:lang="de">Tschechische Republik</name>
+			<sameAs qcode="iso3166-1a3:CZE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7045"/>
+			<name role="nrol:full" xml:lang="de">Republik Kasachstan</name>
+			<name role="nrol:display" xml:lang="de">Kasachstan</name>
+			<sameAs qcode="iso3166-1a3:KAZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6955"/>
+			<name role="nrol:display" xml:lang="de">Tschechoslowakei</name>
+			<name role="nrol:full" xml:lang="de">Tschechische und Slowakische Föderative Republik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7040"/>
+			<name role="nrol:full" xml:lang="de">Republik Simbabwe</name>
+			<name role="nrol:display" xml:lang="de">Simbabwe</name>
+			<sameAs qcode="iso3166-1a3:ZWE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6959"/>
+			<name role="nrol:full" xml:lang="de">Staat Vatikanstadt</name>
+			<name role="nrol:display" xml:lang="de">Vatikan</name>
+			<sameAs qcode="iso3166-1a3:VAT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7041"/>
+			<name role="nrol:full" xml:lang="de">Republik Sierra Leone</name>
+			<name role="nrol:display" xml:lang="de">Sierra Leone</name>
+			<sameAs qcode="iso3166-1a3:SLE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6950"/>
+			<name role="nrol:full" xml:lang="de">Staat Katar</name>
+			<name role="nrol:display" xml:lang="de">Katar</name>
+			<sameAs qcode="iso3166-1a3:QAT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6941"/>
+			<name role="nrol:display" xml:lang="de">Usbekistan</name>
+			<name role="nrol:full" xml:lang="de">Republik Usbekistan</name>
+			<sameAs qcode="iso3166-1a3:UZB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7035"/>
+			<name role="nrol:display" xml:lang="de">Mosambik</name>
+			<name role="nrol:full" xml:lang="de">Republik Mosambik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7034"/>
+			<name role="nrol:full" xml:lang="de">Republik Madagaskar</name>
+			<name role="nrol:display" xml:lang="de">Madagaskar</name>
+			<sameAs qcode="iso3166-1a3:MDG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6947"/>
+			<name role="nrol:full" xml:lang="de">Ungarn</name>
+			<name role="nrol:display" xml:lang="de">Ungarn</name>
+			<sameAs qcode="iso3166-1a3:HUN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7031"/>
+			<name role="nrol:full" xml:lang="de">Republik Moldau</name>
+			<name role="nrol:display" xml:lang="de">Moldau</name>
+			<sameAs qcode="iso3166-1a3:MDA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9956"/>
+			<name role="nrol:full" xml:lang="de">Republik Niger</name>
+			<name role="nrol:display" xml:lang="de">Niger</name>
+			<sameAs qcode="iso3166-1a3:NER"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7030"/>
+			<name role="nrol:full" xml:lang="de">Republik Mauritius</name>
+			<name role="nrol:display" xml:lang="de">Mauritius</name>
+			<sameAs qcode="iso3166-1a3:MUS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7064"/>
+			<name role="nrol:full" xml:lang="de">Republik Österreich</name>
+			<name role="nrol:display" xml:lang="de">Österreich</name>
+			<sameAs qcode="iso3166-1a3:AUT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7160"/>
+			<name role="nrol:display" xml:lang="de">Bolivien</name>
+			<name role="nrol:full" xml:lang="de">Plurinationaler Staat Bolivien</name>
+			<sameAs qcode="iso3166-1a3:BOL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7161"/>
+			<name role="nrol:display" xml:lang="de">Angola</name>
+			<name role="nrol:full" xml:lang="de">Republik Angola</name>
+			<sameAs qcode="iso3166-1a3:AGO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7066"/>
+			<name role="nrol:display" xml:lang="de">Pakistan</name>
+			<name role="nrol:full" xml:lang="de">Islamische Republik Pakistan</name>
+			<sameAs qcode="iso3166-1a3:PAK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7067"/>
+			<name role="nrol:display" xml:lang="de">Lesotho</name>
+			<name role="nrol:full" xml:lang="de">Königreich Lesotho</name>
+			<sameAs qcode="iso3166-1a3:LSO"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7162"/>
+			<name role="nrol:full" xml:lang="de">Republik Benin</name>
+			<name role="nrol:display" xml:lang="de">Benin</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6976"/>
+			<name role="nrol:display" xml:lang="de">Venezuela</name>
+			<name role="nrol:full" xml:lang="de">Bolivarische Republik Venezuela</name>
+			<sameAs qcode="iso3166-1a3:VEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7068"/>
+			<name role="nrol:display" xml:lang="de">Frankreich</name>
+			<name role="nrol:full" xml:lang="de">Französische Republik</name>
+			<sameAs qcode="iso3166-1a3:FRA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6975"/>
+			<name role="nrol:full" xml:lang="de">Staat Kuwait</name>
+			<name role="nrol:display" xml:lang="de">Kuwait</name>
+			<sameAs qcode="iso3166-1a3:KWT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7069"/>
+			<name role="nrol:display" xml:lang="de">Andorra</name>
+			<name role="nrol:full" xml:lang="de">Fürstentum Andorra</name>
+			<sameAs qcode="iso3166-1a3:AND"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6974"/>
+			<name role="nrol:display" xml:lang="de">Salomonen</name>
+			<name role="nrol:full" xml:lang="de">Salomonen</name>
+			<sameAs qcode="iso3166-1a3:SLB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6973"/>
+			<name role="nrol:display" xml:lang="de">Jugoslawien (SFRJ)</name>
+			<name role="nrol:full" xml:lang="de">Sozialistische Föderative Republik Jugoslawien</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7163"/>
+			<name role="nrol:display" xml:lang="de">Armenien</name>
+			<name role="nrol:full" xml:lang="de">Republik Armenien</name>
+			<sameAs qcode="iso3166-1a3:ARM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7061"/>
+			<name role="nrol:full" xml:lang="de">Republik Palau</name>
+			<name role="nrol:display" xml:lang="de">Palau</name>
+			<sameAs qcode="iso3166-1a3:PLW"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7164"/>
+			<name role="nrol:full" xml:lang="de">Portugiesische Republik</name>
+			<name role="nrol:display" xml:lang="de">Portugal</name>
+			<sameAs qcode="iso3166-1a3:PRT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7062"/>
+			<name role="nrol:full" xml:lang="de">Republik Östlich des Uruguay</name>
+			<name role="nrol:display" xml:lang="de">Uruguay</name>
+			<sameAs qcode="iso3166-1a3:URY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9941"/>
+			<name role="nrol:display" xml:lang="de">Seychellen</name>
+			<name role="nrol:full" xml:lang="de">Republik Seychellen</name>
+			<sameAs qcode="iso3166-1a3:SYC"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6971"/>
+			<name role="nrol:display" xml:lang="de">Vietnam</name>
+			<name role="nrol:full" xml:lang="de">Sozialistische Republik Vietnam</name>
+			<sameAs qcode="iso3166-1a3:VNM"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6972"/>
+			<name role="nrol:display" xml:lang="de">Libyen</name>
+			<name role="nrol:full" xml:lang="de">Sozialistische Libysch-Arabische Volks-Dschamahirija</name>
+			<sameAs qcode="iso3166-1a3:LBY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9843"/>
+			<name role="nrol:display" xml:lang="de">Südafrika</name>
+			<name role="nrol:full" xml:lang="de">Republik Südafrika</name>
+			<sameAs qcode="iso3166-1a3:ZAF"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9842"/>
+			<name role="nrol:full" xml:lang="de">Republik Slowenien</name>
+			<name role="nrol:display" xml:lang="de">Slowenien</name>
+			<sameAs qcode="iso3166-1a3:SVN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7150"/>
+			<name role="nrol:full" xml:lang="de">Malaysia</name>
+			<name role="nrol:display" xml:lang="de">Malaysia</name>
+			<sameAs qcode="iso3166-1a3:MYS"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9836"/>
+			<name role="nrol:full" xml:lang="de">Republik Zypern</name>
+			<name role="nrol:display" xml:lang="de">Zypern</name>
+			<sameAs qcode="iso3166-1a3:CYP"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7151"/>
+			<name role="nrol:full" xml:lang="de">Republik Botsuana</name>
+			<name role="nrol:display" xml:lang="de">Botsuana</name>
+			<sameAs qcode="iso3166-1a3:BWA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7056"/>
+			<name role="nrol:display" xml:lang="de">Paraguay</name>
+			<name role="nrol:full" xml:lang="de">Republik Paraguay</name>
+			<sameAs qcode="iso3166-1a3:PRY"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7053"/>
+			<name role="nrol:display" xml:lang="de">Kolumbien</name>
+			<name role="nrol:full" xml:lang="de">Republik Kolumbien</name>
+			<sameAs qcode="iso3166-1a3:COL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6969"/>
+			<name role="nrol:display" xml:lang="de">St. Lucia</name>
+			<name role="nrol:full" xml:lang="de">St. Lucia</name>
+			<sameAs qcode="iso3166-1a3:LCA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6968"/>
+			<name role="nrol:display" xml:lang="de">St. Vincent und die Grenadinen</name>
+			<name role="nrol:full" xml:lang="de">St. Vincent und die Grenadinen</name>
+			<sameAs qcode="iso3166-1a3:VCT"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7054"/>
+			<name role="nrol:full" xml:lang="de">Republik Tadschikistan</name>
+			<name role="nrol:display" xml:lang="de">Tadschikistan</name>
+			<sameAs qcode="iso3166-1a3:TJK"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6963"/>
+			<name role="nrol:full" xml:lang="de">Unabhängiger Staat Papua-Neuguinea</name>
+			<name role="nrol:display" xml:lang="de">Papua-Neuguinea</name>
+			<sameAs qcode="iso3166-1a3:PNG"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6962"/>
+			<name role="nrol:full" xml:lang="de">Rumänien</name>
+			<name role="nrol:display" xml:lang="de">Rumänien</name>
+			<sameAs qcode="iso3166-1a3:ROU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6965"/>
+			<name role="nrol:full" xml:lang="de">Königreich Bahrain</name>
+			<name role="nrol:display" xml:lang="de">Bahrain</name>
+			<sameAs qcode="iso3166-1a3:BHR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7057"/>
+			<name role="nrol:display" xml:lang="de">Panama</name>
+			<name role="nrol:full" xml:lang="de">Republik Panama</name>
+			<sameAs qcode="iso3166-1a3:PAN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:6964"/>
+			<name role="nrol:full" xml:lang="de">Staat Israel</name>
+			<name role="nrol:display" xml:lang="de">Israel</name>
+			<sameAs qcode="iso3166-1a3:ISR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7158"/>
+			<name role="nrol:full" xml:lang="de">Bosnien und Herzegowina</name>
+			<name role="nrol:display" xml:lang="de">Bosnien-Herzegowina</name>
+			<sameAs qcode="iso3166-1a3:BIH"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7159"/>
+			<name role="nrol:display" xml:lang="de">Albanien</name>
+			<name role="nrol:full" xml:lang="de">Republik Albanien</name>
+			<sameAs qcode="iso3166-1a3:ALB"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:9939"/>
+			<name role="nrol:display" xml:lang="de">Senegal</name>
+			<name role="nrol:full" xml:lang="de">Republik Senegal</name>
+			<sameAs qcode="iso3166-1a3:SEN"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7156"/>
+			<name role="nrol:display" xml:lang="de">Saudi-Arabien</name>
+			<name role="nrol:full" xml:lang="de">Königreich Saudi-Arabien</name>
+			<sameAs qcode="iso3166-1a3:SAU"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7157"/>
+			<name role="nrol:full" xml:lang="de">Republik Äquatorialguinea</name>
+			<name role="nrol:display" xml:lang="de">Äquatorialguinea</name>
+			<sameAs qcode="iso3166-1a3:GNQ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7051"/>
+			<name role="nrol:full" xml:lang="de">Republik Suriname</name>
+			<name role="nrol:display" xml:lang="de">Suriname</name>
+			<sameAs qcode="iso3166-1a3:SUR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7154"/>
+			<name role="nrol:full" xml:lang="de">Königreich Swasiland</name>
+			<name role="nrol:display" xml:lang="de">Swasiland</name>
+			<sameAs qcode="iso3166-1a3:SWZ"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7155"/>
+			<name role="nrol:display" xml:lang="de">Palästinensische Autonomiegebiete</name>
+			<name role="nrol:full" xml:lang="de">Palästinensische Autonomiegebiete</name>
+			<sameAs qcode="iso3166-1a3:PSE"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7052"/>
+			<name role="nrol:display" xml:lang="de">Ruanda</name>
+			<name role="nrol:full" xml:lang="de">Republik Ruanda</name>
+			<sameAs qcode="iso3166-1a3:RWA"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7152"/>
+			<name role="nrol:full" xml:lang="de">Königreich Norwegen</name>
+			<name role="nrol:display" xml:lang="de">Norwegen</name>
+			<sameAs qcode="iso3166-1a3:NOR"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7153"/>
+			<name role="nrol:full" xml:lang="de">Neuseeland</name>
+			<name role="nrol:display" xml:lang="de">Neuseeland</name>
+			<sameAs qcode="iso3166-1a3:NZL"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpadokudbgeo:7050"/>
+			<name role="nrol:full" xml:lang="de">Russische Föderation</name>
+			<name role="nrol:display" xml:lang="de">Russland</name>
+			<sameAs qcode="iso3166-1a3:RUS"/>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpadokudbgeo" uri="http://g2.dpa.com/cv/dokudbgeo/"><definition>TODO</definition><name>dpadokudbgeo</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:audience" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-05-11T13:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Zielgruppen (audiences)</title>
+		<edNote>Die audiences / Zielgruppen identifizieren die Plattform-dpa-news-Seiten</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>dpa Zielgruppen (audiences)</headline>
+	</contentMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:top"/>
+			<name role="nrol:full">Topthemen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:pol"/>
+			<name role="nrol:full">Politik</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:eco"/>
+			<name role="nrol:full">Wirtschaft</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:pan"/>
+			<name role="nrol:full">Panorama</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:cul"/>
+			<name role="nrol:full">Kultur</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:sci"/>
+			<name role="nrol:full">Wissen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:net"/>
+			<name role="nrol:full">Netzwelt</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-10-11T13:00:00+01:00" qcode="dpaaudience:bay"/>
+			<name role="nrol:full">Bayern</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:brb"/>
+			<name role="nrol:full">Berlin/Brandenburg</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:hes"/>
+			<name role="nrol:full">Hessen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:mbv"/>
+			<name role="nrol:full">Mecklenburg-Vorpommern</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:nsb"/>
+			<name role="nrol:full">Niedersachsen/Bremen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:hsh"/>
+			<name role="nrol:full">Hamburg/Schleswig-Holstein</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:nwf"/>
+			<name role="nrol:full">Nordrhein-Westfalen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:rhs"/>
+			<name role="nrol:full">Rheinland-Pfalz/Saarland</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:san"/>
+			<name role="nrol:full">Sachsen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:aht"/>
+			<name role="nrol:full">Sachsen-Anhalt</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:bwg"/>
+			<name role="nrol:full">Südwest</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2011-05-11T13:00:00+01:00" qcode="dpaaudience:thg"/>
+			<name role="nrol:full">Thüringen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId created="2012-02-21T13:00:00+01:00" qcode="dpaaudience:tmn"/>
+			<name role="nrol:full">Themendienst</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:public"/>
+			<name role="nrol:full" xml:lang="de">öffentlich</name>
+			<name role="nrol:full" xml:lang="en">public</name>
+			<definition>Unbestimmte öffentliche Zielgruppe</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:wm-2014-es"/>
+			<name role="nrol:full">WM-2014-SPANISH</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:wm-2014-en"/>
+			<name role="nrol:full">WM-2014-ENGLISH</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:features_en"/>
+			<name role="nrol:full">Features_EN</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:agrar"/>
+			<name role="nrol:full">Agrar</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:intl-pub"/>
+			<name role="nrol:full">International-Public</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:foreign"/>
+			<name role="nrol:full">Auswärtiges</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:trade"/>
+			<name role="nrol:full">Handel</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:research"/>
+			<name role="nrol:full">Forschung</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:nachrichtenchefs"/>
+			<name role="nrol:full">Nachrichtenchefs</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:market"/>
+			<name role="nrol:full">Binnenmarkt</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:features_en-pub"/>
+			<name role="nrol:full">Features_EN-Public</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:intl"/>
+			<name role="nrol:full">International</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:special"/>
+			<name role="nrol:full">Spezial</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:deu"/>
+			<name role="nrol:full">deutsch</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:mobility"/>
+			<name role="nrol:full">Mobilität</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:environment"/>
+			<name role="nrol:full">Umwelt</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:finance"/>
+			<name role="nrol:full">Finanzen</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:asia"/>
+			<name role="nrol:full">Asia</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:ap-news"/>
+			<name role="nrol:full">AP News</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:sports-pub"/>
+			<name role="nrol:full">Sports-Public</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:justice"/>
+			<name role="nrol:full">Justiz</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:dig-agenda"/>
+			<name role="nrol:full">Digitale Agenda</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:asia-pub"/>
+			<name role="nrol:full">Asia-Public</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:social"/>
+			<name role="nrol:full">Soziales</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:pic"/>
+			<name role="nrol:full">Foto</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:dos"/>
+			<name role="nrol:full">Dossier</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:energy"/>
+			<name role="nrol:full">Energie</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:sports"/>
+			<name role="nrol:full">Sports</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:consumer"/>
+			<name role="nrol:full">Verbraucher</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:eng"/>
+			<name role="nrol:full">englisch</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:spo"/>
+			<name role="nrol:full">Sport</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:sport-es"/>
+			<name role="nrol:full">sports-es</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:esp"/>
+			<name role="nrol:full">spanisch</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept modified="2015-03-05T09:12:00+01:00">
+			<conceptId qcode="dpaaudience:summit"/>
+			<name role="nrol:full">summit</name>
+		</concept>
+		<concept modified="2015-03-05T09:12:00+01:00">
+			<conceptId qcode="dpaaudience:service"/>
+			<name role="nrol:full">service</name>
+		</concept>
+		<concept modified="2015-03-05T09:13:00+01:00">
+			<conceptId qcode="dpaaudience:whoiswho"/>
+			<name role="nrol:full">whoiswho</name>
+		</concept>
+		<concept modified="2015-08-25T14:18:00+02:00">
+			<conceptId qcode="dpaaudience:home"/>
+			<name role="nrol:full">Home</name>
+		</concept>
+		<concept modified="2015-09-08T14:22:00+02:00">
+			<conceptId qcode="dpaaudience:newslab"/>
+			<name role="nrol:full">Newslab</name>
+		</concept>
+		<concept modified="2016-01-26T09:50:00+01:00">
+			<conceptId qcode="dpaaudience:story"/>
+			<name role="nrol:full">Story</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:features_es"/>
+			<name role="nrol:full">Features_ES</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:ninos_es"/>
+			<name role="nrol:full">Ninos_ES</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:consumidor_es"/>
+			<name role="nrol:full">Consumidor_ES</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:trends_en"/>
+			<name role="nrol:full">Trends_EN</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:special_en"/>
+			<name role="nrol:full">Special_EN</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:copa_america"/>
+			<name role="nrol:full">Copa America</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:juegos_olimpicos"/>
+			<name role="nrol:full">Juegos Olimpicos</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:eurocopa"/>
+			<name role="nrol:full">Eurocopa</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:olympics"/>
+			<name role="nrol:full">Olympics</name>
+			<definition>ToDo</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaaudience:euro_2016"/>
+			<name role="nrol:full">Euro 2016</name>
+			<definition>ToDo</definition>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaaudience" uri="http://g2.dpa.com/cv/audience/">
+		<definition>TODO</definition>
+		<name>dpaaudience</name>
+	</schemeMeta>
+</knowledgeItem>

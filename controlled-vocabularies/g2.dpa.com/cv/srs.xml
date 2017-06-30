@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:srs" standard="NewsML-G2" standardversion="2.12" version="13" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:IPTC"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-05-06T17:47:30+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept id="dpasrs06000000">
+			<conceptId qcode="dpasrs:06000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">ENV</name>
+			<name role="nrol:mnemonic" xml:lang="de">UMW</name>
+			<name role="nrol:alternate" xml:lang="en">ENI</name>
+			<name role="nrol:full" xml:lang="en">Environmental Issues</name>
+			<name role="nrol:full" xml:lang="de">Umwelt</name>
+			<name role="nrol:full" xml:lang="es">medio ambiente</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">بيئة</name>
+			<definition xml:lang="en">All aspects of protection, damage, and condition of the ecosystem of the planet earth and its surroundings.</definition>
+			<sameAs qcode="subj:06000000"/>
+			<sameAs qcode="medtop:06000000"/>
+		</concept>
+		<concept id="dpasrs09000000">
+			<conceptId qcode="dpasrs:09000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">LAB</name>
+			<name role="nrol:mnemonic" xml:lang="de">SOZ</name>
+			<name role="nrol:alternate" xml:lang="en">LBR</name>
+			<name role="nrol:full" xml:lang="en">Labour</name>
+			<name role="nrol:full" xml:lang="de">Arbeit, Soziales</name>
+			<name role="nrol:full" xml:lang="es">mano de obra</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">عمل</name>
+			<definition xml:lang="en">Social aspects, organisations, rules and conditions affecting the employment of human effort for the generation of wealth or the provision of services and the economic support of the unemployed.</definition>
+			<sameAs qcode="subj:09000000"/>
+			<sameAs qcode="medtop:09000000"/>
+		</concept>
+		<concept id="dpasrs11000000">
+			<conceptId qcode="dpasrs:11000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">POL</name>
+			<name role="nrol:mnemonic" xml:lang="de">POL</name>
+			<name role="nrol:full" xml:lang="en">Politics</name>
+			<name role="nrol:full" xml:lang="de">Politik</name>
+			<name role="nrol:full" xml:lang="es">política</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">سياسة</name>
+			<definition xml:lang="en">Local, regional, national and international exercise of power, or struggle for power, and the relationships between governing bodies and states.</definition>
+			<sameAs qcode="medtop:11000000"/>
+			<sameAs qcode="subj:11000000"/>
+		</concept>
+		<concept id="dpasrs12000000">
+			<conceptId qcode="dpasrs:12000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">REL</name>
+			<name role="nrol:mnemonic" xml:lang="de">REL</name>
+			<name role="nrol:alternate" xml:lang="en">RLB</name>
+			<name role="nrol:full" xml:lang="en">Religion and Belief</name>
+			<name role="nrol:full" xml:lang="de">Religion, Weltanschauung</name>
+			<name role="nrol:full" xml:lang="es">religión y credos</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">ديانة ومعتقدات</name>
+			<definition xml:lang="en">All aspects of human existence involving theology, philosophy, ethics and spirituality.</definition>
+			<sameAs qcode="subj:12000000"/>
+			<sameAs qcode="medtop:12000000"/>
+		</concept>
+		<concept id="dpasrs16000000">
+			<conceptId qcode="dpasrs:16000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">WAR</name>
+			<name role="nrol:mnemonic" xml:lang="de">KKK</name>
+			<name role="nrol:alternate" xml:lang="en">UCW</name>
+			<name role="nrol:full" xml:lang="en">Unrest, Conflicts and War</name>
+			<name role="nrol:full" xml:lang="de">Krisen, Krieg, Konflikte</name>
+			<name role="nrol:full" xml:lang="es">disturbios, conflictos y guerra</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">نزاعات،  حرب وسلام</name>
+			<definition xml:lang="en">Acts of socially or politically motivated protest and/or violence.</definition>
+			<sameAs qcode="subj:16000000"/>
+			<sameAs qcode="medtop:16000000"/>
+		</concept>
+		<concept id="dpasrs04000000">
+			<conceptId qcode="dpasrs:04000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">FIN</name>
+			<name role="nrol:mnemonic" xml:lang="de">WIR</name>
+			<name role="nrol:alternate" xml:lang="en">EBF</name>
+			<name role="nrol:short" xml:lang="en">Economy</name>
+			<name role="nrol:short" xml:lang="de">Wirtschaft</name>
+			<name role="nrol:full" xml:lang="en">Economy, Business and Finance</name>
+			<name role="nrol:full" xml:lang="de">Wirtschaft und Finanzen</name>
+			<name role="nrol:full" xml:lang="es">economía, negocios y finanzas</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">اقتصاد، اعمال ومال</name>			
+			<definition xml:lang="en">All matters concerning the planning, production and exchange of wealth.</definition>
+			<sameAs qcode="medtop:04000000"/>
+			<sameAs qcode="subj:04000000"/>
+		</concept>
+		<concept id="dpasrs02000000">
+			<conceptId qcode="dpasrs:02000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">CLJ</name>
+			<name role="nrol:mnemonic" xml:lang="de">JUS</name>
+			<name role="nrol:full" xml:lang="en">Crime, Law and Justice</name>
+			<name role="nrol:full" xml:lang="de">Justiz, Kriminalität</name>
+			<name role="nrol:full" xml:lang="es">policía y justicia</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">جريمة، قانون وقضاء</name>
+			<definition xml:lang="en">Establishment and/or statement of the rules of behaviour in society, the enforcement of these rules, breaches of the rules and the punishment of offenders. Organisations and bodies involved in these activities.</definition>
+			<sameAs qcode="medtop:02000000"/>
+			<sameAs qcode="subj:02000000"/>
+		</concept>
+		<concept id="dpasrs03000000">
+			<conceptId qcode="dpasrs:03000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">DIS</name>
+			<name role="nrol:mnemonic" xml:lang="de">KAT</name>
+			<name role="nrol:alternate" xml:lang="en">DIA</name>
+			<name role="nrol:full" xml:lang="en">Disasters and Accidents</name>
+			<name role="nrol:full" xml:lang="de">Katastrophe und Unglück</name>
+			<name role="nrol:full" xml:lang="es">catástrofes y accidentes</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">كوارث وحوادث</name>			
+			<definition xml:lang="en">Man made and natural events resulting in loss of life or injury to living creatures and/or damage to inanimate objects and property.</definition>
+			<sameAs qcode="medtop:03000000"/>
+			<sameAs qcode="subj:03000000"/>
+		</concept>
+		<concept id="dpasrs05000000">
+			<conceptId qcode="dpasrs:05000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">EDU</name>
+			<name role="nrol:mnemonic" xml:lang="de">ERZ</name>
+			<name role="nrol:full" xml:lang="en">Education</name>
+			<name role="nrol:full" xml:lang="de">Erziehung, Ausbildung</name>
+			<name role="nrol:full" xml:lang="es">educación</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">تربية</name>			
+			<definition xml:lang="en">All aspects of furthering knowledge of human individuals from birth to death.</definition>
+			<sameAs qcode="medtop:05000000"/>
+			<sameAs qcode="subj:05000000"/>
+		</concept>
+		<concept id="dpasrs07000000">
+			<conceptId qcode="dpasrs:07000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">HTH</name>
+			<name role="nrol:mnemonic" xml:lang="de">MED</name>
+			<name role="nrol:alternate" xml:lang="en">HEA</name>
+			<name role="nrol:full" xml:lang="en">Health</name>
+			<name role="nrol:full" xml:lang="de">Medizin, Gesundheit</name>
+			<name role="nrol:full" xml:lang="es">salud</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">صحة</name>
+			<definition xml:lang="en">All aspects pertaining to the physical and mental welfare of human beings.</definition>
+			<sameAs qcode="subj:07000000"/>
+			<sameAs qcode="medtop:07000000"/>
+		</concept>
+		<concept id="dpasrs08000000">
+			<conceptId qcode="dpasrs:08000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">HUM</name>
+			<name role="nrol:mnemonic" xml:lang="de">VER</name>
+			<name role="nrol:alternate" xml:lang="en">HUI</name>
+			<name role="nrol:full" xml:lang="en">Human Interest</name>
+			<name role="nrol:full" xml:lang="de">Vermischtes</name>
+			<name role="nrol:full" xml:lang="es">interés humano</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">قضية انسانية</name>
+			<definition xml:lang="en">Lighter items about individuals, groups, animals or objects.</definition>
+			<sameAs qcode="medtop:08000000"/>
+			<sameAs qcode="subj:08000000"/>
+		</concept>
+		<concept id="dpasrs10000000">
+			<conceptId qcode="dpasrs:10000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">LIF</name>
+			<name role="nrol:mnemonic" xml:lang="de">FRZ</name>
+			<name role="nrol:alternate" xml:lang="en">LFL</name>
+			<name role="nrol:full" xml:lang="en">Lifestyle and Leisure</name>
+			<name role="nrol:full" xml:lang="de">Freizeit, Modernes Leben</name>
+			<name role="nrol:full" xml:lang="es">estilo de vida y tiempo libre</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">حياة يومية وترفيه</name>
+			<definition xml:lang="en">Activities undertaken for pleasure, relaxation or recreation outside paid employment, including eating and travel.</definition>
+			<sameAs qcode="medtop:10000000"/>
+			<sameAs qcode="subj:10000000"/>
+		</concept>
+		<concept id="dpasrs13000000">
+			<conceptId qcode="dpasrs:13000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">SCI</name>
+			<name role="nrol:mnemonic" xml:lang="de">WIS</name>
+			<name role="nrol:alternate" xml:lang="en">SCT</name>
+			<name role="nrol:full" xml:lang="en">Science and Technology</name>
+			<name role="nrol:full" xml:lang="de">Wissenschaft, Technik, Forschung</name>
+			<name role="nrol:full" xml:lang="es">ciencia y tecnología</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">علوم وتكنولوجيا</name>
+			<definition xml:lang="en">All aspects pertaining to human understanding of nature and the physical world and the development and application of this knowledge.</definition>
+			<sameAs qcode="subj:13000000"/>
+			<sameAs qcode="medtop:13000000"/>
+		</concept>
+		<concept id="dpasrs14000000">
+			<conceptId qcode="dpasrs:14000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">SOI</name>
+			<name role="nrol:mnemonic" xml:lang="de">GES</name>
+			<name role="nrol:full" xml:lang="en">Social Issues</name>
+			<name role="nrol:full" xml:lang="de">Gesellschaft, Bevölkerung</name>
+			<name role="nrol:full" xml:lang="es">asuntos sociales</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">قضايا اجتماعية</name>
+			<definition xml:lang="en">Aspects of the behaviour of humans affecting the quality of life.</definition>
+			<sameAs qcode="subj:14000000"/>
+			<sameAs qcode="medtop:14000000"/>
+		</concept>
+		<concept id="dpasrs17000000">
+			<conceptId qcode="dpasrs:17000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">WEA</name>
+			<name role="nrol:mnemonic" xml:lang="de">WET</name>
+			<name role="nrol:full" xml:lang="en">Weather</name>
+			<name role="nrol:full" xml:lang="de">Wetter</name>
+			<name role="nrol:full" xml:lang="es">meteorología</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">طقس</name>
+			<definition xml:lang="en">The study, reporting and prediction of meteorological phenomena.</definition>
+			<sameAs qcode="subj:17000000"/>
+			<sameAs qcode="medtop:17000000"/>
+		</concept>
+		<concept id="dpasrs01000000">
+			<conceptId qcode="dpasrs:01000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">ACE</name>
+			<name role="nrol:mnemonic" xml:lang="de">KUL</name>
+			<name role="nrol:full" xml:lang="en">Arts, Culture and Entertainment</name>
+			<name role="nrol:full" xml:lang="de">Kultur, Kunst, Unterhaltung</name>
+			<name role="nrol:full" xml:lang="es">arte, cultura y espectáculos</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">فنون، ثقافة وترفيه</name>
+			<definition xml:lang="en">Matters pertaining to the advancement and refinement of the human mind, of interests, skills, tastes and emotions</definition>
+			<sameAs qcode="subj:01000000"/>
+			<sameAs qcode="medtop:01000000"/>
+		</concept>
+		<concept id="dpasrs15000000">
+			<conceptId qcode="dpasrs:15000000"/>
+			<name role="nrol:mnemonic" xml:lang="en">SPO</name>
+			<name role="nrol:mnemonic" xml:lang="de">SPO</name>
+			<name role="nrol:full" xml:lang="en">Sports</name>
+			<name role="nrol:full" xml:lang="de">Sport</name>
+			<name role="nrol:full" xml:lang="es">deporte</name>
+			<name role="nrol:full" xml:lang="ar" dir="rtl">رياضة</name>
+			<definition xml:lang="en">Competitive effort involving physical effort. Organisations and bodies involved in these activities.</definition>
+			<sameAs qcode="subj:15000000"/>
+			<sameAs qcode="medtop:15000000"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpasrs" uri="http://g2.dpa.com/cv/srs/">
+		<definition>TODO</definition>
+		<name>dpasrs</name>
+	</schemeMeta>
+</knowledgeItem>

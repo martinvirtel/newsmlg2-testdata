@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:dpaimagerendition" standard="NewsML-G2" standardversion="2.4" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-04-02T14:59:10+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa image formats</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaimagerendition:3_4"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">3_4</name>
+			<name role="nrol:mnemonic">3_4</name>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="ratio" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:4_3"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">4_3</name>
+			<name role="nrol:short">4_3</name>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="ratio" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">large</name>
+			<name role="nrol:short">large</name>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept id="dpaimagerenditionlarge_1280_720_zoomout">
+			<conceptId created="2013-04-02T11:50:00+02:00" qcode="dpaimagerendition:large_1280_720_zoomout"/>
+			<name role="nrol:mnemonic">large_1280_720_zoomout</name>
+			<name role="nrol:sort">large_16_9</name>
+			<note>Für MSN und Newsshow</note>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="1280" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="720" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_3_4"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">large_3_4</name>
+			<name role="nrol:short">large_3_4</name>
+			<broader qcode="dpaimagerendition:3_4"/>
+			<broader qcode="dpaimagerendition:large"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_3_4_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_3_4_zoomin</name>
+			<name role="nrol:mnemonic">large_3_4_zoomin</name>
+			<related rel="dparel:imageheight" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_3_4_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_3_4_zoomout</name>
+			<name role="nrol:mnemonic">large_3_4_zoomout</name>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_4_3"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_4_3</name>
+			<name role="nrol:mnemonic">large_4_3</name>
+			<broader qcode="dpaimagerendition:4_3"/>
+			<broader qcode="dpaimagerendition:large"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_1280_960_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_4_3</name>
+			<name role="nrol:mnemonic">large_1280_960_zoomout</name>
+			<note>für MSN</note>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="960" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="1280" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_4_3_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_4_3_zoomin</name>
+			<name role="nrol:mnemonic">large_4_3_zoomin</name>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_4_3_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">large_4_3_zoomout</name>
+			<name role="nrol:mnemonic">large_4_3_zoomout</name>
+			<related rel="dparel:imagewidth" value="800" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="600" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">large_zoomin</name>
+			<name role="nrol:short">large_zoomin</name>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:large_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">large_zoomout</name>
+			<name role="nrol:short">large_zoomout</name>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium</name>
+			<name role="nrol:mnemonic">medium</name>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_324_192_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_324_192_zoomout</name>
+			<name role="nrol:short">medium_324_192</name>
+			<note>für Teletext</note>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="192" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="324" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_276_155_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_276_155_zoomout</name>
+			<name role="nrol:short">medium_276_155</name>
+			<note>für Teletext</note>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="155" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="276" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_760_427_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_760_427_zoomout</name>
+			<name role="nrol:short">medium_16_9</name>
+			<note>für Wahlen</note>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="427" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="760" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_3_4"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium_3_4</name>
+			<name role="nrol:mnemonic">medium_3_4</name>
+			<broader qcode="dpaimagerendition:3_4"/>
+			<broader qcode="dpaimagerendition:medium"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_3_4_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_3_4_zoomin</name>
+			<name role="nrol:short">medium_3_4_zoomin</name>
+			<related rel="dparel:imagewidth" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_3_4_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium_3_4_zoomout</name>
+			<name role="nrol:mnemonic">medium_3_4_zoomout</name>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_4_3"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium_4_3</name>
+			<name role="nrol:mnemonic">medium_4_3</name>
+			<broader qcode="dpaimagerendition:medium"/>
+			<broader qcode="dpaimagerendition:4_3"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_4_3_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_4_3_zoomin</name>
+			<name role="nrol:short">medium_4_3_zoomin</name>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_4_3_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium_4_3_zoomout</name>
+			<name role="nrol:mnemonic">medium_4_3_zoomout</name>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="300" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">medium_zoomin</name>
+			<name role="nrol:mnemonic">medium_zoomin</name>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:medium_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">medium_zoomout</name>
+			<name role="nrol:short">medium_zoomout</name>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="400" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:original"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">original</name>
+			<name role="nrol:mnemonic">original</name>
+			<related rel="dparel:imageformattype" value="original" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="original" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small</name>
+			<name role="nrol:mnemonic">small</name>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_16_9"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">small_16_9</name>
+			<name role="nrol:short">small_16_9</name>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="113" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_16_9_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">small_16_9_zoomin</name>
+			<name role="nrol:short">small_16_9_zoomin</name>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="113" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_16_9_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_16_9_zoomout</name>
+			<name role="nrol:mnemonic">small_16_9_zoomout</name>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="113" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_1_1"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">small_1_1</name>
+			<name role="nrol:short">small_1_1</name>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="1:1" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_1_1_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_1_1_zoomin</name>
+			<name role="nrol:mnemonic">small_1_1_zoomin</name>
+			<related rel="dparel:imageratio" value="1:1" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_1_1_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_1_1_zoomout</name>
+			<name role="nrol:mnemonic">small_1_1_zoomout</name>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="1:1" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_2"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_3_2</name>
+			<name role="nrol:mnemonic">small_3_2</name>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="133" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:2" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_2_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_3_2_zoomin</name>
+			<name role="nrol:mnemonic">small_3_2_zoomin</name>
+			<related rel="dparel:imageheight" value="133" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:2" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_2_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">small_3_2_zoomout</name>
+			<name role="nrol:short">small_3_2_zoomout</name>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:2" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="133" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_4"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_3_4</name>
+			<name role="nrol:mnemonic">small_3_4</name>
+			<broader qcode="dpaimagerendition:small"/>
+			<broader qcode="dpaimagerendition:3_4"/>
+			<related rel="dparel:imagewidth" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_4_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_3_4_zoomin</name>
+			<name role="nrol:mnemonic">small_3_4_zoomin</name>
+			<related rel="dparel:imagewidth" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_3_4_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_3_4_zoomout</name>
+			<name role="nrol:mnemonic">small_3_4_zoomout</name>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_4_3"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_4_3</name>
+			<name role="nrol:mnemonic">small_4_3</name>
+			<broader qcode="dpaimagerendition:4_3"/>
+			<broader qcode="dpaimagerendition:small"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_4_3_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_4_3_zoomin</name>
+			<name role="nrol:mnemonic">small_4_3_zoomin</name>
+			<related rel="dparel:imageheight" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_4_3_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_4_3_zoomout</name>
+			<name role="nrol:mnemonic">small_4_3_zoomout</name>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="150" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">small_zoomin</name>
+			<name role="nrol:mnemonic">small_zoomin</name>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:small_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">small_zoomout</name>
+			<name role="nrol:short">small_zoomout</name>
+			<related rel="dparel:imageheight" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="200" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">thumbnail</name>
+			<name role="nrol:mnemonic">thumbnail</name>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-always" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_250_140_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">thumbnail_250_140_zoomout</name>
+			<name role="nrol:short">thumbnail_16_9</name>
+			<note>für Wahlen</note>
+			<related rel="dparel:imageratio" value="16:9" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="141" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="260" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_3_4"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">thumbnail_3_4</name>
+			<name role="nrol:short">thumbnail_3_4</name>
+			<broader qcode="dpaimagerendition:3_4"/>
+			<broader qcode="dpaimagerendition:thumbnail"/>
+			<related rel="dparel:imagewidth" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_3_4_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">thumbnail_3_4_zoomin</name>
+			<name role="nrol:short">thumbnail_3_4_zoomin</name>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_3_4_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">thumbnail_3_4_zoomout</name>
+			<name role="nrol:mnemonic">thumbnail_3_4_zoomout</name>
+			<related rel="dparel:imageratio" value="3:4" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_4_3"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">thumbnail_4_3</name>
+			<name role="nrol:mnemonic">thumbnail_4_3</name>
+			<broader qcode="dpaimagerendition:thumbnail"/>
+			<broader qcode="dpaimagerendition:4_3"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="edited-sometimes" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_4_3_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">thumbnail_4_3_zoomin</name>
+			<name role="nrol:short">thumbnail_4_3_zoomin</name>
+			<related rel="dparel:imageheight" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_4_3_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">thumbnail_4_3_zoomout</name>
+			<name role="nrol:mnemonic">thumbnail_4_3_zoomout</name>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="size" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="60" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageratio" value="4:3" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_zoomin"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:short">thumbnail_zoomin</name>
+			<name role="nrol:mnemonic">thumbnail_zoomin</name>
+			<related rel="dparel:imagealgorithm" value="zoomin" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaimagerendition:thumbnail_zoomout"/>
+			<type qcode="dpatype:imagerendition"/>
+			<name role="nrol:mnemonic">thumbnail_zoomout</name>
+			<name role="nrol:short">thumbnail_zoomout</name>
+			<related rel="dparel:imageheight" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+			<related rel="dparel:imagealgorithm" value="zoomout" valuedatatype="xsi:string"/>
+			<related rel="dparel:imageformattype" value="box" valuedatatype="xsi:string"/>
+			<related rel="dparel:imagewidth" value="80" valuedatatype="xsi:nonNegativeInteger" valueunit="dimensionunit:pixels"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaimagerendition" uri="http://g2.dpa.com/cv/imagerendition/">
+		<definition>TODO</definition>
+		<name>dpaimagerendition</name>
+	</schemeMeta>
+</knowledgeItem>

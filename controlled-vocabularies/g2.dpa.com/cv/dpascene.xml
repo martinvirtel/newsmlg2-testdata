@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:scene" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-08-24T14:15:55+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpascn:1"/>
+			<name xml:lang="de">Porträt</name>
+			<name xml:lang="en">head_shot</name>
+			<sameAs qcode="scn:010100"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:2"/>
+			<name xml:lang="de">Halbfigur</name>
+			<name xml:lang="en">half_length</name>
+			<sameAs qcode="scn:010200"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:3"/>
+			<name xml:lang="de">ganze_Figur</name>
+			<name xml:lang="en">full_length</name>
+			<sameAs qcode="scn:010300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:4"/>
+			<name xml:lang="de">Profil</name>
+			<name xml:lang="en">profile</name>
+			<sameAs qcode="scn:010400"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:5"/>
+			<name xml:lang="de">Rückansicht</name>
+			<name xml:lang="en">back_view</name>
+			<sameAs qcode="scn:010500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:6"/>
+			<name xml:lang="de">Einzel</name>
+			<name xml:lang="en">single</name>
+			<sameAs qcode="scn:010600"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:7"/>
+			<name xml:lang="de">Paar</name>
+			<name xml:lang="en">couple</name>
+			<sameAs qcode="scn:010700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:8"/>
+			<name xml:lang="de">Zweiergruppe</name>
+			<name xml:lang="en">two</name>
+			<sameAs qcode="scn:010800"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:9"/>
+			<name xml:lang="de">Gruppe</name>
+			<name xml:lang="en">group</name>
+			<sameAs qcode="scn:010900"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:10"/>
+			<name xml:lang="de">Übersicht</name>
+			<name xml:lang="en">general_view</name>
+			<sameAs qcode="scn:011000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:11"/>
+			<name xml:lang="de">Panorama</name>
+			<name xml:lang="en">panoramic_view</name>
+			<sameAs qcode="scn:011100"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:12"/>
+			<name xml:lang="de">Luftaufnahme</name>
+			<name xml:lang="en">aerial_view</name>
+			<sameAs qcode="scn:011200"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:13"/>
+			<name xml:lang="de">Unterwasser</name>
+			<name xml:lang="en">under_water</name>
+			<sameAs qcode="scn:011300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:14"/>
+			<name xml:lang="de">Nachtaufnahme</name>
+			<name xml:lang="en">night_scene</name>
+			<sameAs qcode="scn:011400"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:15"/>
+			<name xml:lang="de">Satellitenaufnahme</name>
+			<name xml:lang="en">satellite</name>
+			<sameAs qcode="scn:011500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:16"/>
+			<name xml:lang="de">Außenaufnahme</name>
+			<name xml:lang="en">exterior</name>
+			<sameAs qcode="scn:011600"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:17"/>
+			<name xml:lang="de">Innenaufnahme</name>
+			<name xml:lang="en">interior</name>
+			<sameAs qcode="scn:011700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:18"/>
+			<name xml:lang="de">Nahaufnahme</name>
+			<name xml:lang="en">close_up</name>
+			<sameAs qcode="scn:011800"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:19"/>
+			<name xml:lang="de">Aktion</name>
+			<name xml:lang="en">action</name>
+			<sameAs qcode="scn:011900"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:20"/>
+			<name xml:lang="de">Auftritt</name>
+			<name xml:lang="en">performing</name>
+			<sameAs qcode="scn:012000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:21"/>
+			<name xml:lang="de">Pose</name>
+			<name xml:lang="en">posing</name>
+			<sameAs qcode="scn:012100"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:22"/>
+			<name xml:lang="de">Symbolbild</name>
+			<name xml:lang="en">symbolic</name>
+			<sameAs qcode="scn:012200"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:23"/>
+			<name xml:lang="de">Filmszene</name>
+			<name xml:lang="en">movie_scene</name>
+			<sameAs qcode="scn:012400"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:24"/>
+			<name xml:lang="de">Aufführung</name>
+			<name xml:lang="en">act</name>
+			<broader qcode="dpascn:19"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:25" retired="2011-08-01"/>
+			<name xml:lang="de">dpa</name>
+			<name xml:lang="en">dpa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:26" retired="2011-08-01"/>
+			<name xml:lang="de">entfällt</name>
+			<name xml:lang="en">none</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:27"/>
+			<name xml:lang="de">Eyecatcher</name>
+			<name xml:lang="en">eyecatcher</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:28"/>
+			<name xml:lang="de">Feature</name>
+			<name xml:lang="en">feature</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:29"/>
+			<name xml:lang="de">Froschperspektive</name>
+			<name xml:lang="en">worms_eye_view</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:30"/>
+			<name xml:lang="de">Illustration</name>
+			<name xml:lang="en">illustration</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:31"/>
+			<name xml:lang="de">Kombo</name>
+			<name xml:lang="en">combo</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:32"/>
+			<name xml:lang="de">Objekt</name>
+			<name xml:lang="en">object</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:33"/>
+			<name xml:lang="de">Perspektive</name>
+			<name xml:lang="en">perspective</name>
+			<broader qcode="dpascn:11"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:34"/>
+			<name xml:lang="de">Polizeifoto</name>
+			<name xml:lang="en">police</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:35"/>
+			<name xml:lang="de">Seitenansicht</name>
+			<name xml:lang="en">side_view</name>
+			<narrower qcode="dpascn:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:36"/>
+			<name xml:lang="de">Studioaufnahme</name>
+			<name xml:lang="en">studio</name>
+			<narrower qcode="dpascn:17"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:37"/>
+			<name xml:lang="de">Vogelperspektive</name>
+			<name xml:lang="en">birds_eye_view</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:38"/>
+			<name xml:lang="de">Ausgefallenes</name>
+			<name xml:lang="en">off_beat</name>
+		</concept>
+		<!-- -->
+		<concept>
+			<conceptId qcode="dpascn:39"/>
+			<name xml:lang="de">Archivbild</name>
+			<name xml:lang="en">archive</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpascn:40"/>
+			<name xml:lang="de">Handout</name>
+			<name xml:lang="en">handout</name>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpascn" uri="http://g2.dpa.com/cv/dpascene/"><definition>TODO</definition><name>dpascn</name></schemeMeta></knowledgeItem>

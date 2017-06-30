@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:apgenre" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-11-04T12:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>G2 Abbildung der AP Genres</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-apgenre:1"/>
+			<name xml:lang="en">Advisory</name>
+			<definition xml:lang="en">A message to customers and members, not for publication.</definition>
+			<sameAs qcode="dpatextgenre:27"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:2"/>
+			<name xml:lang="en">Agate</name>
+			<definition xml:lang="en">Statistical sports and financial market data.</definition>
+			<sameAs qcode="dpatextgenre:44"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:3"/>
+			<name xml:lang="en">Analysis</name>
+			<definition xml:lang="en">Stories specifically headlined "AP News Analysis" with rules already established by News.</definition>
+			<sameAs qcode="dpatextgenre:41"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:4"/>
+			<name xml:lang="en">AP Impact</name>
+			<definition xml:lang="en">A story designated by a senior editor as an "AP Impact" story.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:5"/>
+			<name xml:lang="en">Blog</name>
+			<definition xml:lang="en">Content that is presented as a web log, with content created by one or more people, usually maintained by one person. May provide commentary or news on a particular subject or may function as a more personal online diary.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:6"/>
+			<name xml:lang="en">Column</name>
+			<definition xml:lang="en">A regular feature written by the same person or a substitute about a specific subject or topic, with or without an opinion included.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:7"/>
+			<name xml:lang="en">Daybook</name>
+			<definition xml:lang="en">A list of upcoming events.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:8"/>
+			<name xml:lang="en">Enterprise/Feature</name>
+			<definition xml:lang="en">An AP story or member pick-up that is not focused on a breaking news angle, but is a feature, workup or trend story.</definition>
+			<sameAs qcode="dpatextgenre:19"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:9"/>
+			<name xml:lang="en">ExtendedHeadlinePackage</name>
+			<definition xml:lang="en">Long headlines with links to full text of the top stories, as chosen by editors in a particular category.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:10"/>
+			<name xml:lang="en">Fixture</name>
+			<definition xml:lang="en">An item filed with daily, weekly or monthly regularity (for example, Farm Scene). Excludes "Columns."</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:11"/>
+			<name xml:lang="en">Game Story</name>
+			<definition xml:lang="en">Sports stories about a particular game or sporting event.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:12"/>
+			<name xml:lang="en">HeadlinePackage</name>
+			<definition xml:lang="en">Short headlines with links to full text of the top stories, as chosen by editors in a particular category.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:13"/>
+			<name xml:lang="en">Lookahead</name>
+			<definition xml:lang="en">A story previewing an upcoming, scheduled event.</definition>
+			<sameAs qcode="dpatextgenre:24"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:14"/>
+			<name xml:lang="en">NewsBrief</name>
+			<definition xml:lang="en">The first two paragraphs and links to full text and associated photos of the top stories, as chosen by editors in a particular category.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:15"/>
+			<name xml:lang="en">Obituary</name>
+			<definition xml:lang="en">A spot story about the death of a person.</definition>
+			<sameAs qcode="dpatextgenre:42"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:16"/>
+			<name xml:lang="en">Poll/Survey</name>
+			<definition xml:lang="en">Raw data to support a poll or survey.</definition>
+			<sameAs qcode="dpatextgenre:22"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:17"/>
+			<name xml:lang="en">Press Release</name>
+			<definition xml:lang="en">A text or multi-media item providing non-journalistic information to the news media from a PR, government or corporate organization.</definition>
+			<sameAs qcode="dpatextgenre:15"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:18"/>
+			<name xml:lang="en">Profile</name>
+			<definition xml:lang="en">A biography of a person or a company.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:19"/>
+			<name xml:lang="en">Review</name>
+			<definition xml:lang="en">A review of a book, play, concert or other cultural event.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:20"/>
+			<name xml:lang="en">ShortNewsBrief</name>
+			<definition xml:lang="en">The first paragraph and links to full text and associated photos of the top stories, as chosen by editors in a particular category.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:21"/>
+			<name xml:lang="en">Sidebar</name>
+			<definition xml:lang="en">A secondary item in support of another story offering background, secondary angles or history.</definition>
+			<sameAs qcode="dpatextgenre:7"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:22"/>
+			<name xml:lang="en">Sports Scores</name>
+			<definition xml:lang="en">An item containing in-progress or end of game scoring statistical information.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:23"/>
+			<name xml:lang="en">Spot Development</name>
+			<definition xml:lang="en">A report on an event or news item that happened today, or that we are learning about today that should be reported ASAP. As much as 90% of Associated Press content falls into this category.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:24"/>
+			<name xml:lang="en">Transcript/Verbatim</name>
+			<definition xml:lang="en">Transcripts or excerpts.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apgenre:25"/>
+			<name xml:lang="en">Weather Forecast</name>
+			<definition xml:lang="en">A prediction of future weather.</definition>
+		</concept>
+	</conceptSet>
+
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-apgenre" uri="http://g2.dpa.com/cv/dpax-apgenre/"><definition>TODO</definition><name>dpax-apgenre</name></schemeMeta></knowledgeItem>

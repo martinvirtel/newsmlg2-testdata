@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:inesqueue" standard="NewsML-G2" standardversion="2.12" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2015-07-09T17:47:30+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpainesqueue:1"/>
+			<name role="dpanrol:gui" xml:lang="en">Kinder</name>
+			<related rel="dparel:inesqueue" value="UMWH" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:2"/>
+			<name role="nrol:display" xml:lang="de">EU-insight (deutsch)</name>
+			<related rel="dparel:inesqueue" value="Kinder" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:3"/>
+			<name role="nrol:display" xml:lang="de">AP-Luftfahrt</name>
+			<related rel="dparel:inesqueue" value="Select-AP-Luftfahrt" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:4"/>
+			<name role="nrol:display" xml:lang="de">IT, Computer (Technologie)</name>
+			<related rel="dparel:inesqueue" value="Select-AP-Technologie" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:5"/>
+			<name role="nrol:display" xml:lang="de">AP-Terrorismus</name>
+			<related rel="dparel:inesqueue" value="Select-AP-Terrorismus" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:6"/>
+			<name role="nrol:display" xml:lang="de">AP-Krisen</name>
+			<related rel="dparel:inesqueue" value="Select-AP-Krisen" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:7"/>
+			<name role="nrol:display" xml:lang="de">AP-Automobil</name>
+			<related rel="dparel:inesqueue" value="Select-AP-Automobil" valuedatatype="string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpainesqueue:8"/>
+			<name role="dpanrol:gui" xml:lang="en">Kinder-Themen</name>
+			<related rel="dparel:inesqueue" value="Select-Kinder-Themen" valuedatatype="string"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpainesqueue" uri="http://g2.dpa.com/cv/inesqueue/">
+		<definition>TODO</definition>
+		<name>dpainesqueue</name>
+	</schemeMeta>
+</knowledgeItem>

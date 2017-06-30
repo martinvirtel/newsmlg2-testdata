@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:apcat" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-01-22T18:16:21+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>G2 Abbildung der AP Categories</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-apcat:a"/>
+			<name xml:lang="en">Domestic general news</name>
+			<name role="nrol:mnemonic">a</name>
+			<definition xml:lang="en">Domestic general news items, including local Washington news of national interest.</definition>
+		</concept>
+		<concept id="dpax-apcatd">
+			<conceptId qcode="dpax-apcat:d"/>
+			<name role="nrol:mnemonic">d</name>
+			<name xml:lang="en">Food, diet</name>
+			<definition xml:lang="en">Food, diet. For use primarily on standing advance features on food, recipes and the like. Frequently used with stories in the Lifestyles package.</definition>
+			<broader qcode="medtop:08000000"/>
+		</concept>
+		<concept id="dpax-apcate">
+			<conceptId qcode="dpax-apcat:e"/>
+			<name xml:lang="en">Entertainment</name>
+			<name role="nrol:mnemonic">e</name>
+			<definition xml:lang="en">Entertainment, television and culture news and features.</definition>
+			<broader qcode="medtop:08000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:f"/>
+			<name role="nrol:mnemonic">f</name>
+			<name xml:lang="en">News copy</name>
+			<definition xml:lang="en">News copy, regardless of dateline, designed primarily for use on financial pages.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:i"/>
+			<name role="nrol:mnemonic">i</name>
+			<name xml:lang="en">International items</name>
+			<definition xml:lang="en">International items, including stories from the United Nations, U.S. possessions, and undated roundups keyed to foreign events.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:j"/>
+			<name role="nrol:mnemonic">j</name>
+			<name xml:lang="en">News copy</name>
+			<definition xml:lang="en">Lottery results only. (Stories about lotteries or lottery winners carry standard news category codes.)</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:k"/>
+			<name xml:lang="en">Commentary</name>
+			<name role="nrol:mnemonic">k</name>
+			<definition xml:lang="en">Commentary. Material designed primarily for editorial and op-ed pages. (Not used on national DataStream services.)</definition>
+		</concept>
+		<concept id="dpax-apcatl">
+			<conceptId qcode="dpax-apcat:l"/>
+			<name xml:lang="en">Lifestyles</name>
+			<name role="nrol:mnemonic">l</name>
+			<definition xml:lang="en">Lifestyles package.</definition>
+			<broader qcode="medtop:20000565"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:n"/>
+			<name xml:lang="en">Stories of state or regional interest under domestic datelines</name>
+			<name role="nrol:mnemonic">n</name>
+			<definition xml:lang="en">Stories of state or regional interest under domestic datelines, including general news stories with Washington or international datelines. If a regional item is designed primarily for financial pages, the f category is used, and if it is designed primarily for the sports pages, the s category is used.</definition>
+		</concept>
+		<concept id="dpax-apcato">
+			<conceptId qcode="dpax-apcat:o"/>
+			<name xml:lang="en">Weather</name>
+			<name role="nrol:mnemonic">o</name>
+			<definition xml:lang="en">Weather tables and forecast fixtures. Do not use on weather stories.</definition>
+			<broader qcode="medtop:17000000"/>
+		</concept>
+		<concept id="dpax-apcatp">
+			<conceptId qcode="dpax-apcat:p"/>
+			<name xml:lang="en">National political</name>
+			<name role="nrol:mnemonic">p</name>
+			<definition xml:lang="en">National political copy. Generally used in months before an election.</definition>
+			<broader qcode="medtop:11000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:q"/>
+			<name xml:lang="en">period score</name>
+			<name role="nrol:mnemonic">q</name>
+			<definition xml:lang="en">Use only for result or period score of a single sports event. The code is designed to help newspaper computer systems build a list of scores or ignore individual scores and wait for transmissions that group them.</definition>
+		</concept>
+		<concept id="dpax-apcatr">
+			<conceptId qcode="dpax-apcat:r"/>
+			<name xml:lang="en">Race wire.</name>
+			<name role="nrol:mnemonic">r</name>
+			<definition xml:lang="en">Race wire.</definition>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept id="dpax-apcats">
+			<conceptId qcode="dpax-apcat:s"/>
+			<name xml:lang="en">Sports stories.</name>
+			<name role="nrol:mnemonic">s</name>
+			<definition xml:lang="en">Sports stories, standings and results of more than one event.</definition>
+			<broader qcode="medtop:15000000"/>
+		</concept>
+		<concept id="dpax-apcatt">
+			<conceptId qcode="dpax-apcat:t"/>
+			<name role="nrol:mnemonic">t</name>
+			<name xml:lang="en">Travel</name>
+			<definition xml:lang="en">Travel copy.</definition>
+			<broader qcode="medtop:20000563"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:v"/>
+			<name xml:lang="en">Advisories</name>
+			<name role="nrol:mnemonic">v</name>
+			<definition xml:lang="en">Advisories about stories that may carry any of the category letters. This code is also used for news digests and news advisories.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:w"/>
+			<name role="nrol:mnemonic">w</name>
+			<name xml:lang="en">Washington</name>
+			<definition xml:lang="en">Washington-datelined stories handled by the Washington national news desk. The category code is changed to a or i if a subsequent lead shifts to a different city.</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apcat:z"/>
+			<name role="nrol:mnemonic">z</name>
+			<name xml:lang="en">Delimited sports</name>
+			<definition xml:lang="en">Delimited sports (the “z-wire”).</definition>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-apcat" uri="http://g2.dpa.com/cv/dpax-apcat/"><definition>TODO</definition><name>dpax-apcat</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:agenturzeichen" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-03-07T15:26:08+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa"/>
+			<name role="nrol:mnemonic">dpa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-spe"/>
+			<name role="nrol:mnemonic">dpa-spe</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-euro"/>
+			<name role="nrol:mnemonic">dpa-euro</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-euro-term"/>
+			<name role="nrol:mnemonic">cccce dpa-euro</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lsw"/>
+			<name role="nrol:mnemonic">lsw</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lby"/>
+			<name role="nrol:mnemonic">lby</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lbn"/>
+			<name role="nrol:mnemonic">lbn</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lhe"/>
+			<name role="nrol:mnemonic">lhe</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lmv"/>
+			<name role="nrol:mnemonic">lmv</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lni"/>
+			<name role="nrol:mnemonic">lni</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lno"/>
+			<name role="nrol:mnemonic">lno</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lnw"/>
+			<name role="nrol:mnemonic">lnw</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lrs"/>
+			<name role="nrol:mnemonic">lrs</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lsn"/>
+			<name role="nrol:mnemonic">lsn</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lah"/>
+			<name role="nrol:mnemonic">lah</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:lth"/>
+			<name role="nrol:mnemonic">lth</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-knd"/>
+			<name role="nrol:mnemonic">dpa-knd</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-tmn"/>
+			<name role="nrol:mnemonic">dpa-tmn</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:azin"/>
+			<name role="nrol:mnemonic">azin</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:ap"/>
+			<name role="nrol:mnemonic">ap</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-biog"/>
+			<name role="nrol:mnemonic">dpa-biog</name>
+		</concept>
+		
+		
+		<concept>
+			<conceptId qcode="dpaagenturzeichen:dpa-kurz"/>
+			<name role="nrol:mnemonic">vvvvf dpa-kurz</name>
+		</concept>
+		
+		
+		
+		<concept id="dpaagenturzeichenintern">
+			<conceptId created="2014-03-07T12:31:00+01:00" qcode="dpaagenturzeichen:intern"/>
+			<name role="nrol:mnemonic" xml:lang="de">intern</name>
+			<note>Dieses Agenturzeichen dient AUSSCHLIESSLICH der Kommunikation zwischen internen (lagacy) Systemen
+				Beispiel: dpa
+				&lt;-&gt; dpa-AFX</note>
+		</concept>
+		<concept modified="2015-04-15T11:27:00+02:00">
+			<conceptId qcode="dpaagenturzeichen:dpa-text-arabisch-abi"/>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ةةةةئ  دبأ</name>
+		</concept>
+		<concept modified="2015-04-15T11:27:00+02:00">
+			<conceptId qcode="dpaagenturzeichen:dpa-text-arabisch-acc"/>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ييييق  ةةةةئ  دبأ</name>
+		</concept>
+		<concept>
+			<conceptId created="2015-01-13T08:53:00+01:00" qcode="dpaagenturzeichen:dpa-text-arabisch-dara"/>
+			<name xml:lang="ar" dir="rtl" role="nrol:mnemonic">قأصصد</name>
+		</concept>
+		<concept modified="2015-04-15T11:27:00+02:00">
+			<conceptId qcode="dpaagenturzeichen:dpa-text-arabisch-are"/>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ييييق  ةةةةئ  دبأ</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaagenturzeichen" uri="http://g2.dpa.com/cv/agenturzeichen/">
+		<definition>TODO</definition>
+		<name>dpaagenturzeichen</name>
+	</schemeMeta>
+</knowledgeItem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2012-01-31 16:23:56 +0100 (Di, 31 Jan 2012) $                          
+ +++ $LastChangedRevision: 4045 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:partmetarole" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-04-30T13:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>dpa Rollen für partMeta/@role</title>
+		<edNote>zur Zeit nur für Bilder</edNote>
+	</itemMeta>
+	<contentMeta>
+		<headline>dpa Rollen für partMeta/@role</headline>
+	</contentMeta>
+  <conceptSet>
+    <concept>
+      <conceptId created="2012-04-30T13:00:00+02:00" qcode="dpapartmetarole:regionofinterest"/>
+      <name role="nrol:mnemonic">regionofinterest</name>
+      <name role="nrol:display" xml:lang="de">Bildschwerpunkt</name>
+      <name role="nrol:display" xml:lang="en">region of interest</name>
+    </concept>
+    <concept>
+      <conceptId created="2012-04-30T13:00:00+02:00" qcode="dpapartmetarole:cropregion"/>
+      <name role="nrol:mnemonic" xml:lang="en">cropregion</name>
+      <name role="nrol:display" xml:lang="de">Bildausschnitt</name>
+      <name role="nrol:display" xml:lang="en">crop region</name>
+    </concept>
+    <concept>
+      <conceptId created="2012-04-30T13:00:00+02:00" qcode="dpapartmetarole:centerofgravity"/>
+      <name role="nrol:mnemonic" xml:lang="en">centerofgravity</name>
+      <name role="nrol:display" xml:lang="de">Bildschwerpunkt</name>
+      <name role="nrol:display" xml:lang="en">center of gravity</name>
+    </concept>
+  </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpapartmetarole" uri="http://g2.dpa.com/cv/partmetarole/"><definition>TODO</definition><name>dpapartmetarole</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:apregion" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+	
+	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-11-04T12:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>G2 Abbildung der AP Categories</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-apregion:AA"/>
+			<name role="nrol:mnemonic">AA</name>
+			<name xml:lang="en">Antarctica</name>
+			<definition xml:lang="en">All news from Antarctica</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:AP"/>
+			<name role="nrol:mnemonic">AP</name>
+			<name xml:lang="en">Digests and Advisories</name>
+			<definition xml:lang="en">All AP News Digests and Advisories</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:AS"/>
+			<name role="nrol:mnemonic">AS</name>
+			<name xml:lang="en">Asia-Pacific</name>
+			<definition xml:lang="en">All news from Asia-Pacific</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:CB"/>
+			<name role="nrol:mnemonic">CB</name>
+			<name xml:lang="en">Caribbean</name>
+			<definition xml:lang="en">All news from Caribbean</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:CN"/>
+			<name role="nrol:mnemonic">CN</name>
+			<name xml:lang="en">Canada</name>
+			<definition xml:lang="en">All news from Canada</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:EU"/>
+			<name role="nrol:mnemonic">EU</name>
+			<name xml:lang="en">Europe</name>
+			<definition xml:lang="en">All news from Europe</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:LT"/>
+			<name role="nrol:mnemonic">LT</name>
+			<name xml:lang="en">Latin America</name>
+			<definition xml:lang="en">All news from Latin America</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:ML"/>
+			<name role="nrol:mnemonic">ML</name>
+			<name xml:lang="en">Middle East</name>
+			<definition xml:lang="en">All news from Middle East</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:UN"/>
+			<name role="nrol:mnemonic">UN</name>
+			<name xml:lang="en">United Nations</name>
+			<definition xml:lang="en">All news from United Nations</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-apregion:US"/>
+			<name role="nrol:mnemonic">US</name>
+			<name xml:lang="en">United States</name>
+			<definition xml:lang="en">All news from United States</definition>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-apregion" uri="http://g2.dpa.com/cv/dpax-apregion/"><definition>TODO</definition><name>dpax-apregion</name></schemeMeta></knowledgeItem>

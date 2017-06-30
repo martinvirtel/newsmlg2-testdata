@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:dpatextgenre" standard="NewsML-G2" standardversion="2.12" version="7" xml:lang="de">	
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-02-24T16:30:44+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept modified="2015-12-10T14:23:00+01:00">
+			<conceptId qcode="dpatextgenre:1"/>
+			<name role="dpanrol:gui" xml:lang="de">Meldung</name>
+			<name xml:lang="de">Meldung</name>
+			<name role="dpanrol:gui" xml:lang="es">Noticia</name>
+			<name xml:lang="es">Noticia</name>
+			<name role="dpanrol:gui" xml:lang="en">Story</name>
+			<name xml:lang="en">Story</name>
+			<name role="dpanrol:gui" xml:lang="ar">خبر</name>
+			<name xml:lang="ar">خبر</name>
+		</concept>
+		<concept modified="2015-12-10T15:09:00+01:00">
+			<conceptId qcode="dpatextgenre:2"/>
+			<name role="dpanrol:gui" xml:lang="de">Chronologie</name>
+			<name xml:lang="de">Chronologie</name>
+			<name xml:lang="ar">تسلسل زمني</name>
+			<name role="nrol:display" xml:lang="en">CHRONOLOGY</name>
+			<name role="dpanrol:gui" xml:lang="en">Chronology</name>
+			<name xml:lang="en">Chronology</name>
+			<name role="nrol:display" xml:lang="es">CRONOLOGÍA</name>
+			<name role="dpanrol:gui" xml:lang="es">Cronología</name>
+			<name xml:lang="es">Cronología</name>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Chronologie</name>
+			<name role="dpanrol:gui" xml:lang="ar">تسلسل زمني</name>
+		</concept>
+		<concept modified="2015-12-10T15:11:00+01:00">
+			<conceptId qcode="dpatextgenre:3"/>
+			<name role="nrol:display" xml:lang="es">DOCUMENTACIÓN</name>
+			<name role="dpanrol:gui" xml:lang="es">Documentación</name>
+			<name xml:lang="es">Documentación</name>
+			<name role="dpanrol:gui" xml:lang="de">Dokumentation</name>
+			<name xml:lang="de">Dokumentation</name>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Dokumentation</name>
+			<name role="dpanrol:gui" xml:lang="ar">تقرير وثائقي</name>
+			<name xml:lang="ar">تقرير وثائقي</name>
+		</concept>
+		<concept modified="2015-12-10T15:23:00+01:00">
+			<conceptId qcode="dpatextgenre:5"/>
+			<name role="nrol:display" xml:lang="es">CLAVES</name>
+			<name role="dpanrol:gui" xml:lang="es">Claves</name>
+			<name xml:lang="ar">سؤال وجواب</name>
+			<name xml:lang="es">Claves</name>
+			<name role="nrol:display" xml:lang="de">Fragen &amp; Antworten</name>
+			<name role="dpanrol:gui" xml:lang="de">Fragen und Antworten</name>
+			<name xml:lang="de">Fragen und Antworten</name>
+			<name role="nrol:display" xml:lang="en">Q &amp; A</name>
+			<name role="dpanrol:gui" xml:lang="en">Q and A</name>
+			<name xml:lang="en">Q and A</name>
+			<name role="dpanrol:gui" xml:lang="ar">سؤال وجواب</name>
+		</concept>
+		<concept modified="2015-12-10T14:51:00+01:00">
+			<conceptId qcode="dpatextgenre:7"/>
+			<name role="dpanrol:gui" xml:lang="de">Extra</name>
+			<name xml:lang="de">Extra</name>
+			<name role="nrol:display" xml:lang="en">SIDEBAR</name>
+			<name role="dpanrol:gui" xml:lang="en">Sidebar</name>
+			<name xml:lang="en">Sidebar</name>
+			<name role="dpanrol:gui" xml:lang="ar">معلومات  جانبية</name>
+			<name xml:lang="ar">معلومات  جانبية</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:8"/>
+			<name role="dpanrol:gui" xml:lang="de">Feiertagszusammenfassung</name>
+			<name xml:lang="de">Feiertagszusammenfassung</name>
+			<broader qcode="dpatextgenre:26"/>
+		</concept>
+		<concept modified="2015-12-10T14:55:00+01:00">
+			<conceptId qcode="dpatextgenre:9"/>
+			<name role="dpanrol:gui" xml:lang="de">Gesamtzusammenfassung</name>
+			<name xml:lang="de">Gesamtzusammenfassung</name>
+			<name role="nrol:display" xml:lang="en">LEADALL</name>
+			<name role="dpanrol:gui" xml:lang="en">Leadall</name>
+			<name xml:lang="en">Leadall</name>
+			<name role="nrol:display" xml:lang="es">RESUMEN JORNADA</name>
+			<name role="dpanrol:gui" xml:lang="es">Resumen Jornada</name>
+			<name xml:lang="es">Resumen Jornada</name>
+			<name role="dpanrol:gui" xml:lang="ar">تقرير</name>
+			<name xml:lang="ar">تقرير</name>
+			<broader qcode="dpatextgenre:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:10"/>
+			<name role="dpanrol:gui" xml:lang="de">Themendienst-Gespräch</name>
+			<name xml:lang="de">Themendienst-Gespräch</name>
+			<name role="nrol:display" xml:lang="de">Themendienst-Gespräch</name>
+			<note>Soll nur noch im Themendienst verwendet werden.</note>
+		</concept>
+		<concept modified="2015-12-10T15:04:00+01:00">
+			<conceptId qcode="dpatextgenre:11"/>
+			<name role="nrol:display" xml:lang="en">BACKGROUND</name>
+			<name role="dpanrol:gui" xml:lang="en">Background</name>
+			<name xml:lang="en">Background</name>
+			<name role="nrol:display" xml:lang="es">FONDO</name>
+			<name role="dpanrol:gui" xml:lang="es">Fondo</name>
+			<name xml:lang="es">Fondo</name>
+			<name role="dpanrol:gui" xml:lang="de">Hintergrund</name>
+			<name xml:lang="de">Hintergrund</name>
+			<name role="dpanrol:gui" xml:lang="ar">خلفية</name>
+			<name xml:lang="ar">خلفية</name>
+		</concept>
+		<concept modified="2015-12-10T15:12:00+01:00">
+			<conceptId qcode="dpatextgenre:12"/>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Infobox</name>
+			<name role="dpanrol:gui" xml:lang="de">Infobox</name>
+			<name xml:lang="de">Infobox</name>
+			<name role="dpanrol:gui" xml:lang="ar">حقائق ومعلومات</name>
+			<name xml:lang="ar">حقائق ومعلومات</name>
+		</concept>
+		<concept modified="2015-12-10T15:22:00+01:00">
+			<conceptId qcode="dpatextgenre:13"/>
+			<name role="nrol:display" xml:lang="es">ENTREVISTA</name>
+			<name role="dpanrol:gui" xml:lang="es">Entrevista</name>
+			<name role="dpanrol:gui" xml:lang="ar">مقابلة</name>
+			<name xml:lang="es">Entrevista</name>
+			<name role="nrol:display" xml:lang="en">INTERVIEW</name>
+			<name role="dpanrol:gui" xml:lang="de">Interview</name>
+			<name xml:lang="de">Interview</name>
+			<name role="nrol:display" xml:lang="de">Interview</name>
+			<name role="dpanrol:gui" xml:lang="en">Interview</name>
+			<name xml:lang="en">Interview</name>
+			<name xml:lang="ar">مقابلة</name>
+		</concept>
+		<concept modified="2015-12-10T15:00:00+01:00">
+			<conceptId qcode="dpatextgenre:14"/>
+			<name role="nrol:display" xml:lang="es">FIRMADA</name>
+			<name role="dpanrol:gui" xml:lang="es">Firmada</name>
+			<name xml:lang="es">Firmada</name>
+			<name role="dpanrol:gui" xml:lang="de">KORR-Bericht</name>
+			<name role="nrol:display" xml:lang="de">KORR-Bericht</name>
+			<name role="nrol:display" xml:lang="en">NEWS FEATURE</name>
+			<name role="dpanrol:gui" xml:lang="en">News Feature</name>
+			<name xml:lang="en">News Feature</name>
+			<name role="dpanrol:gui" xml:lang="ar">تحقيق إخباري</name>
+			<name xml:lang="ar">تحقيق إخباري</name>
+		</concept>
+		<concept modified="2015-12-10T15:15:00+01:00">
+			<conceptId qcode="dpatextgenre:15"/>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Kurzbiografie</name>
+			<name role="dpanrol:gui" xml:lang="de">Kurzbiografie</name>
+			<name xml:lang="de">Kurzbiografie</name>
+			<name role="dpanrol:gui" xml:lang="ar">سيرة ذاتية مقتضبة</name>
+			<name xml:lang="ar">سيرة ذاتية مقتضبة</name>
+		</concept>
+		<concept modified="2015-12-10T15:14:00+01:00">
+			<conceptId qcode="dpatextgenre:16"/>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Kurzporträt</name>
+			<name role="dpanrol:gui" xml:lang="de">Kurzporträt</name>
+			<name xml:lang="de">Kurzporträt</name>
+			<name role="nrol:display" xml:lang="es">MINISEMBLANZA</name>
+			<name role="dpanrol:gui" xml:lang="es">Minisemblanza</name>
+			<name xml:lang="es">Minisemblanza</name>
+			<name role="dpanrol:gui" xml:lang="ar">لمحة شخصية مقتضبة</name>
+			<name xml:lang="ar">لمحة شخصية مقتضبة</name>
+		</concept>
+		<concept modified="2015-12-10T15:24:00+01:00">
+			<conceptId qcode="dpatextgenre:17"/>
+			<name role="dpanrol:gui" xml:lang="de">Porträt</name>
+			<name xml:lang="de">Porträt</name>
+			<name role="nrol:display" xml:lang="en">PROFILE</name>
+			<name role="dpanrol:gui" xml:lang="en">Profile</name>
+			<name xml:lang="en">Profile</name>
+			<name role="nrol:display" xml:lang="es">SEMBLANZA</name>
+			<name role="dpanrol:gui" xml:lang="es">Semblanza</name>
+			<name xml:lang="es">Semblanza</name>
+			<name role="dpanrol:gui" xml:lang="ar">لمحة شخصية</name>
+			<name xml:lang="ar">لمحة شخصية</name>
+		</concept>
+		<concept modified="2015-12-10T15:18:00+01:00">
+			<conceptId qcode="dpatextgenre:18"/>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Pro &amp; Kontra</name>
+			<name role="dpanrol:gui" xml:lang="de">Pro und Kontra</name>
+			<name xml:lang="de">Pro und Kontra</name>
+			<name role="dpanrol:gui" xml:lang="ar">ضد و  مع</name>
+			<name xml:lang="ar">ضد و  مع</name>
+		</concept>
+		<concept modified="2015-12-10T15:01:00+01:00">
+			<conceptId qcode="dpatextgenre:19"/>
+			<name role="nrol:display" xml:lang="en">FEATURE</name>
+			<name role="dpanrol:gui" xml:lang="en">Feature</name>
+			<name xml:lang="ar">تحقيق</name>
+			<name xml:lang="en">Feature</name>
+			<name role="dpanrol:gui" xml:lang="de">Reportage</name>
+			<name xml:lang="de">Reportage</name>
+			<name role="nrol:display" xml:lang="de">Reportage</name>
+			<name role="nrol:display" xml:lang="es">REPORTAJE</name>
+			<name role="dpanrol:gui" xml:lang="es">Reportaje</name>
+			<name xml:lang="es">Reportaje</name>
+			<name role="dpanrol:gui" xml:lang="ar">تحقيق</name>
+		</concept>
+		<concept modified="2015-12-10T15:19:00+01:00">
+			<conceptId qcode="dpatextgenre:20"/>
+			<name role="nrol:display" xml:lang="de">Hintergrund - Stichwort</name>
+			<name role="dpanrol:gui" xml:lang="de">Stichwort</name>
+			<name xml:lang="de">Stichwort</name>
+			<name role="dpanrol:gui" xml:lang="ar">التنصيف</name>
+			<name xml:lang="ar">التنصيف</name>
+		</concept>
+		<concept modified="2015-12-10T14:56:00+01:00">
+			<conceptId qcode="dpatextgenre:21"/>
+			<name role="nrol:display" xml:lang="es">AVANCE</name>
+			<name role="dpanrol:gui" xml:lang="es">Avance</name>
+			<name xml:lang="es">Avance</name>
+			<name role="nrol:display" xml:lang="en">DEVELOPING</name>
+			<name role="dpanrol:gui" xml:lang="en">Developing</name>
+			<name xml:lang="en">Developing</name>
+			<name role="dpanrol:gui" xml:lang="de">Überblick</name>
+			<name xml:lang="de">Überblick</name>
+			<name role="dpanrol:gui" xml:lang="ar">إضافة</name>
+			<name xml:lang="ar">إضافة</name>
+		</concept>
+		<concept modified="2015-12-10T15:25:00+01:00">
+			<conceptId qcode="dpatextgenre:22"/>
+			<name role="dpanrol:gui" xml:lang="de">Umfrage</name>
+			<name xml:lang="de">Umfrage</name>
+			<name role="nrol:display" xml:lang="de">Umfrage</name>
+			<name role="dpanrol:gui" xml:lang="ar">استطلاع</name>
+			<name xml:lang="ar">استطلاع</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:23"/>
+			<name role="dpanrol:gui" xml:lang="de">Vorausmeldung</name>
+			<name xml:lang="de">Vorausmeldung</name>
+		</concept>
+		<concept modified="2015-12-10T14:48:00+01:00">
+			<conceptId qcode="dpatextgenre:24"/>
+			<name role="nrol:display" xml:lang="es">PREVIA</name>
+			<name role="dpanrol:gui" xml:lang="es">Previa</name>
+			<name xml:lang="es">Previa</name>
+			<name role="nrol:display" xml:lang="en">PREVIEW</name>
+			<name role="dpanrol:gui" xml:lang="en">Preview</name>
+			<name xml:lang="en">Preview</name>
+			<name role="dpanrol:gui" xml:lang="de">Vorbericht</name>
+			<name xml:lang="de">Vorbericht</name>
+			<name role="dpanrol:gui" xml:lang="ar">نظرة مسبقة</name>
+			<name xml:lang="ar">نظرة مسبقة</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:25"/>
+			<name role="dpanrol:gui" xml:lang="de">Wochenendzusammenfassung</name>
+			<name xml:lang="de">Wochenendzusammenfassung</name>
+			<broader qcode="dpatextgenre:26"/>
+		</concept>
+		<concept modified="2015-12-10T14:54:00+01:00">
+			<conceptId qcode="dpatextgenre:26"/>
+			<name role="nrol:display" xml:lang="en">LEAD</name>
+			<name role="dpanrol:gui" xml:lang="en">Lead</name>
+			<name xml:lang="en">Lead</name>
+			<name role="nrol:display" xml:lang="es">RESUMEN</name>
+			<name role="dpanrol:gui" xml:lang="es">Resumen</name>
+			<name xml:lang="es">Resumen</name>
+			<name role="dpanrol:gui" xml:lang="de">Zusammenfassung</name>
+			<name role="nrol:display" xml:lang="de">Zusammenfassung</name>
+			<name role="dpanrol:gui" xml:lang="ar">مقدمة</name>
+			<name xml:lang="ar">مقدمة</name>
+		</concept>
+		<concept modified="2015-12-10T15:26:00+01:00">
+			<conceptId qcode="dpatextgenre:27"/>
+			<name role="dpanrol:gui" xml:lang="de">Achtung</name>
+			<name xml:lang="de">Achtung</name>
+			<name role="nrol:display" xml:lang="en">ADVISORY</name>
+			<name role="dpanrol:gui" xml:lang="en">Advisory</name>
+			<name xml:lang="en">Advisory</name>
+			<name role="nrol:display" xml:lang="es">AVISO</name>
+			<name role="dpanrol:gui" xml:lang="es">Aviso</name>
+			<name xml:lang="es">Aviso</name>
+			<name role="dpanrol:gui" xml:lang="ar">مذكرة</name>
+			<name xml:lang="ar">مذكرة</name>
+		</concept>
+		<concept modified="2015-12-10T15:27:00+01:00">
+			<conceptId qcode="dpatextgenre:30"/>
+			<name role="dpanrol:gui" xml:lang="de">Nachrichtenüberblick</name>
+			<name xml:lang="de">Nachrichtenüberblick</name>
+			<name role="nrol:display" xml:lang="es">SUMARIO</name>
+			<name role="dpanrol:gui" xml:lang="es">Sumario</name>
+			<name xml:lang="es">Sumario</name>
+			<name role="dpanrol:gui" xml:lang="ar">موجز أخبار</name>
+			<name xml:lang="ar">موجز أخبار</name>
+		</concept>
+		<concept modified="2015-12-10T15:28:00+01:00">
+			<conceptId qcode="dpatextgenre:31"/>
+			<name role="dpanrol:gui" xml:lang="de">Tabelle</name>
+			<name xml:lang="de">Tabelle</name>
+			<name role="nrol:display" xml:lang="es">TABLA</name>
+			<name role="dpanrol:gui" xml:lang="es">Tabla</name>
+			<name xml:lang="es">Tabla</name>
+			<name role="nrol:display" xml:lang="en">TABLE</name>
+			<name role="dpanrol:gui" xml:lang="en">Table</name>
+			<name xml:lang="en">Table</name>
+			<name role="dpanrol:gui" xml:lang="ar">جدول</name>
+			<name xml:lang="ar">جدول</name>
+		</concept>
+		<concept modified="2015-12-10T15:29:00+01:00">
+			<conceptId qcode="dpatextgenre:32"/>
+			<name role="nrol:display" xml:lang="es">PREVISIONES</name>
+			<name role="dpanrol:gui" xml:lang="es">Previsiones</name>
+			<name xml:lang="es">Previsiones</name>
+			<name role="nrol:display" xml:lang="en">SCHEDULE</name>
+			<name role="dpanrol:gui" xml:lang="en">Schedule</name>
+			<name xml:lang="en">Schedule</name>
+			<name role="dpanrol:gui" xml:lang="de">Vorschau</name>
+			<name xml:lang="de">Vorschau</name>
+			<name role="dpanrol:gui" xml:lang="ar">أخبار متوقعة</name>
+			<name xml:lang="ar">أخبار متوقعة</name>
+		</concept>
+		<concept modified="2015-12-10T14:53:00+01:00">
+			<conceptId qcode="dpatextgenre:33"/>
+			<name role="dpanrol:gui" xml:lang="de">Zitat</name>
+			<name xml:lang="de">Zitat</name>
+			<name role="nrol:display" xml:lang="en">QUOTE</name>
+			<name role="dpanrol:gui" xml:lang="en">Quote</name>
+			<name role="dpanrol:gui" xml:lang="ar">اقتباس</name>
+			<name xml:lang="ar">اقتباس</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:34"/>
+			<name role="dpanrol:gui" xml:lang="de">Dossier</name>
+			<name xml:lang="de">Dossier</name>
+			<name role="dpanrol:gui" xml:lang="en">Dossier</name>
+			<name xml:lang="en">Dossier</name>
+			<name role="nrol:display" xml:lang="en">DOSSIER</name>
+		</concept>
+		<concept modified="2015-12-10T15:30:00+01:00">
+			<conceptId qcode="dpatextgenre:41"/>
+			<name role="dpanrol:gui" xml:lang="de">Analyse</name>
+			<name xml:lang="de">Analyse</name>
+			<name role="nrol:display" xml:lang="en">ANALYSIS</name>
+			<name role="dpanrol:gui" xml:lang="en">Analysis</name>
+			<name xml:lang="en">Analysis</name>
+			<name role="nrol:display" xml:lang="es">ANÁLISIS</name>
+			<name role="dpanrol:gui" xml:lang="es">Análisis</name>
+			<name xml:lang="es">Análisis</name>
+			<name role="dpanrol:gui" xml:lang="ar">تحليل</name>
+			<name xml:lang="ar">تحليل</name>
+		</concept>
+		<concept modified="2015-12-10T15:31:00+01:00">
+			<conceptId qcode="dpatextgenre:42"/>
+			<name role="nrol:display" xml:lang="es">OBITUARIO</name>
+			<name role="dpanrol:gui" xml:lang="es">Obituario</name>
+			<name xml:lang="es">Obituario</name>
+			<name role="nrol:display" xml:lang="en">OBITUARY</name>
+			<name role="dpanrol:gui" xml:lang="en">Obituary</name>
+			<name xml:lang="en">Obituary</name>
+			<name role="dpanrol:gui" xml:lang="ar">تأبين</name>
+			<name xml:lang="ar">تأبين</name>
+		</concept>
+		<concept modified="2015-12-10T15:31:00+01:00">
+			<conceptId qcode="dpatextgenre:43"/>
+			<name role="nrol:display" xml:lang="en">RESULTS</name>
+			<name role="dpanrol:gui" xml:lang="en">Results</name>
+			<name xml:lang="en">Results</name>
+			<name role="dpanrol:gui" xml:lang="ar">نتائج</name>
+			<name xml:lang="ar">نتائج</name>
+		</concept>
+		<concept modified="2015-12-10T15:32:00+01:00">
+			<conceptId qcode="dpatextgenre:44"/>
+			<name role="nrol:display" xml:lang="en">COLLATED RESULTS</name>
+			<name role="dpanrol:gui" xml:lang="en">Collated Results</name>
+			<name xml:lang="en">Collated Results</name>
+			<name role="dpanrol:gui" xml:lang="ar">نتائج مجمعة</name>
+			<name xml:lang="ar">نتائج مجمعة</name>
+			<broader qcode="dpatextgenre:43"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:45"/>
+			<name role="dpanrol:gui" xml:lang="es">Crónica</name>
+			<name xml:lang="es">Crónica</name>
+			<name role="nrol:display" xml:lang="es">CRÓNICA</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:46"/>
+			<name role="dpanrol:gui" xml:lang="es">Aniversario</name>
+			<name xml:lang="es">Aniversario</name>
+			<name role="nrol:display" xml:lang="es">ANIVERSARIO</name>
+		</concept>
+		<concept modified="2015-12-10T15:33:00+01:00">
+			<conceptId qcode="dpatextgenre:47"/>
+			<name role="nrol:display" xml:lang="es">REACCIONES</name>
+			<name role="dpanrol:gui" xml:lang="es">Reacciones</name>
+			<name xml:lang="es">Reacciones</name>
+			<name role="dpanrol:gui" xml:lang="ar">ردود فعل</name>
+			<name xml:lang="ar">ردود فعل</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpatextgenre:48"/>
+			<name role="dpanrol:gui" xml:lang="en">Extra</name>
+			<name xml:lang="en">Extra</name>
+			<name role="nrol:display" xml:lang="en">EXTRA</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpatextgenre" uri="http://g2.dpa.com/cv/textgenre/">
+		<definition>TODO</definition>
+		<name>dpatextgenre</name>
+	</schemeMeta>
+</knowledgeItem>

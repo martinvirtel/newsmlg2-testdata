@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:iso4217a" standard="NewsML-G2" standardversion="2.16" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder literal="ISO"/>
+		<copyrightNotice>© 2014 International Organistion for Standardization</copyrightNotice>
+		<link href="http://www.iso.org/iso/home/standards/currency_codes.htm"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-11-23T10:34:45+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<edNote>Die Liste wurde aus den Wikipedia-Einträgen erstellt.</edNote>
+	</itemMeta>
+	<contentMeta>
+		<infoSource>
+			<name>Wikipedia Deutsch</name>
+			<remoteInfo href="http://de.wikipedia.org/wiki/ISO_4217" title="Wikipedia Deutsch"/>
+		</infoSource>
+		<infoSource>
+			<name>IWikipedia Englisch</name>
+			<remoteInfo href="http://en.wikipedia.org/wiki/ISO_4217" title="Wikipedia Englisch"/>
+		</infoSource>
+		<description>Liste der Währungscodes gemäß ISO Standard 4217a (Alpha) </description>
+	</contentMeta>
+	<conceptSet>
+		<!--
+
+Bitte Liste gemäß Muster aus der deutschen und englischen Wikipedia-Siete ergänzen.
+Nur Währungen übernehmen, die auch öffentlich in Gebrauch sind, und auch kein Gold o.ä.
+-->
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AED"/>
+			<name role="nrol:mnemonic">AED</name>
+			<name role="nrol:display" xml:lang="en">United Arab Emirates</name>
+			<name role="nrol:display" xml:lang="de">VAE-Dirham</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:EUR"/>
+			<name role="nrol:mnemonic">EUR</name>
+			<name role="nrol:display" xml:lang="en">Euro</name>
+			<name role="nrol:display" xml:lang="de">Euro</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:USD"/>
+			<name role="nrol:mnemonic">USD</name>
+			<name role="nrol:display" xml:lang="en">United States dollar</name>
+			<name role="nrol:display" xml:lang="de">US-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AFN"/>
+			<name role="nrol:mnemonic">AFN</name>
+			<name role="nrol:display" xml:lang="en">Afghan afghani </name>
+			<name role="nrol:display" xml:lang="de">Afghnai</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ALL"/>
+			<name role="nrol:mnemonic">ALL</name>
+			<name role="nrol:display" xml:lang="en">Albanian lek </name>
+			<name role="nrol:display" xml:lang="de">Lek</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AMD"/>
+			<name role="nrol:mnemonic">AMD</name>
+			<name role="nrol:display" xml:lang="en">Armenian dram </name>
+			<name role="nrol:display" xml:lang="de">Dram</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ANG"/>
+			<name role="nrol:mnemonic">ANG</name>
+			<name role="nrol:display" xml:lang="en">Netherlands Antillean guilder</name>
+			<name role="nrol:display" xml:lang="de">Antillen-Gulden</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AOA"/>
+			<name role="nrol:mnemonic">AOA</name>
+			<name role="nrol:display" xml:lang="en">Angolan kwanza</name>
+			<name role="nrol:display" xml:lang="de">Kwanza</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ARS"/>
+			<name role="nrol:mnemonic">ARS</name>
+			<name role="nrol:display" xml:lang="en">Argentine peso</name>
+			<name role="nrol:display" xml:lang="de">Argentinische Peso</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AUD"/>
+			<name role="nrol:mnemonic">AUD</name>
+			<name role="nrol:display" xml:lang="en">Australian dollar</name>
+			<name role="nrol:display" xml:lang="de">Australische Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AWG"/>
+			<name role="nrol:mnemonic">AWG</name>
+			<name role="nrol:display" xml:lang="en">Aruban florin</name>
+			<name role="nrol:display" xml:lang="de">Florin</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:AZN"/>
+			<name role="nrol:mnemonic">AZN</name>
+			<name role="nrol:display" xml:lang="en">Azerbaijani manat</name>
+			<name role="nrol:display" xml:lang="de">Manat</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BAM"/>
+			<name role="nrol:mnemonic">BAM</name>
+			<name role="nrol:display" xml:lang="en">Bosnia and Herzegovina convertible mark</name>
+			<name role="nrol:display" xml:lang="de">Kovertible Mark</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BBD"/>
+			<name role="nrol:mnemonic">BBD</name>
+			<name role="nrol:display" xml:lang="en">Barbados dollar</name>
+			<name role="nrol:display" xml:lang="de">Barbados-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BDT"/>
+			<name role="nrol:mnemonic">BDT</name>
+			<name role="nrol:display" xml:lang="en">Bangladeshi taka</name>
+			<name role="nrol:display" xml:lang="de">Taka</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BGN"/>
+			<name role="nrol:mnemonic">BGN</name>
+			<name role="nrol:display" xml:lang="en">Bulgarian lev</name>
+			<name role="nrol:display" xml:lang="de">Lev</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BHD"/>
+			<name role="nrol:mnemonic">BHD</name>
+			<name role="nrol:display" xml:lang="en">Bahraini dinar</name>
+			<name role="nrol:display" xml:lang="de">Bahrain-Dinar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BIF"/>
+			<name role="nrol:mnemonic">BIF</name>
+			<name role="nrol:display" xml:lang="en">Burundian franc </name>
+			<name role="nrol:display" xml:lang="de">Burundi-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BMD"/>
+			<name role="nrol:mnemonic">BMD</name>
+			<name role="nrol:display" xml:lang="en">Bermudian dollar</name>
+			<name role="nrol:display" xml:lang="de">Bermuda-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BND"/>
+			<name role="nrol:mnemonic">BND</name>
+			<name role="nrol:display" xml:lang="en">Brunei dollar</name>
+			<name role="nrol:display" xml:lang="de">Brunei-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BOB"/>
+			<name role="nrol:mnemonic">BOB</name>
+			<name role="nrol:display" xml:lang="en">Boliviano</name>
+			<name role="nrol:display" xml:lang="de">Boliviano</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BRL"/>
+			<name role="nrol:mnemonic">BRL</name>
+			<name role="nrol:display" xml:lang="en">Brazilian real </name>
+			<name role="nrol:display" xml:lang="de">Real</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BSD"/>
+			<name role="nrol:mnemonic">BSD</name>
+			<name role="nrol:display" xml:lang="en">Bahamian dollar</name>
+			<name role="nrol:display" xml:lang="de">Bahama-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BTN"/>
+			<name role="nrol:mnemonic">BTN</name>
+			<name role="nrol:display" xml:lang="en">Bhutanese ngultrum</name>
+			<name role="nrol:display" xml:lang="de">Ngultrum</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BWP"/>
+			<name role="nrol:mnemonic">BWP</name>
+			<name role="nrol:display" xml:lang="en">Botswana pula</name>
+			<name role="nrol:display" xml:lang="de">Pula</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BYR"/>
+			<name role="nrol:mnemonic">BYR</name>
+			<name role="nrol:display" xml:lang="en">Belarusian ruble </name>
+			<name role="nrol:display" xml:lang="de">Weißrussische Rubel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:BZD"/>
+			<name role="nrol:mnemonic">BZD</name>
+			<name role="nrol:display" xml:lang="en">Belize dollar</name>
+			<name role="nrol:display" xml:lang="de">Belize-Dollar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CAD"/>
+			<name role="nrol:mnemonic">CAD</name>
+			<name role="nrol:display" xml:lang="en">Canadian dollar</name>
+			<name role="nrol:display" xml:lang="de">Kanadische Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CDF"/>
+			<name role="nrol:mnemonic">CDF</name>
+			<name role="nrol:display" xml:lang="en">Congolese franc</name>
+			<name role="nrol:display" xml:lang="de">Kongo-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CHF"/>
+			<name role="nrol:mnemonic">CHF</name>
+			<name role="nrol:display" xml:lang="en">Swiss franc</name>
+			<name role="nrol:display" xml:lang="de">Schweizer Franken</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CLP"/>
+			<name role="nrol:mnemonic">CLP</name>
+			<name role="nrol:display" xml:lang="en">Chilean peso</name>
+			<name role="nrol:display" xml:lang="de">Chilenische Peso</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CNY"/>
+			<name role="nrol:mnemonic">CNY</name>
+			<name role="nrol:display" xml:lang="en">Chinese yuan</name>
+			<name role="nrol:display" xml:lang="de">Yuan</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:COP"/>
+			<name role="nrol:mnemonic">COP</name>
+			<name role="nrol:display" xml:lang="en">Colombian peso</name>
+			<name role="nrol:display" xml:lang="de">Kolumbianischer Peso</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CRC"/>
+			<name role="nrol:mnemonic">CRC</name>
+			<name role="nrol:display" xml:lang="en">Costa Rican colon</name>
+			<name role="nrol:display" xml:lang="de">Colon</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CUP"/>
+			<name role="nrol:mnemonic">CUP</name>
+			<name role="nrol:display" xml:lang="en">Cuban peso</name>
+			<name role="nrol:display" xml:lang="de">Kubanischer Peso</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CVE"/>
+			<name role="nrol:mnemonic">CVE</name>
+			<name role="nrol:display" xml:lang="en">Cap Verde escudo</name>
+			<name role="nrol:display" xml:lang="de">Escudo</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:CZK"/>
+			<name role="nrol:mnemonic">CZK</name>
+			<name role="nrol:display" xml:lang="en">Czech koruna</name>
+			<name role="nrol:display" xml:lang="de">Tschechische Krone</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:DJF"/>
+			<name role="nrol:mnemonic">DJF</name>
+			<name role="nrol:display" xml:lang="en">Djiboutian franc</name>
+			<name role="nrol:display" xml:lang="de">Dschibuti-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:DKK"/>
+			<name role="nrol:mnemonic">DKK</name>
+			<name role="nrol:display" xml:lang="en">Danish krone</name>
+			<name role="nrol:display" xml:lang="de">Dänische Krone</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:DOP"/>
+			<name role="nrol:mnemonic">DOP</name>
+			<name role="nrol:display" xml:lang="en">Dominican peso</name>
+			<name role="nrol:display" xml:lang="de">Domenikanischer Peso</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:DZD"/>
+			<name role="nrol:mnemonic">DZD</name>
+			<name role="nrol:display" xml:lang="en">Algerian dinar</name>
+			<name role="nrol:display" xml:lang="de">Algerischer Dinar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:EGP"/>
+			<name role="nrol:mnemonic">EGP</name>
+			<name role="nrol:display" xml:lang="en">Egyptian pound</name>
+			<name role="nrol:display" xml:lang="de">Ägyptischer Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ERN"/>
+			<name role="nrol:mnemonic">ERN</name>
+			<name role="nrol:display" xml:lang="en">Eritrean nakfa</name>
+			<name role="nrol:display" xml:lang="de">Nakfa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ETB"/>
+			<name role="nrol:mnemonic">ETB</name>
+			<name role="nrol:display" xml:lang="en">Ethiopian birr</name>
+			<name role="nrol:display" xml:lang="de">Birr</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:FJD"/>
+			<name role="nrol:mnemonic">FJD</name>
+			<name role="nrol:display" xml:lang="en">Fiji dollar</name>
+			<name role="nrol:display" xml:lang="de">Fidschi-Dollar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:FKP"/>
+			<name role="nrol:mnemonic">FKP</name>
+			<name role="nrol:display" xml:lang="en">Falkland Islands pound</name>
+			<name role="nrol:display" xml:lang="de">Falkland-Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GBP"/>
+			<name role="nrol:mnemonic">GBP</name>
+			<name role="nrol:display" xml:lang="en">Pound sterling</name>
+			<name role="nrol:display" xml:lang="de">Britisches Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GMD"/>
+			<name role="nrol:mnemonic">GMD</name>
+			<name role="nrol:display" xml:lang="en">Gambian dalasi</name>
+			<name role="nrol:display" xml:lang="de">Dalasi</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GNF"/>
+			<name role="nrol:mnemonic">GNF</name>
+			<name role="nrol:display" xml:lang="en">Guinean franc</name>
+			<name role="nrol:display" xml:lang="de">Guinea-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GEL"/>
+			<name role="nrol:mnemonic">GEL</name>
+			<name role="nrol:display" xml:lang="en">Georgian lari</name>
+			<name role="nrol:display" xml:lang="de">Lari</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GHS"/>
+			<name role="nrol:mnemonic">GHS</name>
+			<name role="nrol:display" xml:lang="en">Ghanaian cedi</name>
+			<name role="nrol:display" xml:lang="de">Ghana Cedi</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GIP"/>
+			<name role="nrol:mnemonic">GIP</name>
+			<name role="nrol:display" xml:lang="en">Gibraltar pound</name>
+			<name role="nrol:display" xml:lang="de">Gibraltar-Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GTQ"/>
+			<name role="nrol:mnemonic">GTQ</name>
+			<name role="nrol:display" xml:lang="en">Guatemalan quetzal</name>
+			<name role="nrol:display" xml:lang="de">Quetzal</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:GYD"/>
+			<name role="nrol:mnemonic">GYD</name>
+			<name role="nrol:display" xml:lang="en">Guyanese dollar</name>
+			<name role="nrol:display" xml:lang="de">Guyana-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:HKD"/>
+			<name role="nrol:mnemonic">HKD</name>
+			<name role="nrol:display" xml:lang="en">Hong Kong dollar</name>
+			<name role="nrol:display" xml:lang="de">Hongkong-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:HNL"/>
+			<name role="nrol:mnemonic">HNL</name>
+			<name role="nrol:display" xml:lang="en">Honduran lempira</name>
+			<name role="nrol:display" xml:lang="de">Lempira</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:HRK"/>
+			<name role="nrol:mnemonic">HRK</name>
+			<name role="nrol:display" xml:lang="en">Croatian kuna</name>
+			<name role="nrol:display" xml:lang="de">Kuna</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:HTG"/>
+			<name role="nrol:mnemonic">HTG</name>
+			<name role="nrol:display" xml:lang="en">Haitian gourde</name>
+			<name role="nrol:display" xml:lang="de">Gourde</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:HUF"/>
+			<name role="nrol:mnemonic">HUF</name>
+			<name role="nrol:display" xml:lang="en">Hungarian forint</name>
+			<name role="nrol:display" xml:lang="de">Forint</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:IDR"/>
+			<name role="nrol:mnemonic">IDR</name>
+			<name role="nrol:display" xml:lang="en">Indonesian rupiah</name>
+			<name role="nrol:display" xml:lang="de">Rupiah</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ILS"/>
+			<name role="nrol:mnemonic">ILS</name>
+			<name role="nrol:display" xml:lang="en">Israeli new shekel</name>
+			<name role="nrol:display" xml:lang="de">Schekel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:INR"/>
+			<name role="nrol:mnemonic">INR</name>
+			<name role="nrol:display" xml:lang="en">Indian rupee</name>
+			<name role="nrol:display" xml:lang="de">Indische Rupie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:IQD"/>
+			<name role="nrol:mnemonic">IQD</name>
+			<name role="nrol:display" xml:lang="en">Iraqi dinar</name>
+			<name role="nrol:display" xml:lang="de">Irakischer Dinar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:IRR"/>
+			<name role="nrol:mnemonic">IRR</name>
+			<name role="nrol:display" xml:lang="en">Iranian rial</name>
+			<name role="nrol:display" xml:lang="de">Rial</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:ISK"/>
+			<name role="nrol:mnemonic">ISK</name>
+			<name role="nrol:display" xml:lang="en">Icelandic króna</name>
+			<name role="nrol:display" xml:lang="de">Isländische Krone</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:JMD"/>
+			<name role="nrol:mnemonic">JDM</name>
+			<name role="nrol:display" xml:lang="en">Jamaican dollar</name>
+			<name role="nrol:display" xml:lang="de">Jamaika-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:JOD"/>
+			<name role="nrol:mnemonic">JOD</name>
+			<name role="nrol:display" xml:lang="en">Jordanian dinar</name>
+			<name role="nrol:display" xml:lang="de">Jordanischer Dinar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PEN"/>
+			<name role="nrol:mnemonic">PEN</name>
+			<name role="nrol:display" xml:lang="en">Peruvian nuevo sol</name>
+			<name role="nrol:display" xml:lang="de">Nuevo Sol</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PGK"/>
+			<name role="nrol:mnemonic">PGK</name>
+			<name role="nrol:display" xml:lang="en">Papua New Guinean kina</name>
+			<name role="nrol:display" xml:lang="de">Kina</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PHP"/>
+			<name role="nrol:mnemonic">PHP</name>
+			<name role="nrol:display" xml:lang="en">Philippine peso</name>
+			<name role="nrol:display" xml:lang="de">Philippinischer Peso</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PLN"/>
+			<name role="nrol:mnemonic">PLN</name>
+			<name role="nrol:display" xml:lang="en">Polish zloty</name>
+			<name role="nrol:display" xml:lang="de">Zloty</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PYG"/>
+			<name role="nrol:mnemonic">PYG</name>
+			<name role="nrol:display" xml:lang="en">Paraguayan guaraní</name>
+			<name role="nrol:display" xml:lang="de">Guarani</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:QAR"/>
+			<name role="nrol:mnemonic">QAR</name>
+			<name role="nrol:display" xml:lang="en">Qatari riyal</name>
+			<name role="nrol:display" xml:lang="de">Katar-Riyal</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:RON"/>
+			<name role="nrol:mnemonic">RON</name>
+			<name role="nrol:display" xml:lang="en">Romanian new leu</name>
+			<name role="nrol:display" xml:lang="de">Rumänischer Leu</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:RSD"/>
+			<name role="nrol:mnemonic">RSD</name>
+			<name role="nrol:display" xml:lang="en">Serbian dinar</name>
+			<name role="nrol:display" xml:lang="de">Serbischer Dinar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:RUB"/>
+			<name role="nrol:mnemonic">RUB</name>
+			<name role="nrol:display" xml:lang="en">Russian rubel</name>
+			<name role="nrol:display" xml:lang="de">Russischer Rubel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:RWF"/>
+			<name role="nrol:mnemonic">RWF</name>
+			<name role="nrol:display" xml:lang="en">Rwandan franc</name>
+			<name role="nrol:display" xml:lang="de">Ruanda-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SAR"/>
+			<name role="nrol:mnemonic">SAR</name>
+			<name role="nrol:display" xml:lang="en">Saudi riyal</name>
+			<name role="nrol:display" xml:lang="de">Saudi-Riyal</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:JPY"/>
+			<name role="nrol:mnemonic">JPY</name>
+			<name role="nrol:display" xml:lang="en">Japanese yen</name>
+			<name role="nrol:display" xml:lang="de">Yen</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KES"/>
+			<name role="nrol:mnemonic">KES</name>
+			<name role="nrol:display" xml:lang="en">Kenyan shilling</name>
+			<name role="nrol:display" xml:lang="de">Kenia-Schilling</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KGS"/>
+			<name role="nrol:mnemonic">KGS</name>
+			<name role="nrol:display" xml:lang="en">Kyrgyzstani som</name>
+			<name role="nrol:display" xml:lang="de">Kirgisische Som</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KHR"/>
+			<name role="nrol:mnemonic">KHR</name>
+			<name role="nrol:display" xml:lang="en">Cambodian riel</name>
+			<name role="nrol:display" xml:lang="de">Riel</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KMF"/>
+			<name role="nrol:mnemonic">KMF</name>
+			<name role="nrol:display" xml:lang="en">Comoro franc</name>
+			<name role="nrol:display" xml:lang="de">Komoren-Franc</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KPW"/>
+			<name role="nrol:mnemonic">KPW</name>
+			<name role="nrol:display" xml:lang="en">North Korean won</name>
+			<name role="nrol:display" xml:lang="de">Nordkoreanischer Won</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KRW"/>
+			<name role="nrol:mnemonic">KRW</name>
+			<name role="nrol:display" xml:lang="en">South Korean won</name>
+			<name role="nrol:display" xml:lang="de">Südkoreanischer Won</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KWD"/>
+			<name role="nrol:mnemonic">KWD</name>
+			<name role="nrol:display" xml:lang="en">Kuwaiti dinar</name>
+			<name role="nrol:display" xml:lang="de">Kuwait-Dinar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KYD"/>
+			<name role="nrol:mnemonic">KYD</name>
+			<name role="nrol:display" xml:lang="en">Cayman Islands dollar </name>
+			<name role="nrol:display" xml:lang="de">Kaiman-Dollar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:KZT"/>
+			<name role="nrol:mnemonic">KZT</name>
+			<name role="nrol:display" xml:lang="en">Kazakhstani tenge</name>
+			<name role="nrol:display" xml:lang="de">Tenge</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LAK"/>
+			<name role="nrol:mnemonic">LAK</name>
+			<name role="nrol:display" xml:lang="en">Lao kip</name>
+			<name role="nrol:display" xml:lang="de">Kip</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LBP"/>
+			<name role="nrol:mnemonic">LBP</name>
+			<name role="nrol:display" xml:lang="en">Lebanese pound</name>
+			<name role="nrol:display" xml:lang="de">Libanesischer Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LKR"/>
+			<name role="nrol:mnemonic">LKR</name>
+			<name role="nrol:display" xml:lang="en">Sri Lankan rupee</name>
+			<name role="nrol:display" xml:lang="de">Sri-Lanke-Rupie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LRD"/>
+			<name role="nrol:mnemonic">LRD</name>
+			<name role="nrol:display" xml:lang="en">Liberian dollar</name>
+			<name role="nrol:display" xml:lang="de">Liberianischer Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LSL"/>
+			<name role="nrol:mnemonic">LSL</name>
+			<name role="nrol:display" xml:lang="en">Lesotho loti</name>
+			<name role="nrol:display" xml:lang="de">Loti</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LTL"/>
+			<name role="nrol:mnemonic">LTL</name>
+			<name role="nrol:display" xml:lang="en">Lithuanian litas</name>
+			<name role="nrol:display" xml:lang="de">Litas</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:LYD"/>
+			<name role="nrol:mnemonic">LYD</name>
+			<name role="nrol:display" xml:lang="en">Libyan dinar</name>
+			<name role="nrol:display" xml:lang="de">Lybischer Dinar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MAD"/>
+			<name role="nrol:mnemonic">MAD</name>
+			<name role="nrol:display" xml:lang="en">Moroccan dirham</name>
+			<name role="nrol:display" xml:lang="de">Marokkanischer Dirham</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MDL"/>
+			<name role="nrol:mnemonic">MDL</name>
+			<name role="nrol:display" xml:lang="en">Moldovan leu</name>
+			<name role="nrol:display" xml:lang="de">Moldauischer Leu</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MGA"/>
+			<name role="nrol:mnemonic">MGA</name>
+			<name role="nrol:display" xml:lang="en">Malagasy ariary</name>
+			<name role="nrol:display" xml:lang="de">Ariary</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MKD"/>
+			<name role="nrol:mnemonic">MKD</name>
+			<name role="nrol:display" xml:lang="en">Macedonian denar</name>
+			<name role="nrol:display" xml:lang="de">Denar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MMK"/>
+			<name role="nrol:mnemonic">MMK</name>
+			<name role="nrol:display" xml:lang="en">Myanmar kyat</name>
+			<name role="nrol:display" xml:lang="de">Kyat</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MNT"/>
+			<name role="nrol:mnemonic">MNT</name>
+			<name role="nrol:display" xml:lang="en">Mongolian tugrik</name>
+			<name role="nrol:display" xml:lang="de">Tugrik</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MOP"/>
+			<name role="nrol:mnemonic">MOP</name>
+			<name role="nrol:display" xml:lang="en">Macanese pataca</name>
+			<name role="nrol:display" xml:lang="de">Pataca</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MRO"/>
+			<name role="nrol:mnemonic">MRO</name>
+			<name role="nrol:display" xml:lang="en">Mauritanian ouguiya</name>
+			<name role="nrol:display" xml:lang="de">Ouguiya</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MUR"/>
+			<name role="nrol:mnemonic">MUR</name>
+			<name role="nrol:display" xml:lang="en">Mauritian rupee</name>
+			<name role="nrol:display" xml:lang="de">Mauritius-Rupie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MVR"/>
+			<name role="nrol:mnemonic">MVR</name>
+			<name role="nrol:display" xml:lang="en">Maldivian rufiyaa</name>
+			<name role="nrol:display" xml:lang="de">Rufiyaa</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MWK"/>
+			<name role="nrol:mnemonic">MWK</name>
+			<name role="nrol:display" xml:lang="en">Malawian kwacha</name>
+			<name role="nrol:display" xml:lang="de">Kwacha</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MXN"/>
+			<name role="nrol:mnemonic">MXN</name>
+			<name role="nrol:display" xml:lang="en">Mexican peso</name>
+			<name role="nrol:display" xml:lang="de">Mexikanischer Peso</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MYR"/>
+			<name role="nrol:mnemonic">MYR</name>
+			<name role="nrol:display" xml:lang="en">Malaysian ringgit</name>
+			<name role="nrol:display" xml:lang="de">Ringgit</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:MZN"/>
+			<name role="nrol:mnemonic">MZN</name>
+			<name role="nrol:display" xml:lang="en">Mozambican metical</name>
+			<name role="nrol:display" xml:lang="de">Metical</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NAD"/>
+			<name role="nrol:mnemonic">NAD</name>
+			<name role="nrol:display" xml:lang="en">Namibian dollar</name>
+			<name role="nrol:display" xml:lang="de">Namibischer Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NGN"/>
+			<name role="nrol:mnemonic">NGN</name>
+			<name role="nrol:display" xml:lang="en">Nigerian naira</name>
+			<name role="nrol:display" xml:lang="de">Naira</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NIO"/>
+			<name role="nrol:mnemonic">NIO</name>
+			<name role="nrol:display" xml:lang="en">Nicaraguan córdoba</name>
+			<name role="nrol:display" xml:lang="de">Córdoba</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NOK"/>
+			<name role="nrol:mnemonic">NOK</name>
+			<name role="nrol:display" xml:lang="en">Norwegian krone</name>
+			<name role="nrol:display" xml:lang="de">Norwegische Krone</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NPR"/>
+			<name role="nrol:mnemonic">NPR</name>
+			<name role="nrol:display" xml:lang="en">Nepalese rupee</name>
+			<name role="nrol:display" xml:lang="de">Nepalesische Rupie</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:NZD"/>
+			<name role="nrol:mnemonic">NZD</name>
+			<name role="nrol:display" xml:lang="en">New Zealand dollar</name>
+			<name role="nrol:display" xml:lang="de">Neuseeland-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:OMR"/>
+			<name role="nrol:mnemonic">OMR</name>
+			<name role="nrol:display" xml:lang="en">Omani rial</name>
+			<name role="nrol:display" xml:lang="de">Omanischer Rial</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:PAB"/>
+			<name role="nrol:mnemonic">PAB</name>
+			<name role="nrol:display" xml:lang="en">Panamanian balboa</name>
+			<name role="nrol:display" xml:lang="de">Balboa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SBD"/>
+			<name role="nrol:mnemonic">SBD</name>
+			<name role="nrol:display" xml:lang="en">Solomon Islands dollar</name>
+			<name role="nrol:display" xml:lang="de">Salomonen-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SCR"/>
+			<name role="nrol:mnemonic">SCR</name>
+			<name role="nrol:display" xml:lang="en">Seychelles rupee</name>
+			<name role="nrol:display" xml:lang="de">Seychellen-Rupie</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SDG"/>
+			<name role="nrol:mnemonic">SDG</name>
+			<name role="nrol:display" xml:lang="en">Sudanese pound</name>
+			<name role="nrol:display" xml:lang="de">Sudanesische Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SEK"/>
+			<name role="nrol:mnemonic">SEK</name>
+			<name role="nrol:display" xml:lang="en">Swedish krona</name>
+			<name role="nrol:display" xml:lang="de">Schwedische Krone</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SGD"/>
+			<name role="nrol:mnemonic">SGD</name>
+			<name role="nrol:display" xml:lang="en">Singapore dollar</name>
+			<name role="nrol:display" xml:lang="de">Singapur-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SHP"/>
+			<name role="nrol:mnemonic">SHP</name>
+			<name role="nrol:display" xml:lang="en">Saint Helena pound</name>
+			<name role="nrol:display" xml:lang="de">St. Helena Pfund</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SLL"/>
+			<name role="nrol:mnemonic">SLL</name>
+			<name role="nrol:display" xml:lang="en">Sierra Leonean leone</name>
+			<name role="nrol:display" xml:lang="de">Leone</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SOS"/>
+			<name role="nrol:mnemonic">SOS</name>
+			<name role="nrol:display" xml:lang="en">Somali shilling</name>
+			<name role="nrol:display" xml:lang="de">Somalia-Schilling</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SRD"/>
+			<name role="nrol:mnemonic">SRD</name>
+			<name role="nrol:display" xml:lang="en">Surinamese dollar</name>
+			<name role="nrol:display" xml:lang="de">Suriname-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SSP"/>
+			<name role="nrol:mnemonic">SSP</name>
+			<name role="nrol:display" xml:lang="en">South Sudanese pound</name>
+			<name role="nrol:display" xml:lang="de">Südsudanesisches Pfund</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:STD"/>
+			<name role="nrol:mnemonic">STD</name>
+			<name role="nrol:display" xml:lang="en">São Tomé and Príncipe dobra</name>
+			<name role="nrol:display" xml:lang="de">Dobra</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SYP"/>
+			<name role="nrol:mnemonic">SYP</name>
+			<name role="nrol:display" xml:lang="en">Syrian pound</name>
+			<name role="nrol:display" xml:lang="de">Syrisches Pfund</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SZL"/>
+			<name role="nrol:mnemonic">SZL</name>
+			<name role="nrol:display" xml:lang="en">Swazi lilangeni</name>
+			<name role="nrol:display" xml:lang="de">Lilangeni</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:THB"/>
+			<name role="nrol:mnemonic">THB</name>
+			<name role="nrol:display" xml:lang="en">Thai baht</name>
+			<name role="nrol:display" xml:lang="de">Baht</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TJS"/>
+			<name role="nrol:mnemonic">TJS</name>
+			<name role="nrol:display" xml:lang="en">Tajikistani somoni</name>
+			<name role="nrol:display" xml:lang="de">Somoni</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TMT"/>
+			<name role="nrol:mnemonic">TMT</name>
+			<name role="nrol:display" xml:lang="en">Turkmenistani manat</name>
+			<name role="nrol:display" xml:lang="de">Manat</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TND"/>
+			<name role="nrol:mnemonic">TND</name>
+			<name role="nrol:display" xml:lang="en">Tunisian dinar</name>
+			<name role="nrol:display" xml:lang="de">Tunesischer Dinar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TOP"/>
+			<name role="nrol:mnemonic">TOP</name>
+			<name role="nrol:display" xml:lang="en">Tongan pa'anga</name>
+			<name role="nrol:display" xml:lang="de">Pa'anga</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TRY"/>
+			<name role="nrol:mnemonic">TRY</name>
+			<name role="nrol:display" xml:lang="en">Turkish lira</name>
+			<name role="nrol:display" xml:lang="de">Türkische Lira</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TTD"/>
+			<name role="nrol:mnemonic">TTD</name>
+			<name role="nrol:display" xml:lang="en">Trinidad and Tobago dollar</name>
+			<name role="nrol:display" xml:lang="de">Trinidad-und-Tobago-Dollar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TWD"/>
+			<name role="nrol:mnemonic">TWD</name>
+			<name role="nrol:display" xml:lang="en">New Taiwan dollar</name>
+			<name role="nrol:display" xml:lang="de">Taiwan-Dollar</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:TZS"/>
+			<name role="nrol:mnemonic">TZS</name>
+			<name role="nrol:display" xml:lang="en">Tanzanian shilling</name>
+			<name role="nrol:display" xml:lang="de">Tansania-Schilling</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:UAH"/>
+			<name role="nrol:mnemonic">UAH</name>
+			<name role="nrol:display" xml:lang="en">Ukrainian hryvnia</name>
+			<name role="nrol:display" xml:lang="de">Hryvnia</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:UGX"/>
+			<name role="nrol:mnemonic">UGX</name>
+			<name role="nrol:display" xml:lang="en">Ugandan shilling</name>
+			<name role="nrol:display" xml:lang="de">Uganda-Schilling</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:UYU"/>
+			<name role="nrol:mnemonic">UYU</name>
+			<name role="nrol:display" xml:lang="en">Uruguayan peso</name>
+			<name role="nrol:display" xml:lang="de">Uruguayischer Peso</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:UZS"/>
+			<name role="nrol:mnemonic">UZS</name>
+			<name role="nrol:display" xml:lang="en">Uzbekistan som</name>
+			<name role="nrol:display" xml:lang="de">Usbekischer Som</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:VEF"/>
+			<name role="nrol:mnemonic">VEF</name>
+			<name role="nrol:display" xml:lang="en">Venezuelan bolívar</name>
+			<name role="nrol:display" xml:lang="de">Bolivar</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:VND"/>
+			<name role="nrol:mnemonic">VND</name>
+			<name role="nrol:display" xml:lang="en">Vietnamese dong</name>
+			<name role="nrol:display" xml:lang="de">Dong</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:VUV"/>
+			<name role="nrol:mnemonic">VUV</name>
+			<name role="nrol:display" xml:lang="en">Vanuatu vatu</name>
+			<name role="nrol:display" xml:lang="de">Vatu</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-iso4217a:WST"/>
+			<name role="nrol:mnemonic">WST</name>
+			<name role="nrol:display" xml:lang="en">Samoan tala</name>
+			<name role="nrol:display" xml:lang="de">Tala</name>
+		</concept>	
+		<concept>
+			<conceptId qcode="dpax-iso4217a:SVC"/>
+			<name role="nrol:mnemonic">SVC</name>
+			<name role="nrol:display" xml:lang="en">Salvadoren colón</name>
+			<name role="nrol:display" xml:lang="de">Colón</name>
+		</concept>			
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-iso4217a" uri="http://g2.dpa.com/cv/dpax-iso4217a/">
+		<definition>TODO</definition>
+		<name>dpax-iso4217a</name>
+	</schemeMeta>
+</knowledgeItem>

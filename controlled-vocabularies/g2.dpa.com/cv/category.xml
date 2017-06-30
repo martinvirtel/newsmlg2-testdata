@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:category" standard="NewsML-G2" standardversion="2.4" version="12" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.de.IPTC-G2-Standards_1.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2010-11-02T14:15:55+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpacat:pl"/>
+			<name xml:lang="de">Politik</name>
+			<name dir="rtl" xml:lang="ar">سياسة</name>
+			<name xml:lang="en">politics</name>
+			<name xml:lang="it">Politica</name>
+			<name role="nrol:mnemonic" xml:lang="de">pl</name>
+			<name role="nrol:mnemonic" xml:lang="it">pol</name>
+			<name role="nrol:mnemonic" xml:lang="en">i</name>
+			<name role="nrol:mnemonic" xml:lang="es">i</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ب</name>
+			<sameAs qcode="dparessort:pl"/>
+			<sameAs qcode="de-cat:pl"/>
+			<narrower qcode="dpasrs:06000000"/>
+			<narrower qcode="dpasrs:09000000"/>
+			<narrower qcode="dpasrs:11000000"/>
+			<narrower qcode="dpasrs:12000000"/>
+			<narrower qcode="dpasrs:16000000"/>
+			<narrower qcode="subj:06000000"/>
+			<narrower qcode="subj:09000000"/>
+			<narrower qcode="subj:11000000"/>
+			<narrower qcode="subj:12000000"/>
+			<narrower qcode="subj:16000000"/>
+			<narrower qcode="medtop:06000000"/>
+			<narrower qcode="medtop:09000000"/>
+			<narrower qcode="medtop:11000000"/>
+			<narrower qcode="medtop:12000000"/>
+			<narrower qcode="medtop:16000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:wi"/>
+			<name xml:lang="de">Wirtschaft</name>
+			<name xml:lang="en">economics</name>
+			<name xml:lang="it">Economia</name>
+			<name dir="rtl" xml:lang="ar">اقتصاد</name>
+			<name role="nrol:mnemonic" xml:lang="de">wi</name>
+			<name role="nrol:mnemonic" xml:lang="it">eco</name>
+			<name role="nrol:mnemonic" xml:lang="en">f</name>
+			<name role="nrol:mnemonic" xml:lang="es">f</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ف</name>
+			<sameAs qcode="dparessort:wi"/>
+			<sameAs qcode="de-cat:wi"/>
+			<narrower qcode="dpasrs:04000000"/>
+			<narrower qcode="subj:04000000"/>
+			<narrower qcode="medtop:04000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:vm"/>
+			<name xml:lang="de">Vermischtes</name>
+			<name xml:lang="it">Altro</name>
+			<name dir="rtl" xml:lang="ar">مصلحة</name>
+			<name role="nrol:mnemonic" xml:lang="de">vm</name>
+			<name role="nrol:mnemonic" xml:lang="it">alr</name>
+			<name role="nrol:mnemonic" xml:lang="en">u</name>
+			<name role="nrol:mnemonic" xml:lang="es">x</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">س</name>
+			<sameAs qcode="dparessort:vm"/>
+			<sameAs qcode="de-cat:vm"/>
+			<narrower qcode="dpasrs:02000000"/>
+			<narrower qcode="dpasrs:03000000"/>
+			<narrower qcode="dpasrs:05000000"/>
+			<narrower qcode="dpasrs:07000000"/>
+			<narrower qcode="dpasrs:08000000"/>
+			<narrower qcode="dpasrs:10000000"/>
+			<narrower qcode="dpasrs:13000000"/>
+			<narrower qcode="dpasrs:14000000"/>
+			<narrower qcode="dpasrs:17000000"/>
+			<narrower qcode="subj:02000000"/>
+			<narrower qcode="subj:03000000"/>
+			<narrower qcode="subj:05000000"/>
+			<narrower qcode="subj:07000000"/>
+			<narrower qcode="subj:08000000"/>
+			<narrower qcode="subj:10000000"/>
+			<narrower qcode="subj:13000000"/>
+			<narrower qcode="subj:14000000"/>
+			<narrower qcode="subj:17000000"/>
+			<narrower qcode="medtop:02000000"/>
+			<narrower qcode="medtop:03000000"/>
+			<narrower qcode="medtop:05000000"/>
+			<narrower qcode="medtop:07000000"/>
+			<narrower qcode="medtop:08000000"/>
+			<narrower qcode="medtop:10000000"/>
+			<narrower qcode="medtop:13000000"/>
+			<narrower qcode="medtop:14000000"/>
+			<narrower qcode="medtop:17000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:ku"/>
+			<name xml:lang="de">Kultur</name>
+			<name xml:lang="it">Cultura</name>
+			<name dir="rtl" xml:lang="ar">ثقافة</name>
+			<name role="nrol:mnemonic" xml:lang="de">ku</name>
+			<name role="nrol:mnemonic" xml:lang="it">cul</name>
+			<name role="nrol:mnemonic" xml:lang="en">e</name>
+			<name role="nrol:mnemonic" xml:lang="es">e</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ط</name>
+			<name role="nrol:alternate">C</name>
+			<name role="nrol:full" xml:lang="en">art and culture</name>
+			<sameAs qcode="dparessort:ku"/>
+			<sameAs qcode="de-cat:ku"/>
+			<narrower qcode="dpasrs:01000000"/>
+			<narrower qcode="subj:01000000"/>
+			<narrower qcode="medtop:01000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:sp"/>
+			<name xml:lang="de">Sport</name>
+			<name xml:lang="en">Sports</name>
+			<name xml:lang="it">Sport</name>
+			<name dir="rtl" xml:lang="ar">الرياضة</name>
+			<name role="nrol:mnemonic" xml:lang="de">sp</name>
+			<name role="nrol:mnemonic" xml:lang="it">fds</name>
+			<name role="nrol:mnemonic" xml:lang="en">s</name>
+			<name role="nrol:mnemonic" xml:lang="es">s</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ئ</name>
+			<sameAs qcode="dparessort:sp"/>
+			<sameAs qcode="de-cat:sp"/>
+			<narrower qcode="dpasrs:15000000"/>
+			<narrower qcode="subj:15000000"/>
+			<narrower qcode="medtop:15000000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:rs"/>
+			<name xml:lang="de">Redaktioneller Service</name>
+			<name xml:lang="it">Note di servizio</name>
+			<name dir="rtl" xml:lang="ar">خدمة التحرير</name>
+			<name role="nrol:mnemonic" xml:lang="de">rs</name>
+			<name role="nrol:mnemonic" xml:lang="it">nos</name>
+			<name role="nrol:mnemonic" xml:lang="en">v</name>
+			<name role="nrol:mnemonic" xml:lang="es">v</name>
+			<name role="nrol:mnemonic" dir="rtl" xml:lang="ar">ة</name>
+			<sameAs qcode="dparessort:rs"/>
+			<sameAs qcode="de-cat:rs"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpacat:dm"/>
+			<name xml:lang="de">Dienstmeldung</name>
+			<name role="nrol:mnemonic" xml:lang="de">dm</name>
+			<sameAs qcode="dparessort:dm"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpacat" uri="http://g2.dpa.com/cv/category/">
+		<definition>TODO</definition>
+		<name>dpacat</name>
+	</schemeMeta>
+</knowledgeItem>

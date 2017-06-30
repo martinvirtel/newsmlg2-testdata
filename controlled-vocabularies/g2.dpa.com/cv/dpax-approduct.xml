@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xs="http://www.w3.org/2001/XMLSchema"  guid="urn:newsml:g2.dpa.com:20090101:approduct" standard="NewsML-G2" standardversion="2.20" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder literal="AP"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2015-11-25T10:14:53+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title>G2 Abbildung der AP Produkte</title>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-approduct:36866"/>
+			<name>AP Topics - Crime</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36866" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:100268"/>
+			<name>AP Alerts</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:package:100268" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:100523"/>
+			<name>All Topics</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:package:100523" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:32607"/>
+			<name>European News Service</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:32607" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33393"/>
+			<name>AP Alerts -  Technology</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33393" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36875"/>
+			<name>AP Topics - Technology</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36875" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33372"/>
+			<name>AP Alerts -  Damages</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33372" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36868"/>
+			<name>AP Topics - Damages</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36868" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:35534"/>
+			<name>AP Alerts -  Automotives</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:35534" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36861"/>
+			<name>AP Topics - Automotive</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36861" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33369"/>
+			<name>AP Alerts -  Business</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33369" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36864"/>
+			<name>AP Topics - Business</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36864" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33316"/>
+			<name>AP Alerts -  Municipal</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33316" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37497"/>
+			<name>AP Topics - Municipal</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37497" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33371"/>
+			<name>AP Alerts -  Crime</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33371" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33388"/>
+			<name>AP Alerts -  Political</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33388" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37507"/>
+			<name>AP Topics - Political</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37507" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33375"/>
+			<name>AP Alerts -  Energy</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33375" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33377"/>
+			<name>AP Alerts -  Environment</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33377" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36869"/>
+			<name>AP Topics - Environment</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36869" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37490"/>
+			<name>AP Topics - Energy</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37490" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33373"/>
+			<name>AP Alerts -  Defense</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33373" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37488"/>
+			<name>AP Topics - Defense</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37488" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33385"/>
+			<name>AP Alerts -  Legal</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33385" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37298"/>
+			<name>AP Topics - Legal</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37298" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33374"/>
+			<name>AP Alerts -  Education</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33374" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37489"/>
+			<name>AP Topics - Education</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37489" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:33395"/>
+			<name>AP Alerts -  Transportation</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:33395" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36877"/>
+			<name>AP Topics - Transportation</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36877" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:36859"/>
+			<name>AP Topics - Aerospace</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:36859" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37467"/>
+			<name>AP Alerts - Aerospace</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37467" valuedatatype="xs:string"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-approduct:37480"/>
+			<name>AP Alerts - Seniors</name>
+			<related rel="dparel:guid" value="urn:publicid:ap.org:product:37480" valuedatatype="xs:string"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-approduct" uri="http://g2.dpa.com/cv/dpax-approduct/">
+		<definition>TODO</definition>
+		<name>dpax-approduct</name>
+	</schemeMeta>
+</knowledgeItem>

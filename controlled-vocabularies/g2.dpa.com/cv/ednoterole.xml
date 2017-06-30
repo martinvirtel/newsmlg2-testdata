@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:ednoterole" standard="NewsML-G2" standardversion="2.4" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-11-17T10:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+		<title role="nrol:display" xml:lang="en">dpa roles for editorial notes</title>
+		<title role="nrol:display" xml:lang="de">dpa Rollen für redaktionelle Hinweise</title>
+		<edNote>Über dieses CV werden Berichtigungs-, Embargo- und andere Hinweise unterschieden. </edNote>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2011-11-17T10:00:00+01:00" qcode="dpaednoterole:editorialnote"/>
+			<name role="nrol:display" xml:lang="de">Redaktioneller Hinweis</name>
+		</concept>
+		<concept>
+			<conceptId created="2011-11-17T10:00:00+01:00" qcode="dpaednoterole:correction"/>
+			<name role="nrol:display" xml:lang="de">Berichtigungshinweis</name>
+			<name role="nrol:display" xml:lang="en">correction note</name>
+			<name role="nrol:display" xml:lang="fr">rectification</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T10:00:00+02:00" qcode="dpaednoterole:correctionshort"/>
+			<name role="nrol:display" xml:lang="de">kurzer Berichtigungshinweis</name>
+			<name role="nrol:display" xml:lang="en">short correction note</name>
+			<name role="nrol:display" xml:lang="fr">rectification</name>
+		</concept>
+		<concept>
+			<conceptId created="2011-11-17T10:00:00+01:00" qcode="dpaednoterole:genrenote"/>
+			<name role="nrol:display" xml:lang="de">Meldungstyp-Hinweis</name>
+			<name role="nrol:display" xml:lang="en">genre note</name>
+			<name role="nrol:display" xml:lang="fr">genre</name>
+			<definition xml:lang="de">
+			Ergänzende Hinweise zum Genre
+			</definition>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T10:00:00+01:00" qcode="dpaednoterole:closingline"/>
+			<name role="nrol:display" xml:lang="de">Schlusszeile</name>
+			<name role="nrol:display" xml:lang="en">closing line</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T10:00:00+01:00" qcode="dpaednoterole:picture"/>
+			<name role="nrol:display" xml:lang="de">Bild/Grafik-Hinweis</name>
+			<name role="nrol:display" xml:lang="en">picture note</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T10:00:00+01:00" qcode="dpaednoterole:edservice"/>
+			<name role="nrol:display" xml:lang="de">Service-Hinweis</name>
+			<name role="nrol:display" xml:lang="en">editorial service</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-05-08T10:00:00+01:00" qcode="dpaednoterole:contacts"/>
+			<name role="nrol:display" xml:lang="de">Kontakte</name>
+			<name role="nrol:display" xml:lang="en">contacts</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T10:00:00+02:00" qcode="dpaednoterole:dpacontacts"/>
+			<name role="nrol:display" xml:lang="de">dpa-Kontakte</name>
+			<name role="nrol:display" xml:lang="en">dpa contacts</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T10:00:00+02:00" qcode="dpaednoterole:localities"/>
+			<name role="nrol:display" xml:lang="de">Adressen in der Meldung</name>
+			<name role="nrol:display" xml:lang="en">places</name>
+			<definition xml:lang="de">
+			werden redundant aus subject pois gewonnen.
+			</definition>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T10:00:00+02:00" qcode="dpaednoterole:servicemetadata"/>
+			<name role="nrol:display" xml:lang="de">Metadaten</name>
+			<name role="nrol:display" xml:lang="en">metadata</name>
+			<definition xml:lang="de">
+			werden redundant aus subject ISBNs, ISINs, IATA-Flughäfen und EAN-Codes erzeugt.
+			</definition>
+		</concept>
+		<concept>
+			<conceptId created="2012-07-26T10:00:00+02:00" qcode="dpaednoterole:regionrelevance"/>
+			<name role="nrol:display" xml:lang="de">relevante Region</name>
+			<name role="nrol:display" xml:lang="en">relevant region</name>
+			<definition xml:lang="de">
+			wird redundant aus audience erzeugt.
+			</definition>
+		</concept>
+		<concept>
+			<conceptId created="2015-07-02T14:00:00+02:00" qcode="dpaednoterole:embargo"/>
+			<name role="nrol:display" xml:lang="de">Embargo Hinweis</name>
+			<name role="nrol:display" xml:lang="en">embargo note</name>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaednoterole" uri="http://g2.dpa.com/cv/ednoterole/">
+		<definition>TODO</definition>
+		<name>dpaednoterole</name>
+	</schemeMeta>
+</knowledgeItem>

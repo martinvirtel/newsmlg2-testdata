@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:7901rendition" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><catalog>
+		<scheme alias="dpa7901rendition" uri="http://g2.dpa.com/cv/7901rendition/"/>
+	</catalog>
+	
+	
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-11-08T11:31:51+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId created="2012-11-08T11:25:00+01:00" qcode="dpa7901rendition:headline"/>
+			<name role="nrol:mnemonic">headline</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-11-08T11:27:00+01:00" qcode="dpa7901rendition:nonpublic"/>
+			<name role="nrol:mnemonic">nonpublic</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-11-08T11:27:00+01:00" qcode="dpa7901rendition:public"/>
+			<name role="nrol:mnemonic">public</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-11-08T11:26:00+01:00" qcode="dpa7901rendition:teaser"/>
+			<name role="nrol:mnemonic">teaser</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-11-08T11:26:00+01:00" qcode="dpa7901rendition:text"/>
+			<name role="nrol:mnemonic">text</name>
+		</concept>
+		<concept>
+			<conceptId created="2012-11-08T11:26:00+01:00" qcode="dpa7901rendition:slug"/>
+			<name role="nrol:mnemonic">slug</name>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpa7901rendition" uri="http://g2.dpa.com/cv/7901rendition/"><definition>TODO</definition><name>dpa7901rendition</name></schemeMeta></knowledgeItem>

@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:dpax-icb" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de" >
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder literal="FTSE"/>
+		<copyrightNotice>© 2011 FTSE International Limited (“FTSE”)</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2011-07-04T12:00:00+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpax-icb:0001"/>
+			<name xml:lang="en">Oil &amp; Gas</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0500"/>
+			<name xml:lang="en">Oil &amp; Gas</name>
+			<broader qcode="dpax-icb:0001"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0530"/>
+			<name xml:lang="en">Oil &amp; Gas Producers</name>
+			<broader qcode="dpax-icb:0500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0533"/>
+			<name xml:lang="en">Exploration &amp; Production</name>
+			<broader qcode="dpax-icb:0530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0537"/>
+			<name xml:lang="en">Integrated Oil &amp; Gas</name>
+			<broader qcode="dpax-icb:0530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0570"/>
+			<name xml:lang="en">Oil Equipment, Services &amp; Distribution</name>
+			<broader qcode="dpax-icb:0500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0573"/>
+			<name xml:lang="en">Oil Equipment &amp; Services</name>
+			<broader qcode="dpax-icb:0570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0577"/>
+			<name xml:lang="en">Pipelines</name>
+			<broader qcode="dpax-icb:0570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0580"/>
+			<name xml:lang="en">Alternative Energy</name>
+			<broader qcode="dpax-icb:0500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0583"/>
+			<name xml:lang="en">Renewable Energy Equipment</name>
+			<broader qcode="dpax-icb:0580"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:0587"/>
+			<name xml:lang="en">Alternative Fuels</name>
+			<broader qcode="dpax-icb:0580"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1000"/>
+			<name xml:lang="en">Basic Materials</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1300"/>
+			<name xml:lang="en">Chemicals</name>
+			<broader qcode="dpax-icb:1000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1350"/>
+			<name xml:lang="en">Chemicals</name>
+			<broader qcode="dpax-icb:1300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1353"/>
+			<name xml:lang="en">Commodity Chemicals</name>
+			<broader qcode="dpax-icb:1350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1357"/>
+			<name xml:lang="en">Specialty Chemicals</name>
+			<broader qcode="dpax-icb:1350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1700"/>
+			<name xml:lang="en">Basic Resources</name>
+			<broader qcode="dpax-icb:1000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1730"/>
+			<name xml:lang="en">Forestry &amp; Paper</name>
+			<broader qcode="dpax-icb:1700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1733"/>
+			<name xml:lang="en">Forestry</name>
+			<broader qcode="dpax-icb:1730"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1737"/>
+			<name xml:lang="en">Paper</name>
+			<broader qcode="dpax-icb:1730"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1750"/>
+			<name xml:lang="en">Industrial Metals &amp; Mining</name>
+			<broader qcode="dpax-icb:1700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1753"/>
+			<name xml:lang="en">Aluminum</name>
+			<broader qcode="dpax-icb:1750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1755"/>
+			<name xml:lang="en">Nonferrous Metals</name>
+			<broader qcode="dpax-icb:1750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1757"/>
+			<name xml:lang="en">Iron &amp; Steel</name>
+			<broader qcode="dpax-icb:1750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1770"/>
+			<name xml:lang="en">Mining</name>
+			<broader qcode="dpax-icb:1700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1771"/>
+			<name xml:lang="en">Coal</name>
+			<broader qcode="dpax-icb:1770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1773"/>
+			<name xml:lang="en">Diamonds &amp; Gemstones</name>
+			<broader qcode="dpax-icb:1770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1775"/>
+			<name xml:lang="en">General Mining</name>
+			<broader qcode="dpax-icb:1770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1777"/>
+			<name xml:lang="en">Gold Mining</name>
+			<broader qcode="dpax-icb:1770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:1779"/>
+			<name xml:lang="en">Platinum &amp; Precious Metals</name>
+			<broader qcode="dpax-icb:1770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2000"/>
+			<name xml:lang="en">Industrials</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2300"/>
+			<name xml:lang="en">Construction &amp; Materials</name>
+			<broader qcode="dpax-icb:2000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2350"/>
+			<name xml:lang="en">Construction &amp; Materials</name>
+			<broader qcode="dpax-icb:2300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2353"/>
+			<name xml:lang="en">Building Materials &amp; Fixtures</name>
+			<broader qcode="dpax-icb:2350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2357"/>
+			<name xml:lang="en">Heavy Construction</name>
+			<broader qcode="dpax-icb:2350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2700"/>
+			<name xml:lang="en">Industrial Goods &amp; Services</name>
+			<broader qcode="dpax-icb:2000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2710"/>
+			<name xml:lang="en">Aerospace &amp; Defense</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2713"/>
+			<name xml:lang="en">Aerospace</name>
+			<broader qcode="dpax-icb:2710"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2717"/>
+			<name xml:lang="en">Defense</name>
+			<broader qcode="dpax-icb:2710"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2720"/>
+			<name xml:lang="en">General Industrials</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2723"/>
+			<name xml:lang="en">Containers &amp; Packaging</name>
+			<broader qcode="dpax-icb:2720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2727"/>
+			<name xml:lang="en">Diversified Industrials</name>
+			<broader qcode="dpax-icb:2720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2730"/>
+			<name xml:lang="en">Electronic &amp; Electrical Equipment</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2733"/>
+			<name xml:lang="en">Electrical Components &amp; Equipment</name>
+			<broader qcode="dpax-icb:2730"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2737"/>
+			<name xml:lang="en">Electronic Equipment</name>
+			<broader qcode="dpax-icb:2730"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2750"/>
+			<name xml:lang="en">Industrial Engineering</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2753"/>
+			<name xml:lang="en">Commercial Vehicles &amp; Trucks</name>
+			<broader qcode="dpax-icb:2750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2757"/>
+			<name xml:lang="en">Industrial Machinery</name>
+			<broader qcode="dpax-icb:2750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2770"/>
+			<name xml:lang="en">Industrial Transportation</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2771"/>
+			<name xml:lang="en">Delivery Services</name>
+			<broader qcode="dpax-icb:2770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2773"/>
+			<name xml:lang="en">Marine Transportation</name>
+			<broader qcode="dpax-icb:2770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2775"/>
+			<name xml:lang="en">Railroads</name>
+			<broader qcode="dpax-icb:2770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2777"/>
+			<name xml:lang="en">Transportation Services</name>
+			<broader qcode="dpax-icb:2770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2779"/>
+			<name xml:lang="en">Trucking</name>
+			<broader qcode="dpax-icb:2770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2790"/>
+			<name xml:lang="en">Support Services</name>
+			<broader qcode="dpax-icb:2700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2791"/>
+			<name xml:lang="en">Business Support Services</name>
+			<broader qcode="dpax-icb:2790"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2793"/>
+			<name xml:lang="en">Business Training &amp; Employment Agencies</name>
+			<broader qcode="dpax-icb:2790"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2795"/>
+			<name xml:lang="en">Financial Administration</name>
+			<broader qcode="dpax-icb:2790"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2797"/>
+			<name xml:lang="en">Industrial Suppliers</name>
+			<broader qcode="dpax-icb:2790"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:2799"/>
+			<name xml:lang="en">Waste &amp; Disposal Services</name>
+			<broader qcode="dpax-icb:2790"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3000"/>
+			<name xml:lang="en">Consumer Goods</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3300"/>
+			<name xml:lang="en">Automobiles &amp; Parts</name>
+			<broader qcode="dpax-icb:3000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3350"/>
+			<name xml:lang="en">Automobiles &amp; Parts</name>
+			<broader qcode="dpax-icb:3300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3353"/>
+			<name xml:lang="en">Automobiles</name>
+			<broader qcode="dpax-icb:3350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3355"/>
+			<name xml:lang="en">Auto Parts</name>
+			<broader qcode="dpax-icb:3350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3357"/>
+			<name xml:lang="en">Tires</name>
+			<broader qcode="dpax-icb:3350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3500"/>
+			<name xml:lang="en">Food &amp; Beverage</name>
+			<broader qcode="dpax-icb:3000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3530"/>
+			<name xml:lang="en">Beverages</name>
+			<broader qcode="dpax-icb:3500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3533"/>
+			<name xml:lang="en">Brewers</name>
+			<broader qcode="dpax-icb:3530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3535"/>
+			<name xml:lang="en">Distillers &amp; Vintners</name>
+			<broader qcode="dpax-icb:3530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3537"/>
+			<name xml:lang="en">Soft Drinks</name>
+			<broader qcode="dpax-icb:3530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3570"/>
+			<name xml:lang="en">Food Producers</name>
+			<broader qcode="dpax-icb:3500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3573"/>
+			<name xml:lang="en">Farming &amp; Fishing</name>
+			<broader qcode="dpax-icb:3570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3577"/>
+			<name xml:lang="en">Food Products</name>
+			<broader qcode="dpax-icb:3570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3700"/>
+			<name xml:lang="en">Personal &amp; Household Goods</name>
+			<broader qcode="dpax-icb:3000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3720"/>
+			<name xml:lang="en">Household Goods &amp; Home Construction</name>
+			<broader qcode="dpax-icb:3700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3722"/>
+			<name xml:lang="en">Durable Household Products</name>
+			<broader qcode="dpax-icb:3720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3724"/>
+			<name xml:lang="en">Nondurable Household Products</name>
+			<broader qcode="dpax-icb:3720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3726"/>
+			<name xml:lang="en">Furnishings</name>
+			<broader qcode="dpax-icb:3720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3728"/>
+			<name xml:lang="en">Home Construction</name>
+			<broader qcode="dpax-icb:3720"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3740"/>
+			<name xml:lang="en">Leisure Goods</name>
+			<broader qcode="dpax-icb:3700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3743"/>
+			<name xml:lang="en">Consumer Electronics</name>
+			<broader qcode="dpax-icb:3740"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3745"/>
+			<name xml:lang="en">Recreational Products</name>
+			<broader qcode="dpax-icb:3740"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3747"/>
+			<name xml:lang="en">Toys</name>
+			<broader qcode="dpax-icb:3740"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3760"/>
+			<name xml:lang="en">Personal Goods</name>
+			<broader qcode="dpax-icb:3700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3763"/>
+			<name xml:lang="en">Clothing &amp; Accessories</name>
+			<broader qcode="dpax-icb:3760"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3765"/>
+			<name xml:lang="en">Footwear</name>
+			<broader qcode="dpax-icb:3760"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3767"/>
+			<name xml:lang="en">Personal Products</name>
+			<broader qcode="dpax-icb:3760"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3780"/>
+			<name xml:lang="en">Tobacco</name>
+			<broader qcode="dpax-icb:3700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:3785"/>
+			<name xml:lang="en">Tobacco</name>
+			<broader qcode="dpax-icb:3780"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4000"/>
+			<name xml:lang="en">Health Care</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4500"/>
+			<name xml:lang="en">Health Care</name>
+			<broader qcode="dpax-icb:4000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4530"/>
+			<name xml:lang="en">Health Care Equipment &amp; Services</name>
+			<broader qcode="dpax-icb:4500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4533"/>
+			<name xml:lang="en">Health Care Providers</name>
+			<broader qcode="dpax-icb:4530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4535"/>
+			<name xml:lang="en">Medical Equipment</name>
+			<broader qcode="dpax-icb:4530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4537"/>
+			<name xml:lang="en">Medical Supplies</name>
+			<broader qcode="dpax-icb:4530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4570"/>
+			<name xml:lang="en">Pharmaceuticals &amp; Biotechnology</name>
+			<broader qcode="dpax-icb:4500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4573"/>
+			<name xml:lang="en">Biotechnology</name>
+			<broader qcode="dpax-icb:4570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:4577"/>
+			<name xml:lang="en">Pharmaceuticals</name>
+			<broader qcode="dpax-icb:4570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5000"/>
+			<name xml:lang="en">Consumer Services</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5300"/>
+			<name xml:lang="en">Retail</name>
+			<broader qcode="dpax-icb:5000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5330"/>
+			<name xml:lang="en">Food &amp; Drug Retailers</name>
+			<broader qcode="dpax-icb:5300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5333"/>
+			<name xml:lang="en">Drug Retailers</name>
+			<broader qcode="dpax-icb:5330"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5337"/>
+			<name xml:lang="en">Food Retailers &amp; Wholesalers</name>
+			<broader qcode="dpax-icb:5330"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5370"/>
+			<name xml:lang="en">General Retailers</name>
+			<broader qcode="dpax-icb:5300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5371"/>
+			<name xml:lang="en">Apparel Retailers</name>
+			<broader qcode="dpax-icb:5370"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5373"/>
+			<name xml:lang="en">Broadline Retailers</name>
+			<broader qcode="dpax-icb:5370"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5375"/>
+			<name xml:lang="en">Home Improvement Retailers</name>
+			<broader qcode="dpax-icb:5370"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5377"/>
+			<name xml:lang="en">Specialized Consumer Services</name>
+			<broader qcode="dpax-icb:5370"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5379"/>
+			<name xml:lang="en">Specialty Retailers</name>
+			<broader qcode="dpax-icb:5370"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5500"/>
+			<name xml:lang="en">Media</name>
+			<broader qcode="dpax-icb:5000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5550"/>
+			<name xml:lang="en">Media</name>
+			<broader qcode="dpax-icb:5500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5553"/>
+			<name xml:lang="en">Broadcasting &amp; Entertainment</name>
+			<broader qcode="dpax-icb:5550"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5555"/>
+			<name xml:lang="en">Media Agencies</name>
+			<broader qcode="dpax-icb:5550"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5557"/>
+			<name xml:lang="en">Publishing</name>
+			<broader qcode="dpax-icb:5550"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5700"/>
+			<name xml:lang="en">Travel &amp; Leisure</name>
+			<broader qcode="dpax-icb:5000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5750"/>
+			<name xml:lang="en">Travel &amp; Leisure</name>
+			<broader qcode="dpax-icb:5700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5751"/>
+			<name xml:lang="en">Airlines</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5752"/>
+			<name xml:lang="en">Gambling</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5753"/>
+			<name xml:lang="en">Hotels</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5755"/>
+			<name xml:lang="en">Recreational Services</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5757"/>
+			<name xml:lang="en">Restaurants &amp; Bars</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:5759"/>
+			<name xml:lang="en">Travel &amp; Tourism</name>
+			<broader qcode="dpax-icb:5750"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6000"/>
+			<name xml:lang="en">Telecommunications</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6500"/>
+			<name xml:lang="en">Telecommunications</name>
+			<broader qcode="dpax-icb:6000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6530"/>
+			<name xml:lang="en">Fixed Line Telecommunications</name>
+			<broader qcode="dpax-icb:6500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6535"/>
+			<name xml:lang="en">Fixed Line Telecommunications</name>
+			<broader qcode="dpax-icb:6530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6570"/>
+			<name xml:lang="en">Mobile Telecommunications</name>
+			<broader qcode="dpax-icb:6500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:6575"/>
+			<name xml:lang="en">Mobile Telecommunications</name>
+			<broader qcode="dpax-icb:6570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7000"/>
+			<name xml:lang="en">Utilities</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7500"/>
+			<name xml:lang="en">Utilities</name>
+			<broader qcode="dpax-icb:7000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7530"/>
+			<name xml:lang="en">Electricity</name>
+			<broader qcode="dpax-icb:7500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7535"/>
+			<name xml:lang="en">Conventional Electricity</name>
+			<broader qcode="dpax-icb:7530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7537"/>
+			<name xml:lang="en">Alternative Electricity</name>
+			<broader qcode="dpax-icb:7530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7570"/>
+			<name xml:lang="en">Gas, Water &amp; Multiutilities</name>
+			<broader qcode="dpax-icb:7500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7573"/>
+			<name xml:lang="en">Gas Distribution</name>
+			<broader qcode="dpax-icb:7570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7575"/>
+			<name xml:lang="en">Multiutilities</name>
+			<broader qcode="dpax-icb:7570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:7577"/>
+			<name xml:lang="en">Water</name>
+			<broader qcode="dpax-icb:7570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8000"/>
+			<name xml:lang="en">Financials</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8300"/>
+			<name xml:lang="en">Banks</name>
+			<broader qcode="dpax-icb:8000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8350"/>
+			<name xml:lang="en">Banks</name>
+			<broader qcode="dpax-icb:8300"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8355"/>
+			<name xml:lang="en">Banks</name>
+			<broader qcode="dpax-icb:8350"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8500"/>
+			<name xml:lang="en">Insurance</name>
+			<broader qcode="dpax-icb:8000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8530"/>
+			<name xml:lang="en">Nonlife Insurance</name>
+			<broader qcode="dpax-icb:8500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8532"/>
+			<name xml:lang="en">Full Line Insurance</name>
+			<broader qcode="dpax-icb:8530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8534"/>
+			<name xml:lang="en">Insurance Brokers</name>
+			<broader qcode="dpax-icb:8530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8536"/>
+			<name xml:lang="en">Property &amp; Casualty Insurance</name>
+			<broader qcode="dpax-icb:8530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8538"/>
+			<name xml:lang="en">Reinsurance</name>
+			<broader qcode="dpax-icb:8530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8570"/>
+			<name xml:lang="en">Life Insurance</name>
+			<broader qcode="dpax-icb:8500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8575"/>
+			<name xml:lang="en">Life Insurance</name>
+			<broader qcode="dpax-icb:8570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8600"/>
+			<name xml:lang="en">Real Estate</name>
+			<broader qcode="dpax-icb:8000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8630"/>
+			<name xml:lang="en">Real Estate Investment &amp; Services</name>
+			<broader qcode="dpax-icb:8600"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8633"/>
+			<name xml:lang="en">Real Estate Holding &amp; Development</name>
+			<broader qcode="dpax-icb:8630"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8637"/>
+			<name xml:lang="en">Real Estate Services</name>
+			<broader qcode="dpax-icb:8630"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8670"/>
+			<name xml:lang="en">Real Estate Investment Trusts</name>
+			<broader qcode="dpax-icb:8600"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8671"/>
+			<name xml:lang="en">Industrial &amp; Office REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8672"/>
+			<name xml:lang="en">Retail REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8673"/>
+			<name xml:lang="en">Residential REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8674"/>
+			<name xml:lang="en">Diversified REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8675"/>
+			<name xml:lang="en">Specialty REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8676"/>
+			<name xml:lang="en">Mortgage REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8677"/>
+			<name xml:lang="en">Hotel &amp; Lodging REITs</name>
+			<broader qcode="dpax-icb:8670"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8700"/>
+			<name xml:lang="en">Financial Services</name>
+			<broader qcode="dpax-icb:8000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8770"/>
+			<name xml:lang="en">Financial Services</name>
+			<broader qcode="dpax-icb:8700"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8771"/>
+			<name xml:lang="en">Asset Managers</name>
+			<broader qcode="dpax-icb:8770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8773"/>
+			<name xml:lang="en">Consumer Finance</name>
+			<broader qcode="dpax-icb:8770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8775"/>
+			<name xml:lang="en">Specialty Finance</name>
+			<broader qcode="dpax-icb:8770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8777"/>
+			<name xml:lang="en">Investment Services</name>
+			<broader qcode="dpax-icb:8770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8779"/>
+			<name xml:lang="en">Mortgage Finance</name>
+			<broader qcode="dpax-icb:8770"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8900"/>
+			<name xml:lang="en">Equity/Non-Equity Investment Instruments</name>
+			<broader qcode="dpax-icb:8000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8980"/>
+			<name xml:lang="en">Equity Investment Instruments</name>
+			<broader qcode="dpax-icb:8900"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8985"/>
+			<name xml:lang="en">Equity Investment Instruments</name>
+			<broader qcode="dpax-icb:8980"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8990"/>
+			<name xml:lang="en">Nonequity Investment Instruments</name>
+			<broader qcode="dpax-icb:8900"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:8995"/>
+			<name xml:lang="en">Nonequity Investment Instruments</name>
+			<broader qcode="dpax-icb:8990"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9000"/>
+			<name xml:lang="en">Technology</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9500"/>
+			<name xml:lang="en">Technology</name>
+			<broader qcode="dpax-icb:9000"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9530"/>
+			<name xml:lang="en">Software &amp; Computer Services</name>
+			<broader qcode="dpax-icb:9500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9533"/>
+			<name xml:lang="en">Computer Services</name>
+			<broader qcode="dpax-icb:9530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9535"/>
+			<name xml:lang="en">Internet</name>
+			<broader qcode="dpax-icb:9530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9537"/>
+			<name xml:lang="en">Software</name>
+			<broader qcode="dpax-icb:9530"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9570"/>
+			<name xml:lang="en">Technology Hardware &amp; Equipment</name>
+			<broader qcode="dpax-icb:9500"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9572"/>
+			<name xml:lang="en">Computer Hardware</name>
+			<broader qcode="dpax-icb:9570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9574"/>
+			<name xml:lang="en">Electronic Office Equipment</name>
+			<broader qcode="dpax-icb:9570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9576"/>
+			<name xml:lang="en">Semiconductors</name>
+			<broader qcode="dpax-icb:9570"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpax-icb:9578"/>
+			<name xml:lang="en">Telecommunications Equipment</name>
+			<broader qcode="dpax-icb:9570"/>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpax-icb" uri="http://g2.dpa.com/cv/dpax-icb/">
+		<definition>TODO</definition>
+		<name>dpax-icb</name>
+	</schemeMeta>
+</knowledgeItem>

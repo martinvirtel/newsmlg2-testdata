@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:channel" standard="NewsML-G2" standardversion="2.12" version="1" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2013-07-02T16:58:24+02:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpachannel:mecom"/>
+			<name role="nrol:mnemonic">mecom</name>
+			<definition>Die weitere Belieferung erfolgt über die mecom</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpachannel:ines"/>
+			<name role="nrol:mnemonic">ines</name>
+			<definition>Die Items sollen an ines weitergeleitet werden</definition>
+		</concept>
+		<concept>
+			<conceptId qcode="dpachannel:select"/>
+			<name role="nrol:mnemonic">select</name>
+			<definition>Die Items sollen an select Empfänger weitergeleitet werden</definition>
+		</concept>
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpachannel" uri="http://g2.dpa.com/cv/channel/">
+		<definition>TODO</definition>
+		<name>dpachannel</name>
+	</schemeMeta>
+</knowledgeItem>

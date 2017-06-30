@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:ernadest" standard="NewsML-G2" standardversion="2.12" version="3" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+	<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+	<rightsInfo>
+		<copyrightHolder/>
+		<copyrightNotice>dpa Copyright Notice</copyrightNotice>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2014-03-07T15:27:34+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpaernadest:alsg"/>
+			<name role="nrol:full">alle Landesdienste</name>
+			<name role="nrol:mnemonic">alsg</name>
+			<narrower qcode="dpasrv:mbv"/>
+			<narrower qcode="dpasrv:bwg"/>
+			<narrower qcode="dpasrv:hes"/>
+			<narrower qcode="dpasrv:bay"/>
+			<narrower qcode="dpasrv:brb"/>
+			<narrower qcode="dpasrv:nsb"/>
+			<narrower qcode="dpasrv:nwf"/>
+			<narrower qcode="dpasrv:hsh"/>
+			<narrower qcode="dpasrv:rhs"/>
+			<narrower qcode="dpasrv:san"/>
+			<narrower qcode="dpasrv:aht"/>
+			<narrower qcode="dpasrv:thg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:also"/>
+			<name role="nrol:full">Landesdienste Ost</name>
+			<name role="nrol:mnemonic">also</name>
+			<narrower qcode="dpasrv:aht"/>
+			<narrower qcode="dpasrv:brb"/>
+			<narrower qcode="dpasrv:mbv"/>
+			<narrower qcode="dpasrv:san"/>
+			<narrower qcode="dpasrv:thg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:arlg"/>
+			<name role="nrol:full">Regioline Verteiler</name>
+			<name role="nrol:mnemonic">arlg</name>
+			<narrower qcode="dpasrv:wap-hsh"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:qqq"/>
+			<name role="nrol:full">Basisdienst</name>
+			<name role="nrol:mnemonic">qqq</name>
+			<narrower qcode="dpasrv:bdt"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:qqqi"/>
+			<name role="nrol:full">Basisdienst Inland</name>
+			<name role="nrol:mnemonic">qqqi</name>
+			<narrower qcode="dpasrv:bid"/>
+			<narrower qcode="dpasrv:bdt"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:dpa-Story"/>
+			<name role="nrol:full">dpa-Story</name>
+			<name role="nrol:mnemonic">dpa-Story</name>
+			<narrower qcode="dpasrv:bdt"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:aaas"/>
+			<name role="nrol:full">Landesdienst Sachsen-Anhalt</name>
+			<name role="nrol:mnemonic">aaas</name>
+			<narrower qcode="dpasrv:aht"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:yyys"/>
+			<name role="nrol:full">Landesdienst Bayern</name>
+			<name role="nrol:mnemonic">yyys</name>
+			<narrower qcode="dpasrv:bay"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:llls"/>
+			<name role="nrol:full">Landesdienst Berlin/Brandenburg</name>
+			<name role="nrol:mnemonic">llls</name>
+			<narrower qcode="dpasrv:brb"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ttts"/>
+			<name role="nrol:full">Landesdienst Baden-Württemberg</name>
+			<name role="nrol:mnemonic">ttts</name>
+			<narrower qcode="dpasrv:bwg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:kkks"/>
+			<name role="nrol:full">Landesdienst Hessen</name>
+			<name role="nrol:mnemonic">kkks</name>
+			<narrower qcode="dpasrv:hes"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:hhhs"/>
+			<name role="nrol:full">Landesdienst Nord</name>
+			<name role="nrol:mnemonic">hhhs</name>
+			<narrower qcode="dpasrv:hsh"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ooos"/>
+			<name role="nrol:full">Landesdienst Mecklenburg-Vorpommern</name>
+			<name role="nrol:mnemonic">ooos</name>
+			<narrower qcode="dpasrv:mbv"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:jjjs"/>
+			<name role="nrol:full">Landesdienst Niedersachsen/Bremen</name>
+			<name role="nrol:mnemonic">jjjs</name>
+			<narrower qcode="dpasrv:nsb"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:wwws"/>
+			<name role="nrol:full">Landesdienst Nordrhein-Westfalen</name>
+			<name role="nrol:mnemonic">wwws</name>
+			<narrower qcode="dpasrv:nwf"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:gggs"/>
+			<name role="nrol:full">Landesdienst Rheinland-Pfalz/Saarland</name>
+			<name role="nrol:mnemonic">gggs</name>
+			<narrower qcode="dpasrv:rhs"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:cccs"/>
+			<name role="nrol:full">Landesdienst Sachsen</name>
+			<name role="nrol:mnemonic">cccs</name>
+			<narrower qcode="dpasrv:san"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:rrrs"/>
+			<name role="nrol:full">Landesdienst Thüringen</name>
+			<name role="nrol:mnemonic">rrrs</name>
+			<narrower qcode="dpasrv:thg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ecs"/>
+			<name role="nrol:full">Englischer Dienst</name>
+			<name role="nrol:mnemonic">ecs</name>
+			<narrower qcode="dpasrv:eca"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:pppk"/>
+			<name role="nrol:full">Europadienst</name>
+			<name role="nrol:mnemonic">pppk</name>
+			<narrower qcode="dpasrv:erd"/>
+			<narrower qcode="dpasrv:edi"/>
+			<narrower qcode="dpasrv:edt"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ltad"/>
+			<name role="nrol:full">Spanischer Dienst</name>
+			<name role="nrol:mnemonic">ltad</name>
+			<narrower qcode="dpasrv:ldi"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:iii"/>
+			<name role="nrol:full">Kurznachrichtendienst</name>
+			<name role="nrol:mnemonic">iii</name>
+			<narrower qcode="dpasrv:hfk"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xcj"/>
+			<name role="nrol:full">Hauptstadtdienst</name>
+			<name role="nrol:mnemonic">xcj</name>
+			<narrower qcode="dpasrv:hsd"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ddds"/>
+			<name role="nrol:full">Kindernachrichten</name>
+			<name role="nrol:mnemonic">ddds</name>
+			<narrower qcode="dpasrv:ndk"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:kqf"/>
+			<name role="nrol:full">Vorschau Audiodienst</name>
+			<name role="nrol:mnemonic">kqf</name>
+			<narrower qcode="dpasrv:kom"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:yeqm"/>
+			<name role="nrol:full">Magazin</name>
+			<name role="nrol:mnemonic">yeqm</name>
+			<narrower qcode="dpasrv:mag"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:yeq"/>
+			<name role="nrol:full">Themendienst</name>
+			<name role="nrol:mnemonic">yeq</name>
+			<narrower qcode="dpasrv:tmn"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufa"/>
+			<name role="nrol:full">RegioLine Sachsen-Anhalt</name>
+			<name role="nrol:mnemonic">xufa</name>
+			<narrower qcode="dpasrv:wap-aht"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufc"/>
+			<name role="nrol:full">RegioLine Sachsen</name>
+			<name role="nrol:mnemonic">xufc</name>
+			<narrower qcode="dpasrv:wap-san"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufg"/>
+			<name role="nrol:full">RegioLine Rheinland-Pfalz/Saarland</name>
+			<name role="nrol:mnemonic">xufg</name>
+			<narrower qcode="dpasrv:wap-rhs"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufh"/>
+			<name role="nrol:full">RegioLine Nord</name>
+			<name role="nrol:mnemonic">xufh</name>
+			<narrower qcode="dpasrv:wap-hsh"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufj"/>
+			<name role="nrol:full">RegioLine Niedersachsen/Bremen</name>
+			<name role="nrol:mnemonic">xufj</name>
+			<narrower qcode="dpasrv:wap-nsb"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufk"/>
+			<name role="nrol:full">RegioLine Hessen</name>
+			<name role="nrol:mnemonic">xufk</name>
+			<narrower qcode="dpasrv:wap-hes"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufl"/>
+			<name role="nrol:full">RegioLine Berlin/Brandenburg</name>
+			<name role="nrol:mnemonic">xufl</name>
+			<narrower qcode="dpasrv:wap-brb"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufo"/>
+			<name role="nrol:full">RegioLine Mecklenburg-Vorpommern</name>
+			<name role="nrol:mnemonic">xufo</name>
+			<narrower qcode="dpasrv:wap-mbv"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufr"/>
+			<name role="nrol:full">RegioLine Thüringen</name>
+			<name role="nrol:mnemonic">xufr</name>
+			<narrower qcode="dpasrv:wap-thg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xuft"/>
+			<name role="nrol:full">RegioLine Baden-Württemberg</name>
+			<name role="nrol:mnemonic">xuft</name>
+			<narrower qcode="dpasrv:wap-bwg"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufw"/>
+			<name role="nrol:full">RegioLine Nordrhein-Westfalen</name>
+			<name role="nrol:mnemonic">xufw</name>
+			<narrower qcode="dpasrv:wap-nwf"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:xufy"/>
+			<name role="nrol:full">RegioLine Bayern</name>
+			<name role="nrol:mnemonic">xufy</name>
+			<narrower qcode="dpasrv:wap-bay"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:lsp"/>
+			<name role="nrol:full">Biografien</name>
+			<name role="nrol:mnemonic">lsp</name>
+			<narrower qcode="dpasrv:biog"/>
+		</concept>
+		<concept id="dpaernadestafx">
+			<conceptId qcode="dpaernadest:afx"/>
+			<name role="nrol:full">dpa-afx</name>
+			<name role="nrol:mnemonic">afx</name>
+			<narrower qcode="dpaintercom:afx"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-ar"/>
+			<name role="nrol:full">Featuredienst Arabisch</name>
+			<name role="nrol:mnemonic">feat-ar</name>
+			<narrower qcode="dpasrv:feature-ar"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-en"/>
+			<name role="nrol:full">Featuredienst Englisch</name>
+			<name role="nrol:mnemonic">feat-en</name>
+			<narrower qcode="dpasrv:feature-en"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-es"/>
+			<name role="nrol:full">Featuredienst Spanisch</name>
+			<name role="nrol:mnemonic">feat-es</name>
+			<narrower qcode="dpasrv:feature-es"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-sports-ar"/>
+			<name role="nrol:full">Featuredienst Sportspakete Arabisch</name>
+			<name role="nrol:mnemonic">feat-sports-ar</name>
+			<narrower qcode="dpasrv:feature-sports-ar"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-child-ar"/>
+			<name role="nrol:full">Featuredienst Kinder Arabisch</name>
+			<name role="nrol:mnemonic">feat-child-ar</name>
+			<narrower qcode="dpasrv:feature-child-ar"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-child-es"/>
+			<name role="nrol:full">Featuredienst Kinder Spanisch</name>
+			<name role="nrol:mnemonic">feat-child-es</name>
+			<narrower qcode="dpasrv:feature-child-es"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-consumer-ar"/>
+			<name role="nrol:full">Featuredienst Verbraucher Arabisch</name>
+			<name role="nrol:mnemonic">feat-consumer-ar</name>
+			<narrower qcode="dpasrv:feature-consumer-ar"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-special-es-auto"/>
+			<name role="nrol:full">Featurespezial Automation Spanisch</name>
+			<name role="nrol:mnemonic">feat-special-es-auto</name>
+			<narrower qcode="dpasrv:feature-special-es-auto"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-special-es-tourism"/>
+			<name role="nrol:full">Featurespezial Tourismus Spanisch</name>
+			<name role="nrol:mnemonic">feat-special-es-tourism</name>
+			<narrower qcode="dpasrv:feature-special-es-tourism"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-special-es-trend"/>
+			<name role="nrol:full">Featurespezial Trends Spanisch</name>
+			<name role="nrol:mnemonic">feat-special-es-trend</name>
+			<narrower qcode="dpasrv:feature-special-es-trend"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:feat-special-es-tech"/>
+			<name role="nrol:full">Featurespezial Technik Spanisch</name>
+			<name role="nrol:mnemonic">feat-special-es-tech</name>
+			<narrower qcode="dpasrv:feature-special-es-tech"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:ap-deutsch"/>
+			<name role="nrol:full">Deutscher AP-Dienst</name>
+			<name role="nrol:mnemonic">ap-deutsch</name>
+			<narrower qcode="dpasrv:apx"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:dpa-News-Exklusiv"/>
+			<name role="nrol:full">dpa-News-Exklusiv</name>
+			<name role="nrol:mnemonic">dpa-News-Exklusiv</name>
+			<narrower qcode="dpasrv:dpa-News-Exklusiv"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:trends-en"/>
+			<name role="nrol:full">trends-en</name>
+			<name role="nrol:mnemonic">trends-en</name>
+			<narrower qcode="dpasrv:dpa-News-Exklusiv"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:insight-eu"/>
+			<name role="nrol:full">insight-eu</name>
+			<name role="nrol:mnemonic">insight-eu</name>
+			<narrower qcode="dpasrv:insight-eu"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:insight-sports-es"/>
+			<name role="nrol:full">insight-sports-es</name>
+			<name role="nrol:mnemonic">insight-sports-es</name>
+			<narrower qcode="dpasrv:insight-sports-es"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:specials-en"/>
+			<name role="nrol:full">specials-en</name>
+			<name role="nrol:mnemonic">specials-en</name>
+			<narrower qcode="dpasrv:specials-en"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:insight-eu-en"/>
+			<name role="nrol:full">insight-eu-en</name>
+			<name role="nrol:mnemonic">insight-eu-en</name>
+			<narrower qcode="dpasrv:insight-eu-en"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:g7-2015"/>
+			<name role="nrol:full">g7-2015</name>
+			<name role="nrol:mnemonic">g7-2015</name>
+			<narrower qcode="dpasrv:g7-2015"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:g7-2015-en"/>
+			<name role="nrol:full">g7-2015-en</name>
+			<name role="nrol:mnemonic">g7-2015-en</name>
+			<narrower qcode="dpasrv:g7-2015-en"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:vertrieb"/>
+			<name role="nrol:full">Vertrieb</name>
+			<name role="nrol:mnemonic">vertrieb</name>
+			<narrower qcode="dpasrv:vertrieb"/>
+		</concept>
+		<concept id="dpaernadestpackage-sports-english">
+			<conceptId created="2014-02-03T10:05:00+01:00" qcode="dpaernadest:package-sports-english"/>
+			<name role="nrol:full">Feature Spezialpaket Sport Englisch</name>
+			<name role="nrol:mnemonic">package-sports-english</name>
+			<narrower qcode="dpasrv:feature-special-en-sport"/>
+		</concept>
+		<concept id="dpaernadestpackage-sports-spanish">
+			<conceptId created="2014-02-03T10:08:00+01:00" qcode="dpaernadest:package-sports-spanish"/>
+			<name role="nrol:full">Feature Spezialpaket Sport Spanisch</name>
+			<name role="nrol:mnemonic">package-sports-spanish</name>
+			<narrower qcode="dpasrv:feature-special-es-sport"/>
+		</concept>
+		<concept id="dpaernadestfeedback">
+			<conceptId created="2014-03-07T15:16:00+01:00" qcode="dpaernadest:feedback"/>
+			<name role="nrol:mnemonic">feedback</name>
+			<name role="nrol:full">dpa-feedback</name>
+			<narrower qcode="dpaintercom:feedback"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:dossier-wis"/>
+			<name role="nrol:full">Dossiers Wissenschaft</name>
+			<name role="nrol:mnemonic">dossier-wis</name>
+			<narrower qcode="dpasrv:dossier-wis"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:germany-today-de"/>
+			<name role="nrol:full">Germany-Today Deutsch</name>
+			<name role="nrol:mnemonic">germany-today-de</name>
+			<narrower qcode="dpasrv:germany-today-de"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:germany-today-en"/>
+			<name role="nrol:full">Germany-Today English</name>
+			<name role="nrol:mnemonic">germany-today-en</name>
+			<narrower qcode="dpasrv:germany-today-en"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:germany-today-es"/>
+			<name role="nrol:full">Germany-Today Espanol</name>
+			<name role="nrol:mnemonic">germany-today-es</name>
+			<narrower qcode="dpasrv:germany-today-es"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpaernadest:germany-today-ar"/>
+			<name role="nrol:full">Germany-Today Arabisch</name>
+			<name role="nrol:mnemonic">germany-today-ar</name>
+			<narrower qcode="dpasrv:germany-today-ar"/>
+		</concept>
+		<concept modified="2015-01-13T09:11:00+01:00">
+			<conceptId created="2015-01-13T09:11:00+01:00" qcode="dpaernadest:arabic"/>
+			<name role="nrol:mnemonic">arabic</name>
+			<name role="nrol:full">Arabischer Dienst</name>
+			<narrower qcode="dpasrv:text-arabic"/>
+			<narrower qcode="dpasrv:text-arabisch-are"/>
+			<narrower qcode="dpasrv:text-arabisch-dara"/>
+			<narrower qcode="dpasrv:text-arabisch-acc"/>
+			<narrower qcode="dpasrv:text-arabisch-abi"/>
+		</concept>
+		<concept modified="2015-09-08T14:46:00+02:00">
+			<conceptId qcode="dpaernadest:newslab-de"/>
+			<name role="nrol:full">newslab-de</name>
+			<name role="nrol:mnemonic">newslab-de</name>
+			<narrower qcode="dpasrv:newslab-de"/>
+		</concept>
+		<concept modified="2016-02-24T14:17:00+01:00">
+			<conceptId qcode="dpaernadest:sport-ergebnisse"/>
+			<name role="nrol:full">sport-ergebnisse</name>
+			<name role="nrol:mnemonic">sport-ergebnisse</name>
+			<narrower qcode="dpasrv:spe"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:feature"/>
+			<name role="nrol:full">feature (Bild)</name>
+			<name role="nrol:mnemonic">feature</name>
+			<narrower qcode="dpasrv:feature"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:basis"/>
+			<name role="nrol:full">Basis (Bild)</name>
+			<name role="nrol:mnemonic">Basis</name>
+			<narrower qcode="dpasrv:bbasis"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:tmn"/>
+			<name role="nrol:full">TMN (Bild)</name>
+			<name role="nrol:mnemonic">TMN</name>
+			<narrower qcode="dpasrv:btmn"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:obs"/>
+			<name role="nrol:full">Farb-obs (Bild)</name>
+			<name role="nrol:mnemonic">Farb-obs</name>
+			<narrower qcode="dpasrv:bobs"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:zbreg"/>
+			<name role="nrol:full">ZB-Regio (Bild)</name>
+			<name role="nrol:mnemonic">ZB-Regio</name>
+			<narrower qcode="dpasrv:bzbreg"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:kinder"/>
+			<name role="nrol:full">Kinder (Bild)</name>
+			<name role="nrol:mnemonic">Kinder</name>
+			<narrower qcode="dpasrv:bkind"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:mag"/>
+			<name role="nrol:full">Magazin (Bild)</name>
+			<name role="nrol:mnemonic">Magazin</name>
+			<narrower qcode="dpasrv:bmag"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:report"/>
+			<name role="nrol:full">report (Bild)</name>
+			<name role="nrol:mnemonic">report</name>
+			<narrower qcode="dpasrv:barch"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:archiv"/>
+			<name role="nrol:full">archiv (Bild)</name>
+			<name role="nrol:mnemonic">archiv</name>
+			<narrower qcode="dpasrv:barch"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:dpa-i"/>
+			<name role="nrol:full">dpa-i (Bild)</name>
+			<name role="nrol:mnemonic">dpa-i</name>
+			<narrower qcode="dpasrv:bdpai"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:epa-i"/>
+			<name role="nrol:full">epa-i (Bild)</name>
+			<name role="nrol:mnemonic">epa-i</name>
+			<narrower qcode="dpasrv:bepai"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:fotografia"/>
+			<name role="nrol:full">fotografia (Bild)</name>
+			<name role="nrol:mnemonic">fotografia</name>
+			<narrower qcode="dpasrv:bfotografia"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:plattform"/>
+			<name role="nrol:full">plattform (Bild)</name>
+			<name role="nrol:mnemonic">plattform</name>
+			<narrower qcode="dpadest:plattform"/>
+		</concept>
+		<concept modified="2016-08-18T11:46:00+02:00">
+			<conceptId qcode="dpaernadest:pool"/>
+			<name role="nrol:full">pool (Bild)</name>
+			<name role="nrol:mnemonic">pool</name>
+			<narrower qcode="dpadest:pool"/>
+		</concept>
+
+	</conceptSet>
+	<schemeMeta authority="http://www.dpa.com" preferredalias="dpaernadest" uri="http://g2.dpa.com/cv/ernadest/">
+		<definition>TODO</definition>
+		<name>dpaernadest</name>
+	</schemeMeta>
+</knowledgeItem>

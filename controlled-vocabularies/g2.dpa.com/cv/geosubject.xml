@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" guid="urn:newsml:g2.dpa.com:20090101:geosubject" standard="NewsML-G2" standardversion="2.12" version="2" xml:lang="de">
+	<catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+<catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+<catalog>
+		<scheme alias="dpaarearole" uri="http://g2.dpa.com/cv/arearole/"/>
+	</catalog>
+	
+	
+	<rightsInfo>
+		<copyrightHolder qcode="nprov:dpa"/>
+	</rightsInfo>
+	<itemMeta>
+		<itemClass qcode="cinat:scheme"/>
+		<provider qcode="nprov:dpa"/>
+		<versionCreated>2012-11-06T11:54:03+01:00</versionCreated>
+		<pubStatus qcode="stat:usable"/>
+	</itemMeta>
+	<conceptSet>
+		<concept>
+			<conceptId qcode="dpageosbj:1"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Afghanistan</name>
+			<sameAs qcode="dpacountry:4"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:2"/>
+			<type qcode="cpnat:geoArea"/>
+			<name xml:lang="de">Ägypten</name>
+			<sameAs qcode="dpacountry:5"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:3"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Albanien</name>
+			<sameAs qcode="dpacountry:6"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:4"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Algerien</name>
+			<sameAs qcode="dpacountry:7"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:5"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Andorra</name>
+			<sameAs qcode="dpacountry:8"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:6"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Angola</name>
+			<sameAs qcode="dpacountry:9"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:7"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Antigua und Barbuda</name>
+			<sameAs qcode="dpacountry:10"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:8"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Äquatorialguinea</name>
+			<sameAs qcode="dpacountry:11"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:9"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Argentinien</name>
+			<sameAs qcode="dpacountry:12"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:10"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Armenien</name>
+			<sameAs qcode="dpacountry:13"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:11"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Aserbaidschan</name>
+			<sameAs qcode="dpacountry:14"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:12"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Äthiopien</name>
+			<sameAs qcode="dpacountry:15"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:13"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Australien</name>
+			<sameAs qcode="dpacountry:16"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:14"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bahamas</name>
+			<sameAs qcode="dpacountry:17"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:15"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bahrain</name>
+			<sameAs qcode="dpacountry:18"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:16"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bangladesch</name>
+			<sameAs qcode="dpacountry:19"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:17"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Barbados</name>
+			<sameAs qcode="dpacountry:20"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:18"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Belgien</name>
+			<sameAs qcode="dpacountry:21"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:19"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Belize</name>
+			<sameAs qcode="dpacountry:22"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:20"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Benin</name>
+			<sameAs qcode="dpacountry:23"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:21"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bhutan</name>
+			<sameAs qcode="dpacountry:24"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:22"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Birma</name>
+			<sameAs qcode="dpacountry:25"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:23"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bolivien</name>
+			<sameAs qcode="dpacountry:26"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:24"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bosnien</name>
+			<sameAs qcode="dpacountry:27"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:25"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Botsuana</name>
+			<sameAs qcode="dpacountry:28"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:26"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Brasilien</name>
+			<sameAs qcode="dpacountry:29"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:27"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Brunei</name>
+			<sameAs qcode="dpacountry:30"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:28"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Bulgarien</name>
+			<sameAs qcode="dpacountry:31"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:29"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Burkina Faso</name>
+			<sameAs qcode="dpacountry:32"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:30"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Burundi</name>
+			<sameAs qcode="dpacountry:33"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:31"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Chile</name>
+			<sameAs qcode="dpacountry:34"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:32"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>China</name>
+			<sameAs qcode="dpacountry:35"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:33"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Costa Rica</name>
+			<sameAs qcode="dpacountry:36"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:34"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Dänemark</name>
+			<sameAs qcode="dpacountry:2"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:35"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Deutschland</name>
+			<sameAs qcode="dpacountry:1"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:36"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Dominica</name>
+			<sameAs qcode="dpacountry:37"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:37"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Dominikanische Republik</name>
+			<sameAs qcode="dpacountry:38"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:38"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Dschibuti</name>
+			<sameAs qcode="dpacountry:39"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:39"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Ecuador</name>
+			<sameAs qcode="dpacountry:40"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:40"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>El Salvador</name>
+			<sameAs qcode="dpacountry:41"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:41"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Elfenbeinküste</name>
+			<sameAs qcode="dpacountry:42"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:42"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Eritrea</name>
+			<sameAs qcode="dpacountry:43"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:43"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Estland</name>
+			<sameAs qcode="dpacountry:44"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:44"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Europa</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:45"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Fidschi</name>
+			<sameAs qcode="dpacountry:45"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:46"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Finnland</name>
+			<sameAs qcode="dpacountry:46"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:47"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Frankreich</name>
+			<sameAs qcode="dpacountry:47"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:48"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Gabun</name>
+			<sameAs qcode="dpacountry:48"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:49"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Gambia</name>
+			<sameAs qcode="dpacountry:49"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:50"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Georgien</name>
+			<sameAs qcode="dpacountry:50"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:51"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Ghana</name>
+			<sameAs qcode="dpacountry:51"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:52"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Grenada</name>
+			<sameAs qcode="dpacountry:52"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:53"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Griechenland</name>
+			<sameAs qcode="dpacountry:53"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:54"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Großbritannien</name>
+			<sameAs qcode="dpacountry:54"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:55"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Guatemala</name>
+			<sameAs qcode="dpacountry:55"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:56"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Guinea</name>
+			<sameAs qcode="dpacountry:56"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:57"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Guinea-Bissau</name>
+			<sameAs qcode="dpacountry:57"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:58"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Guyana</name>
+			<sameAs qcode="dpacountry:58"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:59"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Haiti</name>
+			<sameAs qcode="dpacountry:59"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:60"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Honduras</name>
+			<sameAs qcode="dpacountry:60"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:61"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Indien</name>
+			<sameAs qcode="dpacountry:61"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:62"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Indonesien</name>
+			<sameAs qcode="dpacountry:62"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:63"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>International</name>
+			<sameAs qcode="dpacountry:196"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:64"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Irak</name>
+			<sameAs qcode="dpacountry:63"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:65"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Iran</name>
+			<sameAs qcode="dpacountry:64"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:66"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Irland</name>
+			<sameAs qcode="dpacountry:65"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:67"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Island</name>
+			<sameAs qcode="dpacountry:66"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:68"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Israel</name>
+			<sameAs qcode="dpacountry:67"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:69"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Italien</name>
+			<sameAs qcode="dpacountry:68"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:70"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Jamaika</name>
+			<sameAs qcode="dpacountry:69"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:71"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Japan</name>
+			<sameAs qcode="dpacountry:70"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:72"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Jemen</name>
+			<sameAs qcode="dpacountry:71"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:73"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Jordanien</name>
+			<sameAs qcode="dpacountry:72"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:74"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kambodscha</name>
+			<sameAs qcode="dpacountry:74"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:75"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kamerun</name>
+			<sameAs qcode="dpacountry:75"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:76"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kanada</name>
+			<sameAs qcode="dpacountry:76"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:77"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kap Verde</name>
+			<sameAs qcode="dpacountry:77"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:78"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kasachstan</name>
+			<sameAs qcode="dpacountry:78"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:79"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Katar</name>
+			<sameAs qcode="dpacountry:79"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:80"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kenia</name>
+			<sameAs qcode="dpacountry:80"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:81"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kirgistan</name>
+			<sameAs qcode="dpacountry:81"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:82"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kiribati</name>
+			<sameAs qcode="dpacountry:82"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:83"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kolumbien</name>
+			<sameAs qcode="dpacountry:83"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:84"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Komoren</name>
+			<sameAs qcode="dpacountry:84"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:85"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kongo</name>
+			<sameAs qcode="dpacountry:85"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:86"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kongo-Brazzaville</name>
+			<sameAs qcode="dpacountry:86"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:87"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kosovo</name>
+			<sameAs qcode="dpacountry:220"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:88"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kroatien</name>
+			<sameAs qcode="dpacountry:87"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:89"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kuba</name>
+			<sameAs qcode="dpacountry:88"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:90"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Kuwait</name>
+			<sameAs qcode="dpacountry:89"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:91"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Laos</name>
+			<sameAs qcode="dpacountry:90"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:92"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Lesotho</name>
+			<sameAs qcode="dpacountry:91"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:93"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Lettland</name>
+			<sameAs qcode="dpacountry:92"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:94"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Libanon</name>
+			<sameAs qcode="dpacountry:93"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:95"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Liberia</name>
+			<sameAs qcode="dpacountry:94"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:96"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Libyen</name>
+			<sameAs qcode="dpacountry:95"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:97"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Liechtenstein</name>
+			<sameAs qcode="dpacountry:96"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:98"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Litauen</name>
+			<sameAs qcode="dpacountry:97"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:99"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Luxemburg</name>
+			<sameAs qcode="dpacountry:98"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:100"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Madagaskar</name>
+			<sameAs qcode="dpacountry:99"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:101"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Malawi</name>
+			<sameAs qcode="dpacountry:100"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:102"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Malaysia</name>
+			<sameAs qcode="dpacountry:101"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:103"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Malediven</name>
+			<sameAs qcode="dpacountry:102"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:104"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mali</name>
+			<sameAs qcode="dpacountry:103"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:105"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Malta</name>
+			<sameAs qcode="dpacountry:104"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:106"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Marokko</name>
+			<sameAs qcode="dpacountry:105"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:107"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Marshallinseln</name>
+			<sameAs qcode="dpacountry:106"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:108"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mauretanien</name>
+			<sameAs qcode="dpacountry:107"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:109"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mauritius</name>
+			<sameAs qcode="dpacountry:108"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:110"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mazedonien</name>
+			<sameAs qcode="dpacountry:109"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:111"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mexiko</name>
+			<sameAs qcode="dpacountry:110"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:112"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mikronesien</name>
+			<sameAs qcode="dpacountry:111"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:113"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Moldau</name>
+			<sameAs qcode="dpacountry:112"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:114"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Monaco</name>
+			<sameAs qcode="dpacountry:113"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:115"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mongolei</name>
+			<sameAs qcode="dpacountry:114"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:116"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Montenegro</name>
+			<sameAs qcode="dpacountry:218"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:117"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Mosambik</name>
+			<sameAs qcode="dpacountry:115"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:118"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Namibia</name>
+			<sameAs qcode="dpacountry:116"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:119"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nauru</name>
+			<sameAs qcode="dpacountry:117"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:120"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nepal</name>
+			<sameAs qcode="dpacountry:118"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:121"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Neuseeland</name>
+			<sameAs qcode="dpacountry:119"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:122"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nicaragua</name>
+			<sameAs qcode="dpacountry:120"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:123"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Niederlande</name>
+			<sameAs qcode="dpacountry:121"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:124"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Niger</name>
+			<sameAs qcode="dpacountry:122"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:125"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nigeria</name>
+			<sameAs qcode="dpacountry:123"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:126"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nordkorea</name>
+			<sameAs qcode="dpacountry:125"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:127"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Nord-Zypern</name>
+			<sameAs qcode="dpacountry:124"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:128"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Norwegen</name>
+			<sameAs qcode="dpacountry:126"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:129"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Oman</name>
+			<sameAs qcode="dpacountry:127"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:130"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Österreich</name>
+			<sameAs qcode="dpacountry:3"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:131"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Osttimor</name>
+			<sameAs qcode="dpacountry:204"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:132"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Pakistan</name>
+			<sameAs qcode="dpacountry:128"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:133"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Palästinensische</name>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:134"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Palau</name>
+			<sameAs qcode="dpacountry:129"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:135"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Panama</name>
+			<sameAs qcode="dpacountry:130"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:136"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Papua-Neuguinea</name>
+			<sameAs qcode="dpacountry:131"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:137"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Paraguay</name>
+			<sameAs qcode="dpacountry:132"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:138"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Peru</name>
+			<sameAs qcode="dpacountry:133"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:139"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Philippinen</name>
+			<sameAs qcode="dpacountry:134"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:140"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Polen</name>
+			<sameAs qcode="dpacountry:135"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:141"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Portugal</name>
+			<sameAs qcode="dpacountry:136"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:142"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Ruanda</name>
+			<sameAs qcode="dpacountry:137"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:143"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Rumänien</name>
+			<sameAs qcode="dpacountry:138"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:144"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Russland</name>
+			<sameAs qcode="dpacountry:139"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:145"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Salomonen</name>
+			<sameAs qcode="dpacountry:140"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:146"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Sambia</name>
+			<sameAs qcode="dpacountry:141"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:147"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Samoa</name>
+			<sameAs qcode="dpacountry:193"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:148"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>San Marino</name>
+			<sameAs qcode="dpacountry:142"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:149"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>São Tomé und Príncipe</name>
+			<sameAs qcode="dpacountry:143"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:150"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Saudi-Arabien</name>
+			<sameAs qcode="dpacountry:144"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:151"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Schweden</name>
+			<sameAs qcode="dpacountry:145"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:152"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Schweiz</name>
+			<sameAs qcode="dpacountry:146"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:153"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Senegal</name>
+			<sameAs qcode="dpacountry:147"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:154"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Serbien</name>
+			<sameAs qcode="dpacountry:216"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:155"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Seychellen</name>
+			<sameAs qcode="dpacountry:148"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:156"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Sierra Leone</name>
+			<sameAs qcode="dpacountry:149"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:157"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Simbabwe</name>
+			<sameAs qcode="dpacountry:150"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:158"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Singapur</name>
+			<sameAs qcode="dpacountry:151"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:159"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Slowakei</name>
+			<sameAs qcode="dpacountry:152"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:160"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Slowenien</name>
+			<sameAs qcode="dpacountry:153"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:161"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Somalia</name>
+			<sameAs qcode="dpacountry:154"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:162"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Spanien</name>
+			<sameAs qcode="dpacountry:155"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:163"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Sri Lanka</name>
+			<sameAs qcode="dpacountry:156"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:164"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>St. Kitts und Nevis</name>
+			<sameAs qcode="dpacountry:157"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:165"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>St. Lucia</name>
+			<sameAs qcode="dpacountry:158"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:166"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>St. Vincent und die Grenadinen</name>
+			<sameAs qcode="dpacountry:159"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:167"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Südafrika</name>
+			<sameAs qcode="dpacountry:160"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:168"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Sudan</name>
+			<sameAs qcode="dpacountry:161"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:169"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Südsudan</name>
+			<sameAs qcode="dpacountry:208"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:170"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Südkorea</name>
+			<sameAs qcode="dpacountry:162"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:171"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Suriname</name>
+			<sameAs qcode="dpacountry:163"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:172"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Swasiland</name>
+			<sameAs qcode="dpacountry:164"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:173"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Syrien</name>
+			<sameAs qcode="dpacountry:165"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:174"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tadschikistan</name>
+			<sameAs qcode="dpacountry:166"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:175"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Taiwan</name>
+			<sameAs qcode="dpacountry:167"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:176"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tansania</name>
+			<sameAs qcode="dpacountry:168"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:177"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Thailand</name>
+			<sameAs qcode="dpacountry:169"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:178"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Togo</name>
+			<sameAs qcode="dpacountry:171"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:179"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tonga</name>
+			<sameAs qcode="dpacountry:172"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:180"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Trinidad und Tobago</name>
+			<sameAs qcode="dpacountry:173"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:181"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tschad</name>
+			<sameAs qcode="dpacountry:174"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:182"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tschechien</name>
+			<sameAs qcode="dpacountry:175"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:183"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tunesien</name>
+			<sameAs qcode="dpacountry:176"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:184"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Türkei</name>
+			<sameAs qcode="dpacountry:177"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:185"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Turkmenistan</name>
+			<sameAs qcode="dpacountry:178"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:186"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Tuvalu</name>
+			<sameAs qcode="dpacountry:179"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:187"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Uganda</name>
+			<sameAs qcode="dpacountry:180"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:188"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Ukraine</name>
+			<sameAs qcode="dpacountry:181"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:189"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Ungarn</name>
+			<sameAs qcode="dpacountry:182"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:190"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Uruguay</name>
+			<sameAs qcode="dpacountry:183"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:191"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>USA</name>
+			<sameAs qcode="dpacountry:184"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:192"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Usbekistan</name>
+			<sameAs qcode="dpacountry:185"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:193"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Vanuatu</name>
+			<sameAs qcode="dpacountry:186"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:194"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Vatikan</name>
+			<sameAs qcode="dpacountry:187"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:195"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Venezuela</name>
+			<sameAs qcode="dpacountry:188"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:196"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Vereinigte Arabische Emirate</name>
+			<sameAs qcode="dpacountry:189"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:197"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Vietnam</name>
+			<sameAs qcode="dpacountry:190"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:198"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Weißrussland</name>
+			<sameAs qcode="dpacountry:191"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:199"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Westsahara</name>
+			<sameAs qcode="dpacountry:192"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:200"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Zentralafrika</name>
+			<sameAs qcode="dpacountry:194"/>
+		</concept>
+		<concept>
+			<conceptId qcode="dpageosbj:201"/>
+			<type qcode="cpnat:geoArea"/>
+			<name>Zypern</name>
+			<sameAs qcode="dpacountry:195"/>
+		</concept>
+		<concept modified="2015-09-02T14:52:00+02:00">
+			<conceptId qcode="dpageosbj:202"/>
+			<name role="nrol:mnemonic" xml:lang="de">EU</name>
+			<name role="dpanrol:gui" xml:lang="de">EU</name>
+			<name role="nrol:display" xml:lang="de">Europäische Union</name>
+			<sameAs qcode="dpasubject:157"/>
+		</concept>
+	</conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="dpageosbj" uri="http://g2.dpa.com/cv/geosubject/">
+<definition>TODO</definition>
+<name>dpageosbj</name>
+</schemeMeta>
+</knowledgeItem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power"
+               guid="urn:newsml:g2.dpa.com:20090101:photoact" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+    <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/>
+    <rightsInfo>
+        <copyrightHolder qcode="nprov:dpa"/>
+        <copyrightNotice>dpa Copyright Notice</copyrightNotice>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2016-01-19T14:15:55+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="dpaphotoact:archive" retired="2016-01-20T14:15:55+01:00"/>
+            <name role="nrol:display" xml:lang="de">Archivbild</name>
+            <name role="nrol:display" xml:lang="en">archive</name>
+            <sameAs qcode="dpascn:39"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpaphotoact:handout" retired="2016-01-20T14:15:55+01:00"/>
+            <name role="nrol:display" xml:lang="de">Handout</name>
+            <name role="nrol:display" xml:lang="en">handout</name>
+            <sameAs qcode="dpascn:40"/>
+        </concept>
+        <concept>
+            <conceptId qcode="dpaphotoact:fresh"/>
+            <name role="nrol:display" xml:lang="de">Aktuelles Bild</name>
+            <name role="nrol:display" xml:lang="en">actual</name>
+        </concept>
+        <concept>
+            <conceptId qcode="dpaphotoact:illu"/>
+            <name role="nrol:display" xml:lang="de">Illustration</name>
+            <name role="nrol:display" xml:lang="en">illustration</name>
+            <sameAs qcode="dpascn:30"/>
+        </concept>
+    </conceptSet>
+    <schemeMeta authority="http://www.dpa.com" preferredalias="dpaphotoact" uri="http://g2.dpa.com/cv/dpaphotoact/">
+        <definition>TODO</definition>
+        <name>dpaphotoact</name>
+    </schemeMeta>
+</knowledgeItem>

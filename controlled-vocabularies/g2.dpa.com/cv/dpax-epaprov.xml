@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+ +++++++++++++++++++++++++++++++++
+ +++ $LastChangedDate: 2014-09-02 18:42:09 +0200 (Di, 02 Sep 2014) $                          
+ +++ $LastChangedRevision: 11382 $                          
+ +++ $LastChangedBy: schmidt-nia.robert $                          
+ +++++++++++++++++++++++++++++++++
+ --><knowledgeItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:g2.dpa.com:20090101:epaprov" standard="NewsML-G2" standardversion="2.4" version="1" xml:lang="de">
+    
+    
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_18.xml"/><rightsInfo>
+        <copyrightHolder qcode="nprov:dpa"/>
+    </rightsInfo>
+    <itemMeta>
+        <itemClass qcode="cinat:scheme"/>
+        <provider qcode="nprov:dpa"/>
+        <versionCreated>2011-07-04T12:00:00+01:00</versionCreated>
+        <pubStatus qcode="stat:usable"/>
+    </itemMeta>
+    <conceptSet>
+        <concept>
+            <conceptId qcode="epaprov:6"/>
+            <name role="nrol:mnemonic">Compic</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:7"/>
+            <name role="nrol:mnemonic">FOTOSPORT</name>
+            <name role="nrol:full">Sports Picture Agency &amp; Library</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:8"/>
+            <name role="nrol:mnemonic">FEATURECHINA</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:9"/>
+            <name role="nrol:mnemonic">RIA Novosti</name>
+            <name role="nrol:full">Russian International News Agency</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10"/>
+            <name role="nrol:mnemonic">FLASH 90</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:11"/>
+            <name role="nrol:mnemonic">Reporter Images</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:15"/>
+            <name role="nrol:mnemonic">Scanpix Denmark</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:16"/>
+            <name role="nrol:mnemonic">Antonio Vazquez</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:18"/>
+            <name role="nrol:mnemonic">Cal Sport Media</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:19"/>
+            <name role="nrol:mnemonic">pressesports</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20"/>
+            <name role="nrol:mnemonic">Yuri Arcurs</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:21"/>
+            <name role="nrol:mnemonic">EPA_COLLECTION</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:22"/>
+            <name role="nrol:mnemonic">Canadian Press</name>
+            <sameAs qcode="nprov:CP"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10050"/>
+            <name role="nrol:mnemonic">ANA-MPA</name>
+            <name role="nrol:full">Athens News Agency / Macedonian Press Agency</name>
+            <sameAs qcode="nprov:ANA"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10100"/>
+            <name role="nrol:mnemonic">ANP</name>
+            <name role="nrol:full">Algemeen Nederlands Persbureau</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10200"/>
+            <name role="nrol:mnemonic">ANSA</name>
+            <name role="nrol:full">Agenzia Nazionale Stampa Associata</name>
+            <sameAs qcode="nprov:ANSA"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10300"/>
+            <name role="nrol:mnemonic">APA</name>
+            <name role="nrol:full">Austria Presse Agentur EG</name>
+            <sameAs qcode="nprov:APA"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10400"/>
+            <name role="nrol:mnemonic">BELGA</name>
+            <name role="nrol:full">Belga News Agency</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10500"/>
+            <name role="nrol:mnemonic">DPA</name>
+            <name role="nrol:full">Deutsche Presse-Agentur GmbH</name>
+            <sameAs qcode="nprov:dpa"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10600"/>
+            <name role="nrol:mnemonic">EFE</name>
+            <name role="nrol:full">AGENCIA EFE S. A.</name>
+            <sameAs qcode="nprov:EFE"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10700"/>
+            <name role="nrol:mnemonic">KEYSTONE AG</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10900"/>
+            <name role="nrol:mnemonic">LUSA</name>
+            <name role="nrol:full">Lusa - Agencia de NotÃ­cias de Portugal, S.A.</name>
+            <sameAs qcode="nprov:LUSA"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10905"/>
+            <name role="nrol:mnemonic">MTI - Hungarian News Agency</name>
+            <name role="nrol:full">Magyar Tavirati Iroda</name>
+            <sameAs qcode="nprov:MTI"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:10920"/>
+            <name role="nrol:mnemonic">PAP</name>
+            <name role="nrol:full">Polska Agencja Prasowa</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20002"/>
+            <name role="nrol:mnemonic">AAP</name>
+            <name role="nrol:full">AAP Australian Associated Press PTY Ltd.</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20006"/>
+            <name role="nrol:mnemonic">A.F.I.</name>
+            <name role="nrol:full">A.F.I. Picture News Agency</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20079"/>
+            <name role="nrol:mnemonic">Anadolu Ajansi</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20337"/>
+            <name role="nrol:mnemonic">Scanpix Sweden</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20386"/>
+            <name role="nrol:mnemonic">Maxppp</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20451"/>
+            <name role="nrol:mnemonic">PA News Limited</name>
+            <name role="nrol:full">Press Association</name>
+            <sameAs qcode="nprov:PA"/>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20481"/>
+            <name role="nrol:mnemonic">Photoshot Holdings Ltd.</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20538"/>
+            <name role="nrol:mnemonic">Scanpix Norway</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20626"/>
+            <name role="nrol:mnemonic">dpa Picture-Alliance GmbH</name>
+        </concept>
+        <concept>
+            <conceptId qcode="epaprov:20704"/>
+            <name role="nrol:mnemonic">Yonhap News Agency</name>
+        </concept>
+    </conceptSet>
+<schemeMeta authority="http://www.dpa.com" preferredalias="epaprov" uri="http://g2.dpa.com/cv/dpax-epaprov/"><definition>TODO</definition><name>epaprov</name></schemeMeta></knowledgeItem>
