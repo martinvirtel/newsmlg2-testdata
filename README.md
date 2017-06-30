@@ -6,14 +6,16 @@ what to expect when you get news from dpa.
 
 ## How to start
 
-For any piece of hard-to-understand XML, there is 
+1. Read [IPTC.org's Quick Start PDF](https://www.iptc.org/std/NewsML-G2/latest/QuickStart-NewsML-G2-ItemBasics). 
+
+2. Search for clues to fill in the blanks. For any instance of hard-to-understand XML metadata attribute, there is 
 
  - either a NewsML G2 definition available in the [NewsML G2 catalog](https://www.iptc.org/std/catalog/). 
 
- - or a definition in dpa's controlled vocabularies, included in this repository.
+ - or a definition in dpa's controlled vocabularies, included in this repository under `controlled-vocabularies`.
 
 
-They are sometimes hard to find. But it is possible. Example:
+The definitions are sometimes hard to find. But it is possible. Example:
 
 ```xml
 
