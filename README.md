@@ -15,7 +15,7 @@ Jump into the documentation: [IPTC.org's Quick Start PDF](https://www.iptc.org/s
 
 | path | description|
 | ----- | ----------|
-| /data/20170629-dpa-sample.tar.xz | 100 files from Basisdienst dated June 29th, 2017, 2.8 MB unzpacked |
+| data/20170629-dpa-sample.tar.xz | 100 files from Basisdienst dated June 29th, 2017, 2.8 MB unzpacked |
 
 
 
