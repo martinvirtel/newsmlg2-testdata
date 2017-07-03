@@ -42,6 +42,17 @@ The definitions are sometimes hard to find. But it is possible. Example:
 - `dpasubject:553`  - Freizeit - is defined in the controlled vocabulary file in this repository: `controlled-vocabularies/g2.dpa.com/cv/subject.xml`.
 
 
+The most important controlled vocabularies are:
+
+  - `controlled-vocabularies/g2.dpa.com/cv/category.xml` - what the dpa newsroom calls "Ressort".
+  - `controlled-vocabularies/g2.dpa.com/cv/country.xml` - countries
+  - `controlled-vocabularies/g2.dpa.com/cv/geosubject.xml` - geographical names
+  - `controlled-vocabularies/g2.dpa.com/cv/subject.xml` - the "first keyword" ("Erststichwort") that has to be chosen from this vocabulary
+
+
+The `<narrower>` and `<broader>` characterizations in the XML sometimes defy common logic. For most purposes, we have found it best to ignore this information. 
+
+
 ## Links
 
 
