@@ -69,7 +69,14 @@ Versions of the IPTC's controlled vocabulary [XML Catalog](https://www.iptc.org/
 | ----- | ----------|
 | data/20170629-dpa-sample.tar.xz | 100 files from Basisdienst dated June 29th, 2017, 2.8 MB unpacked |
 | controlled-vocabularies/g2.dpa.com/ | Controlled vocabularies defined by dpa, as of November 10th 2016 |
+| experiments/jex-classifier-result.xml | Result of a classification of the documents in data/20170629-dpa-sample.tar.xz with the JRC EuroVoc Indexer JEX (see below) | 
 
+
+## Experiment in classification with the JRC EuroVoc Indexer JEX
+
+The EU's Joint Research Center in Ispra has published a pre-trained elassifier that classifies texts in 22 languages according to [Eurovoc](http://eurovoc.europa.eu), a multilingual thesaurus used by EU institutions. This classifier is called *JRC EuroVoc Indexer JEX*, it looks a bit dated but it is [free to download](https://ec.europa.eu/jrc/en/language-technologies/jrc-eurovoc-indexer), and you can download a paper discribing it [here](https://ec.europa.eu/jrc/sites/jrcsh/files/2012_LREC-JEX_Steinberger-et-al.pdf). 
+
+The news articles present in `data/20170629-dpa-sample.tar.xz` have been classified using version 1.0 (dated May 2012) of the german version. The results are stored in `experiments/jex-classifier-result.xml`. The concept IDs can be looked up on the eurovoc website: [5462](http://eurovoc.europa.eu/drupal/?q=request&view=pt&termuri=http://eurovoc.europa.eu/219244&language=en) stands for "Animal Welfare", for example. The thesaurus has been updated several times since 2012, so this is probably not of much value.   
 
 
 
