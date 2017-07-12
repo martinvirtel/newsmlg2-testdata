@@ -20,7 +20,6 @@ The authoritative copy of this repository lives at https://github.com/dpa-newsla
 The definitions are sometimes hard to find. But it is possible. Example:
 
 ```xml
-
  <subject qcode="medtop:20000538" rank="1" type="dpatype:dpasubject">
                <name xml:lang="de">Freizeit</name>
                <sameAs qcode="dpasubject:553">
@@ -76,7 +75,20 @@ Versions of the IPTC's controlled vocabulary [XML Catalog](https://www.iptc.org/
 
 The EU's Joint Research Center in Ispra has published a pre-trained elassifier that classifies texts in 22 languages according to [Eurovoc](http://eurovoc.europa.eu), a multilingual thesaurus used by EU institutions. This classifier is called *JRC EuroVoc Indexer JEX*, it looks a bit dated but it is [free to download](https://ec.europa.eu/jrc/en/language-technologies/jrc-eurovoc-indexer), and you can download a paper discribing it [here](https://ec.europa.eu/jrc/sites/jrcsh/files/2012_LREC-JEX_Steinberger-et-al.pdf). 
 
-The news articles present in `data/20170629-dpa-sample.tar.xz` have been classified using version 1.0 (dated May 2012) of the german version. The results are stored in `experiments/jex-classifier-result.xml`. The concept IDs can be looked up on the eurovoc website: [5462](http://eurovoc.europa.eu/drupal/?q=request&view=pt&termuri=http://eurovoc.europa.eu/219244&language=en) stands for "Animal Welfare", for example. The thesaurus has been updated several times since 2012, so this is probably not of much value.   
+The news articles present in `data/20170629-dpa-sample.tar.xz` have been classified using version 1.0 (dated May 2012) of the german version. The results are stored in `experiments/jex-classifier-result.xml`. The concept IDs can be looked up on the eurovoc website: [5462](http://eurovoc.europa.eu/drupal/?q=request&view=pt&termuri=http://eurovoc.europa.eu/219244&language=en) stands for "Animal Welfare", for example. 
+
+Here's how to read `experiments/jex-classifier-result.xml`:
+
+```xml
+<document id="urn:newsml:dpa.com:20090101:170629-99-46001.xml">
+    <category code="5563" weight="0.202473011089883 "/>
+    <category code="5898" weight="0.15730123744644367 "/>
+    <category code="5931" weight="0.09492841717389104 "/>
+```
+
+
+This means document `urn:newsml:dpa.com:20090101:170629-99-46001.xml` (title:
+Slowenien erringt Erfolg im bitteren Grenzstreit mit Kroatien) has been classified with [5564](http://eurovoc.europa.eu/5563) - Croatia and [5898](http://eurovoc.europa.eu/5898) - Slovenia and [5931](http://eurovoc.europa.eu/5931) - former yugoslav republic (which is considered obsolete by now). The thesaurus has been updated several times since  2012, while the classifier remains at its 2012 version. 
 
 
 
