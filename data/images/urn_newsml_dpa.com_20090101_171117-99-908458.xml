@@ -1,0 +1,128 @@
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:dpa="http://www.dpa.com/iptc/nar/2008-12-01/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <header>
+    <sent>2017-11-17T12:19:20+01:00</sent>
+    <priority>3</priority>
+    <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_17.xml" />
+    <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml" />
+    <origin>ines</origin>
+    <destination>weblines</destination>
+  </header>
+  <itemSet>
+    <newsItem standard="NewsML-G2" standardversion="2.8" conformance="power" xml:lang="de" version="2" guid="urn:newsml:dpa.com:20090101:171117-99-908458">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_17.xml" />
+      <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml" />
+      <rightsInfo>
+        <copyrightHolder qcode="dpacprh:dpa">
+          <name>dpa</name>
+        </copyrightHolder>
+        <copyrightNotice>Copyright 2017, dpa. Alle Rechte vorbehalten</copyrightNotice>
+        <usageTerms>Nutzung nur nach vertraglicher Vereinbarung</usageTerms>
+        <rightsInfoExtProperty rel="dparel:hasMinimumFee" value="false" valuedatatype="xs:boolean" custom="true" />
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="ninat:picture" />
+        <provider qcode="nprov:dpa">
+          <name>dpa</name>
+        </provider>
+        <versionCreated>2017-11-17T12:19:18+01:00</versionCreated>
+        <embargoed />
+        <generator versioninfo="7.25.16.23502">ines-g2-exporter</generator>
+        <profile versioninfo="2.1.0">ines/picture</profile>
+        <link rel="irel:derivedFrom" custom="true" residref="urn:newsml:dpa.com:20090101:171115-99-885254" />
+      </itemMeta>
+      <contentMeta>
+        <urgency>3</urgency>
+        <contentCreated>2016-11-18</contentCreated>
+        <contentModified>2017-11-17+01:00</contentModified>
+        <located type="cpnat:poi" literal="poi" />
+        <infoSource role="dpaisrol:supplier" qcode="dpasupplier:dpa" />
+        <infoSource role="isrol:contentSource" literal="dpa" />
+        <creator>
+          <name>Peter Kneffel</name>
+          <related qcode="dpaaccno:A3216" />
+        </creator>
+        <contributor>
+          <name>kne tba</name>
+        </contributor>
+        <language tag="de" />
+        <subject literal="SOI" />
+        <subject type="dpatype:category" qcode="dpacat:vm" />
+        <subject qcode="dpasrs:14000000" />
+        <subject rank="1" type="dpatype:dpasubject">
+          <name>Gesellschaft</name>
+        </subject>
+        <subject rank="2" type="dpatype:dpasubject">
+          <name>Sprache</name>
+        </subject>
+        <subject rank="3" type="dpatype:dpasubject">
+          <name>Verlage</name>
+        </subject>
+        <keyword rank="1">Deutschland</keyword>
+        <keyword rank="2">Jugend</keyword>
+        <keyword rank="3">Vermischtes</keyword>
+        <keyword rank="4">Mobiltelefon</keyword>
+        <keyword rank="5">Handy</keyword>
+        <keyword rank="6">Gesellschaft</keyword>
+        <keyword rank="7">Sprache</keyword>
+        <keyword rank="8">Streifband</keyword>
+        <keyword rank="9">S</keyword>
+        <headline rank="1">Jugendwort des Jahres</headline>
+        <creditline>Peter Kneffel/dpa</creditline>
+        <description role="drol:caption">Im vergangenen Jahr war es «Fly sein», diesmal ist das Jugendwort des Jahres «I bims» (für ältere Herrschaften: «Ich bin»). Foto: Peter Kneffel</description>
+      </contentMeta>
+      <partMeta contentrefs="ID0EDD">
+        <regionDelim x="2011" y="888" width="2764" height="1562" />
+        <role qcode="dpapartmetarole:regionofinterest" />
+      </partMeta>
+      <partMeta contentrefs="ID0EJD">
+        <regionDelim x="1306" y="0" width="4174" height="3131" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <partMeta contentrefs="ID0EPD">
+        <regionDelim x="1828" y="0" width="3131" height="3131" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <partMeta contentrefs="ID0EVD">
+        <regionDelim x="1306" y="0" width="4174" height="3131" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <partMeta contentrefs="ID0E2D">
+        <regionDelim x="2219" y="0" width="2348" height="3131" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <partMeta contentrefs="ID0EBE">
+        <regionDelim x="845" y="0" width="4696" height="3131" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <partMeta contentrefs="ID0EHE">
+        <regionDelim x="0" y="15" width="5541" height="3116" />
+        <role qcode="dpapartmetarole:cropregion" />
+      </partMeta>
+      <assert literal="poi">
+        <POIDetails>
+          <address>
+            <locality>
+              <name>München</name>
+            </locality>
+            <area>
+              <name>Bayern</name>
+            </area>
+            <country>
+              <name role="nrol:display">Deutschland</name>
+              <name role="nrol:short">DEU</name>
+            </country>
+          </address>
+        </POIDetails>
+      </assert>
+      <contentSet>
+        <remoteContent id="ID0EDD" contenttype="image/jpeg" href="171117-99-908458.jpeg" residref="urn:newsml:dpa.com:20090101:161118-90-009277" dpa:imageformat="Landscape" width="5541" height="3131" />
+        <remoteContent id="ID0EJD" contenttype="image/jpeg" rendition="dpaimagerendition:4_3" hascontent="false" />
+        <remoteContent id="ID0EPD" contenttype="image/jpeg" rendition="dpaimagerendition:small_1_1" hascontent="false" />
+        <remoteContent id="ID0EVD" contenttype="image/jpeg" rendition="dpaimagerendition:small_4_3" hascontent="false" />
+        <remoteContent id="ID0E2D" contenttype="image/jpeg" rendition="dpaimagerendition:small_3_4" hascontent="false" />
+        <remoteContent id="ID0EBE" contenttype="image/jpeg" rendition="dpaimagerendition:small_3_2" hascontent="false" />
+        <remoteContent id="ID0EHE" contenttype="image/jpeg" rendition="dpaimagerendition:small_16_9" hascontent="false" />
+      </contentSet>
+    </newsItem>
+  </itemSet>
+</newsMessage>

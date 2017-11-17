@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+   <header xmlns:dpa="http://www.dpa.com/iptc/nar/2008-12-01/"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <sent>2017-11-17T12:19:03+01:00</sent>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/>
+      <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+      <priority>4</priority>
+      <origin>ines</origin>
+      <destination qcode="dpasrv:images-de"/>
+      <destination qcode="dpasrv:images-de-nat"/>
+      <destination qcode="dpasrv:barch">report</destination>
+      <headerExtProperty custom="true"
+                         qcode="dpasrv:bdpai"
+                         type="dpawf:copy"
+                         value="dpa-i"/>
+   </header>
+   <itemSet>
+      <newsItem xmlns:dpa="http://www.dpa.com/iptc/nar/2008-12-01/"
+                xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                conformance="power"
+                guid="urn:newsml:dpa.com:20090101:171117-90-016806"
+                standard="NewsML-G2"
+                standardversion="2.23"
+                version="3"
+                xml:lang="de">
+         <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/>
+         <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+         <rightsInfo>
+            <copyrightHolder qcode="nprov:dpa">
+               <name role="nrol:mnemonic">dpa</name>
+               <name role="nrol:full">Deutsche Presse-Agentur GmbH</name>
+               <definition>dpa - Deutsche Presse Agentur GmbH<br/>Handelsregister Hamburg, HRB 68431</definition>
+            </copyrightHolder>
+            <copyrightNotice>Copyright 2017, dpa. Alle Rechte vorbehalten</copyrightNotice>
+            <usageTerms>Nutzung nur nach vertraglicher Vereinbarung Nutzung nur nach vertraglicher Vereinbarung</usageTerms>
+            <rightsInfoExtProperty custom="true"
+                                   rel="dparel:hasMinimumFee"
+                                   value="false"
+                                   valuedatatype="xs:boolean"/>
+         </rightsInfo>
+         <itemMeta>
+            <itemClass qcode="ninat:picture">
+               <name xml:lang="en">Picture Item(s)</name>
+            </itemClass>
+            <provider qcode="nprov:dpa">
+               <name>dpa</name>
+            </provider>
+            <versionCreated>2017-11-17T12:19:03+01:00</versionCreated>
+            <pubStatus qcode="stat:usable">
+               <name xml:lang="en">Usable</name>
+            </pubStatus>
+            <generator versioninfo="2.0.22.7">service-ines-picture</generator>
+            <profile versioninfo="2.0.0">dpa-G2</profile>
+            <service qcode="dpasrv:images-de"/>
+            <service qcode="dpasrv:images-de-nat"/>
+            <service qcode="dpasrv:barch">
+               <name role="nrol:mnemonic">report</name>
+            </service>
+            <signal qcode="dpasig:isplanned">
+               <name role="nrol:full">geplantes Item</name>
+            </signal>
+         </itemMeta>
+         <contentMeta>
+            <urgency>4</urgency>
+            <contentCreated>2017-11-17</contentCreated>
+            <located literal="poiID" type="cpnat:poi"/>
+            <infoSource qcode="dpasupplier:dpa" role="dpaisrol:supplier">
+               <name role="nrol:display" xml:lang="de">dpa</name>
+               <name role="nrol:mnemonic" xml:lang="de">dpa</name>
+            </infoSource>
+            <infoSource qcode="dpacprh:dpa" role="isrol:contentSource">
+               <name role="nrol:display" xml:lang="de">dpa</name>
+               <name role="nrol:mnemonic" xml:lang="de">dpa</name>
+            </infoSource>
+            <creator>
+               <name>Gregor Fischer</name>
+               <related custom="true" qcode="dpaaccno:A4647">
+                  <name role="nrol:full">Gregor Fischer</name>
+               </related>
+            </creator>
+            <contributor>
+               <name>fis tba</name>
+            </contributor>
+            <altId type="dpatype:orgTransRef">90-016806</altId>
+            <language tag="de"/>
+            <subject qcode="dpasrs:16000000" rank="1">
+               <name role="nrol:full" xml:lang="de">Krisen, Krieg, Konflikte</name>
+               <name role="nrol:mnemonic" xml:lang="de">KKK</name>
+               <sameAs qcode="medtop:16000000">
+                  <name xml:lang="de">Krise, Krieg, Konflikte</name>
+               </sameAs>
+               <sameAs qcode="subj:16000000">
+                  <name xml:lang="de">Krise, Krieg, Konflikt</name>
+               </sameAs>
+               <broader qcode="dpacat:pl">
+                  <name xml:lang="de">Politik</name>
+                  <name role="nrol:mnemonic" xml:lang="de">pl</name>
+               </broader>
+               <broader qcode="dparessort:pl">
+                  <name role="nrol:mnemonic" xml:lang="de">pl</name>
+               </broader>
+            </subject>
+            <subject qcode="dpacat:wi" rank="1" type="dpatype:category">
+               <name xml:lang="de">Wirtschaft</name>
+               <name role="nrol:mnemonic" xml:lang="de">wi</name>
+               <sameAs qcode="dparessort:wi">
+                  <name role="nrol:mnemonic" xml:lang="de">wi</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:180" rank="1" type="dpatype:dpasubject">
+               <name xml:lang="de">Demonstrationen</name>
+               <sameAs qcode="medtop:20000066">
+                  <name xml:lang="de">Demonstration</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:291" rank="2" type="dpatype:dpasubject">
+               <name xml:lang="de">Elektro</name>
+               <sameAs qcode="medtop:20000298">
+                  <name xml:lang="de">Elektroindustrie</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:220" rank="3" type="dpatype:dpasubject">
+               <name xml:lang="de">Industrie</name>
+               <broader qcode="medtop:20000209">
+                  <name xml:lang="de">Branchen</name>
+               </broader>
+            </subject>
+            <keyword rank="1">brb</keyword>
+            <keyword rank="2">lbn</keyword>
+            <subject literal="poiID" rank="1" type="cpnat:poi"/>
+            <headline>Demonstration von Siemens-Beschäftigten</headline>
+            <by>Gregor Fischer</by>
+            <creditline>Gregor Fischer/dpa</creditline>
+            <description role="drol:caption">Beschäftigte des Siemens-Werks nehmen am 17.11.2017 in Berlin an einer Kundgebung der Gewerkschaft IG Metall gegen die geplante Stellenstreichung des Industriekonzerns teil. Foto: Gregor Fischer/dpa</description>
+         </contentMeta>
+         <assert literal="poiID">
+            <POIDetails>
+               <address>
+                  <locality role="dpalocalityrole:locality">
+                     <name>Berlin</name>
+                  </locality>
+                  <area qcode="dpaarea:3" role="dpaarearole:area">
+                     <name xml:lang="de">Berlin</name>
+                  </area>
+                  <country qcode="dpacountry:1" type="dpatype:country">
+                     <name role="nrol:display" xml:lang="de">Deutschland</name>
+                     <name role="nrol:short" xml:lang="de">DEU</name>
+                     <sameAs qcode="iso3166-1a2:DE">
+                        <name role="nrol:mnemonic">DE</name>
+                     </sameAs>
+                     <sameAs qcode="iso3166-1a3:DEU">
+                        <name role="nrol:mnemonic">DEU</name>
+                     </sameAs>
+                     <broader qcode="dpageosbj:202">
+                        <name role="nrol:display" xml:lang="de">EU</name>
+                     </broader>
+                     <broader qcode="wldreg:r150">
+                        <name xml:lang="en">Europe</name>
+                     </broader>
+                  </country>
+               </address>
+            </POIDetails>
+         </assert>
+         <contentSet>
+            <remoteContent contenttype="image/jpeg"
+                           href="urn_binary_dpa_com_20090101_171117-90-016806-FILED.jpeg"
+                           layoutorientation="loutorient:horizontal"
+                           residref="urn:binary:dpa.com:20090101:171117-90-016806-FILED"/>
+         </contentSet>
+      </newsItem>
+   </itemSet>
+</newsMessage>

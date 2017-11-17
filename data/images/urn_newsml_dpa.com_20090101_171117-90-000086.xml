@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+   <header xmlns:dpa="http://www.dpa.com/iptc/nar/2008-12-01/"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <sent>2017-11-17T12:20:14+01:00</sent>
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/>
+      <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+      <priority>4</priority>
+      <origin>ines</origin>
+      <destination qcode="dpasrv:images-de"/>
+      <destination qcode="dpasrv:images-de-nat"/>
+      <destination qcode="dpasrv:barch">report</destination>
+   </header>
+   <itemSet>
+      <newsItem xmlns:dpa="http://www.dpa.com/iptc/nar/2008-12-01/"
+                xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                conformance="power"
+                guid="urn:newsml:dpa.com:20090101:171117-90-000086"
+                standard="NewsML-G2"
+                standardversion="2.23"
+                version="2"
+                xml:lang="de">
+         <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/>
+         <catalogRef href="http://g2.dpa.com/catalog/catalog001.xml"/>
+         <rightsInfo>
+            <copyrightHolder qcode="nprov:dpa">
+               <name role="nrol:mnemonic">dpa</name>
+               <name role="nrol:full">Deutsche Presse-Agentur GmbH</name>
+               <definition>dpa - Deutsche Presse Agentur GmbH<br/>Handelsregister Hamburg, HRB 68431</definition>
+            </copyrightHolder>
+            <copyrightNotice>Copyright 2017, dpa. Alle Rechte vorbehalten</copyrightNotice>
+            <usageTerms>Nutzung nur nach vertraglicher Vereinbarung</usageTerms>
+            <rightsInfoExtProperty custom="true"
+                                   rel="dparel:hasMinimumFee"
+                                   value="false"
+                                   valuedatatype="xs:boolean"/>
+         </rightsInfo>
+         <itemMeta>
+            <itemClass qcode="ninat:picture">
+               <name xml:lang="en">Picture Item(s)</name>
+            </itemClass>
+            <provider qcode="nprov:dpa">
+               <name>dpa</name>
+            </provider>
+            <versionCreated>2017-11-17T12:20:14+01:00</versionCreated>
+            <pubStatus qcode="stat:usable">
+               <name xml:lang="en">Usable</name>
+            </pubStatus>
+            <generator versioninfo="2.0.22.7">service-ines-picture</generator>
+            <profile versioninfo="2.0.0">dpa-G2</profile>
+            <service qcode="dpasrv:images-de"/>
+            <service qcode="dpasrv:images-de-nat"/>
+            <service qcode="dpasrv:barch">
+               <name role="nrol:mnemonic">report</name>
+            </service>
+            <signal qcode="dpasig:isplanned">
+               <name role="nrol:full">geplantes Item</name>
+            </signal>
+         </itemMeta>
+         <contentMeta>
+            <urgency>4</urgency>
+            <contentCreated>2017-11-16</contentCreated>
+            <located literal="poiID" type="cpnat:poi"/>
+            <infoSource qcode="dpasupplier:dpa" role="dpaisrol:supplier">
+               <name role="nrol:display" xml:lang="de">dpa</name>
+               <name role="nrol:mnemonic" xml:lang="de">dpa</name>
+            </infoSource>
+            <infoSource qcode="dpacprh:dpa" role="isrol:contentSource">
+               <name role="nrol:display" xml:lang="de">dpa</name>
+               <name role="nrol:mnemonic" xml:lang="de">dpa</name>
+            </infoSource>
+            <creator>
+               <name>Jörg Carstensen</name>
+               <related custom="true" qcode="dpaaccno:A3495">
+                  <name role="nrol:full">Jörg Carstensen</name>
+               </related>
+            </creator>
+            <contributor>
+               <name>sab</name>
+            </contributor>
+            <altId type="dpatype:orgTransRef">90-000086</altId>
+            <language tag="de"/>
+            <genre qcode="dpascn:6">
+               <name xml:lang="de">Einzel</name>
+            </genre>
+            <genre qcode="dpascn:2">
+               <name xml:lang="de">Halbfigur</name>
+            </genre>
+            <subject qcode="dpasrs:08000000" rank="1">
+               <name role="nrol:full" xml:lang="de">Vermischtes</name>
+               <name role="nrol:mnemonic" xml:lang="de">VER</name>
+               <sameAs qcode="subj:08000000">
+                  <name xml:lang="de">Vermischtes</name>
+               </sameAs>
+               <sameAs qcode="medtop:08000000">
+                  <name xml:lang="de">Vermischtes</name>
+               </sameAs>
+               <broader qcode="dparessort:vm">
+                  <name role="nrol:mnemonic" xml:lang="de">vm</name>
+               </broader>
+               <broader qcode="dpacat:vm">
+                  <name xml:lang="de">Vermischtes</name>
+                  <name role="nrol:mnemonic" xml:lang="de">vm</name>
+               </broader>
+            </subject>
+            <subject qcode="dpacat:vm" rank="1" type="dpatype:category">
+               <name xml:lang="de">Vermischtes</name>
+               <name role="nrol:mnemonic" xml:lang="de">vm</name>
+               <sameAs qcode="dparessort:vm">
+                  <name role="nrol:mnemonic" xml:lang="de">vm</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:516" rank="1" type="dpatype:dpasubject">
+               <name xml:lang="de">Auszeichnungen</name>
+               <broader qcode="medtop:20000498">
+                  <name xml:lang="de">Auszeichnung und Preis</name>
+               </broader>
+            </subject>
+            <subject qcode="dpasubject:165" rank="2" type="dpatype:dpasubject">
+               <name xml:lang="de">Fernsehen</name>
+               <sameAs qcode="medtop:20000051">
+                  <name xml:lang="de">Fernsehen</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:521" rank="3" type="dpatype:dpasubject">
+               <name xml:lang="de">Leute</name>
+               <sameAs qcode="medtop:20000502">
+                  <name xml:lang="de">Leute</name>
+               </sameAs>
+            </subject>
+            <subject qcode="dpasubject:368" rank="4" type="dpatype:dpasubject">
+               <name xml:lang="de">Medien</name>
+               <sameAs qcode="medtop:20000304">
+                  <name xml:lang="de">Medien</name>
+               </sameAs>
+            </subject>
+            <keyword rank="1">brb</keyword>
+            <keyword rank="2">lbn</keyword>
+            <subject rank="1" type="cpnat:person">
+               <name>Florian David Fitz</name>
+            </subject>
+            <subject literal="poiID" rank="1" type="cpnat:poi"/>
+            <headline>Verleihung des Medienpreises Bambi</headline>
+            <by>Jörg Carstensen</by>
+            <creditline>Jörg Carstensen/dpa</creditline>
+            <description role="drol:caption">Florian David Fitz kommt am 16.11.2017 in Berlin zur 69. Verleihung des Medienpreises Bambi. Foto: Jörg Carstensen/dpa</description>
+         </contentMeta>
+         <assert literal="poiID">
+            <POIDetails>
+               <address>
+                  <locality role="dpalocalityrole:locality">
+                     <name>Berlin</name>
+                  </locality>
+                  <area qcode="dpaarea:3" role="dpaarearole:area">
+                     <name xml:lang="de">Berlin</name>
+                  </area>
+                  <country qcode="dpacountry:1" type="dpatype:country">
+                     <name role="nrol:display" xml:lang="de">Deutschland</name>
+                     <name role="nrol:short" xml:lang="de">DEU</name>
+                     <sameAs qcode="iso3166-1a2:DE">
+                        <name role="nrol:mnemonic">DE</name>
+                     </sameAs>
+                     <sameAs qcode="iso3166-1a3:DEU">
+                        <name role="nrol:mnemonic">DEU</name>
+                     </sameAs>
+                     <broader qcode="dpageosbj:202">
+                        <name role="nrol:display" xml:lang="de">EU</name>
+                     </broader>
+                     <broader qcode="wldreg:r150">
+                        <name xml:lang="en">Europe</name>
+                     </broader>
+                  </country>
+               </address>
+            </POIDetails>
+         </assert>
+         <contentSet>
+            <remoteContent contenttype="image/jpeg"
+                           href="urn_binary_dpa_com_20090101_171117-90-000086-FILED.jpeg"
+                           layoutorientation="loutorient:vertical"
+                           residref="urn:binary:dpa.com:20090101:171117-90-000086-FILED"/>
+         </contentSet>
+      </newsItem>
+   </itemSet>
+</newsMessage>
